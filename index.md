@@ -34,7 +34,7 @@ TBD
 |---------------------|-----------------------------------------|
 | TBD                 | Abstract submission opens               |
 | TBD                 | Conference registration begins          |
-| December 20th, 2023 | Travel grant application ends           |
+| December 20th, 2022 | Travel grant application ends           |
 | December 23rd, 2022 | Abstract submission deadline            |
 | January 13th, 2022  | Abstract acceptance notification        |
 | January 20th, 2023  | Travel grant decisions sent             |
