@@ -23,14 +23,14 @@ Please note that accommodation/lodging is not included. Find out more about acco
 
 ## Pricing
 
-| Registration type                    | Membership Status | Early Bird | Full Price |
-|--------------------------------------|-------------------|------------|------------|
-| Academic                             | ISB member        | 350        | 450        |
-| Academic                             | non-member        | 450        | 550        |
-| Student/retiree/low-income countries | ISB member        | 250        | 350        |
-| Student/retiree/low-income countries | non-member        | 350        | 450        |
-| Non-academic                         | ISB member        | 450        | 550        |
-| Non-academic                         | non-member        | 550        | 650        |
+| Registration type                    | Membership Status | Early Bird  | Full Price  |
+|--------------------------------------|-------------------|-------------|-------------|
+| Academic                             | ISB member        | 350€        | 450€        |
+| Academic                             | non-member        | 450€        | 550€        |
+| Student/retiree/low-income countries | ISB member        | 250€        | 350€        |
+| Student/retiree/low-income countries | non-member        | 350€        | 450€        |
+| Non-academic                         | ISB member        | 450€        | 550€        |
+| Non-academic                         | non-member        | 550€        | 650€        |
 
 ## Travel Fellowships
 
