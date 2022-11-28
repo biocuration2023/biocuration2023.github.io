@@ -24,12 +24,12 @@ Please note that accommodation/lodging is not included. Find out more about acco
 
 | Registration type                    | Membership Status | Early Bird | Full Price |
 |--------------------------------------|-------------------|------------|------------|
-| Non-academic                         | ISB member        | x          | x          |
-| Non-academic                         | non-member        | x          | x          |
-| Academic                             | ISB member        | x          | x          |              
-| Academic                             | non-member        | x          | x          |                      
-| Student/retiree/low-income countries | ISB member        | x          | x          |
-| Student/retiree/low-income countries | non-member        | x          | x          |
+| Academic                             | ISB member        | 350        | 450        |
+| Academic                             | non-member        | 450        | 550        |
+| Student/retiree/low-income countries | ISB member        | 250        | 350        |
+| Student/retiree/low-income countries | non-member        | 350        | 450        |
+| Non-academic                         | ISB member        | 450        | 550        |
+| Non-academic                         | non-member        | 550        | 650        |
 
 ## Visa Information
 
