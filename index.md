@@ -21,6 +21,11 @@ will return to a fully in-person meeting in Padova, Italy from Monday, April
 
 TBD
 
+### Travel Fellowships
+
+Travel fellowships are available from the International Society of Biocuration (ISB).
+More information on eligibility and application can be found [here](https://www.biocuration.org/travel-fellowship).
+
 ## Abstract Submission
 
 Abstracts can be submitted to be considered for oral presentations or
@@ -30,20 +35,20 @@ TBD
 
 ## Important Dates
 
-| Date                | Event                                   |
-|---------------------|-----------------------------------------|
-| TBD                 | Abstract submission opens               |
-| TBD                 | Conference registration begins          |
-| December 20th, 2023 | Travel grant application ends           |
-| December 23rd, 2022 | Abstract submission deadline            |
-| January 13th, 2022  | Abstract acceptance notification        |
-| January 20th, 2023  | Travel grant decisions sent             |
-| January 31st, 2023  | Early Bird conference registration ends |
-| March 31st, 2023    | Camera-ready submission deadline        |
-| April 14th, 2023    | Conference booklet released             |
-| April 18th, 2023    | Conference registration ends            |
-| April 24th, 2023    | Conference starts                       |
-| April 26th, 2023    | Conference ends                         |
+| Date                | Event                                                                          |
+|---------------------|--------------------------------------------------------------------------------|
+| TBD                 | Abstract submission opens                                                      |
+| TBD                 | Conference registration begins                                                 |
+| December 20th, 2023 | [Travel grant application](https://www.biocuration.org/travel-fellowship) ends |
+| December 23rd, 2022 | Abstract submission deadline                                                   |
+| January 13th, 2022  | Abstract acceptance notification                                               |
+| January 20th, 2023  | Travel grant decisions sent                                                    |
+| January 31st, 2023  | Early Bird conference registration ends                                        |
+| March 31st, 2023    | Camera-ready submission deadline                                               |
+| April 14th, 2023    | Conference booklet released                                                    |
+| April 18th, 2023    | Conference registration ends                                                   |
+| April 24th, 2023    | Conference starts                                                              |
+| April 26th, 2023    | Conference ends                                                                |
 
 ## Keynote Speakers
 
