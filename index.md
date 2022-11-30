@@ -1,9 +1,10 @@
 ---
 layout: home
-title: Home
 ---
 
-The Annual International Biocuration Conference provides a forum for curators, developers, and
+<img src="img/padua-2.jpg" alt="panoramic photo of Padua" />
+
+The **16th Annual International Biocuration Conference** provides a forum for curators, developers, and
 users of clinical and life sciences data, knowledge, and models to discuss their
 work, promote collaboration, and foster the community around this active and
 growing area of research. Participants from academia, government, and industry
@@ -16,8 +17,10 @@ Following the virtual installments of the Annual International Biocuration Confe
 [2021](https://www.biocuration.org/14th-annual-biocuration-conference-virtual/)
 and [2022](https://www.biocuration.org/15th-annual-biocuration-conference-virtual/) due to the 
 pandemic, we are pleased to announce that in 2023, we
-will return to a fully in-person meeting in Padova, Italy from Monday, April
-24<sup>th</sup> to Wednesday, April 26<sup>th</sup>, 2023.
+will return to a fully in-person meeting in **Padova, Italy** from **Monday, April
+24<sup>th</sup> to Wednesday, April 26<sup>th</sup>, 2023**.
+
+<img src="img/padua-1.jpg" alt="panoramic photo of Padua" />
 
 ## Registration
 
