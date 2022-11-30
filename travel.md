@@ -21,6 +21,9 @@ Further information is available:
 1. From the [European Commission website](https://home-affairs.ec.europa.eu/system/files/2022-05/list%20of%20countries%20whose%20citizens%20must%20have%20a%20visa%20when%20crossing%20the%20external%20borders%20and%20those%20whose%20nationals%20are%20exempt%20from%20that%20requirement_en.pdf)
 2. From [Wikipedia](https://en.wikipedia.org/wiki/Visa_policy_of_the_Schengen_Area)
 
+If you require a letter of invitation for a visa application, please
+contact: [biocuration2023@gmail.com](mailto:biocuration2023@gmail.com)
+
 ## COVID Regulations and Restrictions
 
 Please note that some travel restrictions may apply. For the latest information
@@ -72,19 +75,3 @@ Padova's tourism website lists [bus connections](https://www.turismopadova.it/en
 ### By Car
 
 Padova's tourism website lists [appropriate highways and parking](https://www.turismopadova.it/en/how-to-reach-us/by-car-and-camper/).
-
-## Venue Information
-
-TBD when the venue is finalized
-
-### Directions to venue
-
-TBD
-
-- by car
-- by train
-- park and ride
-
-### Parking at the venue
-
-TBD
