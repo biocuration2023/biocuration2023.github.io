@@ -30,23 +30,22 @@ Please note that some travel restrictions may apply. For the latest information
 about traveling to Italy, please visit the
 [Italian Ministry of Health website](https://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=english&id=5412&area=nuovoCoronavirus&menu=vuoto)
 
-## Travel to Padova
+## Travel to Padua
 
 ### By Air
 
 The following are the closest airports (all in Italy) based on distances and
-the fastest route to Padova's train station. More information on reaching Padova
+the fastest route to Padua's train station. More information on reaching Padua
 by plane can be found on
-Padova's [tourism website](https://www.turismopadova.it/en/how-to-reach-us/by-plane/)
-.
+Padua's [tourism website](https://www.turismopadova.it/en/how-to-reach-us/by-plane/).
 
-| Airport                                                         | Distance | Notes                                                                                                                                                                                                                                               |
-|-----------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Venice Marco Polo](https://www.veneziaairport.it/en/)          | 47 km    | Direct bus connection to Padova provided hourly by [BUSITALIA](https://www.fsbusitalia.it/content/fsbusitalia/eng.html). Tickets can be purchased on board.                                                                                         |
-| [Treviso Antonio Canova](https://www.trevisoairport.it/en/)     | 57 km    | This airport is often called _Venice Treviso_. It is mainly used by low-cost companies. Direct bus connection to Padova provided hourly by [BUSITALIA](https://www.fsbusitalia.it/content/fsbusitalia/eng.html). Tickets can be purchased on board. |
-| [Verona Valerio Catullo](https://www.aeroportoverona.it/)       | 90 km    |                                                                                                                                                                                                                                                     |
-| [Bologna Guglielmo Marconi](https://www.bologna-airport.it/en/) | 120 km   |                                                                                                                                                                                                                                                     |
-| [Trieste Ronchi dei Legionari](https://triesteairport.it/en/)   | 155 km   |                                                                                                                                                                                                                                                     |
+| Airport                                                         | Distance | Notes                                                                                                                                                                                                                                              |
+|-----------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Venice Marco Polo](https://www.veneziaairport.it/en/)          | 47 km    | Direct bus connection to Padua provided hourly by [BUSITALIA](https://www.fsbusitalia.it/content/fsbusitalia/eng.html). Tickets can be purchased on board.                                                                                         |
+| [Treviso Antonio Canova](https://www.trevisoairport.it/en/)     | 57 km    | This airport is often called _Venice Treviso_. It is mainly used by low-cost companies. Direct bus connection to Padua provided hourly by [BUSITALIA](https://www.fsbusitalia.it/content/fsbusitalia/eng.html). Tickets can be purchased on board. |
+| [Verona Valerio Catullo](https://www.aeroportoverona.it/)       | 90 km    |                                                                                                                                                                                                                                                    |
+| [Bologna Guglielmo Marconi](https://www.bologna-airport.it/en/) | 120 km   |                                                                                                                                                                                                                                                    |
+| [Trieste Ronchi dei Legionari](https://triesteairport.it/en/)   | 155 km   |                                                                                                                                                                                                                                                    |
 
 Most international flights will have a connection through one of the two main
 Italian international airports: [Rome Fiumicino](https://www.adr.it/fiumicino)
@@ -58,9 +57,9 @@ Private shuttles can be booked in advance through [GoOpti](https://www.goopti.co
 
 ### By Train
 
-The address of the Padova train station is:
+The address of the Padua train station is:
 
-> [Piazzale della Stazione, 35131 Padova PD, Italy](https://goo.gl/maps/pnoUvVprd5dTdBWi6)
+> [Piazzale della Stazione, 35131 Padua PD, Italy](https://goo.gl/maps/pnoUvVprd5dTdBWi6)
 
 Connections can be booked through one of the following providers:
 
@@ -70,8 +69,8 @@ Connections can be booked through one of the following providers:
 
 ### By Bus/Coach
 
-Padova's tourism website lists [bus connections](https://www.turismopadova.it/en/how-to-reach-us/bu-bus/)
+Padua's tourism website lists [bus connections](https://www.turismopadova.it/en/how-to-reach-us/bu-bus/)
 
 ### By Car
 
-Padova's tourism website lists [appropriate highways and parking](https://www.turismopadova.it/en/how-to-reach-us/by-car-and-camper/).
+Padua's tourism website lists [appropriate highways and parking](https://www.turismopadova.it/en/how-to-reach-us/by-car-and-camper/).

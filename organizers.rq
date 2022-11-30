@@ -1,4 +1,4 @@
-#+ summary: A query for the ISB2023 organizing committee and scientific program committeee
+#+ summary: A query for the Biocuration organizing committee and scientific program committee
 #+ endpoint: https://query.wikidata.org/sparql
 #+ tags:
 #+   - conference

@@ -4,8 +4,8 @@ title: Venue
 permalink: /venue
 ---
 
-ISB2023 will be hosted at the [Cultural Center Altinate San Gaetano](https://www.altinatesangaetano.it/en)
-in the Padova city center.
+Biocuration 2023 will be hosted at the [Cultural Center Altinate San Gaetano](https://www.altinatesangaetano.it/en)
+in the Padua city center.
 
 This venue has a rich history having been constructed as a Theatine monastery (from Saint Gaetano Thiene) then later
 transformed into a courthouse. It is situated in the heart of the city that now organizes
@@ -15,7 +15,7 @@ exhibitions, debates, festivals, shows, and conferences in 12,000 square meter s
 
 | Key       | Value                                                                                       |
 |-----------|---------------------------------------------------------------------------------------------|
-| Address   | [Via Altinate, 71, 35121 Padova PD, Italy](https://goo.gl/maps/g5C3swRHuWc8CTcc9)           |
+| Address   | [Via Altinate, 71, 35121 Padua PD, Italy](https://goo.gl/maps/g5C3swRHuWc8CTcc9)           |
 | Telephone | [+39 049 820 4857](tel:+390498204857)                                                       |
 | Email     | [centroculturalealtinate@comune.padova.it](mailto:centroculturalealtinate@comune.padova.it) |
 | Website   | [altinatesangaetano.it](https://www.altinatesangaetano.it/en)                               |
