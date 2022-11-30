@@ -19,7 +19,8 @@ The registration fee covers:
 - Coffee/refreshments during breaks
 - Welcome and poster receptions
 
-Please note that accommodation/lodging is not included. Find out more about accommodation/lodging [here](lodging).
+Please note that travel and lodging are not included. Please see our
+[lodging suggestions](lodging) and [travel suggestions](travel).
 
 ## Pricing
 
