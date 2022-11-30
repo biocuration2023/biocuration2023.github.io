@@ -36,11 +36,11 @@ Please note that accommodation/lodging is not included. Find out more about acco
 
 Travel fellowships are available from the International Society of Biocuration (ISB).
 More information on eligibility and application can be found [here](https://www.biocuration.org/travel-fellowship).
-The application period closes on December 20th, 2023.
+The application period closes on December 20<sup>th</sup>, 2023.
 
 ## Visa Information
 
 If you require a letter of invitation for a visa application, please
-contact: [mailto:intsocbio@gmail.com](intsocbio@gmail.com)
+contact: [biocuration2023@gmail.com](mailto:biocuration2023@gmail.com)
 
-For help with meeting registration, please contact [mailto:intsocbio@gmail.com](intsocbio@gmail.com)
+For help with meeting registration, please contact [biocuration2023@gmail.com](mailto:biocuration2023@gmail.com)
