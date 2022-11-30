@@ -37,18 +37,6 @@
   personDescription:
   personLabel: Silvio Tosatto
   note: Co-Chair
-
-- employerLabel_: University of Nevada, Reno
-  genderLabel: male
-  gscholar: IKUyWAkAAAAJ
-  linkedin: caio-carvalho-771b0994
-  nationalityLabel: Brazil
-  orcid: 0000-0002-1138-3356
-  person: Q112041617
-  personDescription: Researcher ORCID = 0000-0002-1138-3356
-  personLabel: Caio Carvalho
-  topics: thioesterase, subgroup, protein structure, phylogenetics
-  twitter: caiocdecarvalho
 - employerLabel_: SIB Swiss Institute of Bioinformatics
   genderLabel: male
   github: deepakunni3
