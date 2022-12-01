@@ -37,7 +37,7 @@ Please note that travel and lodging are not included. Please see our
 
 Travel fellowships are available from the International Society of Biocuration (ISB).
 More information on eligibility and application can be found [here](https://www.biocuration.org/travel-fellowship).
-The application period closes on December 20<sup>th</sup>, 2023.
+The application period closes on December 20<sup>th</sup>, 2022.
 
 ## Visa Information
 
