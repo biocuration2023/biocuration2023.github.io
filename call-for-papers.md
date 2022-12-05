@@ -34,6 +34,7 @@ standards to augment and support the organization of knowledge for supporting an
 - **Development of methods and techniques**: Development of methods such as text mining, natural
 language processing (NLP), and machine-learning approaches to automate or assist the process of curation
 - **Development of curation tools**: Efforts into the development and maintenance of curation tools
+- **Application and analyses**: Work that describe analyses and applications of curated data and resources
 - **Initiatives to strengthen the Biocuration community**: Initiatives that aim to strengthen the Biocuration
 community and find alignment with other communities that are similar or adjacent to life sciences
 - **New challenges in Biocuration**: What are the current challenges observed within the Biocuration community
@@ -42,8 +43,6 @@ and how can we, as a community, bring together people and resources to solve the
 and finding ways to realize the potential and benefits of FAIR data and resources
 - **Future of Biocuration**: Views into the future of Biocuration, especially in light of recent
 advances with Large Language Models and Artificial Intelligence
-- **Philosophy of curation**: The philosophy of curation ultimately to the applications and analyses relying
-on curated resources
 
 The above topics are not exhaustive and we welcome other topics that are related to Biocuration efforts as well.
 
