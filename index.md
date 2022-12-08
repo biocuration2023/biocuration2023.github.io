@@ -18,7 +18,8 @@ Following the virtual installments of the Annual International Biocuration Confe
 and [2022](https://www.biocuration.org/15th-annual-biocuration-conference-virtual/) due to the 
 pandemic, we are pleased to announce that in 2023 we
 will return to a fully in-person meeting in **Padua, Italy** from **Monday, April
-24<sup>th</sup> to Wednesday, April 26<sup>th</sup>, 2023** [![calendar entry](img/icons8-calendar-18.png)](cal/ISB-2023.ics).
+24<sup>th</sup> lunchtime to Wednesday, April 26<sup>th</sup>, 2023** [![calendar entry](img/icons8-calendar-18.png)](cal/ISB-2023.ics).
+Conference workshops will be held on Sunday April 23rd afternoon and Monday April 24th morning.
 
 <img src="img/padua-1.jpg" alt="panoramic photo of Padua" />
 
@@ -40,7 +41,7 @@ You don't need to register in order to submit an abstract.
 
 ### Workshop Proposals
 
-Workshop proposals can be submitted for consideration through [this form](https://forms.gle/iYUu2RN25TgUMW7x9).
+Workshop proposals can be submitted for consideration through [this form](https://forms.gle/iYUu2RN25TgUMW7x9) until December 23rd 2022.
 
 ## Important Dates
 
@@ -50,6 +51,8 @@ Workshop proposals can be submitted for consideration through [this form](https:
 | w/c Dec. 12th, 2022 | Conference registration begins                                                        |
 | December 20th, 2022 | [Travel grant application](https://www.biocuration.org/travel-fellowship) ends        |
 | **December 23rd, 2022** [![calendar entry](img/icons8-calendar-18.png)](cal/ISB-2023-abstracts.ics) | Abstract submission deadline                    |
+| December 23rd, 2022 | [Workshop proposal submission](https://docs.google.com/forms/d/e/1FAIpQLSfTdoqDB-dWxJ-m8cWyOH-bY3ZsR1yU-7u6BQ2gUQKUndr0Dw/viewform) ends
+| 
 | January 13th, 2022  | Abstract acceptance notification                                                      |
 | January 20th, 2023  | Travel grant decisions sent                                                           |
 | **January 31st, 2023** [![calendar entry](img/icons8-calendar-18.png)](cal/ISB-2023-early-bird.ics)  | Early Bird conference registration ends                                           |
