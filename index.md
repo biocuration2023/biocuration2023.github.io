@@ -55,7 +55,7 @@ December 23rd, 2022.
 | December 20th, 2022                                                        | [Travel grant application](https://www.biocuration.org/travel-fellowship) ends                                                           |
 | December 23rd, 2022                                                        | [Workshop proposal submission](https://docs.google.com/forms/d/e/1FAIpQLSfTdoqDB-dWxJ-m8cWyOH-bY3ZsR1yU-7u6BQ2gUQKUndr0Dw/viewform) ends | 
 | **January 3rd, 2023** ([📅 ics](cal/biocuration2023-abstracts.ics))        | [Abstract submission](https://easychair.org/conferences/?conf=biocuration2023) ends                                                      |
-| January 18th, 2022                                                         | Abstract acceptance notification                                                                                                         |
+| January 18th, 2023                                                         | Abstract acceptance notification                                                                                                         |
 | January 20th, 2023                                                         | Travel grant decisions sent                                                                                                              |
 | **January 31st, 2023** ([📅 ics](cal/biocuration2023-early-bird.ics))      | Early Bird conference registration ends                                                                                                  |
 | March 31st, 2023                                                           | Late poster submission ends                                                                                                              |
