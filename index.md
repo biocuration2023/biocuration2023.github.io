@@ -66,4 +66,30 @@ December 23rd, 2022.
 
 ## Keynote Speakers
 
-TBD
+<dl>
+{% for person in site.data.keynotes %}
+<dt>
+    <strong>{{ person.name }} - {{ person.affiliation }}</strong>
+</dt>
+<dd>
+    <img src="{{ person.img }}" alt="Photo of {{ person.name }}" style="float:left; max-height: 120px; margin-right: 15px; margin-bottom: 15px;"/>
+    <a href="https://bioregistry.io/orcid:{{ person.orcid }}">
+        <img alt="ORCiD logo" src="img/icons/orcid.svg" style="max-height: 1rem; vertical-align: center;">
+        {{ person.orcid }}
+    </a>
+    {% if person.twitter %}
+    <a href="https://twitter.com/{{ person.twitter }}" style="margin: 0 0.5rem;">
+        <img alt="Twitter logo" src="img/icons/twitter.svg" style="max-height: 1rem; vertical-align: center;">
+        @{{ person.twitter }}
+    </a>
+    {% endif %}
+    <a href="https://bioregistry.io/wikidata:{{ person.wikidata }}" style="margin: 0 0.5rem;">
+        <img alt="Wikidata logo" src="img/icons/wikidata.svg" style="max-height: 1rem; vertical-align: center;">
+        {{ person.wikidata }}
+    </a>
+    <p>{{ person.description }}</p>
+    
+</dd>
+<br style="clear: both;" />
+{% endfor %}
+</dl>

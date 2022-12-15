@@ -1,0 +1,28 @@
+- orcid: 0000-0002-8691-772X
+  name: Marco Roos
+  affiliation: Leiden University Medical Center
+  description: Marco Roos is a long term advocate of principles of FAIR and Linked Data to enhance biomedical research.
+  country: Netherlands
+  theme: Clinical Data Curation
+  wikidata: Q57432321
+  twitter: MarcoRoos
+  img: img/roos.jpg
+
+- name: Nathalie Conte
+  affiliation: AstraZeneca
+  country: UK
+  orcid: 0000-0002-1010-3121
+  wikidata: Q48975648
+  description: Nathalie Conte is the Data infrastructure Lead (Omics Data) at AstraZeneca. She previously spent years in various bioinformatics-related roles at the European Bioinformatics Institute (EMBL-EBI).
+  theme: Impact of Biocuration
+  img: img/conte.jpg
+
+- name: Guy Cochrane
+  position: Executive Director
+  affiliation: Global Biodata Coalition
+  orcid: 0000-0001-7954-7057
+  wikidata: Q30528089
+  twitter: guyrcochrane
+  description: "Guy Cochrane has been the Executive Director of the Global Biodata Coalition (GBC) since March, 2022. He is concurrently Team Leader for Data Coordination and Archiving and Head of the European Nucleotide Archive at EMBL's European Bioinformatics Institute (EMBL-EBI)."
+  theme: Community Building
+  img: img/cochrane.png
