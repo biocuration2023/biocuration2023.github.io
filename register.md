@@ -14,7 +14,7 @@ registration.
 
 The registration fee covers:
 
-- Attendance at all sessions
+- Attendance at all sessions (including workshops)
 - Lunch on full conference days
 - Coffee/refreshments during breaks
 - Welcome and poster receptions
@@ -22,16 +22,16 @@ The registration fee covers:
 Please note that travel and lodging are not included. Please see our
 [lodging suggestions](lodging) and [travel suggestions](travel).
 
-## Pricing
+## Pricing (prices now include VAT at 22%)
 
-| Registration type                    | Membership Status | Early Bird  | Full Price  |
+| Registration type                    | Membership Status | Early Bird (until Jan 31st 2023)  | Full Price (after Feb 1st 2023)  |
 |--------------------------------------|-------------------|-------------|-------------|
-| Academic                             | ISB member        | 350€        | 450€        |
-| Academic                             | non-member        | 450€        | 550€        |
-| Student/retiree/low-income countries | ISB member        | 250€        | 350€        |
-| Student/retiree/low-income countries | non-member        | 350€        | 450€        |
-| Non-academic                         | ISB member        | 450€        | 550€        |
-| Non-academic                         | non-member        | 550€        | 650€        |
+| Academic                             | ISB member        | 430€        | 550€        |
+| Academic                             | non-member        | 550€        | 670€        |
+| Student/retiree/low-income countries | ISB member        | 310€        | 430€        |
+| Student/retiree/low-income countries | non-member        | 430€        | 550€        |
+| Non-academic                         | ISB member        | 550€        | 670€        |
+| Non-academic                         | non-member        | 670€        | 800€        |
 
 ## Travel Fellowships
 
