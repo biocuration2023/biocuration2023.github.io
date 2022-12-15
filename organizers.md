@@ -22,7 +22,7 @@ permalink: /organizers
         @{{ person.twitter }}
     </a>
     {% endif %}
-    <a href="https://bioregistry.io/wikidata:{{ person.person }}" style="margin: 0 0.5rem;">
+    <a href="https://bioregistry.io/wikidata:{{ person.person }}?provider=scholia" style="margin: 0 0.5rem;">
         <img alt="Wikidata logo" src="img/icons/wikidata.svg" style="max-height: 1rem; vertical-align: center;">
         {{ person.person }}
     </a>
@@ -49,7 +49,7 @@ permalink: /organizers
         @{{ person.twitter }}
     </a>
     {% endif %}
-    <a href="https://bioregistry.io/wikidata:{{ person.person }}" style="margin: 0 0.5rem;">
+    <a href="https://bioregistry.io/wikidata:{{ person.person }}?provider=scholia" style="margin: 0 0.5rem;">
         <img alt="Wikidata logo" src="img/icons/wikidata.svg" style="max-height: 1rem; vertical-align: center;">
         {{ person.person }}
     </a>
@@ -79,7 +79,7 @@ fellowship.
         @{{ person.twitter }}
     </a>
     {% endif %}
-    <a href="https://bioregistry.io/wikidata:{{ person.person }}" style="margin: 0 0.5rem;">
+    <a href="https://bioregistry.io/wikidata:{{ person.person }}?provider=scholia" style="margin: 0 0.5rem;">
         <img alt="Wikidata logo" src="img/icons/wikidata.svg" style="max-height: 1rem; vertical-align: center;">
         {{ person.person }}
     </a>

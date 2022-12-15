@@ -83,7 +83,7 @@ December 23rd, 2022.
         @{{ person.twitter }}
     </a>
     {% endif %}
-    <a href="https://bioregistry.io/wikidata:{{ person.wikidata }}" style="margin: 0 0.5rem;">
+    <a href="https://bioregistry.io/wikidata:{{ person.wikidata }}?provider=scholia" style="margin: 0 0.5rem;">
         <img alt="Wikidata logo" src="img/icons/wikidata.svg" style="max-height: 1rem; vertical-align: center;">
         {{ person.wikidata }}
     </a>
