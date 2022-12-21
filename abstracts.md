@@ -70,6 +70,12 @@ poster presentations through [EasyChair](https://easychair.org/conferences/?conf
 Workshop proposals can be submitted for consideration through [this form](https://forms.gle/iYUu2RN25TgUMW7x9) until
 December 23<sup>rd</sup>, 2022.
 
-### Database journal Virtual Issue
+### Biocuration Virtual Issue 2023 in *Database*
 
-Abstracts for poster and oral submissions to the conference may additionally be submitted for consideration as part of the Biocuration Virtual Issue 2023 to be published by the journal Database. If you wish for your paper to be considered for inclusion in the Biocuration Virtual Issue, please submit your paper to the journal before 30th April 2023 indicating in your cover letter that your abstract has been accepted for presentation at the conference. When submitting your manuscript at http://mc.manuscriptcentral.com/database at the Step 6: Details & Comments stage, there is a choice at the bottom “Is this manuscript a submission for a Virtual Issue?”. Click “Yes” and select “Biocuration Virtual Issue” and then “Save and Continue”.
+Abstracts accepted for poster and oral submissions to the conference may additionally be submitted for consideration as
+part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.com/database). If you wish for your
+paper to be considered for inclusion, please [submit it to the journal](http://mc.manuscriptcentral.com/database) before
+April 30<sup>th</sup>, 2023 and indicate in your cover letter that a corresponding abstract has been accepted for
+presentation at the conference. At Step 6 (Details and Comments) of the submission process, there is a choice
+at the bottom *Is this manuscript a submission for a Virtual Issue?*. Click "Yes", select "Biocuration Virtual Issue",
+and then "Save and Continue".
