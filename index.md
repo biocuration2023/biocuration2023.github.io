@@ -56,9 +56,13 @@ Please see [here](abstracts.md) for additional information and guidelines on sub
 Workshop proposals can be submitted for consideration through [this form](https://forms.gle/iYUu2RN25TgUMW7x9) until
 December 23<sup>rd</sup>, 2022.
 
-### Database journal Virtual Issue
+<a name="virtual-issue"></a>
 
-Abstracts accepted for the conference may be selected for publication in a Virtual Issue of the Database journal. Details [here](https://biocuration2023.github.io/abstracts).
+### Biocuration Virtual Issue 2023 in *Database*
+
+Abstracts accepted for poster and oral presentation at the conference may additionally be submitted for consideration as
+part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.com/database). See details 
+[here](https://biocuration2023.github.io/abstracts#virtual-issue).
 
 ## Important Dates
 
@@ -102,7 +106,7 @@ Abstracts accepted for the conference may be selected for publication in a Virtu
         {{ person.wikidata }}
     </a>
     <p>{{ person.description }}</p>
-    
+
 </dd>
 <br style="clear: both;" />
 {% endfor %}
