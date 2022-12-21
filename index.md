@@ -62,7 +62,7 @@ December 23<sup>rd</sup>, 2022.
 
 Abstracts accepted for poster and oral presentation at the conference may additionally be submitted for consideration as
 part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.com/database). See details 
-[here](https://biocuration2023.github.io/abstracts#virtual-issue).
+[here](abstracts#virtual-issue).
 
 ## Important Dates
 
