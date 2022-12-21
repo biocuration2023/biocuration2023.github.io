@@ -56,6 +56,10 @@ Please see [here](abstracts.md) for additional information and guidelines on sub
 Workshop proposals can be submitted for consideration through [this form](https://forms.gle/iYUu2RN25TgUMW7x9) until
 December 23<sup>rd</sup>, 2022.
 
+### Database journal Virtual Issue
+
+Abstracts accepted for the conference may be selected for publication in a Virtual Issue of the Database journal. Details [here](https://biocuration2023.github.io/abstracts).
+
 ## Important Dates
 
 | Date                                                                                  | Event                                                                                                                                    |
