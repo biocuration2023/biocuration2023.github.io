@@ -8,7 +8,7 @@ The 16th Annual International Biocuration Conference (Biocuration 2023),
 supported by the ISB, invites attendees to consider two grand challenges
 for the future of biocuration and the growing biocuration community:
 
-1. Ggiven the widespread interest in making data, metadata, and knowledge more FAIR
+1. Given the widespread interest in making data, metadata, and knowledge more FAIR
    (Findable, Accessible, Interoperable, Reusable) and TRUST-worthy
    (Transparency, Responsibility, User Focus, Sustainability, and Technology),
    how can the community move past these as superficial platitudes and towards
@@ -19,7 +19,7 @@ for the future of biocuration and the growing biocuration community:
    core values of openness, transparency, collaboration, and reusability on both
    a philosophical and technical level.
 
-We invite authors to submit abstracts (500 words maximum )for oral or poster presentations at
+We invite authors to submit abstracts (500 words maximum) for oral or poster presentations at
 Biocuration 2023 that highlight their recent work in either biocuration or
 more broadly curation in the life, natural, or computational sciences.
 Submissions can span disciplines such as the generation of curated resources
@@ -69,3 +69,13 @@ poster presentations through [EasyChair](https://easychair.org/conferences/?conf
 
 Workshop proposals can be submitted for consideration through [this form](https://forms.gle/iYUu2RN25TgUMW7x9) until
 December 23<sup>rd</sup>, 2022.
+
+### Biocuration Virtual Issue 2023 in *Database*
+
+Abstracts accepted for poster and oral submissions to the conference may additionally be submitted for consideration as
+part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.com/database). If you wish for your
+paper to be considered for inclusion, please [submit it to the journal](http://mc.manuscriptcentral.com/database) before
+April 30<sup>th</sup>, 2023 and indicate in your cover letter that a corresponding abstract has been accepted for
+presentation at the conference. At Step 6 (Details and Comments) of the submission process, there is a choice
+at the bottom *Is this manuscript a submission for a Virtual Issue?*. Click "Yes", select "Biocuration Virtual Issue",
+and then "Save and Continue".
