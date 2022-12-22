@@ -59,7 +59,7 @@ Private shuttles can be booked in advance through [GoOpti](https://www.goopti.co
 
 The address of the Padua train station is:
 
-> [Piazzale della Stazione, 35131 Padua PD, Italy](https://goo.gl/maps/pnoUvVprd5dTdBWi6)
+[Piazzale della Stazione, 35131 Padua PD, Italy](https://goo.gl/maps/pnoUvVprd5dTdBWi6)
 
 Connections can be booked through one of the following providers:
 
