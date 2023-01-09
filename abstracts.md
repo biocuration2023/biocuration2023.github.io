@@ -59,11 +59,11 @@ List of suggested topics for Submission:
 The above topics are not exhaustive and we welcome other topics that are related
 to Biocuration efforts as well.
 
-### Abstract Submission
+### Abstract Submission (closed)
 
 Abstracts can be submitted to be considered for oral presentations or
 poster presentations through [EasyChair](https://easychair.org/conferences/?conf=biocuration2023) until January
-3<sup>rd</sup>, 2023.
+3<sup>rd</sup>, 2023. <span style="color: red; font-weight: bold;">Abstract submission is closed!<span>
 
 ### Workshop Proposals
 
