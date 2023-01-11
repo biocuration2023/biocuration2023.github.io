@@ -31,15 +31,15 @@ Please note that travel and lodging are not included. Please see our
 Prices include the local (Italian) value added tax (VAT) of 22%.
 
 | Registration type                    | Membership Status | Early Bird (until Jan 31<sup>st</sup>, 2023) | Full Price (after Feb 1<sup>st</sup>, 2023) |
-|--------------------------------------|-------------------|----------------------------------------------|---------------------------------------------|
-| Academic                             | ISB member        | 430€                                         | 550€                                        |
-| Academic                             | non-member        | 550€                                         | 670€                                        |
-| Student/retiree/low-income countries | ISB member        | 310€                                         | 430€                                        |
-| Student/retiree/low-income countries | non-member        | 430€                                         | 550€                                        |
-| Non-academic                         | ISB member        | 550€                                         | 670€                                        |
-| Non-academic                         | non-member        | 670€                                         | 800€                                        |
+|--------------------------------------|-------------------|---------------------------------------------:|--------------------------------------------:|
+| Academic                             | ISB member        |                                         430€ |                                        550€ |
+| Academic                             | non-member        |                                         550€ |                                        670€ |
+| Student/retiree/low-income countries | ISB member        |                                         310€ |                                        430€ |
+| Student/retiree/low-income countries | non-member        |                                         430€ |                                        550€ |
+| Non-academic                         | ISB member        |                                         550€ |                                        670€ |
+| Non-academic                         | non-member        |                                         670€ |                                        800€ |
 
-## Travel Fellowships
+## Travel Fellowships (Closed)
 
 Travel fellowships are available from the International Society of Biocuration (ISB).
 More information on eligibility and application can be found [here](https://www.biocuration.org/travel-fellowship).
