@@ -111,3 +111,9 @@ part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.
 <br style="clear: both;" />
 {% endfor %}
 </dl>
+
+## Contact Us
+
+- Email: <a href="mailto:biocuration2023@gmail.com">biocuration2023@gmail.com</a>
+- Twitter: [@biocuration2023](https://twitter.com/biocuration2023)
+- Mastodon: [@biocuration2023@genomic.social](https://genomic.social/@biocuration2023)

@@ -4,6 +4,12 @@ title: Organizers
 permalink: /organizers
 ---
 
+## Contact Us
+
+- Email: <a href="mailto:biocuration2023@gmail.com">biocuration2023@gmail.com</a>
+- Twitter: [@biocuration2023](https://twitter.com/biocuration2023)
+- Mastodon: [@biocuration2023@genomic.social](https://genomic.social/@biocuration2023)
+
 ## Organizing Committee
 
 <dl>
