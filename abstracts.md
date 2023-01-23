@@ -81,3 +81,41 @@ April 30<sup>th</sup>, 2023 and indicate in your cover letter that a correspondi
 presentation at the conference. At Step 6 (Details and Comments) of the submission process, there is a choice
 at the bottom *Is this manuscript a submission for a Virtual Issue?*. Click "Yes", select "Biocuration Virtual Issue",
 and then "Save and Continue".
+
+# Abstracts
+
+## Long Talks
+
+{% for record in site.data.oral %}
+<h3 style="margin-top: 1em; font-weight: bold; margin-bottom: 0">{{ record.title }}</h3>
+
+<p style="color:#111">{% for author in record.authors %}<span>{{ author.label }}</span>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+
+<p style="text-align: justify">
+{{ record.abstract }}
+</p>
+{% endfor %}
+
+## Short Talks
+
+{% for record in site.data.lightning %}
+<h3 style="margin-top: 1em; font-weight: bold; margin-bottom: 0">{{ record.title }}</h3>
+
+<p style="color:#111">{% for author in record.authors %}<span>{{ author.label }}</span>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+
+<p style="text-align: justify">
+{{ record.abstract }}
+</p>
+{% endfor %}
+
+## Poster Presentations
+
+{% for record in site.data.poster %}
+<h3 style="margin-top: 1em; font-weight: bold; margin-bottom: 0">{{ record.title }}</h3>
+
+<p style="color:#111">{% for author in record.authors %}<span>{{ author.label }}</span>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+
+<p style="text-align: justify">
+{{ record.abstract }}
+</p>
+{% endfor %}

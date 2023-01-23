@@ -1,0 +1,1484 @@
+- abstract: 'Metal binding is essential for many protein functions. Metals can stabilise
+    protein structure, be part of enzyme catalytic sites or regulate protein function
+    in response to extra- or intracellular signals. Mutations affecting metal-binding
+    residues often result in disease, highlighting the importance of identifying the
+    amino acids involved in metal coordination in order to understand disease etiology
+    and to design therapy drugs.
+
+    The UniProt Knowledgebase (UniProtKB) collects and centralises functional information
+    on proteins across a wide range of species. For each protein, we provide extensive
+    annotation of sequence features. For example, for metal-binding proteins, UniProtKB
+    specifies the specific amino acid residues that participate in metal binding sites
+    and which metal is bound.
+
+    Currently, around 16% of reviewed/Swiss-Prot proteins have annotations of metal
+    binding site residues, which are identified from the literature or known structures
+    from PDB. However, only 3% of unreviewed/TrEMBL entries have annotated metal binding
+    sites, which are created by a variety of automated annotation methods. The difference
+    in coverage between the reviewed/Swiss-Prot and unreviewed/TrEMBL entries suggests
+    that there are many millions of missing metal binding site annotation predictions.
+
+    To increase the coverage of unreviewed/TrEMBL entries, we decided to take the
+    opportunity offered by the huge advances made by artificial intelligence and machine
+    learning (AI/ML) in addressing protein biology such as the prediction of 3D structures
+    by AlphaFold or the prediction of names for uncharacterised proteins by Google’s
+    ProtNLM. We set a challenge for the AI/ML community to generate models to predict
+    metal binding sites with the aim of identifying one or more software tools that
+    are both accurate and scalable and that we can apply within the UniProt production
+    environment.
+
+    Here, we will provide an overview on how metal binding sites are identified and
+    annotated in UniProtKB, discuss the challenges in annotating and predicting them
+    and how we will evaluate the proposed AI/ML models.'
+  authors:
+  - label: Rossana Zaru
+    series_ordinal: 1
+  - label: Vishal Joshi
+    series_ordinal: 2
+  - label: Sandra Orchard
+    series_ordinal: 3
+  - label: Maria Martin
+    series_ordinal: 4
+  keywords:
+  - curation
+  - UniProt
+  - protein sequence annotation
+  - machine learning
+  title: Predicting protein metal binding sites with artificial intelligence and machine
+    learning in UniProt
+- abstract: "In April 2019 Reactome began a COVID-19 curation project. This project\
+    \ differed in multiple ways from Reactome's standard curation practices, but ultimately\
+    \ provided critical procedural insights. Reactome is an open-source, open access,\
+    \ manually curated and peer-reviewed pathway database. Our goal is to provide\
+    \ intuitive bioinformatics tools for the visualization, interpretation and analysis\
+    \ of pathway knowledge to support basic and clinical research, genome analysis,\
+    \ modeling, systems biology and education. At the beginning of the COVID-19 pandemic\
+    \ the Reactome group joined the COVID-19 Disease Map community, a broad community-driven\
+    \ effort developing a COVID-19 Disease Map. This group combined the biocuration\
+    \ practices and philosophies of Reactome, Cell Designer, and WikiPathways communities.\
+    \ The parallell curation of of the the viral lifecycle and host cell interactions\
+    \ provided each curation community with a unique opportunity to learn, compare,\
+    \ and adopt best curation practices. Shared data repositories, weekly meetings,\
+    \ chat and knowledge exchange software was present from the very beginning of\
+    \ this communal effort, and the software and mechanisms to compare each communities\
+    \ work only grew as the effort proceeded.\nCuration of a molecular pathway often\
+    \ starts with a set of expert assertions found in literature reviews covering\
+    \ a wide range of experiments and knowledge. For SARS-CoV-2 no such literature\
+    \ existed. Reactome used an orthoprojection approach, first curating the well\
+    \ supported SARS-CoV-1 viral lifecycle, and then using Reactomes orthologous projection\
+    \ tools to create the associated pathways for SARS-CoV-2. This approach produced\
+    \ a logical scaffolding for SARS-CoV-2 curation, rapidly accelerating the curation\
+    \ of an emerging pathogen. The process of adding SARS-CoV-2 experimental support\
+    \ was accelerated, allowing curators and other researchers with a global view\
+    \ of each new facts impact on the model.\nAssessing the literature support for\
+    \ those curatorial assertions posed another challenge. The experimental work around\
+    \ SARS-CoV-2 was growing far quicker than any one curator or community could manage.\
+    \ Pre-prints, which were never part of Reactome or most other molecular pathway\
+    \ curation efforts, were critical to this endeavor. What emerged was a pipeline\
+    \ that combined human expertise with automated computational paper identification.\
+    \ A literature triage system grew that connected curators and editors across the\
+    \ community all building a central repository of papers tagged to specific molecular\
+    \ entities and steps in the pathway.\nAs annotated modeles emerged the communities\
+    \ provided rapid review and revision. Groups of curators provided an additional\
+    \ layer of review. These review groups were precisely positioned, building similar\
+    \ networks, using similar sets of literature support, and could understand the\
+    \ nuances of the different data models that each each community worked with. \n\
+    This process identified four areas: Use of orthoprojection, literature triage,\
+    \ alignment of curatorial communities working in the same area but using different\
+    \ tools, and a new layer of curatorial community review. All of these steps would\
+    \ be enhanced using current computational approaches. Rather than look to replace\
+    \ manual curation, we should focus on using the best aspects of curation across\
+    \ communties and approaches."
+  authors:
+  - label: Marc Gillespie
+    series_ordinal: 1
+  - label: Peter D'Eustachio
+    series_ordinal: 2
+  - label: Robin Haw
+    series_ordinal: 3
+  - label: Lisa Matthews
+    series_ordinal: 4
+  - label: Andrea Senff-Ribeiro
+    series_ordinal: 5
+  - label: Lincoln Stein
+    series_ordinal: 6
+  - label: Guanming Wu
+    series_ordinal: 7
+  - label: Henning Hermjakob
+    series_ordinal: 8
+  - label: Cristoffer Sevilla
+    series_ordinal: 9
+  - label: Marija Milacic
+    series_ordinal: 10
+  - label: Veronica Shamovsky
+    series_ordinal: 11
+  - label: Karen Rothfels
+    series_ordinal: 12
+  - label: Ralf Stephan
+    series_ordinal: 13
+  - label: Justin Cook
+    series_ordinal: 14
+  keywords:
+  - pandemic
+  - orthoprojection
+  - literature triage
+  - curatorial communities
+  - community review
+  title: Community SARS-CoV-2 Curation Driven Emergent Experiences - Increased Curation
+    Efficiency and Learned Lessons for the Future
+- abstract: Understanding the human functionome – the set of functions performed by
+    the protein-coding genes of the human genome – has been a longstanding goal of
+    biomedical research. The last two decades has seen substantial progress towards
+    achieving this goal, with continued improvements in the annotation of the human
+    genome sequence, and dramatic advances in the experimental characterization of
+    human genes and their homologs from well-studied model organisms. Here, we describe
+    the first attempt to create a complete, draft human functionome through a comprehensive
+    synthesis of functional data obtained for human genes and their homologs in non-human
+    model organisms. All relevant function information in the Gene Ontology knowledgebase
+    has been synthesized using an evolutionary framework based on phylogenetic trees,
+    creating curated models of function evolution for thousands of gene families,
+    which are updated as new knowledge accumulates. Our draft human functionome specifies
+    at least one functional characteristic for 80% of human protein-coding genes,
+    each of which can be individually traced to experimental evidence in human and/or
+    non-human model systems. Our analyses of these models and annotations provide
+    insights into the nature of function evolution and the importance of gene duplication
+    in this process, as well as a quantitative estimate of the contribution of studies
+    in model organisms to our current understanding of human gene function. We expect
+    that the evolutionary models and resulting GO annotations will be useful in numerous
+    applications from gene set enrichment analysis to understanding genetic evolution.
+  authors:
+  - label: Marc Feuermann
+    series_ordinal: 1
+  - label: Pascale Gaudet
+    series_ordinal: 2
+  - label: Huaiyu Mi
+    series_ordinal: 3
+  - label: Anushya Muruganujan
+    series_ordinal: 4
+  - label: Dustin Ebert
+    series_ordinal: 5
+  - label: Paul Denis Thomas
+    series_ordinal: 6
+  - label: The Go Consortium
+    series_ordinal: 7
+  keywords:
+  - Human functionome
+  - Gene ontology
+  - Biocuration
+  - Phylogeny
+  title: A complete draft human gene functionome from large-scale evolutionary modeling
+    and experimental Gene Ontology annotations
+- abstract: 'Biocuration plays a key role in making research data available to the
+    scientific community in a standardized way. Despite its importance, the contribution
+    and effort of biocurators is extremely difficult to attribute and quantify. APICURON
+    (https://apicuron.org) is a web server that provides biological databases and
+    organizations with a real-time automatic tracking system of biocuration activities.
+
+    APICURON stores biocuration activities and calculates achievements (medals, badges)
+    and leaderboards on the fly to allows an objective evaluation of the volume and
+    quality of the contributions. Results are served through a public API and available
+    through the APICURON website. The API and the website have been recently redesigned
+    to improve database performance and user experience. A large amount of documentation
+    and guidelines have been published aiming at helping the connecting resources
+    to improve their interoperability and expose curation activities respecting the
+    FAIR principles.
+
+    APICURON is already supported by ELIXIR and well connected with the International
+    Society for Biocuration. A core of early adopters’ curation databases (DisProt,
+    PED, Pfam, Rfam, IntAct, SABIO-RK, Reactome, PomBase, SILVA, BioModels) are connecting
+    to APICURON. APICURON aims at promoting engagement and certifying biocuration
+    CVs, to this end it is already integrated into ORCID automatically propagating
+    badges and achievements to ORCID user profiles.'
+  authors:
+  - label: Federica Quaglia
+    series_ordinal: 1
+  - label: Damiano Piovesan
+    series_ordinal: 2
+  - label: Silvio Tosatto
+    series_ordinal: 3
+  - label: Adel Bouhraoua
+    series_ordinal: 4
+  keywords:
+  - Biocuration activity
+  - Webserver
+  - Web service
+  - Attribution
+  - ORCID
+  - Tracking
+  - Achievements
+  - FAIR
+  title: 'APICURON: standardizing attribution of biocuration activity to promote engagement'
+- abstract: "A rare disease (RD) affects fewer than one in 2000 individuals. Finding\
+    \ relevant clinical literature about strategies to manage RD patients is often\
+    \ difficult. Responding to this need, the Medical Action Ontology (MAxO) was developed\
+    \ to provide structured vocabulary for medical procedures, interventions, therapies,\
+    \ and treatments for disease. While MAxO’s initial use case is to annotate RD,\
+    \ it can be broadly applied to common and infectious diseases. Currently, MAxO\
+    \ contains over 1387 terms added by manual curation using the Protégé OWL editor\
+    \ and ROBOT templates or by semi-automated curation using Dead Simple Design Patterns\
+    \ (DOSDP).  Ontologies from the Open Biological and Biomedical Ontology Foundry\
+    \ (OBO Foundry) were used to axiomatize many terms and help give MAxO structure.\
+    \ Ontologies imported include Uber-anatomy Ontology (UBERON), Ontology for Biomedical\
+    \ Investigations (OBI), Chemical Entities of Biological Interest (ChEBI), Food\
+    \ Ontology (FOODON), Human Phenotype Ontology (HP), and Protein Ontology (PRO).\
+    \ \n\nAn annotation database is currently under development to capture the medical\
+    \ actions and treatments used for RD.  Three types of annotations are being curated\
+    \ (1) diagnosis annotations (MAxO-HP); these annotations are diagnostic terms,\
+    \ such as laboratory tests or diagnostic imaging procedures, that are used to\
+    \ observe or measure phenotypic abnormalities. These annotations are disease agnostic\
+    \ since the modality for assessing an abnormal phenotypic feature such as ‘Agenesis\
+    \ of the corpus callosum’ (HP:0001274)  or ‘Hypertelerosm’ (HP:0000316)does not\
+    \ depend on the underlying disease. (2) RD-associated phenotypes are also annotated\
+    \ withmedical actions to capture how symptoms are treated in the context of a\
+    \ particular disease. For example, in Tumor Predisposition Syndrome where patients\
+    \ are prone to lung adenocarcinomas, the medical recommendation is to avoid radiation,\
+    \ including avoiding chest X-rays and computerized tomography (CT) so as not to\
+    \ exacerbate the condition. Therefore, medical recommendation annotations (e.g.\
+    \ ‘avoid CT scans’’  (MAXO:0010321)  and ‘radiographic imaging avoidance’ (MAXO:0001127)\
+    \ are specific to the phenotypes (e.g ‘lung adenocarcinoma’ (HP:0030078) associated\
+    \ with that particular disease (e.g ‘BAP1-related tumor predisposition syndrome\n\
+    ’, MONDO:0013692). (3) Disease-specific annotations (MAxO-RD): these are either\
+    \ curative treatments or treatments that alleviate disease-associated phenotypes\
+    \ by directly affecting the disease cause.  For example, gene therapy (MAXO:0001001)\
+    \ directly targets the gene variant causing the RD and thereby affects all phenotypes\
+    \ associated with the disease. \n\nThe POET website (https://poet.jax.org/) houses\
+    \ MAxO annotations. Once fully established, the medical and research community\
+    \ will be invited to contribute to MAxO annotation database. While our initial\
+    \ efforts are focused on annotating RD, future annotations could be collected\
+    \ for common diseases. All community-added annotations will be verified before\
+    \ being published. All annotations will be available on the Human Phenotype Ontology\
+    \ website (hpo.jax.org). MAxO is open-source and freely available under a Creative\
+    \ Commons Attribution license (CC-BY 4.0) (https://github.com/monarch-initiative/MAxO;\
+    \ https://obofoundry.org/ontology/maxo)."
+  authors:
+  - label: Leigh C Carmody
+    series_ordinal: 1
+  - label: Michael Gargano
+    series_ordinal: 2
+  - label: Nicole A Vasilevsky
+    series_ordinal: 3
+  - label: Sabrina Toro
+    series_ordinal: 4
+  - label: Lauren Chan
+    series_ordinal: 5
+  - label: Hannah Blau
+    series_ordinal: 6
+  - label: Xingmin A. Zhang
+    series_ordinal: 7
+  - label: Monica C Munoz-Torres
+    series_ordinal: 8
+  - label: Chris Mungall
+    series_ordinal: 9
+  - label: Nicolas Matentzoglu
+    series_ordinal: 10
+  - label: Melissa Haendel
+    series_ordinal: 11
+  - label: Peter Robinson
+    series_ordinal: 12
+  keywords:
+  - ontology development
+  - medical action
+  - clinical annotations
+  - rare disease
+  - tool development
+  title: Medical Action Ontology (MAxO) development and tool implementation for the
+    annotation of Rare Disease (RD)
+- abstract: "The International Cancer Genome Consortium Accelerating Research in Genomic\
+    \ Oncology (ICGC-ARGO) aims to uniformly analyze specimens from 100,000 patients\
+    \ with high-quality clinical data to address outstanding questions vital to the\
+    \ quest to defeat cancer. \n\nIn order to achieve this ambitious goal, a critical\
+    \ task of the Data Coordination Center (DCC) is to enforce various data validation\
+    \ rules during data submission. This ensures the received raw molecular data files\
+    \ and associated metadata are of high quality and conform to genomic data standards,\
+    \ which are extremely important to perform uniform data processing by a Regional\
+    \ Data Process Center (RDPC) and data release through the ICGC-ARGO data platform\
+    \ (https://platform.icgc-argo.org/) to the research community.\n\nICGC-ARGO has\
+    \ established a robust metadata management and storage system (SONG) to easily\
+    \ track and manage genomic data files in a secure and validated environment against\
+    \ a flexible data model defined in JSON schema. The schema consists of a core\
+    \ module to track primary patient identifiers, and dynamic modules for specific\
+    \ parts of the model which are defined based on any desired business rules.\n\n\
+    With great flexibility, comes great responsibility. Since genomic and clinical\
+    \ data are usually submitted to different databases by different submitters according\
+    \ to their different schedules, system sanity checks are applied early to avoid\
+    \ potential discrepancies between the genomic metadata in SONG and records in\
+    \ the clinical database. To ensure critical metrics of the genomic data files\
+    \ are adequately reflected in their associated metadata, a stand-alone command\
+    \ line tool is implemented to conduct different levels of validations. Ultimately,\
+    \ an ICGC-ARGO Data Submission Workflow is designed by integrating the above sanity\
+    \ checks and validations, metadata generation, and streamlining genomic data/metadata\
+    \ submission processes. The workflow is implemented in Nextflow and currently\
+    \ supports submissions for both local and remote data stored in EGA archives for\
+    \ FASTQ, BAM and CRAM type files. \n\nHere we share our experience of designing\
+    \ and integrating this workflow in the ICGC-ARGO platform. We expect it will play\
+    \ a critical role in helping to ease the data submission, accelerate the data\
+    \ curation process and improve the data quality, which significantly impacts all\
+    \ the downstream genome data analysis pipelines."
+  authors:
+  - label: Qian Xiang
+    series_ordinal: 1
+  - label: Edmund Su
+    series_ordinal: 2
+  - label: Hardeep Nahal-Bose
+    series_ordinal: 3
+  - label: Robin Haw
+    series_ordinal: 4
+  - label: Melanie Courtot
+    series_ordinal: 5
+  keywords:
+  - Data Submission Workflow
+  - Validation
+  - Curation
+  - Quality Control
+  - Nextflow
+  title: ICGC-ARGO Data Submission Workflow - Integration of data validation and submission
+    to accelerate the data curation and improve the data quality
+- abstract: "Medical Subject Headings (MeSH) is a controlled and hierarchically-organized\
+    \ vocabulary produced by the National Library of Medicine (NLM), used for indexing,\
+    \ cataloging, and searching of biomedical and health-related information in PubMed.\
+    \ It consists of more than 30,000 MeSH Headings (descriptors) organized hierarchically\
+    \ in 16 main branches of the MeSH tree, and more than 320,000 supplementary concept\
+    \ records (SCRs) which map to various headings, or branches of the tree. Due to\
+    \ daily advances in biomedicine and related areas, an important goal of the biocuration\
+    \ scientists at NLM is to keep MeSH current. \n\nThe Chemicals and Drugs tree\
+    \ is the largest main branch in the MeSH tree. It is also one of the most active\
+    \ vocabulary development areas. New chemicals, new synonym terms for existing\
+    \ concepts, and new chemical groups, comprised 62% of the new MeSH requests in\
+    \ 2022. Consequently, from May-December 2022, NLM curators identified 1,140 chemical\
+    \ and protein terms that were not included in MeSH, and after review, created\
+    \ 592 new SCRs, and added 129 new terms/synonyms. \n\nTo respond to NLMs curators’\
+    \ need for a tool to assist with rapid identification of new articles containing\
+    \ new chemical names, and relying on our previous success in accurately identifying\
+    \ chemicals in biomedical literature, we developed a framework for assisting the\
+    \ MeSH vocabulary development efforts for chemicals. In March 2022, we started\
+    \ with a selected set of 200 PubMed articles in TeamTat, annotated with the NLM-Chem\
+    \ algorithm for chemicals, which five curators reviewed. Of those, 174 articles\
+    \ contained new chemical terminology, not included in MeSH. These articles were\
+    \ used as the seed for classification training in LitSuggest, which considered\
+    \ all articles published since January 1, 2022, and identified 1,416 that contained\
+    \ chemicals, which were tested for our topic of interest (new chemicals). From\
+    \ this set, 39 articles marked positive from LitSuggest were then ported to TeamTat\
+    \ for manual review.  Since March 2022, we have run this framework several times.\
+    \ Each time we re-populate the training set in LitSuggest with articles of interest\
+    \ verified by TeamTat and retrain the classifier. We run the classifier and test\
+    \ the newly published articles in PubMed. We use the NLM-Chem algorithm to mark\
+    \ all chemicals in the LitSuggest identified articles and review them on TeamTat.\
+    \ As a result of this work, we have identified 453 new chemical entries submitted\
+    \ as chemical flags or MeSH requests. Of these, 333 were new chemical substances,\
+    \ 71 terms were new synonyms for existing terms, and 49 were new chemical groups.\
+    \  We find this framework will significantly improve our productivity, and aim\
+    \ to fully integrate it in the indexing production pipeline for new terminology\
+    \ suggestion."
+  authors:
+  - label: Rezarta Islamaj
+    series_ordinal: 1
+  - label: Nicholas Miliaras
+    series_ordinal: 2
+  - label: Olga Printseva
+    series_ordinal: 3
+  - label: Zhiyong Lu
+    series_ordinal: 4
+  keywords:
+  - Assited Biocuration
+  - ontology development
+  - terminology development
+  - corpus annotation
+  - chemical annotation
+  - semi-automation
+  - human in the loop
+  - chemical corpus development
+  - data curation
+  - MeSH terminology development
+  - natural language processing
+  title: 'A Framework for Assisting MeSH Vocabulary Development at the National Library
+    of Medicine: Reliably Identifying Literature Containing New Chemical Substances'
+- abstract: "The Protein Data Bank (PDB) was established in 1971 as the first open-access\
+    \ digital data resource in biology with just seven X-ray crystallographic structures\
+    \ of proteins. Today, the single global PDB archive houses more than 200,000 experimentally\
+    \ determined three-dimensional (3D) structures of biological macromolecules that\
+    \ are made freely available to millions of users worldwide with no limitations\
+    \ on usage. This information facilitates basic and applied research and education\
+    \ across the sciences, impacting fundamental biology, biomedicine, biotechnology,\
+    \ bioengineering, and energy sciences. The Worldwide Protein Data Bank (wwPDB,\
+    \ wwpdb.org) jointly manages the PDB, EMDB, and BMRB Core Archives and is committed\
+    \ to making data Findable, Accessible, Interoperable, and Reusable (FAIR).  \n\
+    As the PDB grows, developments in structure determination methods and technologies\
+    \ can challenge how structures are represented and evaluated. wwPDB Biocurators\
+    \ work together with community experts to ensure the standards for deposition,\
+    \ biocuration and data quality assessment align with advances in this rapidly\
+    \ evolving field. \nThe wwPDB deposition-biocuration-validation system, OneDep,\
+    \ is constantly enhanced with extended metadata, enumeration lists, and improved\
+    \ data checking. PDBx/mmCIF dictionary at the core of the wwPDB data deposition,\
+    \ biocuration, and archiving, is regularly updated to provide controlled vocabulary\
+    \ and boundary ranges that reflect the current state of various experimental techniques\
+    \ and ensure accuracy and completeness of deposited metadata. wwPDB Biocurators\
+    \ promote community-driven development and usage of the PDBx/mmCIF dictionary.\
+    \ \nwwPDB continuously incorporates new and improved data assessment metrics to\
+    \ maintain state-of-the-art validation tools. wwPDB engages working groups of\
+    \ community experts to provide recommendations for improving the wwPDB data validation\
+    \ protocols.\nIn this presentation we provide an overview of the wwPDB Biocurators\
+    \ efforts in promoting enriched data dictionary development, improving data validation\
+    \ standards, and fostering community engagement in data standard setting to support\
+    \ advances in science."
+  authors:
+  - label: Irina Persikova
+    series_ordinal: 1
+  - label: Jasmine Y. Young
+    series_ordinal: 2
+  - label: Ezra Peisach
+    series_ordinal: 3
+  - label: Chenghua Shao
+    series_ordinal: 4
+  - label: Zukang Feng
+    series_ordinal: 5
+  - label: John D. Westbrook
+    series_ordinal: 6
+  - label: Yuhe Liang
+    series_ordinal: 7
+  - label: Wwpdb Biocuration Team
+    series_ordinal: 8
+  - label: Stephen K. Burley
+    series_ordinal: 9
+  keywords:
+  - PDB
+  - Protein Data Bank
+  - Validation
+  - Macromolecular structure
+  - Data Standards
+  - Biocuration
+  - Curation tools
+  - Data quality
+  title: 'wwPDB Biocuration: Supporting Advances in Science and Technology'
+- abstract: "The European Nucleotide Archive (ENA; https://www.ebi.ac.uk/ena) is a\
+    \ long-standing database of record for nucleotide sequence data and associated\
+    \ metadata. The ENA has minimal required metadata standards for submitted records\
+    \ to balance the needs of the data generators/submitters and making the metadata\
+    \ as FAIR as possible for downstream users though recommended standards are not\
+    \ always utilised to their full potential and details can be left out. \n\nThere\
+    \ are nearly 200,000 marine samples alone within ENA and as part of the BlueCloud\
+    \ project (https://blue-cloud.org/) it was identified that there was a need to\
+    \ enhance the available specific metadata for marine and freshwater samples. By\
+    \ utilising user-provided geographic metadata, we can assert additional contextual\
+    \ metadata to enhance the existing sample records. Approximately 17% of all ENA\
+    \ samples have GPS coordinates. We have used the GPS coordinates to determine\
+    \ additional metadata, for example, the geographic political regions (e.g. countries\
+    \ and EEZs) and environment types (e.g. land and sea), via computational geometry.\
+    \ These were compared to existing submitter metadata provided with these samples.\
+    \ Additionally organism taxonomies were categorised with their likely marine or\
+    \ freshwater environment. The submitter, GPS and taxonomy insights were merged\
+    \ and compared. As expected much of the time there is clear cut metadata agreement,\
+    \ sometimes explainable differences and occasionally harder to explain or understand\
+    \ differences. \n\nFor the ENA and similar archives, submitter entered data is\
+    \ the record and so metadata cannot be changed substantively on the primary record\
+    \ without the approval of data owners. The extra contextual metadata is being\
+    \ added to the ELIXIR Contextual Data Clearinghouse see\n https://elixir-europe.org/internal-projects/commissioned-services/establishment-data-clearinghouse;\
+    \ the metadata will be programmatically available from https://www.ebi.ac.uk/ena/clearinghouse/api/.\
+    \ It will thus be straightforward to programmatically query the clearinghouse\
+    \ and the ENA portal APIs to more easily find, access and re-use marine and freshwater\
+    \ sample data.  \n\nWe outline our approaches and discuss our findings in more\
+    \ detail.\n\nAffiliation: European Molecular Biology Laboratory, European Bioinformatics\
+    \ Institute, Wellcome Genome Campus, Hinxton. CB10 1SD. United Kingdom"
+  authors:
+  - label: Peter Woollard
+    series_ordinal: 1
+  - label: Stephane Pesant
+    series_ordinal: 2
+  - label: Josephine Burgin
+    series_ordinal: 3
+  - label: Guy Cochrane
+    series_ordinal: 4
+  keywords:
+  - Marine metadata
+  - ENA
+  - BlueCloud
+  - Contextual clearinghouse
+  - FAIR
+  - GPS coordinates
+  - Computational geometry
+  - taxonomy environment prediction
+  - Enhancing existing metadata
+  - EMBL
+  - EBI
+  title: Providing Expanded Contextual Metadata for Biological Samples using Both
+    Geographic and Taxonomic Factors
+- abstract: 'The ability to investigate the transcriptomes of cells at a single cell
+    resolution has been a major advance in genome sequencing. Since the emergence
+    of commercial single-cell RNA sequencing (scRNA-seq) platforms, this technology
+    has been well developed and widely accepted by the researchers. Thereafter, it
+    has continued to evolve, becoming more prevalent and more complex, for example,
+    allowing researchers to generate multiple library types from a single cell. Accordingly,
+    in order to represent these advances during data archival, we are required to
+    change our curation practices in order to describe these multiplexed scRNA-seq
+    experiments accurately.
+
+
+    One advance is the concept of spatial transcriptomic data, in which the gene expression
+    profiles are linked to the location of the biological material from which the
+    samples are collected. The most commonly used technology is having a gridded ‘capture
+    area’ on a slide onto which tissues are placed. Each point has a unique spatial
+    barcode, which maps RNA transcriptomes back to that location. Prior to sequencing,
+    an image is acquired to capture the biological sample. Later, the material is
+    extracted, point by point, and sequenced including the ‘spatial barcode’ within
+    the reads. This allows researchers to map of the transcriptome from each point
+    back to the original image of the tissue. Capturing these additional information
+    therefore becomes essential for the accurate representation and reuse of these
+    data.
+
+
+    Another type of multiplexing methodology enables pooled samples per sequencing
+    run by labelling individual samples with a molecular tag, a technology called
+    feature barcoding. Here multiple library types, depending on the additional ‘feature’,
+    are generated from individual cells. Therefore, to capture these data, we need
+    to accurately represent these differential library constructions whilst maintaining
+    the mapping back to the individual cells and biological sample(s).
+
+
+    With the development of these scRNA-seq technologies, the functional genomics
+    team at EMBL-EBI are continuously improving our curation standards to provide
+    a well-structured and comprehensive sample annotation for our users and the wider
+    scientific community. Here we share our experience in curating multiplexed scRNA-seq
+    experiments and looking forward to suggestions from the community how to better
+    support these and upcoming new technologies in the future.'
+  authors:
+  - label: Yalan Bi
+    series_ordinal: 1
+  - label: Nancy George
+    series_ordinal: 2
+  - label: Irene Papatheodorou
+    series_ordinal: 3
+  - label: Anja Fullgrabe
+    series_ordinal: 4
+  - label: Silvie Fexova
+    series_ordinal: 5
+  - label: Natassja Bush
+    series_ordinal: 6
+  keywords:
+  - single cell sequencing
+  - scRNA-seq multiplexing
+  - spatial transcriptomics
+  - feature barcoding
+  - sample multiplexing
+  - EBI
+  title: Multiplexed scRNA-seq Experiments in Biocuration
+- abstract: Proteins are essential for building cellular structures and as the tools
+    that make the cell function. However, proteins do not operate in isolation and
+    often form molecular machines in which several proteins bind together and with
+    other biomolecules to act as a single entity called a molecular complex. This
+    provides tremendous versatility and regulatory capacities, since by changing a
+    single component of the complex, its function can be dramatically altered. Protein
+    complexes often also form more stable structures than isolated proteins, and their
+    formation creates new active sites as protein chains from different molecules
+    assemble in close proximity. It is therefore of crucial importance to know the
+    composition of complexes and study them as discrete functional entities in order
+    to truly understand how cellular processes work. The Complex Portal (www.ebi.ac.uk/complexportal)
+    is an encyclopaedic database that collates and summarizes information on stable,
+    macromolecular complexes of known function from the scientific literature through
+    manual curation. Complex Portal curators have now completed a first draft of all
+    the stable molecular complexes from the gut bacteria Escherichia coli and through
+    collaboration with the Saccharomyces Genome Database, also of the complexome of
+    Saccharomyces cerevisiae. Work is ongoing to produce a reference set of human
+    protein complexes and also, in association with FlyBase, for the model organism
+    Drosophila melanogaster. Protein complex evolution can now be shown to occur through
+    the gain and loss of subunits and a better understanding of this process could
+    improve predictions of, for example, the phenotypic effects of mutations and variants
+    causative of change of function or susceptibility to disease.  We invite other
+    data resources, active in the biocuration of other organisms or biological processes
+    to contribute to this collaborative effort and further increase the biodiversity
+    of molecular machines described in the Complex Portal and, via import to UniProt
+    and other resources, enhance our understanding of the inter-dependence of proteins
+    within an organism.
+  authors:
+  - label: Sandra Orchard
+    series_ordinal: 1
+  - label: Birgit Meldal
+    series_ordinal: 2
+  - label: Helen Attrill
+    series_ordinal: 3
+  - label: Giulia Antonazzo
+    series_ordinal: 4
+  - label: Edith Wong
+    series_ordinal: 5
+  - label: Henning Hermjakob
+    series_ordinal: 6
+  keywords:
+  - Data integration
+  - Protein complex
+  - Evolution
+  title: Unifying Protein Complex Curation across the Diversity of Species
+- abstract: 'Human gastrointestinal (gut) bacteria have been shown to contribute to
+    the metabolism of drugs in the gut as far back as the 1900s. Since oral drug administration
+    is the preferred method, drugs taken orally have many limitations, such as the
+    inability to reach their target due to variable absorption rates, variable concentrations,
+    high acid content, and the action of many digestive enzymes. The latter is most
+    important as the gut microbiome can modify drugs enzymatically. Drug metabolism
+    is not limited to orally administered drugs, and the microbiome also converts
+    drug metabolites destined for excretion via the gut, including drug conjugates
+    from the liver. The microbiome can regulate host gene expression and modulate
+    xenobiotic absorption. On the other hand, xenobiotics can affect microbiome viability.
+
+
+    To date, no resources systematically catalog all enzymes involved in gut microbiome
+    drug metabolism. Yet, there is a need to understand drug metabolism as it can
+    reduce time and resources during the drug development process by avoiding adverse
+    reactions or treatment failure by way of the gut microbiome. In addition, there
+    is no easy way to understand the prevalence of drug-metabolizing enzymes in the
+    human gut. Knowing the frequency of drug-metabolizing genes, we can better prioritize
+    enzymes that will contribute to poor drug efficacy during drug development.
+
+
+    We developed an ontology-centric database to catalog all enzymes systematically,
+    and their encoding gene sequences involved in microbiome drug metabolism termed
+    the Human Microbiome Drug Metabolism (HMDM) database. The HMDM database is manually
+    curated with bacterial enzymes reported in the literature with experimental data
+    showing drug metabolism. We developed a prevalence module for the HMDM database
+    to assess the frequency of the drug-metabolizing enzymes from the species commonly
+    found in the human gut microbiome. The gut microbiome genomic data were obtained
+    from the National Center for Biotechnology Information (NCBI) Datasets. The genomes
+    were analyzed using a newly developed enzyme detection software called the Drug
+    Metabolising Enzyme (DME). The DME predicts potential drug-metabolizing enzymes
+    based on curated enzymes in the HMDM database.
+
+
+    The β-glucuronidase genes are more common in this dataset, suggesting they are
+    more prevalent. Some enzymes are only present in a few strains of the same species,
+    such as tyrosine decarboxylase and cardiac glycoside reductase operon. Since different
+    gut microbes colonize everyone, resulting in a heterogeneous response to therapeutics
+    among individuals. The prevalent dataset is an important resource for identifying
+    drug-metabolizing enzymes for different demographics, which will help personalize
+    treatments and improve drug efficacy.'
+  authors:
+  - label: Amogelang Raphenya
+    series_ordinal: 1
+  - label: Michael Surette
+    series_ordinal: 2
+  - label: Gerard Wright
+    series_ordinal: 3
+  - label: Andrew McArthur
+    series_ordinal: 4
+  keywords:
+  - drug-metabolizing enzymes
+  - microbiome drug metabolism
+  - drug efficacy
+  title: The Human Microbiome Drug Metabolism (HMDM) Database
+- abstract: Curation of biomedical knowledge into standardised and inter-operable
+    format is essential for studying complex biological processes. However, curation
+    of relationships and interactions between biomolecules is a laborious manual process,
+    especially when facing ever increasing growth of domain literature. The demand
+    for systems biology knowledge increases with new findings demonstrating elaborate
+    relationships between multiple molecules, pathways and cells. This calls for novel
+    collaborative tools and platforms allowing to improve the quality and the output
+    of the curation process. In particular, in the current systems biology environment,
+    curation tools lack reviewing features and are not well suited for open, community-based
+    curation workflows. An important concern is the complexity of the curation process
+    and the limitations of the tools supporting it. Here, we present BioKC (Biological
+    Knowledge Curation, https://biokc.pages.uni.lu), a web-based collaborative platform
+    for the curation and annotation of biomedical knowledge following the standard
+    data model from Systems Biology Markup Language (SBML). BioKC allows building
+    multi-molecular interactions from scratch, or based on text mining results and
+    their annotation, supported by an intuitive and lightweight Graphical User Interface.
+    Curated interactions, with their annotations and grounding evidences, called facts,
+    can be versioned, reviewed by other curators and published under a stable identifier.
+    Underlying SBML model ensures interoperability, allowing export of entire collections
+    of such facts for later import into databases, or used as a source material in
+    systems biology diagram construction. We believe BioKC is a useful tool for extracting
+    and standardising biomedical knowledge.
+  authors:
+  - label: Carlos Vega
+    series_ordinal: 1
+  - label: Marek Ostaszewski
+    series_ordinal: 2
+  - label: Valentin Grouès
+    series_ordinal: 3
+  - label: Marcio Acencio
+    series_ordinal: 4
+  - label: Reinhard Schneider
+    series_ordinal: 5
+  - label: Venkata Satagopam
+    series_ordinal: 6
+  keywords:
+  - systems biology curation
+  - assisted curation
+  - text mining
+  - molecular interactions
+  - SBML
+  title: 'BioKC: a collaborative platform for curation and annotation of molecular
+    interactions'
+- abstract: 'Many data repositories such as NCBI GEO contain a vast amount of annotations
+    and metadata from human "omics" experiments, frequently in semi-structured documents
+    accessible through the resource''s API. Here, the use of phenopackets, a flexible
+    schema which can represent clinical data for any kind of human disease, over a
+    standardized API such as Beacon v2 will provide major improvements for data harmonization,
+    FAIRification and empowering of federated data analysis strategies. 
+
+
+    Progenetix (progenetix.org) is a curated oncogenomic resource with a focus on
+    copy number variation (CNV) profiling. It presently contains data for more than
+    140,000 hybridization or NGS based experiments derived from a over 1000 publications
+    as well as resources and projects such as GEO, TCGA or cBioportal. All samples
+    are annotated for biological and procedural metadata, e.g. their corresponding
+    resource identifiers, publication ids, NCIt, UBERON and ICD-O codes and cellosaurus
+    ids, where applicable, and additionally for a core set of biological and clinical
+    data. This curated data with its reasonably large content of data from identifier-tagged,
+    public repository linked samples provides an interesting test case for representation
+    of common "omics" metadata as phenopackets documents delivered over the Beacon
+    v2 API.
+
+     
+
+    The Progenetix Beacon+ API recently introduced a "phenopackets" response format
+    (PXF) in expansion of the Beacon v2 default model''s entry types. For "record"-level
+    granularity (i.e. document delivery upon a Beacon request) phenopackets are generated
+    ad hoc from Beacon defaults using through the bycon package driving the Progenetix
+    API. Since Beacon v2 schemas for biosamples and individuals have been designed
+    to closely align with the Phenopackets v2 specifications, necessary remappings
+    are of limited complexity. Here, current efforts are aimed at the integration
+    of emerging tools from the Phenopackets ecosystem especially for compliance testing.
+
+
+    We have selected example usage scenarios involving common data repositories with
+    curated data represented in Progentix. Based on these use cases, we tested and
+    compared the Beacon+ Phenopackets prototype towards Phenopackets v2 compliance.
+    For this purpose, we iteratively adjust the Beacon+ PXF implementation towards
+    increasing compliance, implement a prototype of a service to extract Phenopackets
+    from Beacon+ Phenopackets responses, and evaluate the implementation of alternative
+    (i.e. non-Beacon) REST APIs for such Phenopackets responses. Based on our implementation
+    of a Beacon API based, PXF formatted representation of repository-derived, curated
+    genomic and metadata we propose a more general adoption of such a scenario. Here,
+    an extensive (multi-10k) demonstrator project which would extend the scope beyond
+    Progenetix data types could showcase usages scenarios and directly support diverse
+    analysis projects, with direct value for the wider "-omics" communities. A future
+    scenario would include direct GA4GH standards integration (Phenopackets, Beacon,
+    service info etc.) to resource providers using the demonstrated benefit from the
+    demonstrator cases.'
+  authors:
+  - label: Ziying Yang
+    series_ordinal: 1
+  - label: Rahel Paloots
+    series_ordinal: 2
+  - label: Hangjia Zhao
+    series_ordinal: 3
+  - label: Michael Baudis
+    series_ordinal: 4
+  keywords:
+  - phenopackets
+  - progentix database
+  - cancer genome
+  - data curation
+  - data standards
+  - GA4GH
+  title: Phenopackets for curated repository data over Beacon v2 Progenetix database
+- abstract: To address the users' need to combine knowledge from different expert
+    curated resources, the biocuration community is heavily invested in the standardization
+    of knowledge with shared ontologies and, more recently, in the representation
+    of data in the form of knowledge graphs (KGs). To easily integrate data from,
+    or query data across, different KGs it is necessary to also standardize the form
+    in which they are published. The W3C standards RDF/OWL and SPARQL were created
+    to address this need and enable the creation of a Semantic Web. Here we describe
+    the use of these standards to publish public SPARQL endpoints for resources such
+    as UniProt (sparql.uniprot.org/sparql), Rhea (sparql.rhea-db.org) and SwissLipids
+    (beta.sparql.swisslipids.org) and RDF allowing private SPARQL endpoints on premise
+    and in clouds (e.g. AWS, Oracle). At more than 110 distinct billion triples -
+    RDF statements - UniProt is the largest freely available KG. UniProt and other
+    SPARQL endpoints support complex analytical queries and inferences that go beyond
+    queries through graph-based machine learning and other approaches. They integrate
+    - federate - expert curated knowledge of protein function with biological and
+    biochemical data from other KGs available in RDF or OWL like the Gene Ontology
+    (functions), Bgee (expression patterns), OMA (orthology), and IDSM (chemical structures).
+    They also serve as APIs to enhance website data display and data mining capabilities
+    - for example to select and enrich SwissBioPics images to visualize subcellular
+    location data, or to perform chemical similarity and chemical substructure search
+    with IDSM directly in Rhea.
+  authors:
+  - label: Jerven Bolleman
+    series_ordinal: 1
+  - label: Alan Bridge
+    series_ordinal: 2
+  - label: Nicole Redaschi
+    series_ordinal: 3
+  keywords:
+  - UniProt
+  - Rhea
+  - SwissLipids
+  - Protein
+  - Reaction
+  - Lipids
+  - SPARQL
+  - Knowledge Graph
+  title: 'Making expert curated knowledge graphs FAIR '
+- abstract: Early-stage incorporation of human genomic data into the assessment of
+    drug targets has been shown to significantly increase drug pipeline success rates
+    [1],[2]. Genome-wide association studies have uncovered thousands of common variants
+    associated with human disease, but the contribution of rare variants to common
+    disease remains relatively unexplored. The UK Biobank (UKB) contains detailed
+    phenotypic data linked to medical records for approximately 500,000 participants,
+    offering an unprecedented opportunity to evaluate the effect of rare variation
+    on a broad collection of traits. We have studied the relationships between rare
+    protein-coding variants and 17,361 binary and 1,419 quantitative phenotypes using
+    exome sequencing data from 269,171 UK Biobank participants of European ancestry;
+    we have performed an ancestry-specific and pan-ancestry collapsing analyses using
+    exome sequencing data from 11,933 UKB participants of African, East Asian or South
+    Asian ancestry. The results highlight a significant contribution of rare variants
+    to common disease [3], and the summary statistics have been made publicly available
+    through the AZ PheWAS interactive portal (http://azphewas.com/).  Phenotypes originate
+    from multiple sources and are encoded with different classifications, or different
+    versions of the same classification. We have manually validated the existing NLP-derived
+    ICD9-ICD10 mapping [4] and assigned ICD10 codes to the updated ICD10 codes and
+    unclassified UKB fields. This mapping will be integrated to the upcoming release
+    of the AZ PheWAS Portal. We would like to engage with ontologists and the ISB
+    community around remapping of phenotypes and discuss availability of community-data
+    dictionaries to facilitate re-mapping of further datasets.
+  authors:
+  - label: Jennifer Harrow
+    series_ordinal: 1
+  - label: Karyn Mégy
+    series_ordinal: 2
+  - label: Amanda O'Neil
+    series_ordinal: 3
+  - label: Keren Carss
+    series_ordinal: 4
+  - label: Quanli Wang
+    series_ordinal: 5
+  - label: Gulum Alamgir
+    series_ordinal: 6
+  - label: Shikta Das
+    series_ordinal: 7
+  - label: Sebastian Wasilewski
+    series_ordinal: 8
+  - label: Eleanor Wheeler
+    series_ordinal: 9
+  - label: Katherine Smith
+    series_ordinal: 10
+  - label: Slavé Petrovski
+    series_ordinal: 11
+  keywords:
+  - GWAS
+  - Phenotype-mapping
+  - Genomics
+  - UKBiobank
+  title: 'Accessing UK Biobank-derived data through the AZ PheWAS portal, with reassigned
+    phenotypic ICD10 codes. '
+- abstract: "Research into glycobiology is fast becoming recognised as important in\
+    \ all fields of biology, having implications in inflammation, digestion and protection\
+    \ of the mucosal layer and structural integrity of proteins, among others. With\
+    \ the increase in publications dedicated to the solving of carbohydrate structures\
+    \ there is a need for well curated, annotated and searchable databases to disseminate\
+    \ this work. Several groups now work in fulfilling this role, and among them,\
+    \ Glyco@Expasy (glycoproteome.expasy.org) GlyCosmos (www.glycosomos.org) and GlyGen\
+    \ (www.glygen.org) have come together to create the GlySpace Alliance (www.glyspace.org),\
+    \ a cross-country/continent alliance to aid the glycobiology community by sharing\
+    \ and collaborating on glycobioinformatic resources on a FAIR basis. Each resource\
+    \ brings its own expertise to the collaboration with global or pairwise initiatives.\
+    \ \nLately, the Glyco@Expasy and GlyCosmos groups have been investing efforts\
+    \ in linking data, through the adoption of the resource description framework\
+    \ and the establishment of RDF endpoints. In particular, the Glyco@Expasy side\
+    \ provides among others, the GlySTreeM triple store of glycan structures (glyconnect.expasy.org/glystreem/sparql)\
+    \ described by the GlySTreeM ontology (Daponte et al., 2021). The GlyCosmos side\
+    \ has its own endpoint (ts.glycosmos.org/sparql) through which the GlyTouCan glycan\
+    \ structure repository (www.glytoucan.org) can be accessed, among others. A key\
+    \ aspect to unifying resources is to make the journey between a glycoprotein (that\
+    \ presents one or more glycan structures) and a glycan-binding protein/lectin\
+    \ (that recognises one or more glycan structures) transparent and easily accessible.\
+    \ This sets the basis of functional glycobiology. To this end, the first step\
+    \ is to connect a glycan structure with its known ligand parts. This is done using\
+    \ a GlycoQL, a GlySTreeM-based translator tool for substructure searching (Hayes\
+    \ et al., 2022). It allows the creation of glycan structure queries in SPARQL\
+    \ and was initially tested with federated queries across UniProt and GlyConnect,\
+    \ the curated and annotated resource of glycoproteins of Glyco@Expasy (thousands\
+    \ of structures). To test the robustness of the model, it was necessary to adapt\
+    \ the procedure to larger data sets, such as GlyTouCan (hundred thousand entries).\
+    \ Collaborative work is geared towards integrating the GlySTreeM model with the\
+    \ rest of the GlyCosmos family of tools. By setting this up on the GlyTouCan repository\
+    \ the glycan structures can be identified by their GlyTouCan ID (a unique identifier)\
+    \ which will also facilitate the linking of multiple resources with those in the\
+    \ Linked Open Data universe (https://lod-cloud.net/). Examples of federated queries\
+    \ will be presented.\n\nDaponte, V., Hayes, C., Mariethoz, J., & Lisacek, F. (2021).\
+    \ Dealing with the Ambiguity of Glycan Substructure Search. Molecules, 27(1),\
+    \ 65. https://doi.org/10.3390/molecules27010065\nHayes, C., Daponte, V., Mariethoz,\
+    \ J., & Lisacek, F. (2022). This is GlycoQL. Bioinformatics, 38(Issue Supplement_2),\
+    \ ii162–ii167. https://doi.org/10.1093/bioinformatics/btac500"
+  authors:
+  - label: Catherine Hayes
+    series_ordinal: 1
+  - label: Masaaki Shiota
+    series_ordinal: 2
+  - label: Akihiro Fujita
+    series_ordinal: 3
+  - label: Kiyoko Aoki-Kinoshita
+    series_ordinal: 4
+  - label: Frédérique Lisacek
+    series_ordinal: 5
+  keywords:
+  - glycobioinformatics
+  - semantic web
+  - ontology
+  - glycan structure
+  - glycoprotein
+  title: Towards making sense of glycan-mediated protein-protein interactions
+- abstract: 'Mammalian cells express thousands of ncRNA molecules that play a key
+    role in the regulation of genes. In recent years, a huge amount of data on ncRNA
+    interactions has been described in scientific papers and databases. Although a
+    considerable effort has been made to annotate the available knowledge in public
+    repositories and in a standardized representation, to support subsequent data
+    integration, there is still a significant discrepancy in how different resources
+    capture and interpret data on ncRNAs functional and physical associations.
+
+    Since 2002, the HUPO Proteomic Standard Initiative has provided a standardized
+    annotation system for molecular interactions, and has defined the minimal information
+    requirements and the syntax of terms used to describe an interaction experiment.
+    The IntAct team has now focused on the development of similar standards for the
+    capture and annotation of microRNAs networks (https://www.ebi.ac.uk/intact/documentation/user-guide#curation_manual,
+    section 4.4.3). In the present project, we have focused on microRNAs which regulate
+    genes associated with rare diseases. In particular, we have selected three disorders,
+    among those listed in the Genomics England PanelApp knowledgebase (https://panelapp.genomicsengland.co.uk/),
+    which are: early onset dementia, growth failure in early childhood, and mitochondrial
+    disorders. All of them are associated with genes regulated by microRNAs. The knowledge
+    about RNA, proteins or genes involved in the interaction was extracted from the
+    literature and integrated with a detailed description of the cell types, tissues,
+    experimental conditions and effects of mutagenesis, providing a computer-interpretable
+    summary of the published data integrated with the huge amount of protein interactions
+    already gathered in the database. Furthermore, for each interaction, the binding
+    sites of the microRNA are precisely mapped on a well-defined mRNA transcript of
+    the target gene, possibly in line with the main transcript as indicated by GIFTS
+    (https://www.ebi.ac.uk/gifts/ ).
+
+    This information is crucial to conceive and design optimal microRNA mimics or
+    inhibitors, to interfere in vivo with a deregulated process. In the last years,
+    several microRNA-based therapeutics have been developed, and some have entered
+    phase II or III of clinical trials. As these approaches become more feasible,
+    high-quality, reliable networks of microRNA interactions are needed, for instance
+    to help in the selection of the best target to be inhibited or manipulated and
+    to predict potential secondary effects on off targets.'
+  authors:
+  - label: Simona Panni
+    series_ordinal: 1
+  - label: Kalpana Panneerselvam
+    series_ordinal: 2
+  - label: Pablo Porras
+    series_ordinal: 3
+  - label: Margaret Duesbury
+    series_ordinal: 4
+  - label: Livia Perfetto
+    series_ordinal: 5
+  - label: Luana Licata
+    series_ordinal: 6
+  - label: Henning Hermjakob
+    series_ordinal: 7
+  - label: Sandra Orchard
+    series_ordinal: 8
+  keywords:
+  - microRNA
+  - RNA interactions
+  - interaction database
+  - manual curation
+  title: 'The landscape of microRNA interactions annotation in IMEx: analysis of three
+    rare disorders as case study'
+- abstract: "The Human Cell Atlas and the boom of single-cell omics have put cell\
+    \ types at the center of modern biology. Various databases have become central\
+    \ to bioinformaticians, providing information about cell features (especially\
+    \ markers), which are core for labeling new datasets. \nDespite the centrality\
+    \ of cell types, the organization of information about these biological entities\
+    \ is still in its infancy. Unlike species and genes, there is no standard nomenclatural\
+    \ scheme for cell types nor clear boundaries for cell type assignment. \n\nThough\
+    \ most datasets use only ambiguous natural language, the Cell Ontology has provided\
+    \ unique identifiers for cell types for the past two decades. It is re-used in\
+    \ large efforts such as the Human Cell Atlas and HuBMAP. The Cell Ontology, however,\
+    \ is relatively cumbersome to contribute, requiring advanced skills in GitHub\
+    \ and ontology development. It currently provides identifiers for less than 2700\
+    \ cell types.\n\nWikidata - the all-purpose, open knowledge graph of the Wikimedia\
+    \ Foundation, gathering more than 100 million entities - is increasingly being\
+    \ used to integrate biomedical knowledge. It enables navigation and editing both\
+    \ from a visual interface and well-documented APIs. After efforts integrating\
+    \ data from Gene Ontology, Cellosaurus, Complex Portal, and beyond, its web-based\
+    \ SPARQL Query Service is mighty for biomedical discovery. \n\nIn this work, we\
+    \ describe a 3-year effort to explore Wikidata as a platform to represent information\
+    \ about cell types. Wikidata currently hosts identifiers for over 4600 cell types,\
+    \ with over 1000 cross-references to CL, 8400 markers genes, 500 links to Wikipedia\
+    \ pages, and 150 links to openly-licensed images, all queryable via SPARQL. Its\
+    \ simple, anyone-can-contribute infrastructure enables fast biocuration, improving\
+    \ coverage and providing a field laboratory for large-scale organization of information\
+    \ about cell types. Wikidata is at a mature stage for cell type information and\
+    \ ready to be harnessed by Cell Ontology and bioinformatics workflows."
+  authors:
+  - label: Tiago Lubiana
+    series_ordinal: 1
+  - label: Helder Nakaya
+    series_ordinal: 2
+  keywords:
+  - Wikidata
+  - cell types
+  - biocuration
+  - Cell Ontology
+  - Wikipedia
+  - SPARQL
+  title: Wikidata as a tool for biocuration of cell types
+- abstract: "Single-cell functional genomics is bringing major insight into the life\
+    \ sciences. Single-cell data are rapidly increasing both in quantity and in diversity,\
+    \ but lack method and metadata standardization. While some large projects have\
+    \ clear standards of reporting, most publicly available datasets have partial\
+    \ or non standardized metadata. This leads to multiple non-compatible “standards”\
+    \ across datasets, and limits reusability, which in turn presents challenges to\
+    \ make these data useful to an increasing community of specialists and non-specialists.\
+    \ Therefore, there is a need for a centralized, standardized repository where\
+    \ researchers can collaboratively upload, annotate, or access single-cell metadata.\n\
+    There is also a need for standards in the way single-cell data are stored and\
+    \ annotated, especially for cell type and other associated information. Indeed,\
+    \ metadata is critical to the capacity to use these large and potentially very\
+    \ informative datasets. It includes protocols, which constrain which transcripts\
+    \ were accessible or which normalizations are relevant, the association between\
+    \ barcodes and annotations, or the methods used to identify cell types. Existing\
+    \ ontologies and controlled vocabularies are not used systematically, even when\
+    \ information is reported.\n\nThe project scFAIR has the aim of building a collaborative\
+    \ platform supporting and disseminating Open Research Data practices for the single-cell\
+    \ genomics community, including data stewardship, both for sharing datasets and\
+    \ their metadata. scFAIR is funded by the Swiss Confederation with the aim of\
+    \ anchoring existing Open Research Data practices and taking them to the next\
+    \ level. It is a collaboration between the labs developing Bgee (https://bgee.org/)\
+    \ and ASAP (https://asap.epfl.ch/). An important aspect is to provide data stewardship\
+    \ to help researchers make their data FAIR, rather than adding a new layer of\
+    \ under-used “standards”.\nIn the first part of the project, we are gathering\
+    \ feedback, and learning from existing practices, in order to define a standard\
+    \ for single-cell data that can be widely adopted by researchers. The challenges\
+    \ identified include, e.g., for single-cell RNA-Seq data, the requirement to have\
+    \ access to barcode information, in relation to cluster information; or to have\
+    \ access to the pipeline analysis parameters allowing to reproduce the clustering\
+    \ step. \nThe second part of this project will be to develop a collaborative platform,\
+    \ implementing this standard, to improve single-cell data availability and reusability.\
+    \ An essential aspect is to obtain the involvement of the research community,\
+    \ to support them in the data submission process, notably by providing helpful\
+    \ information about errors identified in their metadata, and to disseminate the\
+    \ use of this single-cell FAIR practice.\n\nAt this Biocuration 2023 conference,\
+    \ we would like to make researchers aware of this funded Open Research Data initiative,\
+    \ and obtain a large involvement of the biocuration community. We believe scFAIR\
+    \ has strong potential to become a tool for biocurators. We will present the limitations\
+    \ already identified in existing metadata, and the solutions so far."
+  authors:
+  - label: Frederic B. Bastian
+    series_ordinal: 1
+  - label: Vincent Gardeux
+    series_ordinal: 2
+  - label: Bart Deplancke
+    series_ordinal: 3
+  - label: Marc Robinson-Rechavi
+    series_ordinal: 4
+  keywords:
+  - single-cell data
+  - Data stewardship
+  - FAIR data
+  - Community curation
+  title: 'scFAIR: Standardization and stewardship of single-cell metadata'
+- abstract: The practice of assigning code names (CNs) as the publicly declared identifiers
+    for distinct lead compound in drug discovery is widespread but remains problematic
+    for biocuration. They are are typically used on company web sites, press releases,
+    abstracts, posters, slides, clinical trials and journal articles. The most common
+    approximate form is “XXX-123456”,  with letter prefixes for the organization of
+    origin and numbering from an implicit internal registration system. However, they
+    are effectively non-standardized and may include, single letter codes, spaces,
+    commas, suffixes, multiple hyphens and CNs too short to have any useful searching
+    specificity. It can also be challenging to resolve and extract the name-to-structure
+    (n2s) from the journal article, especially for image-only representations.  Further
+    challenges arise when some CNs are blinded in press releases and clinical trial
+    entries (i.e. there is no open n2s). This work had an initial focus on detecting
+    and curating CNs from the Journal of Medicinal Chemistry. From ~2000 PubMed abstracts
+    ~ 300 codes were identified which could be manually mapped to structures. We also
+    developed an extended regular expression syntax to identify as many CNs as possible
+    automatically from just the abstract text. However extensive specificity tweaking
+    was needed including the compilation of false-positive blacklists corresponding
+    to in many cases to gene and cell line names in the abstracts. While many CNs
+    had n2s matches in PubChem from various submitting sources such as Guide to Pharmacology,
+    BindingDB and ChEMBL others were novel. However, many lead structures remained
+    difficult to map into databases because of trivial non-coded naming (e.g. compound
+    22b). Causes and amelioration of these curation and FAIRness issues for medicinal
+    chemistry lead compounds will be outlined.
+  authors:
+  - label: Christopher Southan
+    series_ordinal: 1
+  - label: Miguel Amaral
+    series_ordinal: 2
+  keywords:
+  - Drug discovery
+  - Compound code names
+  - Medicinal chemistry
+  - Resolving chemical names to structures
+  title: 'Resolving code names to structures from the medicinal chemistry literature:
+    not as FAIR as it should be'
+- abstract: "SABIO-RK is a manually curated database for biochemical reactions and\
+    \ their kinetics.\nAfter more than 15 years of data insertion into SABIO-RK with\
+    \ more than 300,000 kinetic parameters extracted from about 7,500 publications,\
+    \ the database has now reached a qualitative and quantitative level which makes\
+    \ a visualization of the data interesting and worthwhile.\nThe complex relationships\
+    \ between the multidimensional data are often difficult to follow or even not\
+    \ represented when using standard tabular views. Visualization is a natural and\
+    \ user-friendly way to quickly get an overview of the data and to detect clusters\
+    \ and outliers.\nSince the data entered in SABIO-RK is extracted from their original\
+    \ publications without evaluation concerning correctness of the measurement or\
+    \ quality of the biological or experimental setup there exists occasionally a\
+    \ high discrepancy in measured kinetic values from different publications.\nTo\
+    \ help database users identifying and filtering the most prominent or probable\
+    \ values within the correct context easily the visualization was implemented.\
+    \ \nFor that purpose we use a heat map, parallel coordinates and scatter plots\
+    \ to allow the interactive visual exploration of general entry-based information\
+    \ of biochemical reactions and specific kinetic parameter values.\nThe usability\
+    \ and functionality of the visualization was reviewed by users whose comments\
+    \ and requests were considered or implemented. The user feedback was generally\
+    \ positive with a high learning curve."
+  authors:
+  - label: Dorotea Dudaš
+    series_ordinal: 1
+  - label: Ulrike Wittig
+    series_ordinal: 2
+  - label: Maja Rey
+    series_ordinal: 3
+  - label: Andreas Weidemann
+    series_ordinal: 4
+  - label: Wolfgang Müller
+    series_ordinal: 5
+  keywords:
+  - visualization
+  - enzyme kinetics
+  - biocuration
+  - database
+  title: Improved Insights into the SABIO-RK Database via Visualization
+- abstract: The Standards for Genetic Variation Data Working Group of the AgBioData
+    Consortium brings together a community of biocurators, data providers, bioinformaticians,
+    and computer scientists working in agricultural research. Primary tasks for this
+    group are to support the harmonization and adoption of standards for variation
+    data from the various platforms in the plant and animal kingdoms, and to promote
+    interoperability and access to these datasets for researchers and breeders. Thanks
+    to the FAANG (Functional Annotation of ANimal Genomes) project, the adoption and
+    dissemination of metadata standards for animal genetic variants is already relatively
+    advanced, with an online portal that can manage much of the metadata in the form
+    of rule sets and provide tools for central validation – comparable to a data clearing
+    house with links to public repositories, such as ENA and EVA (the European Nucleotide
+    / Variation Archive, respectively). In plants, the first guidelines on FAIR handling
+    of data from genetic variants were published in 2022. This involved working directly
+    with the EMBL-EBI on supporting data submission to BioSamples and EVA, by providing
+    a preliminary checklist to classify and validate the data. The Working Group has
+    expanded such guidelines with recommendations to crosslink sample identifiers
+    with agricultural resources with germplasm repositories, such as GRIN (Germplasm
+    Resources Information Network) and ICRISAT (International Crops Research Institute
+    for the Semi-Arid Tropics), and include common use sample name synonyms with traceable
+    population panel associations. We have also begun to survey the AgBioData community,
+    including species-specific and clade-wide databases, germplasm repositories, as
+    well as independent data producers, on existing and anticipated genetic variation
+    data sets for inclusion in databases such as Gramene, Ensembl and SorghumBase,
+    as proof-of-concept for these recommendations. In addition, we have identified
+    new challenges and discussed potential solutions and sustainability workflows
+    – including adapting and further developing tools used to tackle similar problems
+    dealt a priori with human data, and will showcase how such challenges are being
+    addressed. Progress towards the above objectives, as well as the need for training
+    data generators submitting data to public repositories, is critical to make genetic
+    variation data more FAIR and sustainably TRUST-worthy for agroscience.
+  authors:
+  - label: Marcela Tello-Ruiz
+    series_ordinal: 1
+  - label: Nahla Bassil
+    series_ordinal: 2
+  - label: Sebastian Beier
+    series_ordinal: 3
+  - label: Lucas Boatwright
+    series_ordinal: 4
+  - label: Timothee Cezard
+    series_ordinal: 5
+  - label: Sarah Dyer
+    series_ordinal: 6
+  - label: Melanie Harrison
+    series_ordinal: 7
+  - label: Vivek Kumar
+    series_ordinal: 8
+  - label: Andrew Olson
+    series_ordinal: 9
+  - label: Mazdak Salavati
+    series_ordinal: 10
+  - label: Sharon Wei
+    series_ordinal: 11
+  - label: Doreen Ware
+    series_ordinal: 12
+  keywords:
+  - genetic variation
+  - germplasm
+  - agriculture
+  - genomics
+  - breeding
+  - data standards
+  - metadata
+  - agbiodata
+  - plants
+  title: Developing Standards for Biocuration & Interoperability of Genetic Variation
+    Data in Agricultural Research
+- abstract: "FAIR principles are abstract in nature, and harbour contextual complexities\
+    \ such as country-specific data protection laws and highly technical but broad\
+    \ guidelines. As such, FAIR principles are useful for creating guidelines for\
+    \ data providers and managers, but do not provide guidance on how to improve the\
+    \ ‘level of FAIRness’ of a project.\n\nThe FAIR Wizard is an accessible and freely\
+    \ available tool that breaks down the abstract nature of FAIR principles into\
+    \ specific practical actions, each supported with examples and value. The FAIR\
+    \ Wizard understands the contextual nature of applying FAIR principles, and utilises\
+    \ a case-by-case approach. First, by assessing the project via questionnaire to\
+    \ understand the current and desired level of FAIRness, then  creating a pathway\
+    \ of actionable steps to move from the current to the desired level. The FAIR\
+    \ Wizard also supports by linking to other FAIR resources, such as the FAIR Cookbook,\
+    \ a collection of examples and detailed ‘recipes’ for each specific step. \n\n\
+    This tool was developed collaboratively by the EMBL-EBI and the FAIRplus consortium,\
+    \ to assist data generators and data managers in increasing the overall level\
+    \ of FAIR of their data. By reducing the technical complexity and abstract nature\
+    \ of applying FAIR principles, the FAIR Wizard aims to make FAIRificiation process\
+    \ accessible to the wider community. The FAIR Wizard has additional plans for\
+    \ development based on community feedback, and has been used with the IMI and\
+    \ eLwazi projects in Spain and South Africa, respectively."
+  authors:
+  - label: Wei Kheng Teh
+    series_ordinal: 1
+  - label: Fuqi Xu
+    series_ordinal: 2
+  keywords:
+  - FAIR data
+  - Accessible
+  - Standards
+  - Open Access
+  - FAIR principles
+  - Data Management
+  - Data Stewardship
+  title: 'FAIR Wizard: Making the FAIRification process accessible'
+- abstract: "Curated resources such as protein-protein interaction databases and pathway\
+    \ databases require substantial human effort to maintain. An important bottleneck\
+    \ is the large body of published literature containing such information and the\
+    \ rate at which new publications appear. We present an approach that combines\
+    \ text mining and knowledge assembly to extend existing curated resources automatically\
+    \ using the INDRA system [1,2]. INDRA is an open-source Python library that integrates\
+    \ multiple text mining systems that can extract relations representing molecular\
+    \ mechanisms such as binding, phosphorylation and transcriptional regulation from\
+    \ publications at scale. Individual extractions providing evidence for each mechanism\
+    \ are then assembled from different text mining systems and publications. Assembly\
+    \ involves finding overlaps and redundancies in mechanisms extracted from published\
+    \ papers (using an ontology-guided approach) and using probability models to assess\
+    \ confidence and reduce machine reading errors. Beyond automated extraction, assembly\
+    \ and confidence assessment, INDRA also makes available a web-based interface\
+    \ to review assembled mechanisms along with supporting evidence and mark any errors\
+    \ to improve downstream usage. \n\nAutomatically assembled knowledge extends and\
+    \ enriches curated resources in several ways: by (1) finding new relationships\
+    \ that have not yet been manually curated, (2) adding additional mechanistic detail\
+    \ to existing curated relationships and (3) finding additional evidence for existing\
+    \ curated relationships in new experimental contexts. We demonstrate all forms\
+    \ of extensions (1-3) using INDRA on human protein-protein interactions in BioGRID\
+    \ [3] and kinase-substrate annotations in PhosphoSitePlus [4]. We discuss characteristics\
+    \ of this machine-assisted curation workflow in terms of the number of assembled\
+    \ mechanisms that need to be reviewed to find correct new relationships (i.e.,\
+    \ the curation yield) from text mining. Finally, we quantify the effect of these\
+    \ extensions on downstream data analysis [5]. Overall, this constitutes a reusable\
+    \ workflow for machine-assisted curation that can be applied to a broad range\
+    \ of resources to extend and enrich their content.\n\n[1] Gyori BM, Bachman JA,\
+    \ Subramanian K, Muhlich JL, Galescu L, Sorger PK. From word models to executable\
+    \ models of signaling networks using automated assembly. Molecular Systems Biology,\
+    \ 2017 13(11):954. https://doi.org/10.15252/msb.20177651\n[2] Bachman JA, Gyori\
+    \ BM, Sorger PK Automated assembly of molecular mechanisms at scale from text\
+    \ mining and curated databases bioRxiv, 2022. https://doi.org/10.1101/2022.08.30.505688\n\
+    [3] Oughtred R, Rust J, Chang C, Breitkreutz BJ, Stark C, Willems A, Boucher L,\
+    \ Leung G, Kolas N, Zhang F, Dolma S, Coulombe-Huntington J, Chatr-Aryamontri\
+    \ A, Dolinski K, Tyers M. The BioGRID database: A comprehensive biomedical resource\
+    \ of curated protein, genetic, and chemical interactions. Protein Sci. 2021;30(1):187-200.\
+    \ https://doi.org/10.1002/pro.3978\n[4] Hornbeck PV, Kornhauser JM, Latham V,\
+    \ Murray B, Nandhikonda V, Nord A, Skrzypek E, Wheeler T, Zhang B, Gnad F. 15\
+    \ years of PhosphoSitePlus®: integrating post-translationally modified sites,\
+    \ disease variants and isoforms. Nucleic Acids Res. 2019;47(D1):D433-D441. https://doi.org/10.1093/nar/gky1159\n\
+    [5] Bachman JA, Sorger PK, Gyori BM. Assembling a corpus of phosphoproteomic annotations\
+    \ using ProtMapper to normalize site information from databases and text mining\
+    \ bioRxiv, 2022. https://doi.org/10.1101/822668"
+  authors:
+  - label: Benjamin M. Gyori
+    series_ordinal: 1
+  - label: Charles Tapley Hoyt
+    series_ordinal: 2
+  keywords:
+  - text mining
+  - knowledge assembly
+  - machine-assisted curation
+  - pathway databases
+  title: Machine-assisted curation of molecular mechanisms using automated knowledge
+    extraction and assembly
+- abstract: The curation of genomic variants requires collecting evidence in variant
+    knowledge bases, but also in the literature. However, some variants result in
+    no match when searched in the scientific literature. Indeed, it has been reported
+    that a significant subset of information related to genomic variants are not reported
+    in the full text, but only in the supplementary material associated with a publication.
+    In the study, we present an evaluation of the use of supplementary data to improve
+    the retrieval of relevant scientific publications for variant curation. Our experiments
+    show that searching supplementary data enables to significantly increase the volume
+    of documents retrieved for a variant, thus reducing by about 63% the number of
+    variants for which no match is found in the scientific literature. Supplementary
+    data thus represents a paramount source of information for curating variants of
+    unknown significance and should receive more attention by global research infrastructures,
+    which maintain literature search engines.
+  authors:
+  - label: Emilie Pasche
+    series_ordinal: 1
+  - label: Anaïs Mottaz
+    series_ordinal: 2
+  - label: Julien Gobeill
+    series_ordinal: 3
+  - label: Pierre-André Michel
+    series_ordinal: 4
+  - label: Déborah Caucheteur
+    series_ordinal: 5
+  - label: Nona Naderi
+    series_ordinal: 6
+  - label: Patrick Ruch
+    series_ordinal: 7
+  keywords:
+  - information retrieval
+  - genetic variant
+  - supplementary material
+  title: Assessing the Use of Supplementary Materials to Improve Genomic Variant Discovery
+- abstract: "Single-cell RNA-Seq (scRNA-Seq) data are being massively produced in\
+    \ many conditions and species. They allow the study of hundreds of cell types,\
+    \ in widely different contexts regarding, e.g., anatomical localization, developmental\
+    \ stage, or disease state. The characterization of the cell type of each cell\
+    \ is highly labor intensive and error prone, especially when annotating results\
+    \ from bead-based or nanowell technologies, where the a priori cell type is unknown.\
+    \ This characterization usually involves a clustering of the cells based on their\
+    \ gene expression, the identification of marker genes for each cluster, and manual\
+    \ identification by an expert of the cell type corresponding to these marker genes.\n\
+    Additionally, data accessibility for reanalyzing scRNA-Seq data is often sparse,\
+    \ with e.g. missing barcode information, missing explicit relation between each\
+    \ cell and their annotated cluster, or free text format for cell type annotation.\n\
+    Machine-Learning (ML) methods are being used to annotate single-cell data, to\
+    \ facilitate the characterization of cell types. However, because of the lack\
+    \ of standardization of these data, it is challenging to train and evaluate algorithms\
+    \ for a variety of tissue and species contextes.\nThis project aims at providing\
+    \ a reference dataset in D. melanogaster, and to train and benchmark several ML\
+    \ algorithms thanks to it. It is a collaboration between Bgee (https://bgee.org/),\
+    \ specialized in transcriptomics data annotation, ASAP (https://asap.epfl.ch/),\
+    \ specialized in scRNA-Seq analysis pipeline standardization, and the Robinson\
+    \ Statistical Bioinformatics Group (https://robinsonlabuzh.github.io/), specialized\
+    \ in genomics statistical methods. Several experiments have been re-annotated\
+    \ and standardized: the Fly Cell Atlas, plus all publicly available experiments\
+    \ using the “10x Genomics” technology.\nCluster annotations are all standardized\
+    \ using reference ontologies (e.g., Cell Ontology, Uberon), using ontology post-composition\
+    \ methods, as well as the a priori information known before the clustering step.\
+    \ Cell barcode information, and link to their cluster allowing cell type assignment,\
+    \ are checked and integrated. Information for all integrated experiments is released\
+    \ in a common format, as H5AD files. \nSeveral systematic challenges have been\
+    \ already identified in metadata: uncertainties about cell type assignment, incorrect\
+    \ cell type assignments, or differences in annotations depending on the clustering\
+    \ method used. We report and correct these errors and uncertainties, in order\
+    \ to provide a gold standard reference dataset of FAIR and annotated scRNA-Seq\
+    \ data.\nWe will present this reference dataset and the lessons learned, to address\
+    \ open questions about, e.g., the validity of using a same ML classifier in different\
+    \ tissues and conditions, or even in different species; or about how to handle\
+    \ cell type assignment uncertainties. This dataset will allow researchers to evaluate\
+    \ and improve their own ML classification methods, and will provide a foundation\
+    \ for defining a common standard for scRNA-Seq FAIR data exchange."
+  authors:
+  - label: Anne Niknejad
+    series_ordinal: 1
+  - label: Vincent Gardeux
+    series_ordinal: 2
+  - label: Fabrice David
+    series_ordinal: 3
+  - label: David Wissel
+    series_ordinal: 4
+  - label: Bart Deplancke
+    series_ordinal: 5
+  - label: Marc Robinson-Rechavi
+    series_ordinal: 6
+  - label: Mark Robinson
+    series_ordinal: 7
+  - label: Frederic B. Bastian
+    series_ordinal: 8
+  keywords:
+  - Single-cell RNA-Seq
+  - Machine Learning
+  - FAIR data
+  - Data curation
+  title: Building a reference dataset of single-cell RNA-Seq data for training Machine-Learning
+    algorithms
+- abstract: 'About 2 million species of animals, plants, and microbes have been described.
+    Excluding microbes, the vast majority of them has been described using plain text
+    and some illustrations. While there are about 150 global species databases, now
+    organized under the umbrella of the Catalogue of Life project (https://www.catalogueoflife.org),
+    only some of them have compiled comprehensive data on species descriptions. Using
+    the Reptile Database as an example (http://www.reptile-database.org), we present
+    an attempt to collect historical and recent species descriptions, developing dictionaries
+    and an ontology of morphological terms, and initial results from text-mining this
+    corpus. The database currently contains descriptions of about 8,000 (out of ~12,000)
+    species, curated from ca. 5,000 papers and books, plus photos for 6,200 species.
+    This dataset is complemented by links to various other data sources such as NCBI
+    Taxonomy and thus Genbank, IUCN conservation data, range data, and via DOIs to
+    their source publications.
+
+
+    The goal of this project is to extract information into tables which can be used
+    for downstream applications and analyses, such as identification tools or phylogenetic
+    and macro-ecological studies.
+
+
+    The state of species descriptions across databases is summarized and related projects
+    are presented, such as those by Plazi and the Biodiversity Community Integrated
+    Knowledge Library (BiCikl).'
+  authors:
+  - label: Peter Uetz
+    series_ordinal: 1
+  keywords:
+  - Biodiversity
+  - Species descriptions
+  - Text-mining
+  - Morphology ontology
+  title: Curating species descriptions for the digital age
+- abstract: 'Alzheimer’s disease and related dementias (AD/ADRDs) are among the most
+    common forms of dementia, and yet no effective treatments have been developed.
+    To gain insight into the disease mechanism, capturing the connection of genetic
+    variations to their impacts, at the disease and molecular levels, is essential.
+    The scientific literature continues to be a main source for reporting experimental
+    information about the impact of variants. Thus, the development of automatic methods
+    to identify publications and extract the information from the unstructured text
+    would facilitate collecting and organizing information for reuse. We developed
+    eMIND, a deep learning-based text mining system that supports the automatic extraction
+    of annotations of variants and their impacts in AD/ADRDs. In particular, we use
+    this method to capture the impacts of protein-coding variants affecting a selected
+    set of protein properties, such as protein activity/function, structure and post-translational
+    modifications. A major hypothesis we are testing is that the structure and words
+    used in statements that describe the impact of one entity on another entity or
+    event/process are not specific to the two objects under consideration. Thus, a
+    BERT model was fine-tuned using a training dataset with 8,245 positive and 11,496
+    negative impact relations derived from impact relations involving microRNAs. We
+    conducted a preliminary evaluation on the efficacy of eMIND on a small manually
+    annotated corpus (60 abstracts) consisting of  variant impact relations from AD/ADRDs
+    literature, and obtained a recall of 0.84 and a precision of 0.94. The publications
+    and extracted information by eMIND are integrated into the UniProtKB computationally
+    mapped bibliography to expand annotations on protein entries. eMIND’s text-mined
+    output are presented using controlled vocabularies and ontologies for variant,
+    disease and impact along with the evidence sentences. Evaluation of eMIND on a
+    larger test dataset is ongoing. A sample of annotated abstracts can be accessed
+    at URL: https://research.bioinformatics.udel.edu/itextmine/emind.
+
+
+    Funding: This work has been funded by NIA supplement grant to UniProt 3U24HG007822-07S1,
+    NIH/NHGRI: UniProt - Enhancing functional genomics data access for the Alzheimer''s
+    Disease (AD) and dementia-related protein research communities.
+
+
+    Acknowledgements: We would like to acknowledge the UniProt Consortium (https://www.uniprot.org/help/uniprot_staff).'
+  authors:
+  - label: Samir Gupta
+    series_ordinal: 1
+  - label: Xihan Qin
+    series_ordinal: 2
+  - label: Qinghua Wang
+    series_ordinal: 3
+  - label: Julie Coward
+    series_ordinal: 4
+  - label: Hongzhan Huang
+    series_ordinal: 5
+  - label: Cathy Wu
+    series_ordinal: 6
+  - label: K Vijay-Shanker
+    series_ordinal: 7
+  - label: Cecilia Arighi
+    series_ordinal: 8
+  keywords:
+  - Alzheimer’s disease
+  - Annotation
+  - Deep learning
+  - Relation extraction
+  - Text mining
+  title: 'eMIND: Enabling automatic collection of protein variation impacts in Alzheimer’s
+    disease from the literature'
