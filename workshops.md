@@ -3,8 +3,8 @@ layout: default
 title: Workshops
 permalink: /workshops
 ---
-The Biocuration 2023 will be hosting {{ site.data.workshops | size }} workshops. While most precede
-the mainline conference agenda, the *Careers in Biocuration* workshop hosted by the ISB will be
+The Biocuration 2023 will be hosting {{ site.data.workshops | size }} workshops, also at the main conference venue. 
+While most precede the mainline conference agenda, the *Careers in Biocuration* workshop hosted by the ISB will be
 during the main agenda of the final day of the conference.  Here's a quick look:
 
 <table>
