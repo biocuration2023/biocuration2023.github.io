@@ -211,7 +211,6 @@ person #	name	email	country	affiliation
 354	Melissa Haendel	melissa@tislab.org	United States	University of Colorado
 314	Melissa Harrison	mharrison@ebi.ac.uk	United Kingdom	EMBL-EBI
 1	Michael Baudis	michael.baudis@mls.uzh.ch	Switzerland	University of Zurich
-395	Michael Baudis	michael.baudis@imls.uzh.ch	Switzerland	University of Zurich
 349	Michael Gargano	michael.gargano@jax.org	United States	Jackson Laboratory
 180	Michael Surette	surette@mcmaster.ca	Canada	McMaster University
 37	Michael Tiemeyer	mtiemeyer@ccrc.uga.edu	United States	University of Georgia
@@ -248,7 +247,6 @@ person #	name	email	country	affiliation
 248	Omnia Nasser	omniaeman11@gmail.com	Egypt	Ain shams university
 151	Pablo Porras	pporrasmillan@gmail.com	United Kingdom	AstraZeneca
 326	Paola Roncaglia		United Kingdom	EMBL-EBI
-379	Paola Roncaglia	paola@scibite.com	Italy	SciBite
 261	Parit Bansal	parit.bansal@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 68	Parul Gupta	parul.gupta@oregonstate.edu	United States	Oregon State University
 49	Pascale Gaudet	pascale.gaudet@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
@@ -273,11 +271,9 @@ person #	name	email	country	affiliation
 317	Qinghua Wang	wangq@udel.edu	United States	University of Delaware
 383	Quanli Wang		United States	AstraZeneca
 148	Rachael Huntley	rachhuntley@hotmail.com	United Kingdom	SciBite
-376	Rachael Huntley	rachael@scibite.com	United Kingdom	SciBite
 158	Rachel Lyne	rl24@sanger.ac.uk	United Kingdom	Wellcome Trust Sanger Institute
 310	Rafat Ali	rs.rafat@jmi.ac.in	India	Jamia Millia Islamia University
-204	Rahel Paloots	rahel.paloots@uzh.ch	Switzerland	University of Zurich
-391	Rahel Paloots	rahelpaloots@gmail.com	Switzerland	University of Zurich
+391	Rahel Paloots	rahel.paloots@uzh.ch	Switzerland	University of Zurich
 346	Raja Mazumder	mazumder@gwu.edu	United States	George Washington University
 346	Ralf Stephan	gtrwst9@gmail.com	Canada	Ontario Institute for Cancer Research
 66	Rama Balakrishnan	ramasgd@gmail.com	United States	Genentech
@@ -313,8 +309,7 @@ person #	name	email	country	affiliation
 64	Seth Carbon	sjcarbon@lbl.gov	United States	Lawrence Berkeley National Laboratory
 285	Sharon Wei	weix@cshl.edu	United States	Cold Spring Harbor Laboratory
 144	Shasank Sekhar Swain	shasank@ils.res.in	India	DBT Institute of Life Sciences
-328	Shawn Zheng Kai Tan		United Kingdom	EMBL-EBI
-374	Shawn Zheng Kai Tan	shawntan@ebi.ac.uk	United Kingdom	EMBL-EBI
+374	Shawn Zheng Kai Tan		United Kingdom	EMBL-EBI
 362	Shengbo Wang	shengbo_wang@ebi.ac.uk	United Kingdom	EMBL-EBI
 385	Shikta Das		United Kingdom	AstraZeneca
 378	Shirin Saverimuttu	shirin@scibite.com	United Kingdom	SciBite
