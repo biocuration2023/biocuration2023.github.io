@@ -4,7 +4,7 @@ title: Abstracts
 permalink: /abstracts
 ---
 
-The 16th Annual International Biocuration Conference (Biocuration 2023),
+The 16<sup>th</sup> Annual International Biocuration Conference (Biocuration 2023),
 supported by the ISB, invites attendees to consider two grand challenges
 for the future of biocuration and the growing biocuration community:
 
@@ -63,7 +63,11 @@ to Biocuration efforts as well.
 
 Abstracts can be submitted to be considered for oral presentations or
 poster presentations through [EasyChair](https://easychair.org/conferences/?conf=biocuration2023) until January
-3<sup>rd</sup>, 2023. <span style="color: red; font-weight: bold;">Abstract submission is closed!<span>
+3<sup>rd</sup>, 2023.
+
+Late-breaking poster submission opens on February 1<sup>st</sup>, 2023. Submissions can be sent through
+[EasyChair](https://easychair.org/conferences/?conf=biocuration2023) and considered on a rolling basis.
+Late-breaking poster submission closes on March 31<sup>st</sup>, 2023.
 
 ### Workshop Proposals
 

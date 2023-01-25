@@ -4,7 +4,7 @@ title: Registration
 permalink: /registration
 ---
 
-The 16th Annual International Biocuration Conference (Biocuration 2023) is organized in collaboration with
+The 16<sup>th</sup> Annual International Biocuration Conference (Biocuration 2023) is organized in collaboration with
 the [International Society for Biocuration (ISB)](https://www.biocuration.org/). ISB members save significantly on the
 registration fee. See [this page](https://www.biocuration.org/membership/join-isb/) for more information about ISB
 membership and registration.
