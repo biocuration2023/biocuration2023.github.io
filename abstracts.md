@@ -69,7 +69,7 @@ Late-breaking poster submission opens on February 1<sup>st</sup>, 2023. Submissi
 [EasyChair](https://easychair.org/conferences/?conf=biocuration2023) and considered on a rolling basis.
 Late-breaking poster submission closes on March 31<sup>st</sup>, 2023.
 
-### Workshop Proposals
+### Workshop Proposals (Closed)
 
 Workshop proposals can be submitted for consideration through [this form](https://forms.gle/iYUu2RN25TgUMW7x9) until
 December 23<sup>rd</sup>, 2022.
