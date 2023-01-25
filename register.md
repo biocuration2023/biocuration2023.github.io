@@ -14,11 +14,14 @@ membership and registration.
     Register Here
 </a>
 
+Please also note that this conference is fully in-person, i.e., we are
+not providing virtual attendance options.
+
 ## What's Included with Registration
 
 The registration fee covers:
 
-- Attendance at all sessions (including workshops)
+- In-person attendance at all sessions (including workshops)
 - Lunch on full conference days
 - Coffee/refreshments during breaks
 - Welcome and poster receptions

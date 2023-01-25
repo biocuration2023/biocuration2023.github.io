@@ -26,7 +26,7 @@ Following the virtual installments of the Annual International Biocuration Confe
 [2021](https://www.biocuration.org/14th-annual-biocuration-conference-virtual/)
 and [2022](https://www.biocuration.org/15th-annual-biocuration-conference-virtual/) due to the
 pandemic, we are pleased to announce that in 2023 we
-will return to a fully in-person meeting in **Padua, Italy** from **Monday, April
+will return to a fully in-person (i.e., no remote options) meeting in **Padua, Italy** from **Monday, April
 24<sup>th</sup> lunchtime to Wednesday, April 26<sup>th</sup>, 2023** ([📅 ics](cal/biocuration2023.ics)).
 Conference workshops will be held on the afternoon of Sunday, April 23<sup>rd</sup> and the morning
 of Monday, April 24<sup>th</sup>.
