@@ -54,3 +54,20 @@ If you require a letter of invitation for a visa application, please
 contact: [biocuration2023@gmail.com](mailto:biocuration2023@gmail.com)
 
 For help with meeting registration, please contact [biocuration2023@gmail.com](mailto:biocuration2023@gmail.com)
+
+## Cancellation policy
+
+Cancellations must be notified in writing to biocuration2023@gmail.com. 
+Refunds will be made under the following conditions:
+ - For cancellations until January 31, 2023: full refund of registration fees received, excluded €100.00 administrative fee
+ - For cancellations between January 31 and March 15, 2023: refund of 70% of registration fees received, excluded €100.00 administrative fee
+ - For cancellations after March 15, 2023: no refund will be possible
+ All refunds will be handled after the Meeting.
+
+
+
+
+
+
+
+
