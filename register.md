@@ -57,7 +57,7 @@ For help with meeting registration, please contact [biocuration2023@gmail.com](m
 
 ## Cancellation policy
 
-Cancellations must be notified in writing to biocuration2023@gmail.com. 
+Cancellations must be notified in writing to the [Organizing Secretariat](meet@meetandwork@com). 
 Refunds will be made under the following conditions:
  - For cancellations until January 31, 2023: full refund of registration fees received, excluded €100.00 administrative fee
  - For cancellations between January 31 and March 15, 2023: refund of 70% of registration fees received, excluded €100.00 administrative fee
