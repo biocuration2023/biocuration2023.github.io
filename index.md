@@ -26,7 +26,7 @@ Following the virtual installments of the Annual International Biocuration Confe
 [2021](https://www.biocuration.org/14th-annual-biocuration-conference-virtual/)
 and [2022](https://www.biocuration.org/15th-annual-biocuration-conference-virtual/) due to the
 pandemic, we are pleased to announce that in 2023 we
-will return to a fully in-person meeting in **Padua, Italy** from **Monday, April
+will return to a fully in-person (i.e., no remote options) meeting in **Padua, Italy** from **Monday, April
 24<sup>th</sup> lunchtime to Wednesday, April 26<sup>th</sup>, 2023** ([📅 ics](cal/biocuration2023.ics)).
 Conference workshops will be held on the afternoon of Sunday, April 23<sup>rd</sup> and the morning
 of Monday, April 24<sup>th</sup>.
@@ -76,6 +76,7 @@ part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.
 | January 18<sup>th</sup>, 2023                                                         | Abstract acceptance notification                                                                                                         |
 | January 20<sup>th</sup>, 2023                                                         | Travel grant decisions sent                                                                                                              |
 | **January 31<sup>st</sup>, 2023** ([📅 ics](cal/biocuration2023-early-bird.ics))      | Early Bird conference registration ends                                                                                                  |
+| February 1<sup>st</sup>, 2023                                                         | Late poster submission begins ([on EasyChair](https://easychair.org/conferences/?conf=biocuration2023))                                  |
 | March 31<sup>st</sup>, 2023                                                           | Late poster submission ends                                                                                                              |
 | April 14<sup>th</sup>, 2023                                                           | Conference booklet released                                                                                                              |
 | **April 18<sup>th</sup>, 2023** ([📅 ics](cal/biocuration2023-registration-ends.ics)) | Conference registration ends                                                                                                             |
@@ -111,3 +112,9 @@ part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.
 <br style="clear: both;" />
 {% endfor %}
 </dl>
+
+## Contact Us
+
+- Email: <a href="mailto:biocuration2023@gmail.com">biocuration2023@gmail.com</a>
+- Twitter: [@biocuration2023](https://twitter.com/biocuration2023)
+- Mastodon: [@biocuration2023@genomic.social](https://genomic.social/@biocuration2023)
