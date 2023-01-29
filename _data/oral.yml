@@ -1,0 +1,734 @@
+- abstract: "The Gene Ontology (GO) (http://geneontology.org/) provides a human and\
+    \ machine readable synthesis of knowledge of the molecular functions of gene products\
+    \ and the cellular components and biological processes in which those functions\
+    \ occur. Gene Ontology Causal Activity Models (GO-CAMs) (https://geneontology.cloud/home)\
+    \ assemble genes and their functions into causally linked activity flow models.\
+    \ GO-CAMs provide a human readable description of biological systems and a framework\
+    \ for computational systems biology approaches such as network-based ‘omics integration\
+    \ and analysis and graph-based machine learning.  \nIn this presentation, we describe\
+    \ efforts to capture knowledge of human biology using GO-CAMs, including human\
+    \ gene functions, microbiome gene functions, and the regulation and roles of small\
+    \ molecules in human systems. These efforts build on a number of foundational\
+    \ pillars - a large corpus of existing GO annotations for human proteins, a draft\
+    \ human functionome that incorporates annotations for human proteins and orthologs\
+    \ using phylogenetic approaches (see poster from Feuermann et al.), small molecule\
+    \ annotation in UniProt from the Rhea knowledgebase of biochemical reactions (www.rhea-db.org)\
+    \ and the mapping of Rhea and the GO in Rhea2GO, and the creation of draft GO-CAM\
+    \ models of human biology from human Reactome pathway models (www.reactome.org).\
+    \  Our approach to synthesize this knowledge in GO-CAM and enrich it with emerging\
+    \ knowledge from the literature has created over 250 GO-CAM models for human biology.\
+    \ These and other GO-CAM models from the Gene Ontology Consortium are freely available\
+    \ at http://noctua.geneontology.org/."
+  authors:
+  - label: Patrick Masson
+    series_ordinal: 1
+  - label: Cristina Casals-Casas
+    series_ordinal: 2
+  - label: Lionel Breuza
+    series_ordinal: 3
+  - label: Marc Feuermann
+    series_ordinal: 4
+  - label: Sylvain Poux
+    series_ordinal: 5
+  - label: Pascale Gaudet
+    series_ordinal: 6
+  - label: Alan Bridge
+    series_ordinal: 7
+  - label: Paul D. Thomas
+    series_ordinal: 8
+  - label: Uniprot Consortium
+    series_ordinal: 9
+  keywords:
+  - Human biological systems
+  - GO annotation
+  - Causal Activity Models
+  submitted: 2022-12-13 13:34
+  title: Gene Ontology Causal Activity Models (GO-CAMs) for human biology
+- abstract: "The UniProt Knowledgebase (UniProtKB, at www.uniprot.org) is a reference\
+    \ resource of protein sequences and functional annotation that covers over 200\
+    \ million protein sequences from all branches of the tree of life. \nUniProtKB\
+    \ provides a wealth of information on protein sequences and their functions, including\
+    \ descriptions of the nature of biologically relevant ligands (also known as cognate\
+    \ ligands) such as substrates/products of enzymes, cofactors, activators and inhibitors,\
+    \ as well as their binding sites. UniProtKB captures this information through\
+    \ expert literature curation and from experimentally resolved protein structures\
+    \ in the Protein Data Bank (PDB/PDBe).\nHere we describe improvements to the representation\
+    \ of cognate ligands in binding site annotations in UniProtKB using the chemical\
+    \ ontology ChEBI (www.ebi.ac.uk/chebi/). In 2022, we performed a complete reannotation\
+    \ of all cognate ligand binding sites in UniProtKB, replacing textual descriptions\
+    \ of defined ligands with stable unique identifiers from the ChEBI ontology, which\
+    \ we now use as the reference vocabulary for all new ligand annotations. The last\
+    \ UniProt release includes about 800 unique cognate ligands from ChEBI, which\
+    \ feature in over 65 million binding site annotations and over 15 million protein\
+    \ sequence records. This work continues the standardization of small molecule\
+    \ annotation in UniProtKB, which also covers the use of Rhea (www.rhea-db.org)\
+    \ and ChEBI for the annotation of enzymes, transporters, and cofactors. This enhanced\
+    \ dataset will provide improved support for efforts to study and predict functionally\
+    \ relevant interactions between proteins and their cognate ligands using computational\
+    \ approaches. Users can access the dataset via the UniProt website, REST API,\
+    \ and SPARQL endpoint, which have been modified to support ligand searches using\
+    \ the chemical ontology and chemical structure data of ChEBI."
+  authors:
+  - label: Elisabeth Coudert
+    series_ordinal: 1
+  - label: Sebastien Gehant
+    series_ordinal: 2
+  - label: Nicole Redaschi
+    series_ordinal: 3
+  - label: Alan Bridge
+    series_ordinal: 4
+  - label: The Uniprot Consortium
+    series_ordinal: 5
+  keywords:
+  - Proteins
+  - Ligands
+  - Biocuration
+  - UniProtKB
+  - Rhea
+  - ChEBI
+  - 3D-structures
+  - Cheminformatics
+  submitted: 2022-12-15 09:17
+  title: Annotation of biologically relevant ligands in UniProtKB using ChEBI
+- abstract: "The Single Cell Expression Atlas knowledge base analyses curated, high\
+    \ quality gene expression data at the level of single cells. Data are then displayed\
+    \ through dimensionality reduction plots and heatmaps to show how cells cluster\
+    \ based on their expression profiles.  However, in order to truly understand how\
+    \ expression profiles define cell populations and are altered by perturbations,\
+    \ expression profiles need to be linked to cell types and novel subpopulations\
+    \ identified.  Thus, the single cell anatomogram project was born. Its aim is\
+    \ to display cell types realistically within their parent structures alongside\
+    \ cell types provided by the data submitter. Anatomograms are now available representing\
+    \ adult tissues for lung; placenta; kidney; pancreas and liver. \n \nThe single\
+    \ cell anatomogram project is a diverse collaboration between scientific experts,\
+    \ curators, ontologists, artists, bioinformaticians and web developers to derive\
+    \ interactive images which show cells at single cell resolution within the wider\
+    \ context of the tissue. These images allow users to delve into lifelike representations\
+    \ of organ structures from macro-structures down to single cells within the tissue.\n\
+    \ \nInitially, artists work with curators and scientific experts, creating true\
+    \ to life shapes from real data, such as immunohistochemistry and immunofluorescence\
+    \ images to create structures and cell types 'in situ'. Cell shapes and detailed\
+    \ structures are layered on top of the tissue structure like a cake. Each shape\
+    \ is mapped either to an existing ontology term or a new term and relationships\
+    \ are created, in collaboration with ontologists from UBERON and Cell Ontology.\
+    \ This allows us to recreate the existing biological hierarchy from structure\
+    \ to cell type e.g. kidney > nephron > loop of Henle > epithelial cell of loop\
+    \ of Henle.\n \nOnce illustrations have been created, mapped to their ontology\
+    \ identifiers and the appropriate hierarchy defined, these constructs are then\
+    \ incorporated into the Single Cell Expression Atlas by our web development team.\
+    \ Developers ensure that the resulting images are interactive and users can select\
+    \ regions within a tissue to ‘zoom into’ down to the level of individual cells\
+    \ within sub-structures of that tissue. This is enabled by the standardised bioinformatics\
+    \ analysis pipelines that adequately merge data with curated metadata.\n\nLast,\
+    \ but not least, is the data and cell types inferred from expression profiles.\
+    \ Author-defined inferred cell types are mapped where possible to ontology terms\
+    \ allowing us to identify the same cell types across multiple datasets. Once a\
+    \ user lands on these datasets, the anatomograms are displayed alongside a heatmap\
+    \ showing the top 5 genes per cell type associated with that dataset. When a cell\
+    \ type ‘shape’ is selected this then lights up showing that population, giving\
+    \ context to the data. Thus anatomograms provide a new perspective on visualisation\
+    \ of multi-layered biological information at the single cell level."
+  authors:
+  - label: Nancy George
+    series_ordinal: 1
+  - label: Irene Papatheodorou
+    series_ordinal: 2
+  - label: Anja Fullgrabe
+    series_ordinal: 3
+  - label: Yalan Bi
+    series_ordinal: 4
+  - label: Pedro Madrigal
+    series_ordinal: 5
+  keywords:
+  - single cell sequencing
+  - drosophila melanogaster
+  - flybase
+  - EBI
+  - scRNA-seq
+  - Fly Cell Atlas
+  submitted: 2022-12-15 10:35
+  title: Single Cell Expression Atlas and FlyBase - the Fly Cell Atlas Anatomograms
+    – where data meets art
+- abstract: "Making human disease knowledge FAIR and TRUST-worthy are the hallmarks\
+    \ of the Human Disease Ontology (DO) project. Strengthening the biocuration of\
+    \ human disease related data has driven development of this resource. Coordination\
+    \ of key biomedical data across large-scale biomedical resources strengthens the\
+    \ foundation of knowledge, supports the development of new resources and provides\
+    \ a venue for evolving data models to meet the demands of knowledge generation\
+    \ and discovery.  The Human Disease Ontology began, as most ontology projects\
+    \ do, as a community resource to coordinate data within one or two research groups.\
+    \ Growing over two decades into a highly utilized, international genomic resource.\
+    \ Serving as the nomenclature and classification standard for human diseases,\
+    \ the DO provides a stable, etiology-based structure integrating mechanistic drivers\
+    \ of human disease. In the past two decades the DO has grown from a collection\
+    \ of clinical vocabularies, into an expertly curated resource of over 11,000 common\
+    \ and rare diseases linking disease concepts through more than 35,000 vocabulary\
+    \ cross mappings. \nThe responsibility of becoming a community resource serving\
+    \ hundreds of biomedical, clinical, ontology and software resources involves the\
+    \ development of rigorous quality control protocols, a structured release cycle,\
+    \ while building trust and demonstrating reliability through expert curation of\
+    \ each disease term, definition and disease annotation. Expanding an ontology\
+    \ resource to meet evolving needs and coordinating the ever expanding disease\
+    \ knowledge corpus necessitates periodic reassessment and expansion of the DO’s\
+    \ data model hand-in-hand with the commitment for coordinated knowledge development.\
+    \ Here, we report on the significant changes in content, data modeling, infrastructure\
+    \ development, utilization of ML tools, usage and community outreach for the DO\
+    \ project."
+  authors:
+  - label: Lynn M Schriml
+    series_ordinal: 1
+  - label: J. Allen Baron
+    series_ordinal: 2
+  - label: Dustin Olley
+    series_ordinal: 3
+  - label: Mike Schor
+    series_ordinal: 4
+  - label: Lance Nickel
+    series_ordinal: 5
+  keywords:
+  - data standards
+  - disease biocuration
+  - ontology
+  - knowledgebase
+  submitted: 2022-12-16 19:50
+  title: A 20 year perspective on FAIR and TRUST-worthy Human Disease Knowledge Representation.
+- abstract: 'Genomics England’s PanelApp (https://panelapp.genomicsengland.co.uk/)
+    is a knowledgebase which stores virtual gene panels relating to human conditions
+    including rare diseases and cancer. It supports England’s NHS Genomic Medicine
+    Service (GMS) by defining focused panels of genes with convincing evidence of
+    disease causation. Such genes are deemed suitable for clinical genome interpretation,
+    in turn enhancing diagnostic ability in a clinical setting.
+
+    Support for gene involvement in a human disorder is derived from a combination
+    of sources including published scientific literature and evidence from experts
+    in the scientific and clinical communities, submitted as PanelApp gene reviews
+    – a powerful integrated feature of the web interface. However, with the large
+    volume of data relating to gene-disease relationships, maximising impact on scientific
+    or clinical decision-making has become increasingly challenging.
+
+    Manual curation remains integral for making final decisions on gene panel content,
+    but due to the demands of maintaining nearly 200 panels, PanelApp curators have
+    developed methods for prioritising gene-disease associations for assessment. External
+    reviewer activity is extracted weekly, and reviews are automatically assigned
+    categories of priority based on current and suggested gene rating classifications,
+    ensuring evidence that may lead to changes to diagnostic-grade genes is assessed
+    in a timely manner. Tracking tickets are created and assigned to curators based
+    on disease specialities, enabling curators to become familiar with disease areas
+    and specific panels. Tracking of reviews also enables concerted curation effort
+    on the most frequently used panels, facilitating focused investigation with maximal
+    downstream patient benefit. In parallel this highlights panels with minimal activity
+    allowing curators to attribute this to limitations in disease knowledge or unmet
+    community engagement needs. Active engagement of the PanelApp team with reviewer
+    communities increases the valuable contributions from clinical specialists and
+    aids delivery of results that are aligned with current clinical expertise.
+
+    High quality panels have been shown to increase diagnostic yield in the NHS GMS,
+    driving improved clinical utility for patients with rare diseases and cancer,
+    and further emphasising the importance of a strategic approach for effective panel
+    maintenance by curators.'
+  authors:
+  - label: Arina Puzriakova
+    series_ordinal: 1
+  keywords:
+  - Gene-disease associations
+  - Crowdsourcing
+  - Diagnostic yield
+  - Curation prioritisation approaches
+  submitted: 2022-12-19 12:05
+  title: Leveraging crowdsourcing and curation prioritisation for maintenance of clinical
+    gene panels
+- abstract: "DisProt (https://disprot.org/) is the major repository of manually curated\
+    \ annotations of intrinsically disordered proteins and regions from the literature.\n\
+    DisProt relies on both professional and community curators who are provided with\
+    \ a variety of material to support their curation process. These include a curation\
+    \ manual, interactive exercises and training sessions that evolved from virtual\
+    \ training sessions to eLearning courses available in English and Spanish, along\
+    \ with in person training sessions.\nTo provide comprehensive and standardized\
+    \ annotations, DisProt relies on the Gene Ontology (GO) and Evidence and Conclusion\
+    \ Ontology (ECO) and on the adoption of the Minimum Information About Disorder\
+    \ (MIADE) standard.\nHigher quality and consistency of annotations is provided\
+    \ by a robust reviewing process - entries are reviewed and validated by expert\
+    \ curators that support other curators during the whole process. \nDisProt curators\
+    \ - both community and professional ones - continuously check the literature for\
+    \ novel experimental evidence for proteins belonging to eukaryota, bacteria, viruses\
+    \ and archaea, including also the model organisms represented in the DisProt home\
+    \ page.\nFinally, DisProt also focuses on thematic datasets, collections describing\
+    \ biological areas where IDPs play a crucial role, e.g. autophagy-related proteins\
+    \ and viral proteins.\nA new release of DisProt, pertaining technical and/or scientific\
+    \ content, is available every six months."
+  authors:
+  - label: Maria Victoria Nugnes
+    series_ordinal: 1
+  - label: Federica Quaglia
+    series_ordinal: 2
+  - label: Luiggi Tenorio Ku
+    series_ordinal: 3
+  - label: Maria Cristina Aspromonte
+    series_ordinal: 4
+  - label: Damiano Piovesan
+    series_ordinal: 5
+  - label: Silvio Tosatto
+    series_ordinal: 6
+  keywords:
+  - database
+  - curation
+  - training
+  - ontologies
+  - intrinsically disordered proteins
+  - DisProt
+  submitted: 2022-12-22 16:15
+  title: Biocuration in DisProt, the manually curated database for intrinsically disordered
+    proteins
+- abstract: "GigaScience journal celebrated its 10th birthday last year, and GigaDB\
+    \ is technically 1 yr older than the journal. In that time we have led the way\
+    \ in Open data sharing and FAIRification of data. We aim to ensure every article\
+    \ published by GigaScience Press is fully reproducible and transparent. In order\
+    \ to do that, it is essential that all data units are openly available along with\
+    \ the manuscript. \nGigaDB provide a manually curated dataset to accompany each\
+    \ manuscript published in both GigaScience and GigaByte (launched in 2020) journals,\
+    \ we collate the data files required for transparency and reproducibility and\
+    \ ensure data are deposited in appropriate public repositories with links included\
+    \ in both the manuscript and the dataset.\nIn addition, we provide assistance\
+    \ to authors in; (a) the curation of sample metadata, making use of ontologies\
+    \ where appropriate (e.g. ENVO, PATO, OBI, BTO, UBERON, etc.); (b) the curation\
+    \ of files being made available to ensure they are complete, appropriately formatted,\
+    \ well described, and tagged with both a file format and a data-type chosen from\
+    \ a controlled vocabulary based on the EDAM ontology; and (c) the inclusion of\
+    \ specific Subject tags to each dataset which are chosen from a slim set of SRAO\
+    \ terms.\nMoving forwards, we hope to enable better integration of our datasets\
+    \ with other external resources by exposing the ontology term usage in GigaDB\
+    \ as metatags on each dataset webpage to assist researchers creating knowledge\
+    \ graphs."
+  authors:
+  - label: Christopher Hunter
+    series_ordinal: 1
+  - label: Chris Armit
+    series_ordinal: 2
+  - label: Mary Ann Tuli
+    series_ordinal: 3
+  - label: Yannan Fan
+    series_ordinal: 4
+  keywords:
+  - Ontology
+  - FAIR
+  - BioCuration
+  - Publishing
+  submitted: 2022-12-30 09:30
+  title: 'GigaDB: Utilising ontologies to curate data publications'
+- abstract: "When the International Society for Biocuration (ISB) was established\
+    \ in 2009, it set out to promote the field of biocuration and provide a forum\
+    \ for information exchange and networking through meetings and workshops. Our\
+    \ members are not only the data curators but also ontologists, data and software\
+    \ developers and are distributed across the globe, representing a wide range of\
+    \ geographical, national, linguistic, and cultural backgrounds. The ISB executive\
+    \ committee is composed of 11 members and is now registered as a non-profit organisation.\
+    \ \n\nOver the past 13 years, the ISB has supported several workshops, recognised\
+    \ excellence in biocurators by awarding 8 career and 3 life-time achievement awards\
+    \ and supported 12 conferences, with online conferences for 2 years. While the\
+    \ ISB's support for professional networking and building collaboration is still\
+    \ relevant and of ongoing importance, we have broadened its scope by addressing\
+    \ issues concerning Equity, Diversity and Inclusion, training the workforce, career\
+    \ support and outreach to our community and users of curated data. More recently,\
+    \ we have introduced new awards and grants to support and encourage biocurators\
+    \ belonging to all stages of their professional career. \n\nWe invite the biocuration\
+    \ community to join our efforts by registering with our mailing list and becoming\
+    \ an ISB member. At the 16th International Biocuration Conference, we will explain\
+    \ how you can benefit from ISB activities. Please visit our poster to find out\
+    \ more, ask questions and suggest new areas for the ISB to prioritise."
+  authors:
+  - label: Ruth Lovering
+    series_ordinal: 1
+  - label: Rama Balakrishnan
+    series_ordinal: 2
+  - label: Susan Bello
+    series_ordinal: 3
+  - label: Parul Gupta
+    series_ordinal: 4
+  - label: Robin Haw
+    series_ordinal: 5
+  - label: Tarcisio Mendes de Farias
+    series_ordinal: 6
+  - label: Sushma Naithani
+    series_ordinal: 7
+  - label: Federica Quaglia
+    series_ordinal: 8
+  - label: Raul Rodriguez-Esteban
+    series_ordinal: 9
+  - label: Mary Ann Tuli
+    series_ordinal: 10
+  - label: Nicole Vasilevsky
+    series_ordinal: 11
+  keywords:
+  - International Society for Biocuration
+  - ISB
+  - Biocuration awards
+  - Supporting biocurators
+  submitted: 2023-01-03 09:34
+  title: Join the International Society for Biocuration Community
+- abstract: 'Host-pathogen interaction maps offer the scaffold to understand the biological
+    processes behind the pathogenicity of the microbe and also helps in identifying
+    potential drug targets. Access to the experimental evidence and contextual metadata
+    which influence the interaction outcome are critical for accurate interpretation
+    of molecular mechanisms.
+
+    The IMEx consortium (www.imexconsortium.org) is an international database collaboration
+    that exists to record molecular interaction data from scientific literature and
+    direct depositions and make it freely accessible to the public, using an Open
+    Access, Open-Source model.
+
+    IMEx curators use a detailed representation of experimental evidence in the scientific
+    literature: details of the affinity tags used, the mutations influencing the interaction
+    outcome, variable experimental conditions, chemical and biological inhibitors,
+    agonists and antagonists and required post-translational modifications, all using
+    standard ontologies and controlled vocabularies to add more value towards the
+    interpretation of scientific experiments and the biology behind.
+
+    In the context of host-pathogen interactions, more than 33K binary interactions
+    of Human proteins with bacterial and viral proteins are captured in IMEx. Interactions
+    with SARS-CoV-2 and SARS Coronavirus with human count more than 7500 binaries;
+    and ~6300 binary interactions have been curated in IMEx for Influenza-human PPIs.
+    More than 4200 protein interactions of humans proteins with plague-causing Yersinia
+    pestis bacterium are available at IMEx and 3000 interactions between humans and
+    the anthrax bacterium Bacillus anthracis have been curated. 8300 human-viral protein
+    interactions with members of  Herpesvirus, Hepatitis and Papillomavirus family
+    are also documented. Experimentally proven binding regions are available for more
+    than 5000 interactions. More than 1000 interactions are shown to be affected by
+    mutated protein sequence, compared to the wild-type protein. The IMEx’s MI scoring
+    system for the molecular interactions based on the available experimental data
+    are available to access the confidence behind every interacting pair.
+
+    The IMEx consortium has been generating contextual molecular networks to reflect
+    the type of relationship between the partners and over-laying metadata for the
+    users to analyse those factors influencing the interaction outcome. This openly
+    available resource is an invaluable tool with immediate applications in the study
+    of variation impact on the interactome, sub-networks generated by mutated partners,
+    small molecules affecting the networks, interaction interfaces as drug targets,
+    among other key questions.'
+  authors:
+  - label: Kalpana Panneerselvam
+    series_ordinal: 1
+  - label: Pablo Porras
+    series_ordinal: 2
+  - label: Noemi del-Toro
+    series_ordinal: 3
+  - label: Margaret Duesbury
+    series_ordinal: 4
+  - label: Livia Perfetto
+    series_ordinal: 5
+  - label: Luana Licata
+    series_ordinal: 6
+  - label: Anjali Shrivastava
+    series_ordinal: 7
+  - label: Eliot Ragueneau
+    series_ordinal: 8
+  - label: Juan Jose Medina Reyes
+    series_ordinal: 9
+  - label: Sandra Orchard
+    series_ordinal: 10
+  - label: Henning Hermjakob
+    series_ordinal: 11
+  keywords:
+  - Host-pathogen interaction
+  - molecular network
+  - bacteria
+  - virus
+  - protein-protein interaction
+  - binding domains
+  submitted: 2023-01-03 10:18
+  title: 'Human-pathogen interaction networks: IMEx’s approach on the contextual metadata
+    of the experimental evidence.'
+- abstract: 'The Comprehensive Antibiotic Resistance Database (CARD; card.mcmaster.ca)
+    is an ontologically-driven knowledgebase and bioinformatics resource on the molecular
+    biology and chemical components of antimicrobial resistance (AMR). This is achieved
+    by integrating the Antibiotic Resistance Ontology (ARO) with the CARD Model Ontology
+    (MO), which is used to organize AMR gene (ARG) sequences, resistance-conferring
+    mutation data and bioinformatic parameters for in silico ARG detection by CARD’s
+    Resistance Gene Identifier (RGI) software. To preserve integrity over time, the
+    ARO is routinely updated by a biocuration team through, for example, the addition
+    of novel AMR genes or gene variants or the revision of existing ontology branches
+    for clarity, accuracy and/or computational efficiency. While manual curation of
+    the literature and sequences is a cornerstone of CARD’s curation philosophy, the
+    volume of AMR scientific literature renders this approach time-consuming and impractical.
+    We therefore developed CARD*Shark, an algorithm and software for computer-assisted
+    AMR literature triage. The current iteration, CARD*Shark 3, identifies and prioritizes
+    literature for review through a machine-learning methodology, which is then reviewed
+    by a CARD biocurator. CARD thereby integrates continuous curation from multiple
+    approaches: computer-assisted literature triage, identification of errors and
+    oversights through public feedback such as our GitHub repository (https://github.com/arpcard/amr_curation),
+    and targeted curation within collaborative projects or other efforts of specific
+    foci. To date, the ARO includes over 6500 terms which combine with 5000 ARG reference
+    sequences and almost 2000 resistance-associated variants sourced from over 3000
+    publications to produce the current version of CARD. This manually curated data
+    is used as a baseline for in silico prediction of resistomes and ARG prevalence
+    for over 300 pathogens. Here we provide an overview of CARD’s design, curation
+    methodology and overall content scope, and illustrate how a computer-assisted
+    curation approach improves our efficacy and accuracy.'
+  authors:
+  - label: Brian Alcock
+    series_ordinal: 1
+  - label: Amogelang Raphenya
+    series_ordinal: 2
+  - label: Arman Edalatmand
+    series_ordinal: 3
+  - label: Andrew McArthur
+    series_ordinal: 4
+  keywords:
+  - antimicrobial resistance
+  - database
+  - CARD
+  submitted: 2023-01-03 13:01
+  title: The Comprehensive Antibiotic Resistance Database - Curating the Global Resistome
+- abstract: 'Many model organism databases, pathway databases, ontologies, and other
+    curated resources that support research in the life and natural sciences combine
+    expert-curated data with surrounding software code and services. However, such
+    resources are often maintained internally by members of a single institution and
+    are therefore susceptible to fluctuations in funding, personnel, and institutional
+    priorities. Too often, resources go out of date, are abandoned, or become inaccessible,
+    for example, when a grant runs out or a key person moves on. Therefore, we need
+    better solutions for creating resources that are less susceptible to such external
+    factors and can continue to be used and maintained by the community that they
+    serve.
+
+
+    We propose a new model for the creation and maintenance of curated resources that
+    promotes longevity through a combination of technical and social workflows, and
+    a progressive governance model that supports and encourages community-driven curation.
+    1) The technical aspect of our model necessitates open data, open code, and open
+    infrastructure. Both code and data are permissively licensed and kept together
+    under public version control. This enables anyone to directly suggest improvements
+    and updates. Further, automation is used for continuous integration (e.g., semi-automated
+    curation, quality assurance) and continuous delivery (e.g., static website generation,
+    export in multiple formats). 2) The social aspect of our model first prescribes
+    the composition of training material, curation guidelines, contribution guidelines,
+    and a community code of conduct that encourage and support potential community
+    curators. Second, it requires the use of public tools for suggestions, questions,
+    discussion as well as social workflows like pull requests for the submission and
+    review of changes. 3) The governance aspect of our model necessitates the division
+    of responsibilities and authority (e.g., for reviewing/merging changes to the
+    code/data) across multiple institutions such that it is more robust to fluctuation
+    in funding and personnel that can also be updated over time. It prescribes liberal
+    attribution and acknowledgement of the individuals and institutions (both internal
+    and external to the project) who contribute on a variety of levels (e.g., code,
+    data, discussion, funding). More generally, our model requires that a minimal
+    governance model is codified and instituted as early as possible in a project''s
+    lifetime.
+
+
+    This talk will provide a perspective on how existing resources relate to our model,
+    describe each of our model’s aspects in more detail (illustrated through the Bioregistry
+    resource), and provide a practical path towards both creating new sustainable
+    resources as well as revitalizing existing ones.'
+  authors:
+  - label: Charles Tapley Hoyt
+    series_ordinal: 1
+  - label: Benjamin M. Gyori
+    series_ordinal: 2
+  keywords:
+  - philosophy of biocuration
+  - longevity
+  - sustainability
+  - governance
+  - reusability
+  submitted: 2023-01-03 16:25
+  title: Promoting the longevity of curated scientific resources through open code,
+    open data, and public infrastructure
+- abstract: "Biological knowledgebases are a critical resource for researchers and\
+    \ accelerate scientific discoveries by providing manually curated, machine-readable\
+    \ data collections. However, the aggregation and manual curation of biological\
+    \ data is a labor-intensive process that relies almost entirely on professional\
+    \ biocurators. Two approaches have been advanced to help with this problem: i)\
+    \ a computational approach that is based on natural language processing (NLP),\
+    \ text mining (TM) and machine learning (ML)); and ii) the engagement of researchers\
+    \ (community curation). However, neither of these approaches alone is sufficient\
+    \ to address the critical need for increased efficiency in the biocuration process.\
+    \ Our solution to these challenges is an NLP-enhanced community curation portal,\
+    \ Author Curation to Knowledgebase (ACKnowledge). The ACKnowledge system, currently\
+    \ implemented for the C. elegans literature, couples statistical methods and text\
+    \ mining algorithms to enhance community curation of research articles. \n\nCurrently,\
+    \ the ACKnowledge system asks authors to verify five different types of entities\
+    \ (e.g. genes, variations) and fourteen different data types (e.g. phenotype,\
+    \ physical interaction) identified by our TM and ML approaches.  We are now expanding\
+    \ the ACKnowledge system to incorporate ML models to identify sentences that describe\
+    \ specific types of experiments and then extract entities and concepts for more\
+    \ detailed author curation.  Specifically, we are training classifiers to identify\
+    \ sentences that describe two types of experiments: 1) anatomical expression patterns\
+    \ and 2) protein kinase activity.\n\nTo develop these models, we began by manually\
+    \ extracting and labeling sentences in previously curated papers.  For each sentence,\
+    \ we note the presence or absence of specific features, e.g. gene names or synonyms,\
+    \ anatomy terms, or keywords such as ‘phosphorylation’, and label each sentence\
+    \ as ‘positive’ or ‘negative’ depending on whether they contain the specific data\
+    \ types analyzed, e.g. the sentence directly reports an experimental result or\
+    \ the sentence describes an experimental set up related to anatomical expression\
+    \ pattern or protein kinase activity.  In addition, we note metadata such as the\
+    \ paper section in which a sentence is found.  \n\nUsing these sentences as training\
+    \ data, we will build a set of models to classify sentences based on their text\
+    \ similarity with sentences in the initial training set. We will transform each\
+    \ sentence into a vector using a pre-trained embedding model (BioSentVec - https://github.com/ncbi-nlp/BioSentVec)\
+    \ and will calculate their cosine similarity as a proxy of the semantic similarity\
+    \ of the sentences. We will then train a binary classifier based on a similarity\
+    \ threshold: if a sentence has cosine similarity with the average sentence in\
+    \ our training set that is higher than a certain threshold we classify the sentence\
+    \ as positive, otherwise as negative. \n\nIf the performance of the sentence-level\
+    \ classifiers is satisfactory, we will apply the sentence classifier to papers\
+    \ and display the identified sentences, along with extracted entities and concepts,\
+    \ to authors in a table-like format where they can verify the suggested curatorial\
+    \ statement. Author validated statements will then be vetted by curators and integrated\
+    \ in knowledgebases including the Alliance of Genome Resources (https://www.alliancegenome.org)."
+  authors:
+  - label: Valerio Arnaboldi
+    series_ordinal: 1
+  - label: Daniela Raciti
+    series_ordinal: 2
+  - label: Kimberly Van Auken
+    series_ordinal: 3
+  - label: Paul Sternberg
+    series_ordinal: 4
+  keywords:
+  - Anatomical expression
+  - BioSentVec
+  - Community curation
+  - Knowledgebase
+  - Machine learning
+  - Protein kinase activity
+  submitted: 2023-01-03 20:58
+  title: 'ACKnowledge: expanding community curation to include fact extraction using
+    artificial intelligence'
+- abstract: 'Knowledge graphs (KGs) are representations of heterogeneous entities
+    and their diverse relationships. Though KGs combine intuitive data models with
+    massive data collections, their application to domain-spanning questions in biomedicine
+    is constrained by the effort required to consistently bridge gaps between a massive
+    array of frequently-updating resources. We sought to develop a KG in the context
+    of the NIH-sponsored Illuminating the Druggable Genome (IDG) project with this
+    challenge in mind. IDG research is focused on improving our understanding of the
+    properties and functions of proteins that are currently unannotated within three
+    commonly drug-targeted protein families: G-protein coupled receptors, ion channels,
+    and protein kinases. Accordingly, we designed KG-IDG to integrate otherwise uncoordinated
+    sources of drug vs. target information, e.g., drug properties and target interactions
+    from the DrugCentral resource; protein target details from the Target Central
+    Resource Database; diseases/phenotypes from MONDO, OMIM, Orphanet, and the HPO;
+    along with several other data sources and ontologies. The KG-IDG graph supports
+    intensive graph-based machine learning methods for inference of novel relationships
+    between drugs, proteins, and diseases.
+
+
+    KG-IDG incorporates several concrete design elements to ease its application to
+    specific research questions. All contents are built upon the Biolink Model, a
+    data model purpose-built for flexible representation of biological associations
+    in property graphs. All graph versions are assembled using the Knowledge Graph
+    Exchange (KGX) platform, with all components following a highly modular and configurable
+    data ingest and transformation pipeline. The greatest contribution KG-IDG makes
+    to data FAIRness, however, is its adherence to reproducibility and open-source
+    principles: all code, transformed data, and graphs are publicly available. All
+    graph products are distributed in easily human-readable KGX TSV format. We feel
+    that this overall approach allows KG-IDG to serve as the foundation for future
+    KG construction efforts while also yielding interoperable, machine readable data
+    resources. All code for assembling KG-IDG is available at https://github.com/Knowledge-Graph-Hub/kg-idg.'
+  authors:
+  - label: J. Harry Caufield
+    series_ordinal: 1
+  - label: Justin Reese
+    series_ordinal: 2
+  - label: Tudor Oprea
+    series_ordinal: 3
+  - label: Jeremy Yang
+    series_ordinal: 4
+  - label: Chris Mungall
+    series_ordinal: 5
+  keywords:
+  - knowledge graph
+  - FAIR data
+  - data integration
+  - drug vs target interactions
+  submitted: 2023-01-03 21:27
+  title: 'KG-IDG: A FAIR Knowledge Graph for Illuminating the Druggable Genome'
+- abstract: "The use of common biomedical ontologies to annotate data improves data\
+    \ findability, integration and reusability. Ontologies do this not only by providing\
+    \ a standard set of terms for annotation, but via the use of ontology structure\
+    \ to group data in biologically meaningful ways.  One way to take advantage of\
+    \ this is via a knowledge graph in which ontologies and ontology semantics provide\
+    \ the glue that links content annotated knowledge and data in well documented\
+    \ and transparently queryable ways, providing an extensible base for building\
+    \ a APIs and applications and a potential input to machine learning.\n\nOne barrier\
+    \ to fulfilling this potential is the lack of easily-usable standardised infrastructure\
+    \ for using ontologies and standard semantics to build and structure Knowledge\
+    \ Graphs in a form suitable for driving web applications.  Triple stores can theoretically\
+    \ fulfil this role, but remain a niche technology and their standard query language\
+    \ (SPARQL) is not ideal to use for querying ontologies in OWL.  Ensuring that\
+    \ web applications and APIs driven by knowledge graphs are easily usable by the\
+    \ biomedical community requires mechanisms to harness the power of semantics to\
+    \ label and categorise content in ways that are tailored to the application and\
+    \ the community.\n\nTo overcome these barriers we built the Knowledge Graph Development\
+    \ Kit - a highly configurable containerised pipeline for integrating ontologies\
+    \ and curated information into easily queryable knowledge graphs.  The pipeline\
+    \ consists of a triple-store integration layer that loads and integrates ontologies\
+    \ and curated content (TSV templates that the pipeline converts to RDF), and 3\
+    \ front end servers: An OWLERY server supporting OWL-EL queries across ontologies\
+    \ and knowledge graphs; A Neo4j server that supports graph queries and visualisations\
+    \ and provides an accessible knowledge graph representation;  A SOLR server that\
+    \ supports tuneable autosuggest with default settings that are optimised for ontology\
+    \ search and stores cached query results.\n\nA standard interconversion between\
+    \ OWL and Neo4J is central to this pipeline. It is optimised for human readable\
+    \ cypher queries and supports a highly configurable semantic tagging system built\
+    \ on the Neo4J label system.  Semantic tagging is designed to harness the power\
+    \ of ontology and knowledge-graph semantics to add short, easily understandable,\
+    \ application-specific, human readable tags to ontology terms and annotated content.\
+    \ These semantic tags can be used as badges to efficiently communicate with users\
+    \ in terms that make sense to them, as a mechanism for configuring autosuggest\
+    \ search, for faceted browsing and even for configuring a web application \n\n\
+    We will present details of the pipelines and examples of their application in\
+    \ 3 different applications:  Virtual Fly Brain, the Allen Brain Atlas Cell Type\
+    \ Explorer and The Cell Annotation Platform."
+  authors:
+  - label: David Osumi-Sutherland
+    series_ordinal: 1
+  - label: Robert Court
+    series_ordinal: 2
+  - label: Huseyin Kir
+    series_ordinal: 3
+  - label: Ismail Ugur Bayindir
+    series_ordinal: 4
+  - label: Clare Pilgrim
+    series_ordinal: 5
+  - label: Shawn Zheng Kai Tan
+    series_ordinal: 6
+  - label: Nicolas Matentzoglu
+    series_ordinal: 7
+  keywords:
+  - Ontology
+  - Knowledge Graph
+  - Neo4J
+  - Atlas
+  - Autosuggest
+  submitted: 2023-01-04 22:15
+  title: The Knowledge Graph Development Kit
+- abstract: "High-quality manual curation - the process of reviewing and annotating\
+    \ data manually - is critical for ensuring the reliability and validity of scientific\
+    \ data. However, manual curation is also time-consuming and expensive so is unlikely\
+    \ to be scalable to the large volume of data the life-sciences generate. \n\n\
+    We have been experimenting with using machine learning models, such as BioBERT,\
+    \ to perform some biocuration tasks using a 'human-in-the-loop' approach. One\
+    \ task we commonly perform is the identification of entities of a particular type\
+    \ in a corpus of text, and we will discuss in this talk the benefits and limitations\
+    \ of ML for this task. In addition, we will expand on our work using ML models\
+    \ for de-novo ontology building, synonym suggestion and relationship extraction.\n\
+    \nWe propose that in the future biocurators time might be well-spent training,\
+    \ validating and retraining ML models to allow their valuable scientific input\
+    \ to be applied in a scalable way."
+  authors:
+  - label: Jane Lomax
+    series_ordinal: 1
+  - label: Rachael Huntley
+    series_ordinal: 2
+  - label: Rebecca Foulger
+    series_ordinal: 3
+  - label: Shirin Saverimuttu
+    series_ordinal: 4
+  - label: Paola Roncaglia
+    series_ordinal: 5
+  keywords:
+  - machine learning
+  - manual curation
+  - ontology
+  - named entity recognition
+  submitted: 2023-01-06 13:02
+  title: Machine Learning for Scalable Biocuration

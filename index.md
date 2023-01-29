@@ -49,7 +49,7 @@ Abstracts can be submitted to be considered for oral presentations or
 poster presentations through [EasyChair](https://easychair.org/conferences/?conf=biocuration2023).
 You don't need to register ahead of time in order to submit an abstract.
 
-Please see [here](abstracts.md) for additional information and guidelines on submission.
+Please see [here](submission) for additional information and guidelines on submission.
 
 ### Workshop Proposals
 
@@ -62,7 +62,7 @@ December 23<sup>rd</sup>, 2022.
 
 Abstracts accepted for poster and oral presentation at the conference may additionally be submitted for consideration as
 part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.com/database). See details 
-[here](abstracts#virtual-issue).
+[here](submission#virtual-issue).
 
 ## Important Dates
 
