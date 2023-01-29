@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Previous
 permalink: /previous
 ---
 1. [15th Annual Biocuration Conference (virtual; 2022)](https://scholia.toolforge.org/event/Q109407979)

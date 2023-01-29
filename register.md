@@ -9,9 +9,10 @@ the [International Society for Biocuration (ISB)](https://www.biocuration.org/).
 registration fee. See [this page](https://www.biocuration.org/membership/join-isb/) for more information about ISB
 membership and registration.
 
-<a href="https://registrations.meetandwork.com/Login.asp?IDcommessa=MW23008" 
-   style="padding: 1em; background-color: #4e29aa; color: white; font-weight: bold; border: 1px #ddd; margin: 0em auto 1em; display: inline-block; text-align: center">
-    Register Here
+<a href="https://registrations.meetandwork.com/Login.asp?IDcommessa=MW23008"
+style="padding: 1em; background-color: #4e29aa; color: white; font-weight: bold; border: 1px #ddd; margin: 0em auto 1em;
+display: inline-block; text-align: center">
+Register Here
 </a>
 
 Please also note that this conference is fully in-person, i.e., we are
@@ -57,18 +58,13 @@ For help with meeting registration, please contact [biocuration2023@gmail.com](m
 
 ## Cancellation policy
 
-Cancellations must be notified in writing to the Organizing Secretariat at meet_at_meetandwork.com. 
+Cancellations must be notified in writing to the [Organizing Secretariat](mailto:meet@meetandwork.com).
 Refunds will be made under the following conditions:
- - For cancellations until January 31, 2023: full refund of registration fees received, excluded €100.00 administrative fee
- - For cancellations between January 31 and March 15, 2023: refund of 70% of registration fees received, excluded €100.00 administrative fee
- - For cancellations after March 15, 2023: no refund will be possible
- 
- All refunds will be handled after the Meeting.
 
+- For cancellations until January 31<sup>st</sup>, 2023: full refund of registration fees received, excluding a €100.00
+  administrative fee
+- For cancellations between January 31<sup>st</sup> and March 15<sup>th</sup>, 2023: refund of 70% of registration fees
+  received, excluding a €100.00 administrative fee
+- For cancellations after March 15<sup>th</sup>, 2023: no refund will be possible
 
-
-
-
-
-
-
+All refunds will be handled after the Meeting.

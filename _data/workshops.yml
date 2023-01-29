@@ -20,7 +20,7 @@ The [Simple Standard for Sharing Ontological Mappings (SSSOM)](https://mapping-c
 This workshop is organised by members of the [Monarch Initiative](https://monarchinitiative.org/), the [SSSOM developer community](https://github.com/mapping-commons/), [FAIR Impact](https://fair-impact.eu/), and [FAIRCORE4EOSC](https://faircore4eosc.eu/).
 "
 
-- title: Aligning OBO ontologies with Wikidata
+- title: Aligning Open Biological and Biomedical Ontology Foundry ontologies with Wikidata
   key: wikidata
   date: April 24th
   day: Monday
@@ -38,7 +38,7 @@ During the workshop, we will also explore how licensing effects their usage. Ont
 The intended audience consists of Wikidata and OBO curators. The workshop is aimed ontology curators who want to align their ontologies with Wikidata. Familiarity with identifier mapping, legal frameworks, programming in python and SPARQL querying is not a hard requirement, but would be beneficial. 
 "
 
-- title: Gaining perspective towards enhancing the intersection of biocuration and machine learning (ML).
+- title: Gaining perspective towards enhancing the intersection of biocuration and machine learning
   key: ml
   date: April 24th
   day: Monday
