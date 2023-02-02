@@ -33,6 +33,13 @@ of Monday, April 24<sup>th</sup>.
 
 <img src="img/padua-1.jpg" alt="panoramic photo of Padua" />
 
+## Schedule
+
+<iframe 
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRE9A75KPTzPbuNgfPR5A9zLkg1Jpzmi66R_Fi6a9sdaYLuR7c35wl7EJ1oIRp9DdDzCA6H79rru7J-/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
+    style="width:100%; height:400px;">
+</iframe>
+
 ## Registration
 
 Registration can be completed [here](https://registrations.meetandwork.com/Login.asp?IDcommessa=MW23008).
