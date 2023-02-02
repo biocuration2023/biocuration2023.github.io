@@ -45,9 +45,9 @@ More information on eligibility and application can be found [here](https://www.
 
 ### Abstract Submission
 
-Abstracts can be submitted to be considered for oral presentations or
-poster presentations through [EasyChair](https://easychair.org/conferences/?conf=biocuration2023).
-You don't need to register ahead of time in order to submit an abstract.
+Late poster submission is now open, until March 31st 2023, through [EasyChair](https://easychair.org/conferences/?conf=biocuration2023). Submissions will be considered on a rolling basis. You don't need to register to submit a poster abstract.
+
+Abstract submission for oral presentation is now closed.
 
 Please see [here](submission) for additional information and guidelines on submission.
 
