@@ -5,6 +5,9 @@
   start: 2:30PM
   end: 5:30PM
   length: 3 Hours
+  room:
+    name: Small Room
+    capacity: 70
   organizers:
     - name: Nicolas Matentzoglu
       affiliation: Independent Consultant Semantic Technologies
@@ -27,6 +30,9 @@ This workshop is organised by members of the [Monarch Initiative](https://monarc
   start: 9:00AM
   end: 12:00PM
   length: 3 Hours
+  room:
+    name: Small Room
+    capacity: 70
   organizers:
     - name: Andra Waagmeester
       orcid: 0000-0001-9773-4008
@@ -45,6 +51,9 @@ The intended audience consists of Wikidata and OBO curators. The workshop is aim
   start: 9:00AM
   end: 11:00AM
   length: 2 Hours
+  room:
+    name: Big Room
+    capacity: 254
   organizers:
     - name: Lynn Schriml
       orcid: 0000-0001-8910-9851
@@ -87,6 +96,9 @@ Output: We propose to author a whitepaper built from the biocurator comments and
   start: 11:00AM
   end: 1:00PM
   length: 2 Hours
+  room:
+    name: Big Room
+    capacity: 254
   organizers:
     - name: Raja Mazumder
       orcid: 0000-0001-8823-9945
@@ -106,6 +118,9 @@ Output: We propose to author a whitepaper built from the biocurator comments and
   start: 11:00AM
   end: 12:00PM
   length: 1 Hour
+  room:
+    name: Big Room
+    capacity: 254
   organizers:
     - name: Nicole Vasilevsky
       affiliation: Critical Path Institute

@@ -13,6 +13,7 @@ during the main agenda of the final day of the conference.  Here's a quick look:
 <th>Name</th>
 <th>Date (2023)</th>
 <th>Time (CEST)</th>
+<th>Location</th>
 </tr>
 </thead>
 <tbody>
@@ -21,6 +22,7 @@ during the main agenda of the final day of the conference.  Here's a quick look:
 <td><a href="#{{ record.key }}">{{ record.title }}</a></td>
 <td>{{ record.date }}</td>
 <td>{{ record.start }} - {{ record.end }}</td>
+<td>{{ record.room.name }} (max. {{ record.room.capacity }})</td>
 </tr>
 {% endfor %}
 </tbody>
