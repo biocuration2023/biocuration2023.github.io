@@ -115,11 +115,14 @@ Output: We propose to author a whitepaper built from the biocurator comments and
     - name: Randi Vita
       affiliation: La Jolla Institute for Allergy and Immunology
       orcid: 0000-0001-8957-7612
+    - name: Mary Ann Tuli
+      affiliation: GigaScience
+      orcid: 0000-0002-4667-9528
 
   abstract: "The [International Society for Biocuration (ISB)](https://www.biocuration.org/) was formed to promote the field of biocuration and to provide a professional society to support curators and aid in career growth and development. The path to a career in biocuration is varied, and we play various roles in our professional positions. This workshop aims to address some of the following questions through structured brainstorming sessions:\n
 
 1. Discussion of how do you get a job as a curator?\n
-2. How do you write your resume/CV? We could come up with example templates for academia, industry, other (non-profit, institution (like [Jax](https://www.jax.org/)), publishing, government ([LBNL](https://www.lbl.gov/)), etc)\n
+2. How do you write your resume/CV?\n 
 3. What skill sets can someone learn to enhance their career growth?\n
 
 As an outcome of this workshop, we will disseminate the key discussion points and takeaways via the ISB website to further the growth of curators in our community.
