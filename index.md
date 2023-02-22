@@ -90,6 +90,10 @@ part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.
 | April 24<sup>th</sup>, 2023                                                           | Conference starts                                                                                                                        |
 | April 26<sup>th</sup>, 2023                                                           | Conference ends                                                                                                                          |
 
+Please note that April 25<sup>th</sup>, 2023 is a national holiday in Italy and therefore schools, banks, public offices,
+and some shops will be closed. Additionally, public transportation will be running at reduced capacity (i.e., weekend
+schedule). 
+
 ## Keynote Speakers
 
 <dl>

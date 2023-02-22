@@ -22,12 +22,6 @@ exhibitions, debates, festivals, shows, and conferences in 12,000 square meter s
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11204.11647207301!2d11.8822193!3d45.4087524!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5f3dc20fc7feff02!2sCultural%20Center%20Altinate%20San%20Gaetano!5e0!3m2!1sen!2sde!4v1665484325485!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Photos
-
-![](https://www.altinatesangaetano.it/sites/default/files/img_1192.jpg)
-
-![](https://www.altinatesangaetano.it/sites/default/files/12_auditorium_1.jpg)
-
 ## Amenities
 
 There are several special-purpose rooms available in the venue for attendees:
@@ -55,3 +49,9 @@ The ground floor hosts two rooms:
 
 Please contact [biocuration2023@gmail.com](mailto:biocuration2023@gmail.com) if you have additional needs or would like
 further accessibility information.
+
+## Photos
+
+![](https://www.altinatesangaetano.it/sites/default/files/img_1192.jpg)
+
+![](https://www.altinatesangaetano.it/sites/default/files/12_auditorium_1.jpg)
