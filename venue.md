@@ -28,6 +28,13 @@ exhibitions, debates, festivals, shows, and conferences in 12,000 square meter s
 
 ![](https://www.altinatesangaetano.it/sites/default/files/12_auditorium_1.jpg)
 
+## Amenities
+
+There are several special-purpose rooms available in the venue for attendees:
+
+1. A quiet room, for attendees who need a break from the exciting atmosphere of the conference
+2. A dedicated room for nursing or pumping
+
 ## Accessibility
 
 The Biocuration 2023 will be held on the ground floor and the basement of the venue.
