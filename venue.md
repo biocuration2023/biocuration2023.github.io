@@ -27,3 +27,24 @@ exhibitions, debates, festivals, shows, and conferences in 12,000 square meter s
 ![](https://www.altinatesangaetano.it/sites/default/files/img_1192.jpg)
 
 ![](https://www.altinatesangaetano.it/sites/default/files/12_auditorium_1.jpg)
+
+## Accessibility
+
+The Biocuration 2023 will be held on the ground floor and the basement of the venue.
+
+The basement hosts three rooms:
+
+1. multi-purpose room (auditorium) with a capacity of 234 and with 10 additional places for disabled people
+2. a small adjacent room
+3. a leisure room (foyer)
+
+The access from the ground floor is guaranteed by a stairway, an interior lift, and an exterior entrance from Lucatello
+street with a staircase and inclined plane compliant with the legal standards for disabled people.
+
+The ground floor hosts two rooms:
+
+1. the Agorà (poster session and catering space)
+2. the parallel room (space for workshops for maximum 70 people)
+
+Please contact [biocuration2023@gmail.com](mailto:biocuration2023@gmail.com) if you have additional needs or would like
+further accessibility information.
