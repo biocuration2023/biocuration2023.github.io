@@ -43,6 +43,17 @@ Prices include the local (Italian) value added tax (VAT) of 22%.
 | Non-academic                         | ISB member        |                                         550€ |                                        670€ |
 | Non-academic                         | non-member        |                                         670€ |                                        800€ |
 
+## Dietary Restrictions
+
+The registration form allows you to communicate any of the following dietary restrictions/requirements:
+
+- **Dietary Requirements**: Halal, Kosher, No pork, Vegan, Vegetarian
+- **Allergy/Intolerance**: Baking Powder, Celery, Eggs, Fish, Garlic, Gluten Free, Lactose, Mustard, Nuts, Peanuts,
+  Shellfish (Crustaceans), Shellfish (Molluscs), Soy
+
+If you have any other restrictions or requirements, please email the
+[organizing secretariat](mailto:meet@meetandwork.com).
+
 ## Travel Fellowships (Closed)
 
 Travel fellowships are available from the International Society of Biocuration (ISB).
