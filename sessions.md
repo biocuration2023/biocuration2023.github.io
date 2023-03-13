@@ -6,7 +6,7 @@ permalink: /sessions
 All times are given in Central European Summer Time (CEST) using the standard 24 hour clock.
 ⚡ denotes a lightning talk (10 minutes, including Q&A). 🎞️ denotes a long talk (20 minutes, including Q&A).
 
-{% for session in site.data.schedule %}
+{% for session in site.data.sessions %}
 
 ## {{ session.title }} ({{ session.day }}, {{ session.start }}-{{ session.end }})
 

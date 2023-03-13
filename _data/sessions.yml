@@ -64,7 +64,7 @@
     title: 'scFAIR: Standardization and stewardship of single-cell metadata'
     type: lightning
   - id: 8444
-    speaker: Christopher Southan and Miguel Amaral
+    speaker: Christopher Southan
     time_end: '10.30'
     time_start: '10.20'
     title: 'Resolving code names to structures from the medicinal chemistry literature:
@@ -90,7 +90,7 @@
       Representation.
     type: long
   - id: 9192
-    speaker: Wei Kheng Teh and Fuqi Xu
+    speaker: Wei Kheng Teh
     time_end: '12.10'
     time_start: '12.00'
     title: 'FAIR Wizard: Making the FAIRification process accessible'
@@ -221,7 +221,7 @@
       disease from the literature'
     type: lightning
   - id: 9399
-    speaker: Benjamin M. Gyori and Charles Tapley Hoyt
+    speaker: Benjamin M. Gyori
     time_end: '15.15'
     time_start: '15.05'
     title: Machine-assisted curation of molecular mechanisms using automated knowledge
@@ -257,7 +257,7 @@
   start: '10.00'
   talks:
   - id: 6726
-    speaker: Charles Tapley Hoyt and Benjamin M. Gyori
+    speaker: Charles Tapley Hoyt
     time_end: '13.20'
     time_start: '13.00'
     title: Promoting the longevity of curated scientific resources through open code,
@@ -318,7 +318,7 @@
     title: Towards making sense of glycan-mediated protein-protein interactions
     type: lightning
   - id: 8085
-    speaker: Tiago Lubiana and Helder Nakaya
+    speaker: Tiago Lubiana
     time_end: '10.30'
     time_start: '10.20'
     title: Wikidata as a tool for biocuration of cell types
