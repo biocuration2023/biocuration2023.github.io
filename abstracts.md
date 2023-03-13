@@ -11,6 +11,12 @@ permalink: /abstracts
 <span style="font-weight: bold">{{ record.title }}</span>
 <br />
 <span style="color:#111">{% for author in record.authors %}<span>{{ author.label }}</span>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
+<details>
+<summary>Expand the abstract</summary>
+<blockquote style="text-align: justify">
+{{ record.abstract }}
+</blockquote>
+</details>
 </li>
 {% endfor %}
 </ol>
@@ -23,6 +29,12 @@ permalink: /abstracts
 <span style="font-weight: bold">{{ record.title }}</span>
 <br />
 <span style="color:#111">{% for author in record.authors %}<span>{{ author.label }}</span>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
+<details>
+<summary>Expand the abstract</summary>
+<blockquote style="text-align: justify">
+{{ record.abstract }}
+</blockquote>
+</details>
 </li>
 {% endfor %}
 </ol>
@@ -35,6 +47,12 @@ permalink: /abstracts
 <span style="font-weight: bold">{{ record.title }}</span>
 <br />
 <span style="color:#111">{% for author in record.authors %}<span>{{ author.label }}</span>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
+<details>
+<summary>Expand the abstract</summary>
+<blockquote style="text-align: justify">
+{{ record.abstract }}
+</blockquote>
+</details>
 </li>
 {% endfor %}
 </ol>
