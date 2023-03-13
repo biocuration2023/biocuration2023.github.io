@@ -1,0 +1,326 @@
+- date: '2023-04-24'
+  day: Monday
+  end: '18.00'
+  order: 0
+  start: '16.30'
+  talks:
+  - id: 5380
+    speaker: Kalpana Panneerselvam
+    time_end: '16.50'
+    time_start: '16.30'
+    title: 'Human-pathogen interaction networks: IMEx’s approach on the contextual
+      metadata of the experimental evidence.'
+    type: long
+  - id: 6415
+    speaker: Patrick Masson
+    time_end: '17.10'
+    time_start: '16.50'
+    title: Gene Ontology Causal Activity Models (GO-CAMs) for human biology
+    type: long
+  - id: 4113
+    speaker: David Osumi-Sutherland
+    time_end: '17.30'
+    time_start: '17.10'
+    title: The Knowledge Graph Development Kit
+    type: long
+  - id: 3601
+    speaker: Qian Xiang
+    time_end: '17.40'
+    time_start: '17.30'
+    title: ICGC-ARGO Data Submission Workflow - Integration of data validation and
+      submission to accelerate the data curation and improve the data quality
+    type: lightning
+  - id: 8868
+    speaker: Marcela Tello-Ruiz
+    time_end: '17.50'
+    time_start: '17.40'
+    title: Developing Standards for Biocuration & Interoperability of Genetic Variation
+      Data in Agricultural Research
+    type: lightning
+  - id: 5715
+    speaker: Yalan Bi
+    time_end: '18.00'
+    time_start: '17.50'
+    title: Multiplexed scRNA-seq Experiments in Biocuration
+    type: lightning
+  title: Standards 1
+- date: '2023-04-25'
+  day: Tuesday
+  end: '12.30'
+  order: 1
+  start: '10.00'
+  talks:
+  - id: 966
+    speaker: Federica Quaglia
+    time_end: '10.10'
+    time_start: '10.00'
+    title: 'APICURON: standardizing attribution of biocuration activity to promote
+      engagement'
+    type: lightning
+  - id: 8261
+    speaker: Frederic B. Bastian
+    time_end: '10.20'
+    time_start: '10.10'
+    title: 'scFAIR: Standardization and stewardship of single-cell metadata'
+    type: lightning
+  - id: 8444
+    speaker: Christopher Southan and Miguel Amaral
+    time_end: '10.30'
+    time_start: '10.20'
+    title: 'Resolving code names to structures from the medicinal chemistry literature:
+      not as FAIR as it should be'
+    type: lightning
+  - id: 2885
+    speaker: Christopher Hunter
+    time_end: '11.20'
+    time_start: '11.00'
+    title: 'GigaDB: Utilising ontologies to curate data publications'
+    type: long
+  - id: 673
+    speaker: J. Harry Caufield
+    time_end: '11.40'
+    time_start: '11.20'
+    title: 'KG-IDG: A FAIR Knowledge Graph for Illuminating the Druggable Genome'
+    type: long
+  - id: 371
+    speaker: Lynn M Schriml
+    time_end: '12.00'
+    time_start: '11.40'
+    title: A 20 year perspective on FAIR and TRUST-worthy Human Disease Knowledge
+      Representation.
+    type: long
+  - id: 9192
+    speaker: Wei Kheng Teh and Fuqi Xu
+    time_end: '12.10'
+    time_start: '12.00'
+    title: 'FAIR Wizard: Making the FAIRification process accessible'
+    type: lightning
+  - id: 4905
+    speaker: Peter Woollard
+    time_end: '12.20'
+    time_start: '12.10'
+    title: Providing Expanded Contextual Metadata for Biological Samples using Both
+      Geographic and Taxonomic Factors
+    type: lightning
+  - id: 7142
+    speaker: Jerven Bolleman
+    time_end: '12.30'
+    time_start: '12.20'
+    title: Making expert curated knowledge graphs FAIR
+    type: lightning
+  title: FAIR 1
+- date: '2023-04-25'
+  day: Tuesday
+  end: '15.45'
+  order: 2
+  start: '13.30'
+  talks:
+  - id: 1006
+    speaker: Maria Victoria Nugnes
+    time_end: '13.50'
+    time_start: '13.30'
+    title: Biocuration in DisProt, the manually curated database for intrinsically
+      disordered proteins
+    type: long
+  - id: 7692
+    speaker: Brian Alcock
+    time_end: '14.10'
+    time_start: '13.50'
+    title: The Comprehensive Antibiotic Resistance Database - Curating the Global
+      Resistome
+    type: long
+  - id: 2833
+    speaker: Elisabeth Coudert
+    time_end: '14.30'
+    time_start: '14.10'
+    title: Annotation of biologically relevant ligands in UniProtKB using ChEBI
+    type: long
+  - id: 7839
+    speaker: Simona Panni
+    time_end: '14.55'
+    time_start: '14.45'
+    title: 'The landscape of microRNA interactions annotation in IMEx: analysis of
+      three rare disorders as case study'
+    type: lightning
+  - id: 1874
+    speaker: Leigh C Carmody
+    time_end: '15.05'
+    time_start: '14.55'
+    title: Medical Action Ontology (MAxO) development and tool implementation for
+      the annotation of Rare Disease (RD)
+    type: lightning
+  - id: 8451
+    speaker: Dorotea Dudaš
+    time_end: '15.15'
+    time_start: '15.05'
+    title: Improved Insights into the SABIO-RK Database via Visualization
+    type: lightning
+  - id: 6403
+    speaker: Amogelang Raphenya
+    time_end: '15.25'
+    time_start: '15.15'
+    title: The Human Microbiome Drug Metabolism (HMDM) Database
+    type: lightning
+  - id: 6778
+    speaker: Ziying Yang
+    time_end: '15.35'
+    time_start: '15.25'
+    title: Phenopackets for curated repository data over Beacon v2 Progenetix database
+    type: lightning
+  - id: 6299
+    speaker: Sandra Orchard
+    time_end: '15.45'
+    time_start: '15.35'
+    title: Unifying Protein Complex Curation across the Diversity of Species
+    type: lightning
+  title: Applications 1
+- date: '2023-04-25'
+  day: Tuesday
+  end: '15.45'
+  order: 3
+  start: '13.30'
+  talks:
+  - id: 9967
+    speaker: Valerio Arnaboldi
+    time_end: '13.50'
+    time_start: '13.30'
+    title: 'ACKnowledge: expanding community curation to include fact extraction using
+      artificial intelligence'
+    type: long
+  - id: 4380
+    speaker: Jane Lomax
+    time_end: '14.10'
+    time_start: '13.50'
+    title: Machine Learning for Scalable Biocuration
+    type: long
+  - id: 6685
+    speaker: Carlos Vega
+    time_end: '14.20'
+    time_start: '14.10'
+    title: 'BioKC: a collaborative platform for curation and annotation of molecular
+      interactions'
+    type: lightning
+  - id: 9482
+    speaker: Anne Niknejad
+    time_end: '14.30'
+    time_start: '14.20'
+    title: Building a reference dataset of single-cell RNA-Seq data for training Machine-Learning
+      algorithms
+    type: lightning
+  - id: 9553
+    speaker: Peter Uetz
+    time_end: '14.55'
+    time_start: '14.45'
+    title: Curating species descriptions for the digital age
+    type: lightning
+  - id: 9773
+    speaker: Samir Gupta
+    time_end: '15.05'
+    time_start: '14.55'
+    title: 'eMIND: Enabling automatic collection of protein variation impacts in Alzheimer’s
+      disease from the literature'
+    type: lightning
+  - id: 9399
+    speaker: Benjamin M. Gyori and Charles Tapley Hoyt
+    time_end: '15.15'
+    time_start: '15.05'
+    title: Machine-assisted curation of molecular mechanisms using automated knowledge
+      extraction and assembly
+    type: lightning
+  - id: 9409
+    speaker: Emilie Pasche
+    time_end: '15.25'
+    time_start: '15.15'
+    title: Assessing the Use of Supplementary Materials to Improve Genomic Variant
+      Discovery
+    type: lightning
+  - id: 3753
+    speaker: Rezarta Islamaj
+    time_end: '15.35'
+    time_start: '15.25'
+    title: 'A Framework for Assisting MeSH Vocabulary Development at the National
+      Library of Medicine: Reliably Identifying Literature Containing New Chemical
+      Substances'
+    type: lightning
+  - id: 671
+    speaker: Rossana Zaru
+    time_end: '15.45'
+    time_start: '15.35'
+    title: Predicting protein metal binding sites with artificial intelligence and
+      machine learning in UniProt
+    type: lightning
+  title: AI and Text Mining 1
+- date: '2023-04-26'
+  day: Wednesday
+  end: '10.30'
+  order: 4
+  start: '10.00'
+  talks:
+  - id: 6726
+    speaker: Charles Tapley Hoyt and Benjamin M. Gyori
+    time_end: '13.20'
+    time_start: '13.00'
+    title: Promoting the longevity of curated scientific resources through open code,
+      open data, and public infrastructure
+    type: long
+  - id: 259
+    speaker: Nancy George
+    time_end: '13.40'
+    time_start: '13.20'
+    title: Single Cell Expression Atlas and FlyBase - the Fly Cell Atlas Anatomograms
+      – where data meets art
+    type: long
+  - id: 5319
+    speaker: Arina Puzriakova
+    time_end: '14.00'
+    time_start: '13.40'
+    title: Leveraging crowdsourcing and curation prioritisation for maintenance of
+      clinical gene panels
+    type: long
+  - id: 796
+    speaker: Marc Gillespie
+    time_end: '14.10'
+    time_start: '14.00'
+    title: Community SARS-CoV-2 Curation Driven Emergent Experiences - Increased Curation
+      Efficiency and Learned Lessons for the Future
+    type: lightning
+  - id: 4600
+    speaker: Irina Persikova
+    time_end: '14.20'
+    time_start: '14.10'
+    title: 'wwPDB Biocuration: Supporting Advances in Science and Technology'
+    type: lightning
+  - id: 7199
+    speaker: Jennifer Harrow
+    time_end: '14.30'
+    time_start: '14.20'
+    title: Accessing UK Biobank-derived data through the AZ PheWAS portal, with reassigned
+      phenotypic ICD10 codes.
+    type: lightning
+  title: Community 1
+- date: '2023-04-26'
+  day: Wednesday
+  end: '14.30'
+  order: 5
+  start: '13.00'
+  talks:
+  - id: 885
+    speaker: Marc Feuermann
+    time_end: '10.10'
+    time_start: '10.00'
+    title: A complete draft human gene functionome from large-scale evolutionary modeling
+      and experimental Gene Ontology annotations
+    type: lightning
+  - id: 7461
+    speaker: Catherine Hayes
+    time_end: '10.20'
+    time_start: '10.10'
+    title: Towards making sense of glycan-mediated protein-protein interactions
+    type: lightning
+  - id: 8085
+    speaker: Tiago Lubiana and Helder Nakaya
+    time_end: '10.30'
+    time_start: '10.20'
+    title: Wikidata as a tool for biocuration of cell types
+    type: lightning
+  title: Community 2
