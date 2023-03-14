@@ -1,4 +1,18 @@
-- date: April 24th
+- chair:
+    employerLabel_: University of Geneva
+    genderLabel: female
+    gscholar: wudILEcAAAAJ
+    linkedin: frederique-lisacek-6028275
+    nationalityLabel: France
+    note: Chair
+    orcid: 0000-0002-0948-4537
+    person: Q28609783
+    personDescription: French bioinformatician
+    personLabel: Frédérique Lisacek
+    topics: glycoproteomics, interactomics, protein-protein interaction, glycoprotein,
+      Semantic Web
+    twitter: GlycomicsExpasy
+  date: April 24th
   day: Monday
   end: '18.00'
   order: 0
@@ -44,9 +58,24 @@
     title: Multiplexed scRNA-seq Experiments in Biocuration
     type: lightning
   title: Standards 1
-- date: ' April 25th'
+- chair:
+    employerLabel_: SIB Swiss Institute of Bioinformatics
+    genderLabel: male
+    github: deepakunni3
+    gscholar: 38ZnUjsAAAAJ
+    linkedin: deepakunni3
+    max_start_date: '2022-08-01T00:00:00Z'
+    nationalityLabel: India
+    orcid: 0000-0002-3583-7340
+    person: Q59690671
+    personDescription: researcher ORCID ID = 0000-0002-3583-7340
+    personLabel: Deepak R. Unni
+    topics: data visualization, Genome browser, knowledge graph, semantic search,
+      data modeling, genomics, ontology, Semantic Web
+    twitter: deepakunni3
+  date: ' April 25th'
   day: Tuesday
-  end: '12.30'
+  end: '10.30'
   order: 1
   start: '10.00'
   talks:
@@ -70,6 +99,28 @@
     title: 'Resolving code names to structures from the medicinal chemistry literature:
       not as FAIR as it should be'
     type: lightning
+  title: FAIR 1
+- chair:
+    employerLabel_: SIB Swiss Institute of Bioinformatics
+    genderLabel: male
+    github: deepakunni3
+    gscholar: 38ZnUjsAAAAJ
+    linkedin: deepakunni3
+    max_start_date: '2022-08-01T00:00:00Z'
+    nationalityLabel: India
+    orcid: 0000-0002-3583-7340
+    person: Q59690671
+    personDescription: researcher ORCID ID = 0000-0002-3583-7340
+    personLabel: Deepak R. Unni
+    topics: data visualization, Genome browser, knowledge graph, semantic search,
+      data modeling, genomics, ontology, Semantic Web
+    twitter: deepakunni3
+  date: ' April 25th'
+  day: Tuesday
+  end: '12.30'
+  order: 2
+  start: '11.00'
+  talks:
   - id: 2885
     speaker: Christopher Hunter
     time_end: '11.20'
@@ -108,11 +159,24 @@
     time_start: '12.20'
     title: Making expert curated knowledge graphs FAIR
     type: lightning
-  title: FAIR 1
-- date: April 25th
+  title: FAIR 2
+- chair:
+    employerLabel_: Swiss Institute of Bioinformatics
+    genderLabel: male
+    gscholar: Bz8HmVoAAAAJ
+    linkedin: philippe-le-mercier-846b5713
+    max_start_date: '2004-01-01T00:00:00Z'
+    nationalityLabel: Switzerland
+    orcid: 0000-0001-8528-090X
+    person: Q82415251
+    personDescription: researcher
+    personLabel: Philippe Le Mercier
+    topics: molecular virology, biocuration, bioinformatics, virology
+    twitter: ViralZone
+  date: April 25th
   day: Tuesday
-  end: '15.45'
-  order: 2
+  end: '14.30'
+  order: 3
   start: '13.30'
   talks:
   - id: 1006
@@ -135,6 +199,29 @@
     time_start: '14.10'
     title: Annotation of biologically relevant ligands in UniProtKB using ChEBI
     type: long
+  title: Applications 1
+- chair:
+    employerLabel_: University of Zurich
+    genderLabel: male
+    github: mbaudis
+    gscholar: qKbjZK4AAAAJ
+    image: http://commons.wikimedia.org/wiki/Special:FilePath/Michael-Baudis.jpg
+    linkedin: mbaudis
+    max_start_date: '2015-08-01T00:00:00Z'
+    nationalityLabel: Switzerland
+    orcid: 0000-0002-9903-4248
+    person: Q30505717
+    personDescription: Professor of Bioinformatics
+    personLabel: Michael Baudis
+    topics: Global Alliance for Genomics and Health, genomics, ontology, hematology,
+      oncogenomics, cancer
+    twitter: mbaudis
+  date: April 25th
+  day: Tuesday
+  end: '15.45'
+  order: 4
+  start: '14.45'
+  talks:
   - id: 7839
     speaker: Simona Panni
     time_end: '14.55'
@@ -173,11 +260,24 @@
     time_start: '15.35'
     title: Unifying Protein Complex Curation across the Diversity of Species
     type: lightning
-  title: Applications 1
-- date: April 25th
+  title: Applications 2
+- chair:
+    employerLabel_: AstraZeneca
+    genderLabel: female
+    github: JenHarrow
+    gscholar: fmLAA9wAAAAJ
+    linkedin: jenniferharrow
+    nationalityLabel: United Kingdom
+    orcid: 0000-0003-0338-3070
+    person: Q28359351
+    personDescription: researcher
+    personLabel: Jennifer Harrow
+    topics: health data, phenomics, Genome Annotation, genome annotation, omics, biodiversity
+    twitter: JenHarrow
+  date: April 25th
   day: Tuesday
-  end: '15.45'
-  order: 3
+  end: '14.30'
+  order: 5
   start: '13.30'
   talks:
   - id: 9967
@@ -207,6 +307,27 @@
     title: Building a reference dataset of single-cell RNA-Seq data for training Machine-Learning
       algorithms
     type: lightning
+  title: AI and Text Mining 1
+- chair:
+    employerLabel_: Universidade de São Paulo
+    genderLabel: male
+    github: lubianat
+    gscholar: _1bOZ5cAAAAJ
+    image: http://commons.wikimedia.org/wiki/Special:FilePath/WikiCon%20Brasil%202022%20-%20Ferramentas%20de%20contribui%C3%A7%C3%A3o%20em%20massa%20no%20Wikidata%20e%20Commons%20-%20Tiago%20Lubiana%20%2802%29%20%28cropped%29.jpg
+    linkedin: tiago-lubiana-178a3784
+    nationalityLabel: Brazil
+    orcid: 0000-0003-2473-2313
+    person: Q90076935
+    personDescription: researcher
+    personLabel: Tiago Lubiana
+    topics: bioinformatics
+    twitter: lubianat
+  date: April 25th
+  day: Tuesday
+  end: '15.45'
+  order: 6
+  start: '14.45'
+  talks:
   - id: 9553
     speaker: Peter Uetz
     time_end: '14.55'
@@ -249,12 +370,68 @@
     title: Predicting protein metal binding sites with artificial intelligence and
       machine learning in UniProt
     type: lightning
-  title: AI and Text Mining 1
-- date: April 26th
+  title: AI and Text Mining 2
+- chair:
+    employerLabel_: University of Colorado - Anschutz Medical Campus
+    genderLabel: female
+    github: monicacecilia
+    gscholar: 0bGKBS0AAAAJ
+    linkedin: monimunozto
+    max_start_date: '2018-01-01T00:00:00Z'
+    nationalityLabel: Colombia
+    orcid: 0000-0001-8430-6039
+    person: Q91376977
+    personDescription: researcher (ORCID 0000-0001-8430-6039)
+    personLabel: Monica Munoz-Torres
+    topics: knowledge representation and reasoning, biocuration, data science, comparative
+      genomics, human disease, genomics
+    twitter: monimunozto
+  date: April 26th
   day: Wednesday
   end: '10.30'
-  order: 4
+  order: 6
   start: '10.00'
+  talks:
+  - id: 885
+    speaker: Marc Feuermann
+    time_end: '10.10'
+    time_start: '10.00'
+    title: A complete draft human gene functionome from large-scale evolutionary modeling
+      and experimental Gene Ontology annotations
+    type: lightning
+  - id: 7461
+    speaker: Catherine Hayes
+    time_end: '10.20'
+    time_start: '10.10'
+    title: Towards making sense of glycan-mediated protein-protein interactions
+    type: lightning
+  - id: 8085
+    speaker: Tiago Lubiana
+    time_end: '10.30'
+    time_start: '10.20'
+    title: Wikidata as a tool for biocuration of cell types
+    type: lightning
+  title: Community 1
+- chair:
+    employerLabel_: University of Colorado - Anschutz Medical Campus
+    genderLabel: female
+    github: monicacecilia
+    gscholar: 0bGKBS0AAAAJ
+    linkedin: monimunozto
+    max_start_date: '2018-01-01T00:00:00Z'
+    nationalityLabel: Colombia
+    orcid: 0000-0001-8430-6039
+    person: Q91376977
+    personDescription: researcher (ORCID 0000-0001-8430-6039)
+    personLabel: Monica Munoz-Torres
+    topics: knowledge representation and reasoning, biocuration, data science, comparative
+      genomics, human disease, genomics
+    twitter: monimunozto
+  date: April 26th
+  day: Wednesday
+  end: '14.30'
+  order: 7
+  start: '13.00'
   talks:
   - id: 6726
     speaker: Charles Tapley Hoyt
@@ -296,31 +473,5 @@
     time_start: '14.20'
     title: Accessing UK Biobank-derived data through the AZ PheWAS portal, with reassigned
       phenotypic ICD10 codes.
-    type: lightning
-  title: Community 1
-- date: April 26th
-  day: Wednesday
-  end: '14.30'
-  order: 5
-  start: '13.00'
-  talks:
-  - id: 885
-    speaker: Marc Feuermann
-    time_end: '10.10'
-    time_start: '10.00'
-    title: A complete draft human gene functionome from large-scale evolutionary modeling
-      and experimental Gene Ontology annotations
-    type: lightning
-  - id: 7461
-    speaker: Catherine Hayes
-    time_end: '10.20'
-    time_start: '10.10'
-    title: Towards making sense of glycan-mediated protein-protein interactions
-    type: lightning
-  - id: 8085
-    speaker: Tiago Lubiana
-    time_end: '10.30'
-    time_start: '10.20'
-    title: Wikidata as a tool for biocuration of cell types
     type: lightning
   title: Community 2
