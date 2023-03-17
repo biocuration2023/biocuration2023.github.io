@@ -11,4 +11,4 @@ The conference has two planned social events:
 
 ## Suggested
 
-<TODO>
+TODO
