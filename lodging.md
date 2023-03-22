@@ -7,6 +7,11 @@ permalink: /lodging
 This page contains suggestions for lodging (e.g., hotels) near the
 conference venue, sorted by walking distance to the [conference venue](venue).
 
+If you are not able to check in to your hotel immediately upon arrival in Padua,
+the [conference venue](venue), has a bag check that is always staffed during conference hours.
+Similarly, this check can be used during the conference for attendees who must depart directly
+from the venue.
+
 ## Hotels
 
 | Name                                                                                                                                                                                                                                                                                                                                                                                                                        | Address                                                                             | Rating | Walking distance from Centro Culturale San Gaetano (Conference venue) |

@@ -28,6 +28,8 @@ There are several special-purpose rooms available in the venue for attendees:
 
 1. A quiet room, for attendees who need a break from the exciting atmosphere of the conference
 2. A dedicated room for nursing or pumping
+3. A safe baggage check for conference attendees who have not been able to check in to their hotel yet upon arrival or
+   who would like to store their belongings before departure.
 
 ## Accessibility
 
@@ -35,17 +37,17 @@ The Biocuration 2023 will be held on the ground floor and the basement of the ve
 
 The basement hosts three rooms:
 
-1. multi-purpose room (auditorium) with a capacity of 234 and with 10 additional places for disabled people
-2. a small adjacent room
-3. a leisure room (foyer)
+1. Sala Piero Tortolina Auditorium - a multi-purpose room with a capacity of 234 and with 10 additional places for
+   disabled people.
+2. a leisure room (foyer)
 
 The access from the ground floor is guaranteed by a stairway, an interior lift, and an exterior entrance from Lucatello
 street with a staircase and inclined plane compliant with the legal standards for disabled people.
 
 The ground floor hosts two rooms:
 
-1. the Agorà (poster session and catering space)
-2. the parallel room (space for workshops for maximum 70 people)
+1. Agorà - used for registration, poster sessions, sponsors exhibition, lunch and coffee breaks
+2. Spazio 35 - a small, parallel room with a capacity of 70 people used for the workshop and parallel sessions.
 
 Please contact [biocuration2023@gmail.com](mailto:biocuration2023@gmail.com) if you have additional needs or would like
 further accessibility information.
@@ -55,3 +57,11 @@ further accessibility information.
 ![](https://www.altinatesangaetano.it/sites/default/files/img_1192.jpg)
 
 ![](https://www.altinatesangaetano.it/sites/default/files/12_auditorium_1.jpg)
+
+## Virtual Tour
+
+See [here](https://www.altinatesangaetano.it/vr-html5/01-ingresso.html) for a virtual tour of the venue.
+We can see the principal entrance (first picture); the third picture is the Agorà (ground floor) where there will be
+Registration desk/Poster sessions/Sponsors exhibition/lunches/Coffee break/Welcome cocktail. The fourth picture is the
+room for children; Fifth and sixth pictures are the room near the Auditorium and the Auditorium - Sala Piero Tortolina,
+respectively.
