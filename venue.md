@@ -37,17 +37,17 @@ The Biocuration 2023 will be held on the ground floor and the basement of the ve
 
 The basement hosts three rooms:
 
-1. multi-purpose room (auditorium) with a capacity of 234 and with 10 additional places for disabled people
-2. a small adjacent room
-3. a leisure room (foyer)
+1. Sala Piero Tortolina Auditorium - a multi-purpose room with a capacity of 234 and with 10 additional places for
+   disabled people. 
+2. a leisure room (foyer)
 
 The access from the ground floor is guaranteed by a stairway, an interior lift, and an exterior entrance from Lucatello
 street with a staircase and inclined plane compliant with the legal standards for disabled people.
 
 The ground floor hosts two rooms:
 
-1. the Agorà (poster session and catering space)
-2. the parallel room (space for workshops for maximum 70 people)
+1. Agorà - used for registration, poster sessions, sponsors exhibition, lunch and coffee breaks
+2. Spazio 35 - a small, parallel room with a capacity of 70 people used for the workshop and parallel sessions.
 
 Please contact [biocuration2023@gmail.com](mailto:biocuration2023@gmail.com) if you have additional needs or would like
 further accessibility information.
