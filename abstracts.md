@@ -9,7 +9,7 @@ permalink: /abstracts
 Long talks are given 20 minutes to present, including questions. We suggest limiting your talk to 15 minutes and leaving
 5 minutes for questions.
 
-<ol>
+<ul>
 {% for record in site.data.oral %}
 <li style="margin-top: 1em">
 <span style="font-weight: bold">{{ record.title }}</span>
@@ -23,7 +23,7 @@ Long talks are given 20 minutes to present, including questions. We suggest limi
 </details>
 </li>
 {% endfor %}
-</ol>
+</ul>
 
 ## Short Talks
 
@@ -31,7 +31,7 @@ Short talks are given 10 minutes to present, including questions. We suggest lim
 3 minutes for questions. We recommend your talk is no more than 5 or 6 slides, excluding title, acknowledgements, and
 other housekeeping.
 
-<ol>
+<ul>
 {% for record in site.data.lightning %}
 <li style="margin-top: 1em">
 <span style="font-weight: bold">{{ record.title }}</span>
@@ -45,7 +45,7 @@ other housekeeping.
 </details>
 </li>
 {% endfor %}
-</ol>
+</ul>
 
 ## Poster Presentations
 
