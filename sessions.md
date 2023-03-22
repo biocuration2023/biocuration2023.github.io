@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sessions
-permalink: /sessions
+title: Schedule
+permalink: /schedule
 ---
 All times are given in Central European Summer Time (CEST) using the standard 24 hour clock.
 ⚡ denotes a lightning talk (10 minutes, including Q&A). 🎞️ denotes a long talk (20 minutes, including Q&A).
@@ -9,13 +9,20 @@ All times are given in Central European Summer Time (CEST) using the standard 24
 See [here](workshops) for information about pre-conference workshops, occurring both on Sunday evening (the day before the
 conference) and on Monday (the morning before the conference).
 
-{% for session in site.data.sessions %}
+{% for day in site.data.sessions %}
 
-## {{ session.title }} ({{ session.day }}, {{ session.date }}, {{ session.start }}-{{ session.end }})
+# {{ day.day}}, {{ day.date }}
+
+{% for session in day.sessions %}
+
+## {{ session.title }}
 
 <dl>
-<dt><strong>Room</strong></dt>
+<dt><strong>Location</strong></dt>
 <dd>{{ session.room }}</dd>
+<dt><strong>Time</strong></dt>
+<dd>{{ session.start }}-{{ session.end }}</dd>
+{% if session.chairs %}
 <dt><strong>Session Chairs</strong></dt>
 {% for chair in session.chairs %}
 <dd>
@@ -23,8 +30,10 @@ conference) and on Monday (the morning before the conference).
     <!--(<a href="https://orcid.org/{{ chair.orcid }}">https://orcid.org/{{ chair.orcid }}</a>)-->
 </dd>
 {% endfor %}
+{% endif %}
 </dl>
 
+{% if session.talks %}
 <table>
 <thead>
 <tr>
@@ -46,4 +55,7 @@ conference) and on Monday (the morning before the conference).
 {% endfor %}
 </tbody>
 </table>
+{% endif %}
+
+{% endfor %}
 {% endfor %}

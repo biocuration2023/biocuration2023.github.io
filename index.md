@@ -40,6 +40,8 @@ of Monday, April 24<sup>th</sup>.
     style="width:100%; height:400px;">
 </iframe>
 
+A more detailed schedule can be found [here](schedule).
+
 ## Registration
 
 Registration can be completed [here](https://registrations.meetandwork.com/Login.asp?IDcommessa=MW23008).
