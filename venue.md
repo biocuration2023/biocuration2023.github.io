@@ -38,7 +38,7 @@ The Biocuration 2023 will be held on the ground floor and the basement of the ve
 The basement hosts three rooms:
 
 1. Sala Piero Tortolina Auditorium - a multi-purpose room with a capacity of 234 and with 10 additional places for
-   disabled people. 
+   disabled people.
 2. a leisure room (foyer)
 
 The access from the ground floor is guaranteed by a stairway, an interior lift, and an exterior entrance from Lucatello
@@ -57,3 +57,11 @@ further accessibility information.
 ![](https://www.altinatesangaetano.it/sites/default/files/img_1192.jpg)
 
 ![](https://www.altinatesangaetano.it/sites/default/files/12_auditorium_1.jpg)
+
+## Virtual Tour
+
+See [here](https://www.altinatesangaetano.it/vr-html5/01-ingresso.html) for a virtual tour of the venue.
+We can see the principal entrance (first picture); the third picture is the Agorà (ground floor) where there will be
+Registration desk/Poster sessions/Sponsors exhibition/lunches/Coffee break/Welcome cocktail. The fourth picture is the
+room for children; Fifth and sixth pictures are the room near the Auditorium and the Auditorium - Sala Piero Tortolina,
+respectively.
