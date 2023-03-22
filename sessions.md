@@ -13,7 +13,17 @@ conference) and on Monday (the morning before the conference).
 
 ## {{ session.title }} ({{ session.day }}, {{ session.date }}, {{ session.start }}-{{ session.end }})
 
-Session Chair: {{ session.chair.personLabel }} ([orcid:{{ session.chair.orcid }}](https://orcid.org/{{ session.chair.orcid }}))
+<dl>
+<dt><strong>Room</strong></dt>
+<dd>{{ session.room }}</dd>
+<dt><strong>Session Chairs</strong></dt>
+{% for chair in session.chairs %}
+<dd>
+    <a href="./organizers#{{ chair.orcid }}">{{ chair.personLabel }}</a>
+    <!--(<a href="https://orcid.org/{{ chair.orcid }}">https://orcid.org/{{ chair.orcid }}</a>)-->
+</dd>
+{% endfor %}
+</dl>
 
 <table>
 <thead>

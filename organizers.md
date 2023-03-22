@@ -15,6 +15,7 @@ permalink: /organizers
 <dl>
 {% for person in site.data.organizing_committee %}
 <dt>
+    <a id="{{ person.orcid }}"></a>
     <strong>{{ person.personLabel }}{% if person.note %} ({{ person.note }}){% endif %}</strong>
 </dt>
 <dd>
@@ -42,6 +43,7 @@ permalink: /organizers
 <dl>
 {% for person in site.data.program_committee %}
 <dt>
+    <a id="{{ person.orcid }}"></a>
     <strong>{{ person.personLabel }}{% if person.note %} ({{ person.note }}){% endif %}</strong>
 </dt>
 <dd>
@@ -72,6 +74,7 @@ fellowship.
 <dl>
 {% for person in site.data.travel_committee %}
 <dt>
+    <a id="{{ person.orcid }}"></a>
     <strong>{{ person.name }}{% if person.note %} ({{ person.note }}){% endif %}</strong>
 </dt>
 <dd>
