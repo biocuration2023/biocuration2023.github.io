@@ -28,6 +28,8 @@ There are several special-purpose rooms available in the venue for attendees:
 
 1. A quiet room, for attendees who need a break from the exciting atmosphere of the conference
 2. A dedicated room for nursing or pumping
+3. A safe baggage check for conference attendees who have not been able to check in to their hotel yet upon arrival or
+   who would like to store their belongings before departure.
 
 ## Accessibility
 
