@@ -574,6 +574,20 @@
         machine learning in UniProt
       type: lightning
     title: AI and Text Mining 2
+  - date: April 25th
+    day: Tuesday
+    end: '17.00'
+    order: 10
+    room: Agora
+    start: '16.00'
+    title: Poster Session 1 (Even Numbers)
+  - date: April 25th
+    day: Tuesday
+    end: '18.00'
+    order: 11
+    room: Agora
+    start: '17.00'
+    title: Poster Session 2 (Odd Numbers)
 - date: April 26th
   day: Wednesday
   sessions:
