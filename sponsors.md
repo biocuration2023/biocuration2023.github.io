@@ -29,7 +29,7 @@ permalink: /sponsors
 </td>
 <td>
 <a href="https://elixir-europe.org/">
-<img src="https://elixir-europe.org/system/files/white-orange-logo.png" alt="Elixir logo"/>
+<img src="https://www.dissco.eu/wp-content/uploads/Elixir-Europe-logo-1.png" alt="Elixir logo" style="max-width: 250px;" />
 </a>
 </td>
 </tr>
