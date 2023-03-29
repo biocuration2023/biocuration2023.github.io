@@ -27,7 +27,11 @@ permalink: /sponsors
 <td>
 <a href="https://ranchobiosciences.com/"><img src="img/rancho.jpg" style="max-width: 250px;" /></a>
 </td>
-<td></td>
+<td>
+<a href="https://elixir-europe.org/">
+<img src="https://elixir-europe.org/system/files/white-orange-logo.png" alt="Elixir logo"/>
+</a>
+</td>
 </tr>
 </table>
 
