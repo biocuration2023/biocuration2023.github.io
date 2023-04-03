@@ -131,3 +131,6 @@ schedule).
 - Email: <a href="mailto:biocuration2023@gmail.com">biocuration2023@gmail.com</a>
 - Twitter: [@biocuration2023](https://twitter.com/biocuration2023)
 - Mastodon: [@biocuration2023@genomic.social](https://genomic.social/@biocuration2023)
+
+Information about next year's conference in India, the 17th Annual International Biocuration Conference
+(Biocuration 2024) can be found [here](https://biocuration2024.github.io).
