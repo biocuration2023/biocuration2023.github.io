@@ -25,11 +25,40 @@
       person: Q60220727
       personDescription: null
       personLabel: Silvio Tosatto
-    end: '15.00'
+    end: '15.45'
     order: 0
     room: Sala Piero Tortolina Auditorium
     start: '14.30'
-    title: Salutation
+    title: Conference Salutation
+  - chairs:
+    - employerLabel_: Harvard Medical School
+      genderLabel: male
+      github: cthoyt
+      gscholar: PjrpzUIAAAAJ
+      image: http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Tapley%20Hoyt%202019.jpg
+      linkedin: cthoyt
+      max_start_date: '2021-02-15T00:00:00Z'
+      nationalityLabel: United States of America
+      note: Co-Chair
+      orcid: 0000-0003-4423-4370
+      person: Q47475003
+      personDescription: American chemist
+      personLabel: Charles Tapley Hoyt
+      topics: knowledge graph, ontology, natural language processing
+      twitter: cthoyt
+    - employerLabel_: University of Padua
+      genderLabel: male
+      nationalityLabel: Italy
+      note: Co-Chair
+      orcid: 0000-0003-4525-7793
+      person: Q60220727
+      personDescription: null
+      personLabel: Silvio Tosatto
+    end: '15.00'
+    order: 0.5
+    room: Sala Piero Tortolina Auditorium
+    start: '14.45'
+    title: ISB Greeting from Ruth Lovering (ISB EC Chair)
   - chairs:
     - employerLabel_: Harvard Medical School
       genderLabel: male
@@ -812,5 +841,8 @@
       person: Q60220727
       personDescription: null
       personLabel: Silvio Tosatto
+    end: '15.30'
     order: 14
     room: Sala Piero Tortolina Auditorium
+    start: '14.30'
+    title: Valediction and ISB Time
