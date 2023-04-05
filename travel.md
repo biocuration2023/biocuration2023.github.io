@@ -26,8 +26,9 @@ contact: [biocuration2023@gmail.com](mailto:biocuration2023@gmail.com)
 
 ## COVID Regulations and Restrictions
 
-Please note that some travel restrictions may apply. For the latest information
-about traveling to Italy, please visit the
+As of April 5th 2023, there are no COVID-19-related entry restrictions in Italy.
+Face masks are still mandatory in hospitals, emergency rooms and health centers until April 30th 2023.
+For the latest COVID-19-related travel information, please visit the
 [Italian Ministry of Health website](https://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=english&id=5412&area=nuovoCoronavirus&menu=vuoto)
 
 ## Travel to Padua
