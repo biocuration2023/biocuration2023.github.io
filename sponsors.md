@@ -33,6 +33,12 @@ permalink: /sponsors
 </a>
 </td>
 </tr>
+<tr>
+<td>
+<a href="https://chanzuckerberg.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Chan_Zuckerberg_Initiative.svg/1200px-Chan_Zuckerberg_Initiative.svg.png" style="max-width: 250px;" /></a>
+</td>
+<td></td>
+</tr>
 </table>
 
 ## How to Sponsor Biocuration 2023
