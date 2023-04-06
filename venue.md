@@ -37,7 +37,8 @@ During this conference - if you are affected by the inappropriate behaviour of a
 another individual may be affected, or are affected by online abuse, please speak in confidence to one of
 the conference organisers or email: biocuration2023@gmail.com
 
-Our full code of conduct can be found [here](CODE_OF_CONDUCT.md).
+Our full code of conduct can be
+found [here](https://github.com/biocuration2023/biocuration2023.github.io/blob/main/CODE_OF_CONDUCT.md).
 
 ## Accessibility
 
