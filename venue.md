@@ -31,6 +31,14 @@ There are several special-purpose rooms available in the venue for attendees:
 3. A safe baggage check for conference attendees who have not been able to check in to their hotel yet upon arrival or
    who would like to store their belongings before departure.
 
+## Code of Conduct
+
+During this conference - if you are affected by the inappropriate behaviour of another person(s) or concerned that
+another individual may be affected, or are affected by online abuse, please speak in confidence to one of
+the conference organisers or email: biocuration2023@gmail.com
+
+Our full code of conduct can be found [here](CODE_OF_CONDUCT.md).
+
 ## Accessibility
 
 The Biocuration 2023 will be held on the ground floor and the basement of the venue.
