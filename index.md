@@ -27,7 +27,8 @@ Following the virtual installments of the Annual International Biocuration Confe
 and [2022](https://www.biocuration.org/15th-annual-biocuration-conference-virtual/) due to the
 pandemic, we are pleased to announce that in 2023 we
 will return to a fully in-person (i.e., no remote options) meeting in **Padua, Italy** from **Monday, April
-24<sup>th</sup> (1:00PM CEST) to Wednesday, April 26<sup>th</sup>, 2023 (3:30PM CEST)** ([📅 ics](cal/biocuration2023.ics)).
+24<sup>th</sup> (1:00PM CEST) to Wednesday, April 26<sup>th</sup>, 2023 (3:30PM
+CEST)** ([📅 ics](cal/biocuration2023.ics)).
 [Conference workshops](workshops) will be held on the afternoon of Sunday, April 23<sup>rd</sup> and the morning
 of Monday, April 24<sup>th</sup>.
 
@@ -35,9 +36,9 @@ of Monday, April 24<sup>th</sup>.
 
 ## Schedule
 
-<iframe 
-    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRE9A75KPTzPbuNgfPR5A9zLkg1Jpzmi66R_Fi6a9sdaYLuR7c35wl7EJ1oIRp9DdDzCA6H79rru7J-/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
-    style="width:100%; height:400px;">
+<iframe
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRE9A75KPTzPbuNgfPR5A9zLkg1Jpzmi66R_Fi6a9sdaYLuR7c35wl7EJ1oIRp9DdDzCA6H79rru7J-/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
+style="width:100%; height:400px;">
 </iframe>
 
 A more detailed schedule can be found [here](schedule).
@@ -54,7 +55,9 @@ More information on eligibility and application can be found [here](https://www.
 
 ### Abstract Submission
 
-Late poster submission is now open, until March 31st 2023, through [EasyChair](https://easychair.org/conferences/?conf=biocuration2023). Submissions will be considered on a rolling basis. You don't need to register to submit a poster abstract.
+Late poster submission is now open, until March 31st 2023,
+through [EasyChair](https://easychair.org/conferences/?conf=biocuration2023). Submissions will be considered on a
+rolling basis. You don't need to register to submit a poster abstract.
 
 Abstract submission for oral presentation is now closed.
 
@@ -70,7 +73,7 @@ December 23<sup>rd</sup>, 2022.
 ### Biocuration Virtual Issue 2023 in *Database*
 
 Abstracts accepted for poster and oral presentation at the conference may additionally be submitted for consideration as
-part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.com/database). See details 
+part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.com/database). See details
 [here](submission#virtual-issue).
 
 ## Important Dates
@@ -92,9 +95,10 @@ part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.
 | April 24<sup>th</sup>, 2023                                                           | Conference starts                                                                                                                        |
 | April 26<sup>th</sup>, 2023                                                           | Conference ends                                                                                                                          |
 
-Please note that April 25<sup>th</sup>, 2023 is a national holiday in Italy and therefore schools, banks, public offices,
+Please note that April 25<sup>th</sup>, 2023 is a national holiday in Italy and therefore schools, banks, public
+offices,
 and some shops will be closed. Additionally, public transportation will be running at reduced capacity (i.e., weekend
-schedule). 
+schedule).
 
 ## Keynote Speakers
 
@@ -131,6 +135,8 @@ schedule).
 - Email: <a href="mailto:biocuration2023@gmail.com">biocuration2023@gmail.com</a>
 - Twitter: [@biocuration2023](https://twitter.com/biocuration2023)
 - Mastodon: [@biocuration2023@genomic.social](https://genomic.social/@biocuration2023)
+
+## Future Conference
 
 Information about next year's conference in India, the 17th Annual International Biocuration Conference
 (Biocuration 2024) can be found [here](https://biocuration2024.github.io).
