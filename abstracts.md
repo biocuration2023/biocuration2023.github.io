@@ -49,7 +49,7 @@ other housekeeping.
 
 ## Poster Presentations
 
-There will be two back-to-back poster presentation sessions for 1 hour each Posters should be at a maximum 90cm wide and
+There will be two back-to-back poster presentation sessions for 1 hour each. Posters should be at a maximum 90cm wide and
 100-110cm tall. Poster boards and materials for hanging posters will be provided. We suggest that posters include a QR
 code that viewers can scan that either link to a downloadable version of the poster or other relevant resources.
 
