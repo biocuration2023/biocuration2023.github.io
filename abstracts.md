@@ -70,9 +70,16 @@ other housekeeping.
 
 ## Poster Presentations
 
-There will be two back-to-back poster presentation sessions for 1 hour each. Posters should be at a maximum 90cm wide and
-100-110cm tall. Poster boards and materials for hanging posters will be provided. We suggest that posters include a QR
-code that viewers can scan that either link to a downloadable version of the poster or other relevant resources.
+There will be two back-to-back poster presentation sessions for 1 hour each. Even-numbered posters will be presented
+in the first poster session (Tuesday, April 25th from 16.00-17.00 CEST) and odd-numbered posters swill be presented
+in the second poster session (Tuesday, April 25th from 17.00-18.00 CEST).
+
+Posters should be printed and brought to the venue by the presenter with a maximum width fof 90cm and height of
+100-110cm. Poster boards and materials for hanging posters will be provided. Poster can be hung immediately following
+registration.
+
+We suggest that posters include a QR code that viewers can scan that either link to a downloadable version of the poster
+or other relevant resources.
 
 <ol>
 {% for record in site.data.poster %}
