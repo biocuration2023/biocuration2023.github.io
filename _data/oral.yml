@@ -575,11 +575,11 @@
     \ statement. Author validated statements will then be vetted by curators and integrated\
     \ in knowledgebases including the Alliance of Genome Resources (https://www.alliancegenome.org)."
   authors:
-  - label: Valerio Arnaboldi
-    series_ordinal: 1
-  - label: Daniela Raciti
-    series_ordinal: 2
   - label: Kimberly Van Auken
+    series_ordinal: 1
+  - label: Valerio Arnaboldi
+    series_ordinal: 2
+  - label: Daniela Raciti
     series_ordinal: 3
   - label: Paul Sternberg
     series_ordinal: 4
