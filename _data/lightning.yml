@@ -195,13 +195,13 @@
     CVs, to this end it is already integrated into ORCID automatically propagating
     badges and achievements to ORCID user profiles.'
   authors:
-  - label: Federica Quaglia
-    series_ordinal: 1
-  - label: Damiano Piovesan
-    series_ordinal: 2
-  - label: Silvio Tosatto
-    series_ordinal: 3
   - label: Adel Bouhraoua
+    series_ordinal: 1
+  - label: Federica Quaglia
+    series_ordinal: 2
+  - label: Damiano Piovesan
+    series_ordinal: 3
+  - label: Silvio Tosatto
     series_ordinal: 4
   keywords:
   - Biocuration activity
@@ -433,9 +433,9 @@
     \ and requests were considered or implemented. The user feedback was generally\
     \ positive with a high learning curve."
   authors:
-  - label: Dorotea Dudaš
-    series_ordinal: 1
   - label: Ulrike Wittig
+    series_ordinal: 1
+  - label: Dorotea Dudaš
     series_ordinal: 2
   - label: Maja Rey
     series_ordinal: 3

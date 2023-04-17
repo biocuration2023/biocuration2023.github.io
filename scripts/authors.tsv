@@ -18,7 +18,7 @@ person #	name	email	country	affiliation
 416	Andrew Chatr-Aryamontri	aryamontri@gmail.com	Canada	University of Montreal
 182	Andrew McArthur	mcarthua@mcmaster.ca	Canada	McMaster University
 283	Andrew Olson	olson@cshl.edu	United States	Cold Spring Harbor Laboratory
-468	Andrew R. Leach	arl@ebi.ac.uk	United Kingdom	EMBL-EBI
+468	Andrew R. Leach		United Kingdom	EMBL-EBI
 321	Anita R. Caron	anitac@ebi.ac.uk	United Kingdom	EMBL-EBI
 16	Anja Fullgrabe	anjaf@ebi.ac.uk	United Kingdom	EMBL-EBI
 154	Anjali Shrivastava	anjali@ebi.ac.uk	United Kingdom	EMBL-EBI
@@ -171,7 +171,7 @@ person #	name	email	country	affiliation
 415	Jasmin Coulombe-Huntington	jasmin.coulombe-huntington@umontreal.ca	Canada	University of Montreal
 128	Jasmine Y. Young		United States	RCSB Protein Data Bank
 220	Jasper Koehorst	jasper.koehorst@wur.nl	Netherlands	Wageningen University
-34	Jeet Vora	jeetvora@gwmail.gwu.edu	United States	George Washington University
+34	Jeet Vora	jeetvora@gwu.edu	United States	George Washington University
 482	Jeff De Pons	jdepons@mcw.edu	United States	Medical College of Wisconsin
 3	Jennifer Harrow	harrow.jen@gmail.com	United Kingdom	AstraZeneca
 413	Jennifer Hunt	jennrust@gmail.com	United States	Princeton University
@@ -194,7 +194,7 @@ person #	name	email	country	affiliation
 22	Julien Wollbrett	julien.wollbrett@unil.ch	Switzerland	Swiss Institute of Bioinformatics
 425	Julius Jacobsen	j.jacobsen@qmul.ac.uk	United Kingdom	Queen Mary University of London
 347	Justin Cook	justin.cook@oicr.on.ca	Canada	Ontario Institute for Cancer Research
-88	Justin Reese	justinreese@lbl.gov	United States	Lawrence Berkeley National Laboratory
+88	Justin Reese	justaddcoffee@gmail.com	United States	Lawrence Berkeley National Laboratory
 480	Jyothi Thota	jthota@mcw.edu	United States	Medical College of Wisconsin
 319	K Vijay-Shanker	vijay@udel.edu	United States	University of Delaware
 150	Kalpana Panneerselvam	kalpanap@ebi.ac.uk	United Kingdom	EMBL-EBI
@@ -347,7 +347,7 @@ person #	name	email	country	affiliation
 158	Rachel Lyne	rl24@sanger.ac.uk	United Kingdom	Wellcome Trust Sanger Institute
 310	Rafat Ali	rs.rafat@jmi.ac.in	India	Jamia Millia Islamia University
 391	Rahel Paloots	rahelpaloots@gmail.com	Switzerland	University of Zurich
-346	Raja Mazumder	mazumder@email.gwu.edu	United States	George Washington University
+346	Raja Mazumder	mazumder@gwu.edu	United States	George Washington University
 346	Ralf Stephan	gtrwst9@gmail.com	Canada	Ontario Institute for Cancer Research
 66	Rama Balakrishnan	ramasgd@gmail.com	United States	Genentech
 216	Ramona Walls	rwalls@c-path.org	United States	Critical Path Institute
@@ -455,7 +455,7 @@ person #	name	email	country	affiliation
 352	Xingmin A. Zhang	kingmanzhang@gmail.com	United States	Regeneron
 17	Yalan Bi	yalan@ebi.ac.uk	United Kingdom	EMBL-EBI
 169	Yan Liu	yan.liu2@imperial.ac.uk	United Kingdom	Imperial College London
-102	Yannan Fan	yannan@gigasciencejournal.com	China	GigaScience
+102	Yannan Fan	yannan@gigasciencejournal.com	Hong Kong	GigaScience
 424	Yasemin Bridges	y.bridges@qmul.ac.uk	United Kingdom	Queen Mary University of London
 366	Yasset Perez-Riverol	yperez@ebi.ac.uk	United Kingdom	EMBL-EBI
 440	Yasunori Yamamoto	yy@dbcls.rois.ac.jp	Japan	University of Tokyo

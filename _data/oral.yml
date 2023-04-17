@@ -257,17 +257,17 @@
     \ and viral proteins.\nA new release of DisProt, pertaining technical and/or scientific\
     \ content, is available every six months."
   authors:
-  - label: Maria Victoria Nugnes
-    series_ordinal: 1
-  - label: Federica Quaglia
-    series_ordinal: 2
-  - label: Luiggi Tenorio Ku
-    series_ordinal: 3
-  - label: Maria Cristina Aspromonte
-    series_ordinal: 4
-  - label: Damiano Piovesan
-    series_ordinal: 5
   - label: Silvio Tosatto
+    series_ordinal: 1
+  - label: Maria Victoria Nugnes
+    series_ordinal: 2
+  - label: Federica Quaglia
+    series_ordinal: 3
+  - label: Luiggi Tenorio Ku
+    series_ordinal: 4
+  - label: Maria Cristina Aspromonte
+    series_ordinal: 5
+  - label: Damiano Piovesan
     series_ordinal: 6
   keywords:
   - database
@@ -715,11 +715,11 @@
     \ validating and retraining ML models to allow their valuable scientific input\
     \ to be applied in a scalable way."
   authors:
-  - label: Jane Lomax
-    series_ordinal: 1
-  - label: Rachael Huntley
-    series_ordinal: 2
   - label: Rebecca Foulger
+    series_ordinal: 1
+  - label: Jane Lomax
+    series_ordinal: 2
+  - label: Rachael Huntley
     series_ordinal: 3
   - label: Shirin Saverimuttu
     series_ordinal: 4
