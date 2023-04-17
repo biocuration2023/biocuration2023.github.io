@@ -4,6 +4,27 @@ title: Abstracts
 permalink: /abstracts
 ---
 
+## Keynotes
+
+Keynote speakers have been invited and are given about 60 minutes to present, including introductions and questions.
+We suggest limiting your talk to 40-45 minutes and leaving 15 minutes for questions.
+
+<ul>
+{% for record in site.data.keynotes %}
+<li style="margin-top: 1em">
+<span style="font-weight: bold">{{ record.title }}</span>
+<br />
+<span style="color:#111">{{ record.name }}, {% if record.position %}{{ record.position}} at {% endif %}{{ record.affiliation }}</span>
+<details>
+<summary>Expand the abstract</summary>
+<blockquote style="text-align: justify">
+{{ record.abstract }}
+</blockquote>
+</details>
+</li>
+{% endfor %}
+</ul>
+
 ## Long Talks
 
 Long talks are given 20 minutes to present, including questions. We suggest limiting your talk to 15 minutes and leaving

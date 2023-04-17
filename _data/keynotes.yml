@@ -1,13 +1,3 @@
-- orcid: 0000-0002-8691-772X
-  name: Marco Roos
-  affiliation: Leiden University Medical Center
-  description: Marco Roos is a long term advocate of principles of FAIR and Linked Data to enhance biomedical research.
-  country: Netherlands
-  theme: Clinical Data Curation
-  wikidata: Q57432321
-  twitter: MarcoRoos
-  img: img/roos.jpg
-
 #- name: Nathalie Conte
 #  affiliation: AstraZeneca
 #  country: UK
@@ -25,6 +15,55 @@
   description: Paula Leitman has been working for over 10 years in the Reflora project, coordinated by the Rio de Janeiro Botanical Garden, participating in the development and management of the two largest data platforms on Brazilian flora, the Reflora Virtual Herbarium and Flora & Funga of Brazil.
   theme: Biocuration and Biodiversity
   img: img/leitman.jpg
+  title: FAIR and Open Data at the Rio de Janeiro Botanical Garden
+  abstract: |
+    With the initial objective of meeting the goals set by the Global Strategy for Plant
+    Conservation (GSPC), which is a program within the Convention on Biological Diversity,
+    Brazil has developed bioinformatics systems capable of gathering large volumes of data
+    from a significant number of algae, fungi, and plant experts working in a network and
+    adopting the concept of "crowdsourcing". Thus, since 2008 to the present, a species-
+    oriented platform - currently called Flora e Funga do Brasil - and a specimen-oriented
+    platform - Reflora Virtual Herbarium - have been improved and structured according to the
+    "FAIR" principles and following the institutional mission of open data at the Rio de Janeiro
+    Botanical   Garden,   which   coordinates   these   initiatives   and   hosts   the   necessary
+    infrastructure for receiving, storing and publishing the datasets produced.
+
+    The   Brazilian   Flora   and   Funga   system   provides   information   on   nomenclature
+    (accepted names vs. synonyms), herbarium samples (with specimen’s images) and/or
+    bibliographic   references,   life   form   and   substrate,   data   on   geographical   distribution
+    (occurrence in the Biomes, States and/or Watersheds, types of vegetation and endemism),
+    field images and/or scientific illustrations for the more than 50,300 species of algae, fungi
+    and   plants   that   occur   in   Brazil,   including   native,   naturalized   and   cultivated   species.
+    Moreover, also as a result of the collaborative work of about 1,000 taxonomists, this
+    system   provides   morphological   descriptions   and   identification   keys   for   all   species   of
+    Bryophytes, Lycophytes, Ferns and Gymnosperms, as well as for 90% of the Brazilian
+    Angiosperms. The Reflora Virtual Herbarium system was initially developed to house high
+    resolution images of samples collected in Brazil, in the 18th and 19th centuries, gathering
+    an expressive number of nomenclatural types and deposited in their entirety in European
+    herbaria. Since its release in 2013, new partnerships have been established to expand
+    repatriation   with   foreign   institutions   and   also   to   digitize   collections   from   Brazilian
+    institutions, resulting in approximately 3.9 million images from 75 herbaria.
+    
+    Since botanical nomenclature is associated with herbarium specimens, access to
+    this rich database for specimens has made it possible to understand the geographic
+    distribution and morphological descriptions of the species, enabling the preparation of
+    monographs and Brazil's achievement of the 2020 target set by the GSPC. The results for
+    both projects are available, in a broad and unrestricted manner, through the webpage
+    http://reflora.jbrj.gov.br.'
+
+- orcid: 0000-0002-8691-772X
+  name: Marco Roos
+  affiliation: Leiden University Medical Center
+  description: Marco Roos is a long term advocate of principles of FAIR and Linked Data to enhance biomedical research.
+  country: Netherlands
+  theme: Clinical Data Curation
+  wikidata: Q57432321
+  twitter: MarcoRoos
+  img: img/roos.jpg
+  title: |
+    What if I were a machine?: a plea for FAIR curation 'at source' based on our research journey into the implementation of FAIR principles.
+  abstract: |
+    In my talk I attempt to look back at our journey towards implementing the FAIR principles from a data curation perspective. In 2014 the FAIR principles were conceived at a 'Lorentz workshop' in Leiden initiated by our group's professor Barend Mons, motivated by the inefficiency associated with preparing 'other people's data and services' for reuse. The overall cost to society has later been calculated to be enormous, but is at least clearly unacceptable for people living with a disease. The workshop participants concluded that data should be findable, accessible, interoperable, and reusable for humans and for machines. 'For machines' is obligatory and the basis for the 15 principles published in 2016. As co-founders of the principles we embarked on a journey investigating the implementation of FAIR principles. I will share some highlights of our journey, often together with many collaborators. It encompasses the process of FAIRification, FAIR data stewardship, project management, training, developing ontological models to make data and metadata machine understandable, and software specifications to work with FAIR (meta)data. I will highlight the rare disease domain that has been especially instrumental in our journey, with an inspiring role for patient organisations. Surveys in this domain showed that central repositories contain a fraction of global health-relevant data: most valuable data stay 'at source' or in specialised repositories. These can also be sensitive, such that FAIRification will need to be applied 'at source' to enable efficient analysis under defined conditions, which can also be machine understandable. Moreover, many central repositories implement FAIR too lightly to recommend data deposition as a FAIRification step. Based on our experiences and observations, I propose that curation of health data should take place 'at source'  and that curation of ontological representations that make data, workflows and access conditions machine understandable should be a top priority. I propose that at least as much effort should be put into curating FAIRness for machines at source, as we put into curating the quality of the data.
 
 - name: Guy Cochrane
   position: Executive Director
@@ -35,3 +74,13 @@
   description: "Guy Cochrane has been the Executive Director of the Global Biodata Coalition (GBC) since March, 2022. He is concurrently Team Leader for Data Coordination and Archiving and Head of the European Nucleotide Archive at EMBL's European Bioinformatics Institute (EMBL-EBI)."
   theme: Community Building
   img: img/cochrane.png
+  title: 'Global Biodata Coalition: towards biodata infrastructure sustainability'
+  abstract: |
+    Life scientists have for decades shared research data through open-access data resources that now form a globally distributed infrastructure of thousands of interlinked resources, providing access to deposited and curated data across many data types and life science domains. These biodata resources are critical to biological, life science, and biomedical research across academia and industry; they have substantial impacts both in fundamental and applied research, and they underpin and amplify the research investments made by funders. Researchers, clinicians, and private sector scientists depend on the existence of biodata resources and the health of the infrastructure as a whole.
+
+    Despite their importance, individual biodata resources - and hence the infrastructure as a whole - show limited sustainability; unlike other scientific infrastructures, there is no overall coordination and new biodata resources emerge in organic fashion as the scientific community responds to its data needs. Resulting in uncoordinated and often misaligned funding - typically through short-term and competitive grants - the ability of resources to plan strategically, to secure appropriate technical and scientific expertise, to procure infrastructure and to develop fully according to the needs of the user community are limited. Furthermore, there is risk for many data resources important to the scientific community that funding will be reduced or become unavailable.
+
+    The Global Biodata Coalition (GBC) brings together organisations from around the world that fund life science research. Recognising the fragility of biodata resources, GBC members commit to work together to better coordinate support for the life science data infrastructure and to address the challenges of sustainability. Current work between GBC members includes the development of principles that will help to structure future models for biodata resource sustainability.
+
+    Amongst GBC’s current priorities is the profiling of the biodata resource infrastructure: Which/where are the data resources? Where lies the greatest fragility? What are the greatest risks and where should GBC prioritise? Two lines of work are helping us to address these questions. First, we have compiled an inventory, including where possible funding and further information, of some 3,112 unique and globally distributed biodata resources supported by many hundreds of funders. Second, we have identified 37 Global Core Biodata Resources (GCBRs) through an independent peer-review process. GCBRs, like keystone species in an ecosystem, are crucial for the functioning of the entire ecosystem, and their identification allows GBC, and the funders who support biodata resources, to understand which resources are most crucial for the infrastructure and by inference whose funding should be most carefully monitored. We have established a forum for the leaders of the GCBRs that will share expertise and work with funders to develop and implement mechanisms for sustainability.
+    In the talk, I will introduce GBC and issues around the sustainability of biodata resources. I will present the global inventory and Global Core Biodata Resource projects and highlight upcoming opportunities for the biocuration community to engage in the development of models that support greater sustainability for biodata resources.'
