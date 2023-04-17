@@ -191,7 +191,7 @@
   - ontology
   - knowledgebase
   submitted: 2022-12-16 19:50
-  title: A 20 year perspective on FAIR and TRUST-worthy Human Disease Knowledge Representation.
+  title: A 20 year perspective on FAIR and TRUST-worthy Human Disease Knowledge Representation
 - abstract: 'Genomics England’s PanelApp (https://panelapp.genomicsengland.co.uk/)
     is a knowledgebase which stores virtual gene panels relating to human conditions
     including rare diseases and cancer. It supports England’s NHS Genomic Medicine
@@ -436,7 +436,7 @@
   - binding domains
   submitted: 2023-01-03 10:18
   title: 'Human-pathogen interaction networks: IMEx’s approach on the contextual metadata
-    of the experimental evidence.'
+    of the experimental evidence'
 - abstract: 'The Comprehensive Antibiotic Resistance Database (CARD; card.mcmaster.ca)
     is an ontologically-driven knowledgebase and bioinformatics resource on the molecular
     biology and chemical components of antimicrobial resistance (AMR). This is achieved

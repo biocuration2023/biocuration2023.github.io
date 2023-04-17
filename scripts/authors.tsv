@@ -1,10 +1,13 @@
 person #	name	email	country	affiliation
+477	Adam Gibson	agibson@mcw.edu	United States	Medical College of Wisconsin
 56	Adel Bouhraoua	adelbouhraoua23@gmail.com	Italy	University of Padova
+447	Adnan Malik	amalik@ebi.ac.uk	United Kingdom	EMBL-EBI
 233	Akihiro Fujita	e13d5605@soka-u.jp	Japan	Soka University
 95	Alan Bridge	alan.bridge@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 289	Alena Jiraskova	alena.jiraskova@immunai.com	Czechia	NEBION
 259	Alex Bateman	agb@ebi.ac.uk	United Kingdom	EMBL-EBI
 163	Alex Holmes	ah30@sanger.ac.uk	United Kingdom	Wellcome Trust Sanger Institute
+435	Alice Crowley	acrowley@ebi.ac.uk	United Kingdom	EMBL-EBI
 164	Amaia Sangrador-Vegas	as52@sanger.ac.uk	United Kingdom	Wellcome Trust Sanger Institute
 381	Amanda O'Neil		United Kingdom	AstraZeneca
 179	Amogelang Raphenya	raphenar@mcmaster.ca	Canada	McMaster University
@@ -12,8 +15,10 @@ person #	name	email	country	affiliation
 208	Andrea Auchincloss	andrea.auchincloss@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 339	Andrea Senff-Ribeiro	senffribeiro@gmail.com	Brazil	['Ontario Institute for Cancer Research', 'Federal University of Parana']
 273	Andreas Weidemann	andreas.weidemann@h-its.org	Germany	HITS gGmbH
+416	Andrew Chatr-Aryamontri	aryamontri@gmail.com	Canada	University of Montreal
 182	Andrew McArthur	mcarthua@mcmaster.ca	Canada	McMaster University
 283	Andrew Olson	olson@cshl.edu	United States	Cold Spring Harbor Laboratory
+468	Andrew R. Leach	arl@ebi.ac.uk	United Kingdom	EMBL-EBI
 321	Anita R. Caron	anitac@ebi.ac.uk	United Kingdom	EMBL-EBI
 16	Anja Fullgrabe	anjaf@ebi.ac.uk	United Kingdom	EMBL-EBI
 154	Anjali Shrivastava	anjali@ebi.ac.uk	United Kingdom	EMBL-EBI
@@ -21,6 +26,7 @@ person #	name	email	country	affiliation
 75	Anna Dostalova	anna.dostalova@immunai.com	Czechia	NEBION
 78	Anna Špačková	anna.spackova@upol.cz	Czechia	Palacký University Olomouc
 210	Anne Estreicher	anne.estreicher@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
+484	Anne Kwitek	akwitek@mcw.edu	United States	Medical College of Wisconsin
 244	Anne Morgat	anne.morgat@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 20	Anne Niknejad	anne.niknejad@unil.ch	Switzerland	University of Lausanne
 336	Antonia Lock	alock@ebi.ac.uk	United Kingdom	EMBL-EBI
@@ -29,15 +35,21 @@ person #	name	email	country	affiliation
 239	Arman Edalatmand	edalatma@mcmaster.ca	Canada	McMaster University
 199	Arnaud Kerhornou	arnaud.kerhornou@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 249	Asmaa M. Elfiky	asmaaelfiky@yahoo.com	Egypt	National Research Centre
+398	Barbara Gravel		Belgium	Free University of Brussels
+467	Barbara Zdrazil	bzdrazil@ebi.ac.uk	United Kingdom	EMBL-EBI
 266	Bart Deplancke	bart.deplancke@epfl.ch	Switzerland	Ecole Polytechnique Fédérale de Lausanne
+401	Bart Loeys		Belgium	Antwerp University
 196	Benjamin M. Gyori	benjamin_gyori@hms.harvard.edu	United States	Harvard Medical School
 222	Bill Duncan	duncanw@ufl.edu	United States	University of Florida
 177	Birgit Meldal	birgitmeldal@gmail.com	United Kingdom	EMBL-EBI
 122	Bjoern Peters	bpeters@liai.org	United States	La Jolla Institute for Immunology
 243	Blanca Cabrera Gil	blanca.cabreragil@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
+406	Bobby-Joe Breitkreutz	bbreitkreutz@gmail.com	Canada	The Lunenfeld-Tanenbaum Research Institute, Toronto, Ontario, Canada
 325	Bradley Varner		United Kingdom	EMBL-EBI
 238	Brian Alcock	alcockbp@mcmaster.ca	Canada	McMaster University
 327	Bruce W. Herr II		United States	Indiana University
+442	Bryony Braschi	bbraschi@ebi.ac.uk	United Kingdom	EMBL-EBI
+448	Carlos Moreno		United Kingdom	EMBL-EBI
 190	Carlos Vega	carlos.vega@uni.lu	Luxembourg	University of Luxembourg
 231	Catherine Hayes	catherine.hayes@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 212	Catherine Rivoire	catherine.rivoire@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
@@ -47,28 +59,38 @@ person #	name	email	country	affiliation
 200	Chantal Hulo	chantal.hulo@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 4	Charles Tapley Hoyt	cthoyt@gmail.com	United States	Harvard Medical School
 161	Charlotte Cole	cgc@sanger.ac.uk	United Kingdom	Wellcome Trust Sanger Institute
+399	Charlotte Nachtegael	charlotte.nachtegael@ulb.be	Belgium	Free University of Brussels
 130	Chenghua Shao		United States	RCSB Protein Data Bank
 101	Chris Armit	chrisa@gigasciencejournal.com	United Kingdom	GigaScience
+407	Chris Stark	starkfree@gmail.com	Canada	The Lunenfeld-Tanenbaum Research Institute, Toronto, Ontario, Canada
+409	Christie Chang	christie9k@gmail.com	United States	Princeton University
 215	Christopher Hunter	only1chunts@gmail.com	United Kingdom	GigaScience
 47	Christopher J. Mungall	cjm@berkeleybop.org	United States	Lawrence Berkeley National Laboratory
 268	Christopher Southan	cdsouthan@hotmail.com	Sweden	Medicines Discovery Catapult
 373	Clare Pilgrim	cp390@cam.ac.uk	United Kingdom	University of Cambridge
+490	Colbie Reed	creed212@ufl.edu	United States	University of Florida
 184	Cristina Casals-Casas	cristina.casals@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 342	Cristoffer Sevilla	csevilla@ebi.ac.uk	United Kingdom	EMBL-EBI
 125	Cynthia L Smith	cynthia.smith@jax.org	United States	Jackson Laboratory
+426	Damian Smedley	d.smedley@qmul.ac.uk	United Kingdom	Queen Mary University of London
 55	Damiano Piovesan	damiano.piovesan@unipd.it	Italy	University of Padova
 178	Damien Goutte-Gattat	dpg44@cam.ac.uk	United Kingdom	University of Cambridge
 211	Damien Lieberherr	damien.lieberherr@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
+430	Daniel Bojar	daniel.bojar@gu.se	Sweden	University of Gothenburg
 33	Daniel Lyman	danlyman@gwu.edu	United States	George Washington University
 226	Daniel Marrama	dmarrama@lji.org	United States	La Jolla Institute for Immunology
+488	Daniel Olson	dolson@c-path.org	United States	Critical Path Institute
 334	Daniela Raciti	daniela@wormbase.org	United States	California Institute of Technology
 229	Darren A Natale	dan5@georgetown.edu	United States	Georgetown University
 61	David Hill	david.hill@jax.org	United States	Jackson Laboratory
+463	David Mendez Lopez	dmendez@ebi.ac.uk	United Kingdom	EMBL-EBI
 369	David Osumi-Sutherland	davidos@ebi.ac.uk	United Kingdom	EMBL-EBI
 308	David Wissel	david.wissel@inf.ethz.ch	Switzerland	Ecole Polytechnique Fédérale de Lausanne
+496	Deborah Harrus	dharrus@ebi.ac.uk	United Kingdom	EMBL-EBI
 97	Deepak Unni	deepak.unni3@gmail.com	Switzerland	Swiss Institute of Bioinformatics
 6	Deepti Jaiswal Kundu	jaiswal@ebi.ac.uk	United Kingdom	EMBL-EBI
 160	Denise Carvalho-Silva	dd11@sanger.ac.uk	United Kingdom	Wellcome Trust Sanger Institute
+486	Diane Corey	dcorey@c-path.org	United States	Critical Path Institute
 393	Dimitris Giagkos	dgiagkos@infili.com	Greece	Infili
 360	Dominik Martinát	dominik.martinat@upol.cz	Czechia	Palacký University Olomouc
 286	Doreen Ware	ware@cshl.edu	United States	['Cold Spring Harbor Laboratory', 'United States Department of Agriculture']
@@ -81,34 +103,45 @@ person #	name	email	country	affiliation
 197	Edouard de Castro	edouard.decastro@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 387	Eleanor Wheeler		United Kingdom	AstraZeneca
 137	Elena Speretta	esperett@ebi.ac.uk	United Kingdom	EMBL-EBI
+400	Elfride De Baere		Belgium	Ghent University
 155	Eliot Ragueneau	eragueneau@ebi.ac.uk	United Kingdom	EMBL-EBI
 92	Elisabeth Coudert	elisabeth.coudert@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 207	Elisabeth Gasteiger	elisabeth.gasteiger@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 323	Ellen M. Quardokus		United States	Indiana University
 392	Ellery Smith	smil@zhaw.ch	Switzerland	Zurich University of Applied Sciences
+451	Eloy Félix	efelix@ebi.ac.uk	United Kingdom	EMBL-EBI
+446	Elspeth Bruford	elspeth@ebi.ac.uk	United Kingdom	['EMBL-EBI', 'University of Cambridge']
 252	Eman M. Saleh	eman_ms2009@yahoo.com	Egypt	Ain shams university
 300	Emilie Pasche	emilie.pasche@hesge.ch	Switzerland	Swiss Institute of Bioinformatics
+487	Emily Hartley	ehartley@c-path.org	United States	Critical Path Institute
+454	Emma Manners	emanners@ebi.ac.uk	United Kingdom	EMBL-EBI
 209	Emmanuel Boutet	emmanuel.boutet@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
+492	Eugene Koonin	koonin@ncbi.nlm.nih.gov	United States	['National Center for Biotechnology Information', 'National Library of Medicine']
 287	Eva Macuchova	eva.macuchova@immunai.com	Czechia	NEBION
 129	Ezra Peisach		United States	RCSB Protein Data Bank
 307	Fabrice David	fabrice.david@epfl.ch	Switzerland	Ecole Polytechnique Fédérale de Lausanne
 251	Fatma El-Zahraa Abd El Hakam	fatmaabdelhakem.medg@azhar.edu.eg	Egypt	AlAzhar University
 71	Federica Quaglia	f.quaglia@ibiom.cnr.it	Italy	University of Padova
-297	Frank W. Nicholas	frank.nicholas@sydney.edu.au	Australia	University of Sydney
-26	Frédéric B. Bastian	frederic.bastian@sib.swiss	Switzerland	['Swiss Institute of Bioinformatics', 'University of Lausanne']
+460	Fiona Hunter	fmih@ebi.ac.uk	United Kingdom	EMBL-EBI
+414	Frederick Zhang	frederick.zhang@mail.utoronto.ca	Canada	The Lunenfeld-Tanenbaum Research Institute, Toronto, Ontario, Canada
+26	Frédéric B. Bastian	frederic.bastian@unil.ch	Switzerland	['Swiss Institute of Bioinformatics', 'University of Lausanne']
 8	Frédérique Lisacek	frederique.lisacek@isb-sib.ch	Switzerland	Swiss Institute of Bioinformatics
 293	Fuqi Xu		United Kingdom	EMBL-EBI
+472	G. Thomas Hayman	gthayman@mcw.edu	United States	Medical College of Wisconsin
+411	Genie Leung	gclblasutig@gmail.com	Canada	The Lunenfeld-Tanenbaum Research Institute, Toronto, Ontario, Canada
 181	Gerard Wright	wrightge@mcmaster.ca	Canada	McMaster University
+433	Gil dos Santos	dossantos@morgan.harvard.edu	United States	Harvard University
 103	Giulia Antonazzo	ga362@cam.ac.uk	United Kingdom	University of Cambridge
 214	Gregory Butler	gregory.butler@concordia.ca	Canada	Concordia University
 341	Guanming Wu	guanmingwu@gmail.com	United States	Oregon Health and Science University
+403	Guillaume Smits		Belgium	Free University of Brussels
 384	Gulum Alamgir		United Kingdom	AstraZeneca
 143	Guy Cochrane	cochrane@ebi.ac.uk	United Kingdom	EMBL-EBI
-298	Halie M. Rando	halie.rando@cuanschutz.edu	United States	University of Colorado
 205	Hangjia Zhao	hangjia.zhao@uzh.ch	Switzerland	University of Zurich
 351	Hannah Blau	hannah.blau@jax.org	United States	Jackson Laboratory
 113	Hardeep Nahal-Bose	hardeep.nahal-bose@oicr.on.ca	Canada	Ontario Institute for Cancer Research
 91	Harold Solbrig	harold@solbrig.us	United States	Solbrig Informatics LLC
+461	Harris Ioannidis	hioannidis@ebi.ac.uk	United Kingdom	EMBL-EBI
 82	Harshad Hegde	hhegde@lbl.gov	United States	Lawrence Berkeley National Laboratory
 121	Hector Guzman-Orozco	hgorozco@lji.org	United States	La Jolla Institute for Immunology
 256	Helder Nakaya	hnakaya@usp.br	Brazil	University of São Paulo
@@ -118,10 +151,11 @@ person #	name	email	country	affiliation
 225	Hongzhan Huang	hhuang@udel.edu	United States	University of Delaware
 50	Huaiyu Mi	huaiyumi@usc.edu	United States	University of Southern California
 371	Huseyin Kir	hkir@ebi.ac.uk	United Kingdom	EMBL-EBI
-296	Imke Tammen	imke.tammen@sydney.edu.au	Australia	University of Sydney
+485	Ian Braun	ibraun@c-path.org	United States	Critical Path Institute
 15	Irene Papatheodorou	irenep@ebi.ac.uk	United Kingdom	EMBL-EBI
 127	Irina Persikova	irina.persikova@rcsb.org	United States	RCSB Protein Data Bank
 372	Ismail Ugur Bayindir	ugur@ebi.ac.uk	United Kingdom	EMBL-EBI
+439	Issaku Yamada	issaku@noguchi.or.jp	Japan	Noguchi Institute
 290	Iveta Mrizova	iveta.mrizova@immunai.com	Czechia	NEBION
 201	Ivo Pedruzzi	ivo.pedruzzi@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 28	J. Allen Baron	allenbaron@som.umaryland.edu	United States	University of Maryland School of Medicine
@@ -129,29 +163,42 @@ person #	name	email	country	affiliation
 361	Jakub Galgonek	jakub.galgonek@uochb.cas.cz	Czechia	Institute of Organic Chemistry and Biochemistry of the CAS
 358	Jakub Juračka	jakub.juracka@upol.cz	Czechia	Palacký University Olomouc
 120	James A. Overton	james@overton.ca	Canada	Knocean Inc.
+457	James Blackshaw	jblackshaw@ebi.ac.uk	United Kingdom	EMBL-EBI
 324	James P. Balhoff	balhoff@renci.org	United States	University of North Carolina
-77	Jana Sponarova	jsponar@nebion.com	Switzerland	NEBION
+429	James Urban	james.urban@gu.se	Sweden	University of Gothenburg
+77	Jana Sponarova	jana.sponarova@immunai.com	Switzerland	NEBION
 375	Jane Lomax	jane@scibite.com	United Kingdom	SciBite
+415	Jasmin Coulombe-Huntington	jasmin.coulombe-huntington@umontreal.ca	Canada	University of Montreal
 128	Jasmine Y. Young		United States	RCSB Protein Data Bank
 220	Jasper Koehorst	jasper.koehorst@wur.nl	Netherlands	Wageningen University
 34	Jeet Vora	jeetvora@gwmail.gwu.edu	United States	George Washington University
+482	Jeff De Pons	jdepons@mcw.edu	United States	Medical College of Wisconsin
 3	Jennifer Harrow	harrow.jen@gmail.com	United Kingdom	AstraZeneca
+413	Jennifer Hunt	jennrust@gmail.com	United States	Princeton University
+470	Jennifer R. Smith	jrsmith@mcw.edu	United States	Medical College of Wisconsin
 46	Jeremy Yang	jjyang@salud.unm.edu	United States	University of New Mexico
 206	Jerven Bolleman	jerven.bolleman@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 223	Jimena Linares	jlinares@gfbio.org	Germany	German Federation for Biological Data
 159	Joanna Argasinska	ja30@sanger.ac.uk	United Kingdom	Wellcome Trust Sanger Institute
 132	John D. Westbrook		United States	RCSB Protein Data Bank
+428	Jon Lundstrøm	jon.lundstrom@gu.se	Sweden	University of Gothenburg
 322	Josef Hardi		United States	Stanford University
+497	Joseph Ellaway	jellaway@ebi.ac.uk	United Kingdom	EMBL-EBI
 142	Josephine Burgin	burgin@ebi.ac.uk	United Kingdom	EMBL-EBI
 367	Juan Antonio Vizcaíno	juan@ebi.ac.uk	United Kingdom	EMBL-EBI
+465	Juan Felipe Mosquera	jfmosquera@ebi.ac.uk	United Kingdom	EMBL-EBI
+465	Juan Felipe Mosquera Morales		United Kingdom	EMBL-EBI
 156	Juan Jose Medina Reyes	jmedina@ebi.ac.uk	United Kingdom	EMBL-EBI
-318	Julie Coward	jcowart@udel.edu	United States	University of Delaware
+318	Julie Cowart	jcowart@udel.edu	United States	University of Delaware
 302	Julien Gobeill	julien.gobeill@hesge.ch	Switzerland	Swiss Institute of Bioinformatics
 22	Julien Wollbrett	julien.wollbrett@unil.ch	Switzerland	Swiss Institute of Bioinformatics
+425	Julius Jacobsen	j.jacobsen@qmul.ac.uk	United Kingdom	Queen Mary University of London
 347	Justin Cook	justin.cook@oicr.on.ca	Canada	Ontario Institute for Cancer Research
-88	Justin Reese	justaddcoffee@gmail.com	United States	Lawrence Berkeley National Laboratory
+88	Justin Reese	justinreese@lbl.gov	United States	Lawrence Berkeley National Laboratory
+480	Jyothi Thota	jthota@mcw.edu	United States	Medical College of Wisconsin
 319	K Vijay-Shanker	vijay@udel.edu	United States	University of Delaware
 150	Kalpana Panneerselvam	kalpanap@ebi.ac.uk	United Kingdom	EMBL-EBI
+417	Kara Dolinski	dolinski@princeton.edu	United States	Princeton University
 79	Karel Berka	karel.berka@upol.cz	Czechia	Palacký University Olomouc
 227	Karen Ross	ker81171@gmail.com	United States	Georgetown University
 345	Karen Rothfels	karen.rothfels@oicr.on.ca	Canada	Ontario Institute for Cancer Research
@@ -160,29 +207,37 @@ person #	name	email	country	affiliation
 138	Kate Warner	kwarner@ebi.ac.uk	United Kingdom	EMBL-EBI
 359	Kateřina Storchmannová	katerina.storchmannova@upol.cz	Czechia	Palacký University Olomouc
 388	Katherine Smith		United Kingdom	AstraZeneca
-294	Kathleen R. Mullen	katie@tislab.org	United States	University of Colorado
 99	Katrin Crameri	katrin.crameri@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 331	Katy Börner		United States	Indiana University
 382	Keren Carss		United Kingdom	AstraZeneca
+479	Ketaki Thorat	kthorat@mcw.edu	United States	Medical College of Wisconsin
 87	Kevin Schaper	kevinschaper@gmail.com	United States	University of Colorado
 60	Kimberly Van Auken	vanauken@caltech.edu	United States	California Institute of Technology
-232	Kiyoko Aoki-Kinoshita	kkiyoko@soka.ac.jp	Japan	Soka University
+232	Kiyoko F Aoki-Kinoshita	kkiyoko@soka.ac.jp	Japan	Soka University
 188	Klara Ruppova	klara.ruppova@immunai.com	Czechia	NEBION
 246	Kristian B. Axelsen	kristian.axelsen@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
+502	Krithika Umesh	krithika@udel.edu	United States	University of Delaware
 394	Kurt Stockinger	stog@zhaw.ch	Switzerland	Zurich University of Applied Sciences
 31	Lance Nickel	lnickel@som.umaryland.edu	United States	University of Maryland School of Medicine
 350	Lauren Chan	chanl@oregonstate.edu	United States	Oregon State University
+422	Laurie Goodman	laurie@gigasciencejournal.com	Hong Kong	GigaScience
 348	Leigh C Carmody	leigh.carmody@jax.org	United States	Jackson Laboratory
 162	Leonie Hodges	lh30@sanger.ac.uk	United Kingdom	Wellcome Trust Sanger Institute
+500	Leyla Ruzicka	leyla@uoregon.edu	United States	University of Oregon
 340	Lincoln Stein	lincoln.stein@gmail.co	Canada	Ontario Institute for Cancer Research
 185	Lionel Breuza	lionel.breuza@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
+443	Liora Vilmovsky	liora@ebi.ac.uk	United Kingdom	EMBL-EBI
 338	Lisa Matthews	lmatthews.nyumc@gmail.com	United States	EMBL-EBI
 241	Livia Perfetto	livia.perfetto@gmail.com	United Kingdom	EMBL-EBI
-242	Luana Licata	luana.licata@uniroma2.it	Italy	Università di Tor Vergata
+478	Logan Lamers	llamers@mcw.edu	United States	Medical College of Wisconsin
+408	Lorrie Boucher	lorrie.boucher@gmail.com	Canada	The Lunenfeld-Tanenbaum Research Institute, Toronto, Ontario, Canada
+242	Luana Licata	luana.licata@gmail.com	Italy	Università di Tor Vergata
+427	Luc Thomès	luc.thomes@gu.se	Sweden	University of Gothenburg
 278	Lucas Boatwright	jboatw2@clemson.edu	United States	Clemson University
 247	Lucila Aimo	lucila.aimo@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 58	Luiggi Tenorio Ku	luiggibit@gmail.com	Italy	University of Padova
 27	Lynn M Schriml	lschriml@som.umaryland.edu	United States	University of Maryland School of Medicine
+475	Mahima Vedi	mvedi@mcw.edu	United States	Medical College of Wisconsin
 253	Mahmoud El-Hefnawi	mahef@aucegypt.edu	Egypt	National Research Centre
 272	Maja Rey	maja.rey@h-its.org	Germany	HITS gGmbH
 48	Marc Feuermann	marc.feuermann@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
@@ -191,10 +246,12 @@ person #	name	email	country	affiliation
 275	Marcela Tello-Ruiz	mmonaco@cshl.edu	United States	Cold Spring Harbor Laboratory
 193	Marcio Acencio	marcio.acencio@uni.lu	Luxembourg	University of Luxembourg
 191	Marek Ostaszewski	marek.ostaszewski@uni.lu	Luxembourg	University of Luxembourg
+481	Marek Tutaj	mtutaj@mcw.edu	United States	Medical College of Wisconsin
 153	Margaret Duesbury	margaret@duesbury.idps.co.uk	United Kingdom	EMBL-EBI
 59	Maria Cristina Aspromonte	mariacristina.aspromonte@unipd.it	Italy	University of Padova
 291	Maria Livia Famiglietti	livia.famiglietti@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 42	Maria Martin	martin@ebi.ac.uk	United Kingdom	EMBL-EBI
+464	Maria Paula Magarinos	mpaulam@ebi.ac.uk	United Kingdom	EMBL-EBI
 57	Maria Victoria Nugnes	victorianugnes@gmail.com	Italy	University of Padova
 25	Marianna Tzivanopoulou	marianna.tzivanopoulou@unil.ch	Switzerland	University of Lausanne
 264	Marie-Claude Blatter	marie-claude.blatter@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
@@ -202,15 +259,20 @@ person #	name	email	country	affiliation
 83	Mark A. Miller	mam@lbl.gov	United States	Lawrence Berkeley National Laboratory
 330	Mark A. Musen		United States	Stanford University
 309	Mark Robinson	mark.robinson@mls.uzh.ch	Switzerland	University of Zurich
+466	Marleen de Veij	marleen@ebi.ac.uk	United Kingdom	EMBL-EBI
 73	Mary Ann Tuli	maryann@gigasciencejournal.com	United Kingdom	GigaScience
+469	Mary Kaldunski	mlkal@mcw.edu	United States	Medical College of Wisconsin
 390	Masaaki Shiota	mshiota@soka.ac.jp	Japan	Soka University
 313	Matt Jeffryes	mjj@ebi.ac.uk	United Kingdom	EMBL-EBI
 284	Mazdak Salavati	mazdak.salavati@roslin.ed.ac.uk	United Kingdom	University of Edinburgh
 114	Melanie Courtot	melanie.courtot@oicr.on.ca	Canada	Ontario Institute for Cancer Research
 281	Melanie Harrison	melanie.harrison@usda.gov	United States	United States Department of Agriculture
+483	Melinda Dwinell	mrdwinel@mcw.edu	United States	Medical College of Wisconsin
+455	Melissa Adasme	adasme@ebi.ac.uk	United Kingdom	EMBL-EBI
 354	Melissa Haendel	melissa@tislab.org	United States	University of Colorado
 314	Melissa Harrison	mharrison@ebi.ac.uk	United Kingdom	EMBL-EBI
 1	Michael Baudis	michael.baudis@mls.uzh.ch	Switzerland	University of Zurich
+491	Michael Galperin	galperin@ncbi.nlm.nih.gov	United States	['National Center for Biotechnology Information', 'National Library of Medicine']
 349	Michael Gargano	michael.gargano@jax.org	United States	Jackson Laboratory
 180	Michael Surette	surette@mcmaster.ca	Canada	McMaster University
 37	Michael Tiemeyer	mtiemeyer@ccrc.uga.edu	United States	University of Georgia
@@ -219,12 +281,18 @@ person #	name	email	country	affiliation
 175	Mike Cherry	cherry@stanford.edu	United States	Stanford University
 30	Mike Schor	mschor@som.umaryland.edu	United States	University of Maryland School of Medicine
 37	Mike Tiemeyer	mtiemeyer@ccrc.uga.edu	United States	University of Georgia
+418	Mike Tyers	mike.tyers@gmail.com	Canada	The Hospital for Sick Children
+402	Mikka Vikkula		Belgium	Catholic University of Louvain
 236	Mitsuharu Nagamori	nagamori@slis.tsukuba.ac.jp	Japan	University of Tsukuba
 250	Mohamed A. Yassin	yassin@daad-alumni.de	Egypt	National Research Centre
 353	Monica C Munoz-Torres	moni@tislab.org	United States	University of Colorado
 263	Monica Pozzato	monica.pozzato@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
+474	Monika Tutaj	motutaj@mcw.edu	United States	Medical College of Wisconsin
 221	Montana Smith	montana.smith@pnnl.gov	United States	Pacific Northwest National Laboratory
 124	Monte Westerfield	monte@uoregon.edu	United States	University of Oregon
+449	Muhammad Arsalan		United Kingdom	EMBL-EBI
+412	Nadine Kolas	nkkolas@gmail.com	Canada	The Lunenfeld-Tanenbaum Research Institute, Toronto, Ontario, Canada
+420	Nafisa Qazi	nafisa@gigasciencejournal.com	Hong Kong	GigaScience
 276	Nahla Bassil	nahla.bassil@usda.gov	United States	United States Department of Agriculture
 14	Nancy George	ngeorge@ebi.ac.uk	United Kingdom	EMBL-EBI
 171	Natassja Bush	natassja.bush@inspiralis.co.uk	United Kingdom	Inspiralis Limited
@@ -233,8 +301,9 @@ person #	name	email	country	affiliation
 105	Nicholas H. Brown	nb117@cam.ac.uk	United Kingdom	University of Cambridge
 116	Nicholas Miliaras	nicholas.miliaras@nih.gov	United States	National Library of Medicine
 105	Nick Brown	nb117@cam.ac.uk	United Kingdom	University of Cambridge
+458	Nicolas Bosc	nbosc@ebi.ac.uk	United Kingdom	EMBL-EBI
 295	Nicolas Matentzoglu	nicolas.matentzoglu@gmail.com	Greece	Semanticly
-74	Nicole A. Vasilevsky	nicole@tislab.org	United States	University of Colorado
+437	Nicole A. Vasilevsky	nicole@tislab.org	United States	Critical Path Institute
 94	Nicole Redaschi	nicole.redaschi@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 311	Nida Jamil Khan	njkhan@jmi.ac.in	India	Jamia Millia Islamia University
 230	Nidhi Tyagi	tyagi@ebi.ac.uk	United Kingdom	EMBL-EBI
@@ -245,23 +314,26 @@ person #	name	email	country	affiliation
 305	Nona Naderi	nona.naderi@hesge.ch	Switzerland	Swiss Institute of Bioinformatics
 117	Olga Printseva	olga.printseva@nih.gov	United States	National Library of Medicine
 248	Omnia Nasser	omniaeman11@gmail.com	Egypt	Ain shams university
-151	Pablo Porras	pporrasmillan@gmail.com	United Kingdom	AstraZeneca
+151	Pablo Porras	pporrasmillan@gmail.com	United Kingdom	EMBL-EBI
 326	Paola Roncaglia		United Kingdom	EMBL-EBI
 261	Parit Bansal	parit.bansal@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 68	Parul Gupta	parul.gupta@oregonstate.edu	United States	Oregon State University
 49	Pascale Gaudet	pascale.gaudet@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 90	Patrick Kalita	pkalita@lbl.gov	United Kingdom	Lawrence Berkeley National Laboratory
-198	Patrick Masson	patrick.masson@isb-sib.ch	Switzerland	Swiss Institute of Bioinformatics
+198	Patrick Masson	patrick.masson@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 306	Patrick Ruch	patrick.ruch@hesge.ch	Switzerland	Swiss Institute of Bioinformatics
 53	Paul Denis Thomas	pdthomas@usc.edu	United States	University of Southern California
 335	Paul Sternberg	pws@caltech.edu	United States	California Institute of Technology
+504	Paulinus Nwabia	paulinus@udel.edu	United States	University of Delaware
 76	Pavel Honsa	pavel.honsa@immunai.com	Czechia	NEBION
 18	Pedro Madrigal	pmadrigal@ebi.ac.uk	United Kingdom	EMBL-EBI
 337	Peter D'Eustachio	deustp01@med.nyu.edu	United States	New York University
+434	Peter Karp	pkarp@ai.sri.com	United States	SRI International
 356	Peter Lichter	peter.lichter@dkfz-heidelberg.de	Germany	German Cancer Research Center
 355	Peter Robinson	peter.robinson@jax.org	United States	Jackson Laboratory
 13	Peter Uetz	uetz@vcu.edu	United States	Virginia Commonwealth University
 140	Peter Woollard	woollard@ebi.ac.uk	United Kingdom	EMBL-EBI
+432	Phani Garapati	gphanivijay@gmail.com	United Kingdom	University of Cambridge
 189	Philip Zimmermann	philip.zimmermann@immunai.com	Switzerland	NEBION
 202	Philippe Le Mercier	philippe.lemercier@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 217	Pier Luigi Buttigieg	pbuttigi@mpi-bremen.de	Germany	Max Planck Institute for Marine Microbiology
@@ -270,27 +342,33 @@ person #	name	email	country	affiliation
 111	Qian Xiang	linda.xiang@oicr.on.ca	Canada	Ontario Institute for Cancer Research
 317	Qinghua Wang	wangq@udel.edu	United States	University of Delaware
 383	Quanli Wang		United States	AstraZeneca
-148	Rachael Huntley	rachhuntley@hotmail.com	United Kingdom	SciBite
+436	Rachael Huntley	rachhuntley@hotmail.com	United Kingdom	SciBite
+148	Rachael Huntley	rachael@scibite.com	United Kingdom	SciBite
 158	Rachel Lyne	rl24@sanger.ac.uk	United Kingdom	Wellcome Trust Sanger Institute
 310	Rafat Ali	rs.rafat@jmi.ac.in	India	Jamia Millia Islamia University
-391	Rahel Paloots	rahel.paloots@uzh.ch	Switzerland	University of Zurich
-346	Raja Mazumder	mazumder@gwu.edu	United States	George Washington University
+391	Rahel Paloots	rahelpaloots@gmail.com	Switzerland	University of Zurich
+346	Raja Mazumder	mazumder@email.gwu.edu	United States	George Washington University
 346	Ralf Stephan	gtrwst9@gmail.com	Canada	Ontario Institute for Cancer Research
 66	Rama Balakrishnan	ramasgd@gmail.com	United States	Genentech
 216	Ramona Walls	rwalls@c-path.org	United States	Critical Path Institute
 119	Randi Vita	rvita@liai.org	United States	La Jolla Institute for Immunology
 254	Rania Hassan Mohamed	rania.hassan@sci.asu.edu.eg	Egypt	Ain shams university
-72	Raul Rodriguez-Esteban	raul.rodriguez.esteban@gmail.com	Switzerland	Roche Pharmaceuticals
+495	Ranjana Kishore	ranjana@caltech.edu	United States	California Institute of Technology
+419	Raul Rodriguez-Esteban	raul.rodriguez.esteban@gmail.com	Switzerland	Roche Pharmaceuticals
 377	Rebecca Foulger	rebecca@scibite.com	United Kingdom	SciBite
 194	Reinhard Schneider	reinhard.schneider@uni.lu	Luxembourg	University of Luxembourg
 36	René Ranzinger	rene@ccrc.uga.edu	United States	University of Georgia
 115	Rezarta Islamaj	rezarta.islamaj@nih.gov	United States	National Library of Medicine
+456	Ricardo Arcila	arcila@ebi.ac.uk	United Kingdom	EMBL-EBI
 109	Robel Kahsay	rykahsay@gwu.edu	United States	George Washington University
 370	Robert Court	rcourt@ed.ac.uk	United Kingdom	University of Edinburgh
 69	Robin Haw	robin.haw@oicr.on.ca	Canada	Ontario Institute for Cancer Research
 312	Romana Ishrat	rishrat@jmi.ac.in	India	Jamia Millia Islamia University
+405	Rose Oughtred	oughtred@princeton.edu	United States	Princeton University
 39	Rossana Zaru	rzaru@ebi.ac.uk	United Kingdom	EMBL-EBI
+438	Roxanne Yamashita	ryamashi@ncbi.nlm.nih.gov	United States	National Center for Biotechnology Information
 65	Ruth Lovering	r.lovering@ucl.ac.uk	United Kingdom	University College London
+445	Ruth Seal	rseal@ebi.ac.uk	United Kingdom	['EMBL-EBI', 'University of Cambridge']
 98	Sabine Österle	sabine.oesterle@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 11	Sabrina Toro	sabrina@tislab.org	United States	University of Colorado
 19	Sagane Joye	sagane.joye@unil.ch	Switzerland	['Swiss Institute of Bioinformatics', 'University of Lausanne']
@@ -300,6 +378,7 @@ person #	name	email	country	affiliation
 257	Sara Chuguransky	schuguransky@ebi.ac.uk	United Kingdom	EMBL-EBI
 280	Sarah Dyer	sdyer@ebi.ac.uk	United Kingdom	EMBL-EBI
 165	Sari Ward	sw13@sanger.ac.uk	United Kingdom	Wellcome Trust Sanger Institute
+421	Scott Edmunds	scott@gigasciencejournal.com	Hong Kong	GigaScience
 277	Sebastian Beier	s.beier@fz-juelich.de	Germany	Forschungszentrum Jülich GmbH
 386	Sebastian Wasilewski		United Kingdom	AstraZeneca
 93	Sebastien Gehant	sebastien.gehant@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
@@ -309,59 +388,80 @@ person #	name	email	country	affiliation
 64	Seth Carbon	sjcarbon@lbl.gov	United States	Lawrence Berkeley National Laboratory
 285	Sharon Wei	weix@cshl.edu	United States	Cold Spring Harbor Laboratory
 144	Shasank Sekhar Swain	shasank@ils.res.in	India	DBT Institute of Life Sciences
-374	Shawn Zheng Kai Tan		United Kingdom	EMBL-EBI
+374	Shawn Zheng Kai Tan	shawntan@ebi.ac.uk	United Kingdom	EMBL-EBI
 362	Shengbo Wang	shengbo_wang@ebi.ac.uk	United Kingdom	EMBL-EBI
 385	Shikta Das		United Kingdom	AstraZeneca
 378	Shirin Saverimuttu	shirin@scibite.com	United Kingdom	SciBite
+473	Shur-Jen Wang	sjwang@mcw.edu	United States	Medical College of Wisconsin
 81	Sierra Moxon	smoxon@lbl.gov	United States	Lawrence Berkeley National Laboratory
 170	Silvie Fexova	sfexova@ebi.ac.uk	United Kingdom	EMBL-EBI
 12	Silvio Tosatto	silvio.tosatto@unipd.it	Italy	University of Padova
 240	Simona Panni	simona.panni@unical.it	Italy	University of Calabria
 389	Slavé Petrovski		United Kingdom	AstraZeneca
+397	Sofia Papadimitriou		Belgium	Free University of Brussels
+410	Sonam Dolma	sonam.dolma@mail.utoronto.ca	Canada	The Lunenfeld-Tanenbaum Research Institute, Toronto, Ontario, Canada
+503	Spandan Pandya	spandya@udel.edu	United States	University of Delaware
+499	Sridhar Ramachandran	sramacha@uoregon.edu	United States	University of Oregon
 173	Stacia Engel	stacia@stanford.edu	United States	Stanford University
+471	Stan Laulederkind	slaulede@mcw.edu	United States	Medical College of Wisconsin
 141	Stephane Pesant	pesant@ebi.ac.uk	United Kingdom	EMBL-EBI
 135	Stephen K. Burley		United States	RCSB Protein Data Bank
+431	Steven Marygold	sjm41@cam.ac.uk	United Kingdom	University of Cambridge
 145	Sudhir K. Paidesetty	sairam_paidesetty@gmail.com	India	Siksha O Anusandhan University
 85	Sujay Sanjeev Patil	spatil@lbl.gov	United States	Lawrence Berkeley National Laboratory
 108	Sujeet Kulkarni	sujeet.kulkarni25@uga.edu	United States	University of Georgia
 363	Suresh Hewapathirana	hewapathirana@ebi.ac.uk	United Kingdom	EMBL-EBI
 67	Susan M. Bello	susan.bello@jax.org	United States	Jackson Laboratory
+441	Susan Tweedie	stweedie@ebi.ac.uk	United Kingdom	EMBL-EBI
 70	Sushma Naithani	sushma.naithani@oregonstate.edu	United States	Oregon State University
 172	Suzi Aleksander	suzia@stanford.edu	United States	Stanford University
+453	Sybilla Corbett	scorbett@ebi.ac.uk	United Kingdom	EMBL-EBI
 186	Sylvain Poux	sylvain.poux@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 146	Tahziba Hussain	tahzibahussain@hotmail.com	India	ICMR-Regional Medical Research Centre
+501	Takatomo Fujisawa	tf@nig.ac.jp	Japan	National Institute of Genetics
+444	Tamsin Jones	tjones@ebi.ac.uk	United Kingdom	EMBL-EBI
 219	Tanja Barrett	barrett@ncbi.nlm.nih.gov	United States	National Center for Biotechnology Information
 24	Tarcisio Mendes de Farias	tarcisio.mendes@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 168	Ten Feizi	t.feizi@imperial.ac.uk	United Kingdom	Imperial College London
 262	Teresa Batista Neto	teresa.neto@sib.swiss	Switzerland	Swiss Institute of Bioinformatics
 237	Tetsuo Sakaguchi	saka@slis.tsukuba.ac.jp	Japan	University of Tsukuba
+462	Tevfik Kiziloren	tevfik@ebi.ac.uk	United Kingdom	EMBL-EBI
 255	Tiago Lubiana	tiago.lubiana.alves@usp.br	Brazil	University of São Paulo
 86	Tim Putman	tim@tislab.org	United States	University of Colorado
 279	Timothee Cezard	tcezard@ebi.ac.uk	United Kingdom	EMBL-EBI
+404	Tom Lenaerts	tom.lenaerts@ulb.be	Belgium	Free University of Brussels
 62	Tremayne Mushayahama	mushayah@usc.edu	United States	University of Southern California
 45	Tudor Oprea	tudorzinho@gmail.com	United States	University of New Mexico
 258	Typhaine Paysan-Lafosse	typhaine@ebi.ac.uk	United Kingdom	EMBL-EBI
 271	Ulrike Wittig	ulrike.wittig@h-its.org	Germany	HITS gGmbH
 357	Ursula Weber	u.weber@dkfz-heidelberg.de	Germany	German Cancer Research Center
 192	Valentin Grouès	valentin.groues@uni.lu	Luxembourg	University of Luxembourg
-333	Valerio Arnaboldi	valerio.arnaboldi@wormbase.org	United States	California Institute of Technology
+493	Valerie de Crecy-Lagard	vcrecy@ufl.edu	United States	University of Florida
+494	Valerio Arnaboldi	valearna@caltech.edu	United States	California Institute of Technology
+493	Valerio Arnaboldi	valerio.arnaboldi@wormbase.org	United States	California Institute of Technology
 195	Venkata Satagopam	venkata.satagopam@uni.lu	Luxembourg	University of Luxembourg
 245	Venkatesh Muthukrishnan	venkatesh.muthukrishnan@dotmatics.com	United Kingdom	Dotmatics Limited
 344	Veronica Shamovsky	vshamovsky@gmail.com	United States	New York University
-265	Vincent Gardeux	gardeux.vincent@gmail.com	Switzerland	Ecole Polytechnique Fédérale de Lausanne
+265	Vincent Gardeux	vincent.gardeux@epfl.ch	Switzerland	Ecole Polytechnique Fédérale de Lausanne
+423	Vinicius de Souza	souzadevinicius@gmail.com	United Kingdom	EMBL-EBI
 40	Vishal Joshi	vjoshi@ebi.ac.uk	United Kingdom	EMBL-EBI
 282	Vivek Kumar	vkumar@cshl.edu	United States	Cold Spring Harbor Laboratory
 80	Václav Bazgier	vaclav.bazgier@upol.cz	Czechia	Palacký University Olomouc
 292	Wei Kheng Teh	weikteh@gmail.com	United Kingdom	EMBL-EBI
+476	Wendy Demos	wdemos@mcw.edu	United States	Medical College of Wisconsin
+489	Will Roddy	wroddy@c-path.org	United States	Critical Path Institute
 274	Wolfgang Müller	wolfgang.mueller@h-its.org	Germany	HITS gGmbH
 316	Xihan Qin	xihan@udel.edu	United States	University of Delaware
 352	Xingmin A. Zhang	kingmanzhang@gmail.com	United States	Regeneron
 17	Yalan Bi	yalan@ebi.ac.uk	United Kingdom	EMBL-EBI
 169	Yan Liu	yan.liu2@imperial.ac.uk	United Kingdom	Imperial College London
 102	Yannan Fan	yannan@gigasciencejournal.com	China	GigaScience
+424	Yasemin Bridges	y.bridges@qmul.ac.uk	United Kingdom	Queen Mary University of London
 366	Yasset Perez-Riverol	yperez@ebi.ac.uk	United Kingdom	EMBL-EBI
+440	Yasunori Yamamoto	yy@dbcls.rois.ac.jp	Japan	University of Tokyo
 133	Yuhe Liang		United States	RCSB Protein Data Bank
 166	Yukie Akune	y.akune@imperial.ac.uk	United Kingdom	Imperial College London
+123	Yvonne Bradford	ybradfor@uoregon.edu	United States	University of Oregon
 136	Yvonne Lussi	ylussi@ebi.ac.uk	United Kingdom	EMBL-EBI
 123	Yvonne M. Bradford	ybradfor@uoregon.edu	United States	University of Oregon
 118	Zhiyong Lu	zhiyong.lu@nih.gov	United States	National Library of Medicine

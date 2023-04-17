@@ -36,7 +36,7 @@
   - SPARQL
   - Knowledge Graph
   submitted: 2022-12-09 16:06
-  title: 'Making expert curated knowledge graphs FAIR '
+  title: Making expert curated knowledge graphs FAIR
 - abstract: Curation of biomedical knowledge into standardised and inter-operable
     format is essential for studying complex biological processes. However, curation
     of relationships and interactions between biomolecules is a laborious manual process,
@@ -295,16 +295,22 @@
     series_ordinal: 2
   - label: Qinghua Wang
     series_ordinal: 3
-  - label: Julie Coward
+  - label: Krithika Umesh
     series_ordinal: 4
-  - label: Hongzhan Huang
+  - label: Spandan Pandya
     series_ordinal: 5
-  - label: Cathy Wu
+  - label: Paulinus Nwabia
     series_ordinal: 6
-  - label: K Vijay-Shanker
+  - label: Julie Cowart
     series_ordinal: 7
-  - label: Cecilia Arighi
+  - label: Hongzhan Huang
     series_ordinal: 8
+  - label: Cathy Wu
+    series_ordinal: 9
+  - label: K Vijay-Shanker
+    series_ordinal: 10
+  - label: Cecilia Arighi
+    series_ordinal: 11
   keywords:
   - Alzheimer’s disease
   - Annotation
@@ -1320,21 +1326,21 @@
     \ manual curation, we should focus on using the best aspects of curation across\
     \ communties and approaches."
   authors:
-  - label: Marc Gillespie
-    series_ordinal: 1
-  - label: Peter D'Eustachio
-    series_ordinal: 2
-  - label: Robin Haw
-    series_ordinal: 3
-  - label: Lisa Matthews
-    series_ordinal: 4
-  - label: Andrea Senff-Ribeiro
-    series_ordinal: 5
-  - label: Lincoln Stein
-    series_ordinal: 6
-  - label: Guanming Wu
-    series_ordinal: 7
   - label: Henning Hermjakob
+    series_ordinal: 1
+  - label: Marc Gillespie
+    series_ordinal: 2
+  - label: Peter D'Eustachio
+    series_ordinal: 3
+  - label: Robin Haw
+    series_ordinal: 4
+  - label: Lisa Matthews
+    series_ordinal: 5
+  - label: Andrea Senff-Ribeiro
+    series_ordinal: 6
+  - label: Lincoln Stein
+    series_ordinal: 7
+  - label: Guanming Wu
     series_ordinal: 8
   - label: Cristoffer Sevilla
     series_ordinal: 9
@@ -1441,5 +1447,5 @@
   - Genomics
   - UKBiobank
   submitted: 2023-01-05 14:28
-  title: 'Accessing UK Biobank-derived data through the AZ PheWAS portal, with reassigned
-    phenotypic ICD10 codes. '
+  title: Accessing UK Biobank-derived data through the AZ PheWAS portal, with reassigned
+    phenotypic ICD10 codes

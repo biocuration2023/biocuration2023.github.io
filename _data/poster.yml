@@ -187,7 +187,7 @@
   - MIxS
   - environmental checklists
   submitted: 2022-12-16 20:14
-  title: Genomic Standards Consortium tools for genomic data biocuration - 2023 update.
+  title: Genomic Standards Consortium tools for genomic data biocuration - 2023 update
 - abstract: Rhea (www.rhea-db.org) is a FAIR resource of expert curated biochemical
     and transport reactions described using the ChEBI ontology of small molecules
     (www.ebi.ac.uk/chebi/) and evidenced by peer-reviewed literature (https://pubmed.ncbi.nlm.nih.gov/).
@@ -413,8 +413,8 @@
   - image
   - svg
   submitted: 2022-12-20 13:50
-  title: 'SwissBioPics – an interactive library of cell images for the visualization
-    of subcellular location data '
+  title: SwissBioPics – an interactive library of cell images for the visualization
+    of subcellular location data
 - abstract: Altered glycosylation is associated with almost all major human diseases
     and reflects changes in cellular status, making glycans a promising target in
     the search for accessible biomarkers that can indicate disease with high sensitivity
@@ -727,7 +727,7 @@
   - api
   - data integration
   submitted: 2022-12-28 19:15
-  title: 'GlyGen: Computational and Informatics Resources for Glycoscience '
+  title: 'GlyGen: Computational and Informatics Resources for Glycoscience'
 - abstract: Using model organism phenotype data to improve human disease diagnosis
     and treatment is limited by difficulties in translating model organism phenotypes
     to patient signs and symptoms  and by incomplete curation of model organism data.
@@ -1011,7 +1011,7 @@
   - AlphaFold
   submitted: 2023-01-02 07:43
   title: AlphaFold structure predictions help improve Pfam models and annotations
-    - Usage in curation.
+    - Usage in curation
 - abstract: "Annotation of proteins from structure-based analyses is an integral component\
     \ of the UniProt Knowledgebase (UniProtKB). There are nearly 200,000 experimentally\
     \ determined 3-dimensional structures of proteins deposited in the Protein Data\
@@ -1380,7 +1380,7 @@
   - cell type
   - data analysis
   submitted: 2023-01-03 15:20
-  title: 'The Nebion Cell-type Ontology '
+  title: The Nebion Cell-type Ontology
 - abstract: Single-cell RNA sequencing (scRNA-seq) technologies have dramatically
     revolutionized the field of transcriptomics, enabling researchers to study gene
     expression at the single cell level and uncover new insights in a variety of fields.
@@ -1797,71 +1797,6 @@
   submitted: 2023-01-03 20:48
   title: Expanding the Repertoire of Causal Relations for a Richer Description of
     Activity Flow in Gene Ontology Causal Activity Models (GO-CAMs)
-- abstract: "The wealth of information from research and health records can be leveraged\
-    \ to support advances in diagnostics and treatments. Existing computational tools,\
-    \ which rely on data standardization, integration, and comparison, have successfully\
-    \ supported human precision medicine. Though species agnostic, these tools are\
-    \ currently optimized for diagnosis and treatment of human patients since the\
-    \ harmonized data mostly comes from human health records and animal model databases.\
-    \ Including all non-human animal data would improve translational research, and\
-    \ expand diagnostic support and treatment discovery for non-human animals.\nData\
-    \ integration and comparison require standards, including ontologies. Current\
-    \ standards can be used for non-human animal data: NCBI gene for genes, the Uber-anatomy\
-    \ ontology (Uberon) for anatomy, and the Unified phenotype ontology (uPheno) or\
-    \ more species-specific ontology such as the Mammalian Phenotype Ontology (MP)\
-    \ for phenotypes. \nHere, we report the expansion of the Mondo Disease Ontology\
-    \ (Mondo) for use as a standard for non-human animal diseases, and the creation\
-    \ of a new Vertebrate Breed Ontology (VBO) as a standard for animal breeds. \n\
-    \nMondo integrates multiple disease terminologies into a coherent logic-based\
-    \ ontology that provides precise semantic mappings between terms. It represents\
-    \ a hierarchical classification of over 20,000 diseases in humans and across species,\
-    \ covering a wide range of diseases including cancers, infectious diseases and\
-    \ Mendelian disorders. We improved the coverage of non-human diseases in Mondo\
-    \ by adding new terms represented in veterinary electronic health records and\
-    \ animal databases. In addition, we added axioms to indicate the species affected\
-    \ by a disease, and whether a disease affects a single or several species. Importantly,\
-    \ semantics connect a non-human disease and its analogous counterpart in humans\
-    \ to support translational research.\n\nVBO was created to be a single source\
-    \ for data standardization and integration of all breed names. Breeds included\
-    \ in VBO currently cover livestock, cat, and dog breeds as determined, defined,\
-    \ and/or recognized by international organizations, communities, and/or experts.\
-    \  VBO includes information about breeds, such as common names and synonyms, breed\
-    \ recognition status, domestication status, breed identifiers/name codes, and\
-    \ references in other databases. \n\nAdopting Mondo as the source of diseases,\
-    \ VBO as the source of breed names, as well as other ontologies such as Uberon\
-    \ and Upheno or MP, in databases and veterinary electronic health records will\
-    \ improve data computability and consistency. This will enhance data interoperability,\
-    \ support data integration and comparison, and ultimately improve the current\
-    \ computational tools for both humans and other animals."
-  authors:
-  - label: Sabrina Toro
-    series_ordinal: 1
-  - label: Kathleen R. Mullen
-    series_ordinal: 2
-  - label: Nicolas Matentzoglu
-    series_ordinal: 3
-  - label: Imke Tammen
-    series_ordinal: 4
-  - label: Frank W. Nicholas
-    series_ordinal: 5
-  - label: Halie M. Rando
-    series_ordinal: 6
-  - label: Nicole A. Vasilevsky
-    series_ordinal: 7
-  - label: Christopher J. Mungall
-    series_ordinal: 8
-  - label: Melissa Haendel
-    series_ordinal: 9
-  keywords:
-  - Disease
-  - Breed
-  - Ontology
-  - Data Standardization
-  - Precision Medicine
-  - Veterinary data
-  submitted: 2023-01-03 20:57
-  title: 'Harnessing veterinary data to drive precision medicine: Expanding the Mondo
-    Disease Ontology and Creating the Vertebrate Breed Ontology.'
 - abstract: "Introduction\nThe PRoteomics IDEntifications (PRIDE) database at the\
     \ European Bioinformatics Institute is currently the world-leading repository\
     \ of mass spectrometry (MS)-based proteomics data [1]. PRIDE is also one of the\
@@ -1970,6 +1905,8 @@
     series_ordinal: 3
   - label: Melanie Courtot
     series_ordinal: 4
+  - label: Qian Xiang
+    series_ordinal: 5
   keywords:
   - clinical data
   - cancer
@@ -2058,3 +1995,976 @@
   - single nucleotide variants
   submitted: 2023-01-04 20:10
   title: cancercelllines.org - a new curated resource for cancer cell line variants
+- abstract: 'The Biological General Repository for Interaction Datasets (BioGRID:
+    www.thebiogrid.org) is an open-access database that archives and freely disseminates
+    genetic, protein and chemical interaction data curated from the primary literature
+    on human and major model organisms. As of December 2022, BioGRID contains over
+    2,579,000 structured records for biological interactions captured from high and
+    low throughput studies documented in more than 70,000 publications, as curated
+    from 179,325 papers read in total. Curation is carried out at a species level
+    and a themed project level. Comprehensive literature curation coverage for the
+    budding yeast Saccharomyces cerevisiae has produced over 795,000 interactions,
+    which are shared with the Saccharomyces Genome Database (SGD), a member of the
+    Alliance of Genome Resources (www.alliancegenome.org). BioGRID also collaborates
+    with other Alliance members, including WormBase, FlyBase, and PomBase, to help
+    increase the impact of data collection and minimize curation redundancy. Project
+    level curation is used to provide in-depth coverage of specific areas of biomedical
+    or biological interest. A recent project is focused on genetic, protein and chemical
+    interaction data for COVID-19 research. BioGRID has systematically curated >34,000
+    protein interactions for SARS-CoV-2, as well as the related SARS-CoV and MERS-CoV
+    coronaviruses, from more than 760 preprints and published articles. The COVID-19
+    project has also captured over 100 coronavirus-related chemical-protein relationships
+    directly curated from the literature in addition to incorporating chemical-protein
+    interactions for human drug targets drawn from DrugBank and BindingDB. Other themed
+    BioGRID projects include specific biological processes with disease relevance
+    such as autophagy and the ubiquitin-proteasome system (UPS), as well as diseases
+    such as Fanconi anemia and glioblastoma. BioGRID also curates genome-wide CRISPR-based
+    genetic screens in human and model organism cell lines.  These high throughput
+    gene-phenotype datasets are housed in the Open Repository for CRISPR Screens (ORCS)
+    (orcs.thebiogrid.org ). This extension of BioGRID currently contains 1,678 genome-wide
+    single mutant phenotype screens. CRISPR technology has also recently been applied
+    to various virus infection models in human or African green monkey cell lines
+    to identify host genes that confer susceptibility or resistance to infection.
+    To date, we have curated 87 CRISPR phenotype screens for SARS-CoV-2, SARS-CoV,
+    MERS-CoV, and other related coronaviruses. These screens have identified both
+    known pro-viral and anti-viral factors, as well as potential new therapeutic drug
+    targets. All data in BioGRID and ORCS are publicly available and may be freely
+    downloaded in standardized formats that can be readily incorporated into various
+    applications for computational analyses. BioGRID and ORCS data are also provided
+    through model organism databases (MODs) and meta-databases including UniProt,
+    NCBI and PubChem. This project is supported by the National Institutes of Health
+    Office of Research Infrastructure Programs [R01OD010929 to M.T., K.D.].'
+  authors:
+  - label: Rose Oughtred
+    series_ordinal: 1
+  - label: Bobby-Joe Breitkreutz
+    series_ordinal: 2
+  - label: Chris Stark
+    series_ordinal: 3
+  - label: Lorrie Boucher
+    series_ordinal: 4
+  - label: Christie Chang
+    series_ordinal: 5
+  - label: Sonam Dolma
+    series_ordinal: 6
+  - label: Genie Leung
+    series_ordinal: 7
+  - label: Nadine Kolas
+    series_ordinal: 8
+  - label: Jennifer Hunt
+    series_ordinal: 9
+  - label: Frederick Zhang
+    series_ordinal: 10
+  - label: Jasmin Coulombe-Huntington
+    series_ordinal: 11
+  - label: Andrew Chatr-Aryamontri
+    series_ordinal: 12
+  - label: Kara Dolinski
+    series_ordinal: 13
+  - label: Mike Tyers
+    series_ordinal: 14
+  keywords:
+  - COVID-19
+  - SARS-CoV-2
+  - Protein Interactions
+  - Genetic Interactions
+  - Chemical Interactions
+  - CRISPR Phenotypes
+  submitted: 2023-02-02 00:13
+  title: 'The BioGRID Interaction Database: SARS-CoV-2 Coronavirus Interaction Networks
+    and Genome-wide CRISPR Phenotypic Screens'
+- abstract: "It is estimated that there are 10,000 unique rare diseases, which are\
+    \ defined as diseases that affect one in every 2,000 patients worldwide. Given\
+    \ the infrequency of these diseases, patients and their families often experience\
+    \ challenges with obtaining a diagnosis and/or finding effective treatments or\
+    \ a cure for the disorders. While clinical data is available describing the phenotypes,\
+    \ genotypes, and other clinical features of many diseases, this data is often\
+    \ disparate and siloed and not collected or described in a standardized manner.\
+    \ The Critical Path Institute (C-Path) is a non-profit, public-private partnership\
+    \ with the US Food and Drug Administration that fosters the development of new\
+    \ evaluation tools to inform medical product development. C-Path is developing\
+    \ the Rare Disease Cures Accelerator-Data and Analytics Platform (RDCA-DAP) as\
+    \ an accessible data portal for researchers, clinicians, and patients. RDCA-DAP\
+    \ contains aggregated, curated data to support and accelerate rare disease characterization\
+    \ and the development of therapies.  \n\nPatient-level data is shared with the\
+    \ RDCA-DAP from various organizations and companies and primarily consists of\
+    \ clinical trials, observational studies, and rare disease patient registry data.\
+    \ Data can be freely searched and made available to users via the ‘FAIR Data Services'\
+    \ platform upon completion of a data access request and data use agreement. ‘Workspaces’\
+    \ provide a cloud-based infrastructure where users can view the data and perform\
+    \ analytical workflows to generate new insights.  \n\nData in RDCA-DAP undergoes\
+    \ a responsive and rigorous curation workflow to ensure data integrity, security,\
+    \ and privacy and to conform to the FAIR principles of being findable, accessible,\
+    \ interoperable, and reusable. The workflow is broken down into pre-standardization\
+    \ and standardization levels. At the pre-standardization level, manual and automated\
+    \ checks are performed to ensure compliance with privacy and security measures,\
+    \ data cleaning is done to ensure consistency, and data dictionaries and catalogs\
+    \ are created and published on the platform. At this point, metadata describing\
+    \ the dataset is made available in FAIR Data Services, and users can request access.\
+    \ In the standardization step, selected data such as demographic information,\
+    \ laboratory tests, and clinical features are mapped to the OMOP common data model\
+    \ (CDM). The process is responsive in that curation priorities are based on user\
+    \ requests, and if requested by researchers, additional variables will be mapped\
+    \ to OMOP. Further curation is done to map data to OBO Foundry ontologies using\
+    \ the Critical Path Ontology (CPONT). CPONT is an application ontology that imports\
+    \ various OBO ontologies for the features, including data about diseases, phenotypes,\
+    \ or assays. Standardization to these OWL ontologies provides an additional layer\
+    \ of semantics for integrating datasets across disease areas and enables exploration\
+    \ and discovery through the C-Path Knowledge Graph. Providing semantically standardized\
+    \ rare disease data to the research and clinical community will facilitate novel\
+    \ queries across with the aim of developing new tools to accelerate the development\
+    \ of new treatments."
+  authors:
+  - label: Nicole Vasilevsky
+    series_ordinal: 1
+  - label: Ian Braun
+    series_ordinal: 2
+  - label: Diane Corey
+    series_ordinal: 3
+  - label: Emily Hartley
+    series_ordinal: 4
+  - label: Daniel Olson
+    series_ordinal: 5
+  - label: Will Roddy
+    series_ordinal: 6
+  - label: Ramona Walls
+    series_ordinal: 7
+  keywords:
+  - rare disease
+  - biomedical ontology
+  - data portal
+  submitted: 2023-02-07 01:08
+  title: Curation of Rare Disease Data in the Rare Disease Cures Accelerator-Data
+    and Analytics Platform
+- abstract: 'Knowledgebases that curate and organize gene data also provide manual
+    text paragraphs that describe gene function. These short paragraphs, referred
+    to as gene summaries, are valued by users for the ease with which they convey
+    key aspects of gene function. However, the manual writing of gene summaries is
+    time- and labor-intensive and does not scale to match the fast-growing scientific
+    literature. Our solution to these challenges is a system that automatically generates
+    reader-friendly concise gene summaries that simulate natural language and are
+    based on curated, structured gene data referred to as annotations. This system
+    is currently implemented at WormBase and the Alliance of Genome Resources and
+    leverages the different types of professional, specialized gene-related data curation
+    such as Gene Ontology (GO) curation, orthology predictions, gene expression curation,
+    etc. and does not require the user to be familiar with the database, data structures,
+    or biological and biomedical vocabularies. One of the main features of our method
+    is the use orthology data to generate summaries for: (i) less studied genes, thus
+    providing more coverage of genomes; (ii) genes that are relevant to the study
+    of human disease pathogenesis, facilitating the discovery of established and potential
+    models of disease; (iii) genes in species that can be related to a “reference
+    species”, thus providing summaries for genes where no formal curation projects
+    exist. In addition, the modularity and flexibility of the system allows the gene
+    summaries to be updated frequently. Recently, we improved gene summaries at the
+    Alliance by including gene product-to-term relationships from the GO to more accurately
+    reflect gene function, for example, to describe whether a gene is directly “involved
+    in” a biological process or “contributes to” a molecular activity. Further, we
+    have added gene summaries for two frog species, X. laevis and X. tropicalis demonstrating
+    that the system is readily generalizable. We plan to expand the system to many
+    more species and more data types, and also include AI language models (such as
+    BERT and GPT3) to generate summaries on unstructured data from the literature.
+    The methods, workflow and examples will be described in the poster.'
+  authors:
+  - label: Valerio Arnaboldi
+    series_ordinal: 1
+  - label: Ranjana Kishore
+    series_ordinal: 2
+  - label: Paul Sternberg
+    series_ordinal: 3
+  keywords:
+  - gene summaries
+  - gene function
+  - automated biocuration
+  submitted: 2023-02-07 23:37
+  title: A Gene Summary Generation System for Animal Genomes
+- abstract: "A unique opportunity in 2022 was the partnership between GigaScience\
+    \ Press, the Global Biodiversity Information Facility (GBIF), and the TDR, the\
+    \ Special Programme for Research and Training in Tropical Diseases hosted at the\
+    \ World Health Organization (WHO). The focus of this partnership was the publication\
+    \ of new datasets that present biodiversity data for research on vectors of human\
+    \ diseases. Data Release papers from this partnership on vectors of human disease\
+    \ were published in GigaByte Journal as part of a thematic series, which mobilised\
+    \ more than 500,000 occurrence records and 675,000 specimens from more than 50\
+    \ countries. Due to the international nature of the vector-borne disease data,\
+    \ the thematic series was published in multiple languages.\n \nThe role of the\
+    \ GigaDB team in this partnership was to assist the data peer review process,\
+    \ and to provide the necessary support for Data Release papers that required curation.\
+    \ This involved data auditing and providing a data review for each submission,\
+    \ and ensuring the data were open and FAIR (Findable, Accessible, Interoperable\
+    \ and Reusable). The data review included selecting a number of data points to\
+    \ be carefully inspected, and verifying that the total number of occurrences and\
+    \ the geographic range were consistent with the details in the paper. In line\
+    \ with Open Peer Review, the peer reviews and data review templates are made publicly\
+    \ available via the Article Review History tabs on all of the papers (https://doi.org/10.46471/GIGABYTE_SERIES_0002).\
+    \ \n \nFollowing the success of the first series of papers, TDR, GBIF and GigaScience\
+    \ Press have announced a second call for authors to submit Data Release papers\
+    \ on vectors of human disease."
+  authors:
+  - label: Chris Armit
+    series_ordinal: 1
+  - label: Mary Ann Tuli
+    series_ordinal: 2
+  - label: Yannan Fan
+    series_ordinal: 3
+  - label: Nafisa Qazi
+    series_ordinal: 4
+  - label: Christopher Hunter
+    series_ordinal: 5
+  - label: Scott Edmunds
+    series_ordinal: 6
+  - label: Laurie Goodman
+    series_ordinal: 7
+  keywords:
+  - Vector
+  - FAIR
+  - Disease
+  - Occurrence
+  - GigaDB
+  submitted: 2023-02-09 15:23
+  title: The Role of GigaDB in the Curation of Vector-Borne Disease Data
+- abstract: The HUGO Gene Nomenclature Committee (HGNC, genenames.org), now acknowledged
+    as a Global Core Biodata Resource (GCBR), is responsible for approving unique
+    symbols and names for human loci, including protein coding genes, ncRNA genes
+    and pseudogenes, to allow unambiguous scientific communication. We also name genes
+    in selected vertebrates via our sister project, the Vertebrate Gene Nomenclature
+    Committee (VGNC, vertebrate.genenames.org). Approved nomenclature from our websites,
+    together with curated alias symbols and names, are widely displayed by other resources
+    including Ensembl, NCBI Gene, The Alliance of Genome Resources and UniProt, which
+    aids FAIR data sharing. However, our data (and other data) are often labeled differently
+    when they appear on another resource’s website; what we call an “Approved symbol”
+    may be labeled as a “Gene name”, which may help to explain why many of our users
+    confuse the terms “name” and “symbol”. There is the additional complication that
+    different resources display different levels of granularity e.g. grouping aliases
+    for gene names and gene symbols together versus keeping them separate. For other
+    data types, many different terms are used to refer to exactly the same data –
+    is this causing confusion for users? At a time when FAIR principles are encouraged
+    and the use of ontologies is widespread, is it worth devoting more effort to standardizing
+    labels for data fields? We first raised this issue in a poster at the 1st UK Local
+    Biocuration Conference in May 2022 and we would now welcome input from the wider
+    biocuration community. Our updated poster expands our comparison of field labels
+    across key biological resources to include other GCBRs that display gene data,
+    and we suggest consensus terms that could be used for a more standardized approach,
+    which could help users to navigate between resources. Focusing on nomenclature
+    terms, we also consider how well existing ontologies align with the terms used
+    in databases and discuss whether new terms or a dedicated ontology would be helpful.
+  authors:
+  - label: Susan Tweedie
+    series_ordinal: 1
+  - label: Bryony Braschi
+    series_ordinal: 2
+  - label: Liora Vilmovsky
+    series_ordinal: 3
+  - label: Tamsin Jones
+    series_ordinal: 4
+  - label: Ruth Seal
+    series_ordinal: 5
+  - label: Elspeth Bruford
+    series_ordinal: 6
+  keywords:
+  - nomenclature
+  - database fields
+  - standards
+  submitted: 2023-02-23 17:29
+  title: Should data fields in biological resources be labeled more FAIRly?
+- abstract: The Rat Genome Database (RGD, https://rgd.mcw.edu) is the principal resource
+    for data related to rat biomedical research for genome, phenotype, and disease.
+    The data collection is the result of both manual curation by RGD curators, and
+    data importation from other databases through custom pipelines. RGD has developed
+    a growing suite of innovative tools for querying, analyzing, and visualizing this
+    data, making it a valuable resource for researchers worldwide. One recently updated
+    platform is the PhenoMiner data repository with its concomitant data mining tool
+    components. PhenoMiner was developed for rat quantitative phenotype measurement
+    data from both manual curation of scientific literature and direct data submissions
+    by investigators. PhenoMiner enables users to query and visualize quantitative
+    phenotype data across rat strains and multiple studies. The data includes detailed
+    information about what (Clinical Measurement Ontology - CMO), how (Measurement
+    Method Ontology - MMO), and under what conditions (Experimental Conditions Ontology
+    - XCO) phenotypes were measured, and in what animals (Rat Strain Ontology - RS)
+    for each measurement value. A recent project included curation for strains in
+    the Hybrid Rat Diversity Panel, especially those previously underrepresented in
+    the data repository. To increase curation efficiency, the data input interfaces
+    have been improved, including enhanced ability to view, clone, and edit multiple
+    records at a time, which decreases the amount of time required for entering study
+    data. Quality control checkpoints in place for individual data entry have been
+    expanded to encompass bulk data loading. In response to user feedback, the public-facing
+    data mining tool was reworked to improve the user interface (UI) for data interactivity.
+    Improvements in the search functionality allow straightforward navigation of complex
+    datasets, and the new query results page simplifies filtering to facilitate tailoring
+    of specific query results. Users are no longer required to return to the front
+    page or to start a new query to remove some conditions or other components. New
+    functionality makes it possible to view results for related terms with the same
+    unit of measurement in the same graph. Data can be downloaded either as filtered
+    results or all results matching the user's original query, providing users with
+    data at multiple levels. Upcoming planned improvements to the user interface will
+    include the ability to visualize as well as download imported high throughput
+    phenotyping data from individual inbred and outbred (e.g., heterogeneous stock)
+    rats. RGD is advancing the utility of PhenoMiner by streamlining curation with
+    increased ability to input data accurately and efficiently, and via improvements
+    in the public UI enabling better data access, filtering, and visualization, with
+    continued ability to download data for further analyses.
+  authors:
+  - label: Mary Kaldunski
+    series_ordinal: 1
+  - label: Jennifer R. Smith
+    series_ordinal: 2
+  - label: Stan Laulederkind
+    series_ordinal: 3
+  - label: G. Thomas Hayman
+    series_ordinal: 4
+  - label: Shur-Jen Wang
+    series_ordinal: 5
+  - label: Monika Tutaj
+    series_ordinal: 6
+  - label: Mahima Vedi
+    series_ordinal: 7
+  - label: Wendy Demos
+    series_ordinal: 8
+  - label: Adam Gibson
+    series_ordinal: 9
+  - label: Logan Lamers
+    series_ordinal: 10
+  - label: Ketaki Thorat
+    series_ordinal: 11
+  - label: Jyothi Thota
+    series_ordinal: 12
+  - label: Marek Tutaj
+    series_ordinal: 13
+  - label: Jeff De Pons
+    series_ordinal: 14
+  - label: Melinda Dwinell
+    series_ordinal: 15
+  - label: Anne Kwitek
+    series_ordinal: 16
+  keywords:
+  - quantitative phenotype
+  - data mining
+  - curation interface
+  - user interface
+  - clinical measurement
+  - rat strain
+  - ontology
+  submitted: 2023-03-02 18:50
+  title: 'PhenoMiner: improved interfaces enhance usability of RGD''s quantitative
+    phenotype data repository'
+- abstract: "ChEMBL is a manually curated database of bioactive molecules with drug-like\
+    \ properties, recently named by the Global Biodata Coalition as a Global Core\
+    \ Biodata Resource.  It brings together chemical, bioactivity and genomic data\
+    \ to aid the translation of genomic information into effective new drugs.  Data\
+    \ in ChEMBL is taken from a range of sources, including publications, patents\
+    \ and deposited data from collaborators.  All data is curated and standardised,\
+    \ both with manual and automatic checks; there are 2.3 million compounds, 1.5\
+    \ million assays and 15 thousand targets in the most recent ChEMBL release.  \n\
+    \nCompounds are entered from literature, approved drugs and clinical research;\
+    \ structures are standardised, stripped of their salts, linked by hierarchy and\
+    \ their properties calculated.  Assays are assigned targets, varying in scale\
+    \ from whole organisms to single proteins, and additional experimental entities\
+    \ are assigned using existing ontologies.  A description is provided for each\
+    \ assay, as well as an assay type (for example ADME, Functional, Binding).  Activity\
+    \ values and units are standardised, with steps for flagging outliers and detecting\
+    \ duplicates.  A pCHEMBL value is calculated, providing roughly comparable measures\
+    \ across different activity types.  Manual checking of these steps plays an integral\
+    \ role in ensuring data quality, alongside automated curation.\n\nLoading data\
+    \ to ChEMBL is largely by invitation; we also accept submissions of high quality\
+    \ bioactivity data. As well as the relationships between compounds, bioactivity\
+    \ data and assay conditions, ChEMBL is also able to store assay parameters and\
+    \ supplementary activity data.  While the curation effort to incorporate this\
+    \ data is higher, it provides greater complexity and greater value to the database.\n\
+    \nChEMBL is guided by the FAIR principles.  The layers of curation and the use\
+    \ of external ontologies contribute towards the findability, interoperability\
+    \ and reusability of data; ChEMBL IDs are stable identifiers.  For the purposes\
+    \ of accessibility, ChEMBL has a powerful web interface (https://www.ebi.ac.uk/chembl),\
+    \ and data is provided under CC BY-SA 3.0 license.  The database can also be downloaded\
+    \ from the FTP site, or accessed by API or RDF/SPARQL.\n\nThis poster highlights\
+    \ the provenance of ChEMBL data and the curation processes used to prepare it\
+    \ for addition to the database.  Target and assay types are listed, and a broad\
+    \ outline of the steps for compounds, bioactivity data, and experimental variables\
+    \ are shown.  A more detailed process for tissue mapping is given as an example\
+    \ of our workflows.  We list the different methods for accessing ChEMBL data and\
+    \ resources for help and information about the database."
+  authors:
+  - label: Sybilla Corbett
+    series_ordinal: 1
+  - label: Emma Manners
+    series_ordinal: 2
+  - label: Melissa Adasme
+    series_ordinal: 3
+  - label: Ricardo Arcila
+    series_ordinal: 4
+  - label: James Blackshaw
+    series_ordinal: 5
+  - label: Nicolas Bosc
+    series_ordinal: 6
+  - label: Eloy Felix
+    series_ordinal: 7
+  - label: Fiona Hunter
+    series_ordinal: 8
+  - label: Harris Ioannidis
+    series_ordinal: 9
+  - label: Tevfik Kiziloren
+    series_ordinal: 10
+  - label: David Mendez Lopez
+    series_ordinal: 11
+  - label: Maria Paula Magarinos
+    series_ordinal: 12
+  - label: Juan F. Mosquera
+    series_ordinal: 13
+  - label: Marleen de Veij
+    series_ordinal: 14
+  - label: Barbara Zdrazil
+    series_ordinal: 15
+  - label: Andrew R. Leach
+    series_ordinal: 16
+  keywords:
+  - Manual curation
+  - Bioactive molecules
+  - Bioactivity data
+  - Target assignment
+  - Curation and standardization
+  - Biotherapeutics
+  - Drugs
+  - Small molecules
+  submitted: 2023-03-09 11:06
+  title: 'Biological Curation for ChEMBL: Towards the consistent assignment of targets
+    for extracted bioactivity data'
+- abstract: 'Although standards and guidelines for the interpretation of variants
+    identified in genes that cause Mendelian disorders have been developed, this is
+    not the case for more complex genetic models including variant combinations in
+    multiple genes.
+
+
+    318 research articles reporting oligogenic cases were extracted from PubMed. A
+    transparent curation protocol was developed assigning a confidence score to each
+    oligogenic case based on the amount of pathogenic evidence at the genetic and
+    functional level, based on the relevant oligogenic information collected by independent
+    curators (i) from the articles and (ii) from public relevant databases. The collection
+    and assessment of this data led to the creation of OLIDA, the Oligogenic Diseases
+    Database.
+
+
+    OLIDA contains information on 1229 oligogenic cases linked to 177 different genetic
+    diseases. Each instance is linked with a confidence score depicting the quality
+    of the associated genetic and functional pathogenic evidence. The curation process
+    revealed that the majority of papers do not provide proper genetic evidence refuting
+    a monogenic model, and rarely perform functional experiments for confirmation.
+    Our recommendations stress the necessity of fulfilling both conditions. The use
+    of multiple extended pedigrees showing a clear segregation of the reported variants,
+    control cohorts of a suitable size, as well as functional experiments showing
+    the synergistic effect of the involved variants are essential for this purpose.
+
+
+    With our work we reveal the recurrent issues on the reporting of oligogenic cases
+    and stress the need for the development of standards in the field. As the number
+    of papers identifying oligogenic causes to disease is increasing rapidly, initiating
+    this discussion is imperative.'
+  authors:
+  - label: Sofia Papadimitriou
+    series_ordinal: 1
+  - label: Barbara Gravel
+    series_ordinal: 2
+  - label: Charlotte Nachtegael
+    series_ordinal: 3
+  - label: Elfride De Baere
+    series_ordinal: 4
+  - label: Bart Loeys
+    series_ordinal: 5
+  - label: Mikka Vikkula
+    series_ordinal: 6
+  - label: Guillaume Smits
+    series_ordinal: 7
+  - label: Tom Lenaerts
+    series_ordinal: 8
+  keywords:
+  - biocuration
+  - oligogenic
+  - standards
+  submitted: 2023-03-10 11:25
+  title: 'The importance of good data quality and proper pathogenicity reporting in
+    the medical genetics field: the case of oligogenic diseases'
+- abstract: "RDF data show their values the most when built in a distributed manner\
+    \ and linked to each other from several aspects with URIs as the keys. In the\
+    \ life science domain, lots of RDF datasets have been built, and they are the\
+    \ largest numbers in the latest linked open data cloud. However, we have seen\
+    \ multiple URI assignment for an identical resource and several URI mismatches\
+    \ that should be identical from case discrepancies to misuse of symbols such as\
+    \ '#' and '_'. As a result, the knowledge graph is not effectively used because\
+    \ it prevents linkings between RDF data such as genomes, proteins, glycans, and\
+    \ compounds. Therefore, RDF curation is needed to make RDF data more linkable\
+    \ and valuable. Here, we propose a tool called RDF-doctor for RDF data builders\
+    \ to curate them.\nRDF-doctor is a command line interface (CLI) tool, and we assume\
+    \ the following use scenario. \nFirst, an RDF data builder generates a draft version\
+    \ by using some RDFization tools.\nSecond, RDF-doctor accepts this draft dataset\
+    \ and generates the following three datasets from it: Shape Expressions (ShEx)\
+    \ schema, a prefix list, and a list of classes and properties. ShEx schema is\
+    \ generated by a tool called sheXer. These prefixes, the classes, and the properties\
+    \ are respectively clustered to find any string fluctuations mentioned above including\
+    \ spelling variants and errors.\nThird, the data builder edits the ShEx schema\
+    \ or modifies the RDFization tool based on the information shown by RDF-doctor.\
+    \ Since the generated ShEx schema reflects the given RDF data, we expect the data\
+    \ builder can easily understand it even though he/she is not familiar with ShEx.\
+    \ In addition, a ShEx schema can be used to validate RDF data, and therefore the\
+    \ data builder can use it to validate the data generated by the tool.\nShEx schema\
+    \ generated by sheXer contains statistical information such as the ratio of the\
+    \ subject URI count that matches a specific shape expression to the total number\
+    \ of those URIs belonging to a specific class. Therefore, the data builder can\
+    \ notice an error if any when there is an outlier.\nWe assume that the above curation\
+    \ cycle would be iterated a couple of times to refine the resultant RDF dataset.\n\
+    While RDF-doctor as a CLI tool is under development, essential features mentioned\
+    \ above are provided as separated tools such as sheXer to generate ShEx schema\
+    \ and OpenRefine to make clusters. To extract prefixes from a RDF dataset, we\
+    \ have implemented a python script. In this situation, we have conducted a feasibility\
+    \ study by applying our proposed curation method to an RDFization project and\
+    \ obtained a promising result. As a next step, we will provide the CLI tool and\
+    \ get feedback from prospective users. Concerning the multiple URI assignment\
+    \ issue, we will add a function to RDF-doctor, which suggests a widely used vocabulary\
+    \ based on a given dataset."
+  authors:
+  - label: Yasunori Yamamoto
+    series_ordinal: 1
+  - label: Takatomo Fujisawa
+    series_ordinal: 2
+  keywords:
+  - RDF
+  - ShEx
+  - Data curation
+  submitted: 2023-03-13 08:32
+  title: To realize more interconnected RDF data
+- abstract: The ‘deluge of data’ brought about by the contemporary post-genomic era
+    has led to a growing demand for high quality curation and stewardship of biological
+    data. The continued advancement of bioinformatic techniques and data analysis
+    have stoked pressure across the bioinformatics community to improve the precision
+    and representativeness of functional subgroups, and this includes more novel subsets
+    of cellular biology like nucleobase modification. The Database of Clustered Orthologous
+    Genes (COG Database) within the National Center for Biotechnology Information
+    (NCBI, NLM/NIH) stands as one of the first databases dedicated to defining putative
+    function through orthology-guided functional annotation and furthering homology-driven
+    research by making these defined groups referenceable for the greater scientific
+    community. The modification of tRNA has become of significant interest for better
+    understanding many complex biological phenomena, this being particularly true
+    within the context of human health as it concerns the NIH (e.g., chronic illness,
+    quality of life, aging, etc.). Here, specific COGs linked to tRNA modification
+    pathways are examined within and without the classification schemes of the COG
+    Database, investing specifically in the improved quality and completeness of this
+    subset of pathways within the database. Both manual and computationally facilitated
+    biocuration approaches were implemented, revealing surprising lapses among COG
+    annotations and that of some genomes (negating the fact that some of the benchmark
+    genomes still used by the COG database have been decommission by their parent
+    entity, NCBI). Recognition of the overlaps and differences in tRNA, DNA, m/rRNA
+    modification pathways between taxa was necessary to properly assemble the collection
+    of tRNA-specific modification genes as presented in the COG database. Here, we
+    focus on a particular pathway to exemplify this work and its potential utility
+    in fundamental and translational research (i.e., members of the MnmACDEGH pathway).
+    These results intend to guide the improvement of COG functional annotations, as
+    well as the overall reliability of future COG reference and propagation.
+  authors:
+  - label: Colbie Reed
+    series_ordinal: 1
+  - label: Michael Galperin
+    series_ordinal: 2
+  - label: Eugene Koonin
+    series_ordinal: 3
+  - label: Valerie de Crecy-Lagard
+    series_ordinal: 4
+  keywords:
+  - annotation
+  - tRNA modification
+  - biocuration
+  - orthology
+  submitted: 2023-03-16 17:28
+  title: Updating the Curation Status of tRNA Modification Pathways in the Database
+    of Clustered Orthologous Genes
+- abstract: 'The Protein Data Bank (PDB) contains over 200,000 macromolecular structures,
+    referencing more than 61,000 unique UniProtKB entries. However, extracting a full
+    biological context for these molecules can be challenging, given the scattered
+    nature of relevant information across hundreds of specialised resources. Biological
+    data resource curators would benefit from a comprehensive resource that aggregates
+    all appropriate structural and functional annotations to enhance the inherent
+    value of macromolecular structures.
+
+
+    PDBe-KB (https://pdbe-kb.org) was launched in 2018 as a collaborative effort between
+    PDBe and a diverse group of biological resources and structural bioinformatics
+    research teams in response to this need. PDBe-KB aggregates a wide range of structural
+    and functional annotations, including ligand binding and catalytic sites, protein-protein
+    interfaces, post-translational modification, and physicochemical parameters.
+
+
+    PDBe-KB serves as a dynamic, community-driven resource for users seeking comprehensive
+    annotations of macromolecular structures. By providing a single portal for accessing
+    a wide range of annotations, PDBe-KB enhances the value of these structures and
+    saves significant time and effort in collecting and comparing information across
+    multiple sources, regardless of whether it was manually curated or computationally
+    predicted.
+
+    Managed by the PDBe team at EMBL-EBI, PDBe-KB brings together 34 data resources
+    from 13 countries to offer a comprehensive and unified view of the biological
+    context of macromolecular structures. It is an essential tool for biological data
+    resource curators who seek to answer complex biological questions and enhance
+    the inherent value of macromolecular structures.'
+  authors:
+  - label: Deborah Harrus
+    series_ordinal: 1
+  - label: Joseph Ellaway
+    series_ordinal: 2
+  - label: Pdbe-Kb Consortium
+    series_ordinal: 3
+  keywords:
+  - macromolecular structures
+  - functional annotations
+  - data aggregation
+  - biological context
+  submitted: 2023-03-17 15:12
+  title: Protein Data Bank in Europe Knowledge Base (PDBe-KB) - Creating knowledge
+    from macromolecular structures and functional annotations
+- abstract: ChEBI (https://www.ebi.ac.uk/chebi/) was first introduced in 2004 and
+    has since grown to more than 60,000 manually curated entries, comprising natural
+    products, synthetic compounds, subatomic particles and chemical classes. New chemical
+    entities are continuously deposited into ChEBI by its growing user community.
+    Each distinct chemical structure in ChEBI is assigned a stable and unique identifier
+    (ChEBI ID), which is used by multiple resources for compound identification and
+    information. The database serves as a human-expert-curated source of chemical
+    structures, nomenclature, metabolite species information and database cross-references.
+    ChEBI provides cross-reference links to several different domain-specific databases
+    including Gene Ontology, PDBe, UniProt, MetaboLights, Reactome, Rhea, BioModels,
+    and Europe PMC, amongst many others. ChEBI's ontology defines a hierarchical classification
+    for chemical entities, where relationships between chemical entities or classes
+    of chemical entities are specified. The ChEBI ontology consists of a molecular
+    structure sub-ontology where chemical entities are classified according to composition
+    and structure (E.g., tertiary amine, carboxylic acid etc) and a role sub-ontology
+    which classifies chemical entities on the basis of their role within a chemical
+    context (E.g., solvent), biological context (E.g., inhibitor), or application
+    (its intended use by a human E.g., anti-inflammatory agent, agrochemical etc).
+    ChEBI's ontology is widely used for knowledge-based automated reasoning and is
+    semantically integrated with many other biological ontologies. All of the information
+    and data in ChEBI is freely available and downloadable in several file formats.
+    In this poster we will describe the current ChEBI database and the detailed curation
+    process that are followed to add new entries.
+  authors:
+  - label: Adnan Malik
+    series_ordinal: 1
+  - label: Carlos Moreno
+    series_ordinal: 2
+  - label: Muhammad Arsalan
+    series_ordinal: 3
+  - label: Juan Felipe Mosquera Morales
+    series_ordinal: 4
+  - label: Eloy Félix
+    series_ordinal: 5
+  - label: Andrew Leach
+    series_ordinal: 6
+  keywords:
+  - ontology
+  - chemical entities
+  - chemical nomenclature
+  submitted: 2023-03-22 10:46
+  title: 'ChEBI: where chemical entities and ontology meet'
+- abstract: "The GlyCosmos Portal [1] has been developed using Semantic Web technologies,\
+    \ so we attempted to perform inference on its Semantic Web data.  As a simple\
+    \ proof-of-concept, we focused on the organisms that have been accumulated across\
+    \ glycans, glycoproteins, pathways, diseases, etc. in GlyCosmos.  As of version\
+    \ 3.0., there were species whose distinct strains were annotated to contain different\
+    \ glycans, but taxonomies that were at higher levels to that species (such as\
+    \ genus or kingdom) were not annotated with the same data, despite the fact that\
+    \ logically, they should contain all the annotations that have been applied to\
+    \ the species within its hierarchy.  For example, the species Aspergillus oryzae\
+    \ had 16 glycans, 5 glycoproteins, and 1 lectin entry.  However, the genus Aspergillus\
+    \ was annotated with only 10 glycans, whereas it should also contain the glycans,\
+    \ glycoproteins, etc. for all of the species under the Aspergillus genus.   \n\
+    \nTo address this issue, we used the semantics in the GlyCosmos triplestore to\
+    \ perform inferences on these taxonomic annotations. First, we obtained the whole\
+    \ taxonomic hierarchy from NCBI and stored it in our datastore as triples.  Then,\
+    \ we formulated inference rules to automatically obtain the higher taxonomies\
+    \ for any particular taxon. As a result, we were easily able to formulate queries\
+    \ that would automatically annotate the information from the lower taxons to the\
+    \ higher taxons, thus returning information that was semantically accurate.  Note\
+    \ that we did not have to generate any new data to specifically indicate that\
+    \ the data associated with a lower taxon was also associated with the higher.\
+    \  \n\nBased on this work, we have fully integrated the inferenced organism data\
+    \ into GlyCosmos in the latest update in April, 2023.  Thus, the discrepancies\
+    \ regarding glycans and the organisms in which they are found have been resolved.\
+    \  We plan on attempting other inferences on glycan structures next in order to\
+    \ further enrich the data in GlyCosmos.\n\n[1]\tI. Yamada et al., “The GlyCosmos\
+    \ Portal: a unified and comprehensive web resource for the glycosciences,” Nat.\
+    \ Methods, vol. 17, no. July, pp. 649–650, 2020, doi: 10.1038/s41592-020-0879-8."
+  authors:
+  - label: Kiyoko F Aoki-Kinoshita
+    series_ordinal: 1
+  - label: Issaku Yamada
+    series_ordinal: 2
+  - label: Yasunori Yamamoto
+    series_ordinal: 3
+  keywords:
+  - Semantic Web
+  - Glycoscience
+  - Glycans
+  - Inferencing
+  - Database
+  - Glycomics
+  submitted: 2023-03-23 08:06
+  title: 'The GlyCosmos Portal: integrated glycan-related omics data and inferencing
+    across organisms'
+- abstract: "In recent years, translational research has gained importance as a way\
+    \ to use the aggregated phenotype and gene function data generated from model\
+    \ organism research to gain a better understanding of human disease etiology.\
+    \ Phenotype annotations present a challenge for translation research due to each\
+    \ organism using a species-specific phenotype ontology, with the use of the Human\
+    \ Phenotype Ontology (HPO), Mammalian Phenotype Ontology (MPO) and the Phenotype\
+    \ and Trait Ontology (PATO) and Zebrafish Anatomy Ontology (ZFA) to represent\
+    \ human, mouse and zebrafish  phenotypes respectively. To effectively translate\
+    \ the phenotype data between species, the phenotype terms need to have semantic\
+    \ similarities using similar relationships or definitions. There has been a concerted\
+    \ effort to increase data integration and data harmonization at the Alliance of\
+    \ Genome Resources through development of a standardized data format. \n\nThe\
+    \ Zebrafish Information Network (ZFIN, zfin.org) and Mouse Genome Informatics\
+    \ (MGI, informatics.jax.org) are working together on focused phenotype curation\
+    \ of diseases from KidsFirst (kidsfirstdrc.org) data resource to increase curated\
+    \ model organism data for structural birth Defects and pediatric cancer. The limited\
+    \ amount of pediatric data available increases the importance of using model organism\
+    \ data to bridge knowledge gaps in our understanding of these diseases. A broad\
+    \ overview of the curation approach is described in the poster presented by Susan\
+    \ M. Bello et al. (‘Using Disease Focused Curation to Enhance Cross Species Translation\
+    \ of Phenotype Data.’)\n\nCuration of the Idiopathic Scoliosis and Cleft Palate\
+    \ as initial diseases of interest identified several gaps in curation and inconsistencies\
+    \ in the use of phenotype annotations to describe the zebrafish disease models.\
+    \ The concerted curation effort led to the closing of curation gaps in ZFIN for\
+    \ these diseases. However, variability in phenotype annotations present a problem\
+    \ with the standardization of data needed to conduct robust translational research.\
+    \ Curated phenotype statements from publications were reviewed and analyzed to\
+    \ determine if these annotations could be mapped to terms in the MPO and HPO that\
+    \ have been used to annotate idiopathic scoliosis and cleft palate. Standardized\
+    \ phenotype statements relevant to idiopathic scoliosis and cleft palate like\
+    \ “vertebral column - rotational curvature, abnormal” and “palate – morphology,\
+    \ abnormal” were identified by the ZFIN curation team as statements important\
+    \ for identifying zebrafish models of these diseases. These statements were added\
+    \ to existing phenotype annotations in ZFIN. These expanded annotations are available\
+    \ on ZFIN web pages and download files. We are also collaborating with MGI to\
+    \ make these available in the KidsFirst data portal to allow researchers easier\
+    \ access to cross-species information on genes and disease models."
+  authors:
+  - label: Sridhar Ramachandran
+    series_ordinal: 1
+  - label: Leyla Ruzicka
+    series_ordinal: 2
+  - label: Yvonne Bradford
+    series_ordinal: 3
+  - label: Monte Westerfield
+    series_ordinal: 4
+  - label: Cynthia Smith
+    series_ordinal: 5
+  keywords:
+  - Phenotype
+  - Human Disease
+  - Ontology
+  - Zebrafish
+  - Mouse
+  - Disease Model
+  - Curation
+  - KidsFirst
+  - ZFIN
+  - Translational Research
+  submitted: 2023-03-29 01:40
+  title: Curating Phenotype and Disease Annotations in ZFIN to Increase Model Organism
+    Data Relevant to Structural Birth Defects and Cancer
+- abstract: 'BioCyc is a collection of Pathway/Genome Databases (PGDBs) that represent
+    metabolic networks for over 20,000 species. The BioCyc ‘Pathway Tools’ software
+    can generate a metabolic reconstruction for a given species, stored as a PGDB,
+    by matching enzymes in the functionally annotated genome of that species with
+    the reactions/pathways in the reference metabolic database (MetaCyc). The quality
+    of the PGDB therefore depends on that of the underlying functional annotations.
+    A PGDB for Drosophila melanogaster (FlyCyc) exists but is based on data from a
+    FlyBase release 15 years ago and therefore excludes any changes to genomic or
+    functional annotations made since then.
+
+
+    We recently conducted a systematic review of Drosophila enzymes, improving the
+    coverage and accuracy of their functional (Gene Ontology molecular function (GO-MF)
+    and Enzyme Commission (EC)) annotations and creating accessible ‘gene group’ pages
+    for each enzyme class in FlyBase. We verified ~3,750 Drosophila enzymes, made
+    ~4,000 changes to manual GO annotations, and organized the enzymes into ~800 hierarchical
+    groups. In so doing, we identified ~300 issues regarding catalytic activity terms
+    within the GO (e.g. incorrect term relationships, missing EC cross-references)
+    and ~400 issues with automated annotation pipelines (InterPro2GO, PAINT, UniRule).
+    Almost all these issues have now been addressed, thereby improving the quality
+    of enzymatic GO annotation for all species.
+
+
+    We have used data from the latest FlyBase release (FB2023_02) and the Pathway
+    Tools software to recompute an updated FlyCyc that incorporates our improved GO/EC
+    annotations as well as the latest genomic and gene nomenclature data. Compared
+    to the previous version, the updated FlyCyc includes 45 additional metabolic pathways
+    and identifies >600 additional enzyme-encoding genes. Ambiguous enzyme mappings
+    and ‘pathway holes’ are being resolved as far as possible by correcting GO-MF/EC
+    annotations within FlyBase to focus primary curation activities within a single
+    database. The finalized collection of Drosophila metabolic pathways will then
+    be made available on the BioCyc website. In addition to providing researchers
+    with improved metabolic pathway diagrams, this update will enhance the functionality
+    of various ‘omics data analysis tools available at BioCyc.
+
+
+    Going forwards, we will review GO cellular component annotations to Drosophila
+    enzymes to accurately indicate the subcellular compartment in which they act and,
+    where applicable, the macromolecular complex of which they are a part. We will
+    also perform a systematic annotation review of Drosophila transporters, as they
+    also play a critical role in metabolic pathways. These additional enhancements,
+    together with ongoing improvements to enzymatic annotations, will be reflected
+    at FlyCyc by establishing regular 6-monthly synchronizations with the data at
+    FlyBase.'
+  authors:
+  - label: Steven Marygold
+    series_ordinal: 1
+  - label: Phani Garapati
+    series_ordinal: 2
+  - label: Gil dos Santos
+    series_ordinal: 3
+  - label: Peter Karp
+    series_ordinal: 4
+  keywords:
+  - BioCyc
+  - FlyCyc
+  - FlyBase
+  - metabolic pathways
+  - enyzmes
+  - GO annotation
+  - EC
+  submitted: 2023-03-30 08:50
+  title: 'FlyCyc: updating the metabolic network for Drosophila melanogaster'
+- abstract: "The Equity, Diversity, and Inclusion (EDI) committee was formed in 2019\
+    \ as an outcome of a workshop held at the 12th International Biocuration conference\
+    \ in Cambridge, UK. This first workshop sparked some lively discussions as well\
+    \ as a great deal of interest within the community. It was widely agreed that\
+    \ the workshop format was preferred over session presentations as it allowed for\
+    \ more debate and for attendees to discuss personal experiences.\n\nThe current\
+    \ committee is made up of 10 members and in contrast to the other International\
+    \ Society for Biocuration (ISB) committees it includes members who are not also\
+    \ on the Executive Committee (EC); 2 of the existing members also sit on the EC\
+    \ and one member has professional EDI training.\nWe meet monthly and discuss ongoing\
+    \ tasks, plan future goals, respond to any issues that have come to our attention,\
+    \ discuss, and implement our objectives, and prepare a report for the monthly\
+    \ EC meetings.\n\nAs well as making available past presentations, relevant publications,\
+    \ and documents, we have written a Code of Ethics and Professional Conduct, which\
+    \ can be seen on the ISB website (www.biocuration.org/equity-diversity-and-inclusion-committee/).\
+    \ This document is regularly revised with the help of our EDI expert. \n\nWe encourage\
+    \ members of the ISB to get in touch with us regarding any EDI issue they may\
+    \ have, or an issue they feel we have not addressed.\nAnyone with an interest\
+    \ in EDI issues is welcome to join the committee, though we would particularly\
+    \ welcome people from Asia, Africa and Eastern Europe as these regions are currently\
+    \ under-represented.\nIf you are interested in joining the committee, please contact\
+    \ isb@biocurator.org."
+  authors:
+  - label: Mary Ann Tuli
+    series_ordinal: 1
+  - label: Yvonne Bradford
+    series_ordinal: 2
+  - label: Alice Crowley
+    series_ordinal: 3
+  - label: Pratibha Gour
+    series_ordinal: 4
+  - label: Rachael Huntley
+    series_ordinal: 5
+  - label: Tiago Lubiana
+    series_ordinal: 6
+  - label: Shirin Saverimuttu
+    series_ordinal: 7
+  - label: Nicole Vasilevsky
+    series_ordinal: 8
+  - label: Roxanne Yamashita
+    series_ordinal: 9
+  keywords:
+  - Equity
+  - Diversity
+  - Inclusion
+  - International Society for Biocuration.
+  - Equality
+  - EDI
+  submitted: 2023-03-30 14:06
+  title: Equity, Diversity, and Inclusion in the International Society for Biocuration
+- abstract: 'Diagnosing rare diseases is a difficult problem which requires the integration
+    of complex data types such as ontologies, gene-to-phenotype associations and cross-species
+    data and their exploitation by variant and gene prioritisation algorithms (VGPA).
+    VGPAs that leverage these types of data have been implemented by sophisticated
+    tools such as Exomiser and Phen2Gene. However, leveraging this kind of data requires
+    complex processes such as ontology matching, phenotype matching and cross-species
+    inference. Many factors can impact the performance of these variant prioritisation
+    algorithms, for example, ontology structure or annotation completeness. The lack
+    of an empirical framework to assess its efficacy currently hinders the ability
+    of effective phenotype matching and improvement of prioritisation tools.
+
+    For this reason, we created PhEval, an extensible and modular Phenotypic Inference
+    Evaluation Framework. PhEval can process different inputs, such as phenopackets,
+    a schema for sharing disease and phenotype information that characterizes a person
+    or biosample, linking that individual to detailed phenotypic descriptions, genetic
+    information, diagnoses, and treatments. During its data preparation phase, PhEval
+    creates standard input data to be processed and can also calculate Semantic Similarity
+    Profiles that will be used for algorithms that attempt to establish connections
+    among biological entities of interest by using a variant prioritization strategy
+    in the runner phase. PhEval offers extensibility to developers, allowing them
+    to create specific/concrete implementations that integrate various variant prioritization
+    algorithms invoked through the PhEval Runner interface.
+
+    Lastly, in the analysis phase, PhEval produces extensive statistical reports output
+    based on standardised results. It can measure the accuracy of inference algorithms
+    when the data resources evolve. Using a uniform pipeline, the framework can orchestrate
+    multiple runs using different data, corpora and variant prioritization tools,
+    organizing it into a grid configuration, testing all combinations and generating
+    analysis outputs for each of them. As an example, these reports may be useful
+    to ontology developers, who can gain insight and understand the effects of their
+    proposed changes on different phenotype-matching approaches, and by extension,
+    the performance of tools that use these to perform functions such as variant prioritisation.
+    PhEval''s integrated workflow can facilitate the variant prioritisation algorithms
+    benchmark process by bundling multiple steps into a pipeline and generating standardised
+    results.'
+  authors:
+  - label: Vinicius de Souza
+    series_ordinal: 1
+  - label: Yasemin Bridges
+    series_ordinal: 2
+  - label: David Osumi-Sutherland
+    series_ordinal: 3
+  - label: Julius Jacobsen
+    series_ordinal: 4
+  - label: Nicolas Matentzoglu
+    series_ordinal: 5
+  - label: Damian Smedley
+    series_ordinal: 6
+  keywords:
+  - variant prioritisation
+  - benchmark
+  - ontologies
+  - semantic similarity
+  submitted: 2023-03-31 11:53
+  title: PhEval - Phenotypic Inference Evaluation Framework for variant and gene prioritisation
+    algorithms
+- abstract: Glycans are biomolecules made of linked sugars and play a crucial role
+    in various biological processes including symbiosis, inflammation, and immune
+    signalling. Recently, there has been a rise in availability of large scale glycomics
+    data, requiring both improved curation standards along with modern bioinformatic
+    techniques. This has coincided with an expansion of deep learning libraries and
+    computational power. While many glycan resources exist, there remains a number
+    of untouched data found in individual publications which is challenging to extract
+    programmatically. Even when accessible via an API, this data is still often decentralised,
+    found in differing formats, and are not systematically curated. We here describe
+    a group of four curated glycan bioinformatics resources, covering a number of
+    subfields. These include, glycan biological contexts, milk oligosaccharide biosynthesis,
+    glycan-lectin interactions, and tandem mass spectrometry. Our focus was on simplified
+    access, ongoing maintenance efforts, and potential deep learning applications.
+    Machine learning methods were applied to each novel dataset presented to extract
+    valuable biological insights, indicating high quality data. We envision these
+    resources as an entry point for other researchers to use and contribute to.
+  authors:
+  - label: Luc Thomès
+    series_ordinal: 1
+  - label: Jon Lundstrøm
+    series_ordinal: 2
+  - label: James Urban
+    series_ordinal: 3
+  - label: Daniel Bojar
+    series_ordinal: 4
+  keywords:
+  - glycan
+  - lectins
+  - biosynthesis
+  - milk oligosaccharides
+  - mass spectrometry
+  - data mining
+  - deep learning
+  submitted: 2023-03-31 16:07
+  title: 'Sugar, Spice, and Everything Nice: Curating glycan and glycan adjacent data'
