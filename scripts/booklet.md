@@ -113,10 +113,6 @@ Contact the organizers at any of:
 
 Please wear your name badges at all times to promote networking and to assist staff in identifying you.
 
-## Internet Access
-
-TODO mariacristina.aspromonte@unipd.it can you please fill this in
-
 ## Social Media Policy
 
 To encourage the open communication of science and biocuration, we would like to support the use of social media at this
@@ -131,8 +127,7 @@ can be found at [https://biocuration2023.github.io/abstracts](https://biocuratio
 
 ## Social Events
 
-There are several opportunities to explore Padua with your fellow conference attendees. While there are numerous bars,
-pubs, restaurants, and museums all over the city, there are several activities we can recommend. Please
+Please
 visit [https://biocuration2023.github.io/social](https://biocuration2023.github.io/social) for more details.
 
 ## Taxis
