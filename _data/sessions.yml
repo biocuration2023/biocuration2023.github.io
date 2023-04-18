@@ -25,7 +25,7 @@
       person: Q60220727
       personDescription: null
       personLabel: Silvio Tosatto
-    end: '15.45'
+    end: '14.45'
     order: 0
     room: Sala Piero Tortolina Auditorium
     start: '14.30'
@@ -173,7 +173,8 @@
   day: Tuesday
   sessions:
   - chairs:
-    - genderLabel: female
+    - employerLabel_: Self-employed (SciBite consultant)
+      genderLabel: female
       github: paolaroncaglia
       gscholar: mruxdxAAAAAJ
       linkedin: paolaroncaglia
@@ -185,7 +186,7 @@
       topics: transcriptomics, genome annotation, Genome Annotation, cell type, Gene
         Ontology, ontology
       twitter: paola_roncaglia
-    - employerLabel_: SIB Swiss Institute of Bioinformatics
+    - employerLabel_: SIB
       genderLabel: male
       github: deepakunni3
       gscholar: 38ZnUjsAAAAJ
@@ -207,7 +208,7 @@
     start: '9.00'
     title: Keynote 2 - Marco Roos
   - chairs:
-    - employerLabel_: SIB Swiss Institute of Bioinformatics
+    - employerLabel_: SIB
       genderLabel: male
       github: deepakunni3
       gscholar: 38ZnUjsAAAAJ
@@ -221,7 +222,8 @@
       topics: data visualization, Genome browser, knowledge graph, semantic search,
         data modeling, genomics, ontology, Semantic Web
       twitter: deepakunni3
-    - genderLabel: female
+    - employerLabel_: Self-employed (SciBite consultant)
+      genderLabel: female
       github: paolaroncaglia
       gscholar: mruxdxAAAAAJ
       linkedin: paolaroncaglia
@@ -241,7 +243,7 @@
     start: '10.00'
     talks:
     - id: 966
-      speaker: Federica Quaglia
+      speaker: Adel Bouhraoua
       time_end: '10.10'
       time_start: '10.00'
       title: 'APICURON: standardizing attribution of biocuration activity to promote
@@ -262,7 +264,7 @@
       type: lightning
     title: FAIR 1
   - chairs:
-    - employerLabel_: SIB Swiss Institute of Bioinformatics
+    - employerLabel_: SIB
       genderLabel: male
       github: deepakunni3
       gscholar: 38ZnUjsAAAAJ
@@ -276,7 +278,8 @@
       topics: data visualization, Genome browser, knowledge graph, semantic search,
         data modeling, genomics, ontology, Semantic Web
       twitter: deepakunni3
-    - genderLabel: female
+    - employerLabel_: Self-employed (SciBite consultant)
+      genderLabel: female
       github: paolaroncaglia
       gscholar: mruxdxAAAAAJ
       linkedin: paolaroncaglia
@@ -335,7 +338,7 @@
       type: lightning
     title: FAIR 2
   - chairs:
-    - employerLabel_: Swiss Institute of Bioinformatics
+    - employerLabel_: SIB
       genderLabel: male
       gscholar: Bz8HmVoAAAAJ
       linkedin: philippe-le-mercier-846b5713
@@ -370,7 +373,7 @@
     start: '13.30'
     talks:
     - id: 1006
-      speaker: Maria Victoria Nugnes
+      speaker: Silvio Tosatto
       time_end: '13.50'
       time_start: '13.30'
       title: Biocuration in DisProt, the manually curated database for intrinsically
@@ -425,14 +428,14 @@
     start: '13.30'
     talks:
     - id: 9967
-      speaker: Valerio Arnaboldi
+      speaker: Kimberly Van Auken
       time_end: '13.50'
       time_start: '13.30'
       title: 'ACKnowledge: expanding community curation to include fact extraction
         using artificial intelligence'
       type: long
     - id: 4380
-      speaker: Jane Lomax
+      speaker: Rebecca Foulger
       time_end: '14.10'
       time_start: '13.50'
       title: Machine Learning for Scalable Biocuration
@@ -468,7 +471,7 @@
       topics: Global Alliance for Genomics and Health, genomics, ontology, hematology,
         oncogenomics, cancer
       twitter: mbaudis
-    - employerLabel_: Swiss Institute of Bioinformatics
+    - employerLabel_: SIB
       genderLabel: male
       gscholar: Bz8HmVoAAAAJ
       linkedin: philippe-le-mercier-846b5713
@@ -502,7 +505,7 @@
         the annotation of Rare Disease (RD)
       type: lightning
     - id: 8451
-      speaker: Dorotea Dudaš
+      speaker: Ulrike Wittig
       time_end: '15.15'
       time_start: '15.05'
       title: Improved Insights into the SABIO-RK Database via Visualization
@@ -653,7 +656,7 @@
     order: 10
     room: Sala Piero Tortolina Auditorium
     start: '9.00'
-    title: Keynote 2 - Guy Cochrane
+    title: Keynote 3 - Guy Cochrane
   - chairs:
     - employerLabel_: Tor Vergata University of Rome
       genderLabel: female
@@ -722,7 +725,7 @@
       personLabel: Deepti J Kundu
       topics: small molecule, protein structure, proteomics, bioinformatics, carbohydrate
       twitter: DeeptiJaiswal
-    - employerLabel_: Swiss Institute of Bioinformatics
+    - employerLabel_: SIB
       genderLabel: male
       gscholar: Bz8HmVoAAAAJ
       linkedin: philippe-le-mercier-846b5713
