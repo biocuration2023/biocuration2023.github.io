@@ -6,7 +6,10 @@ permalink: /sponsors
 
 ## Biocuration 2023 Sponsors
 
+Biocuration 2023 is proudly sponsored by the following organizations:
+
 <table style="text-align:center;">
+
 <tr>
 <td>
 <a href="https://www.biocuration.org"><img src="https://www.biocuration.org/wp-content/uploads/2022/04/cropped-cropped-ISB_logo.png" style="max-width: 250px;" /></a>

@@ -37,7 +37,7 @@
   personDescription:
   personLabel: Silvio Tosatto
   note: Co-Chair
-- employerLabel_: SIB Swiss Institute of Bioinformatics
+- employerLabel_: SIB
   genderLabel: male
   github: deepakunni3
   gscholar: 38ZnUjsAAAAJ
@@ -56,7 +56,7 @@
   person: Q90663571
   nationalityLabel: Italy
   employerLabel_: University of Padua
-- employerLabel_: University of Colorado - Anschutz Medical Campus
+- employerLabel_: University of Colorado
   genderLabel: female
   github: monicacecilia
   gscholar: 0bGKBS0AAAAJ
@@ -71,6 +71,7 @@
     genomics, human disease, genomics
   twitter: monimunozto
 - genderLabel: female
+  employerLabel_: Self-employed (SciBite consultant)
   github: paolaroncaglia
   gscholar: mruxdxAAAAAJ
   linkedin: paolaroncaglia
@@ -82,7 +83,7 @@
   topics: transcriptomics, genome annotation, Genome Annotation, cell type, Gene Ontology,
     ontology
   twitter: paola_roncaglia
-- employerLabel_: Swiss Institute of Bioinformatics
+- employerLabel_: SIB
   genderLabel: male
   gscholar: Bz8HmVoAAAAJ
   linkedin: philippe-le-mercier-846b5713

@@ -1,0 +1,34 @@
+- link: https://www.biocuration.org
+  image: https://www.biocuration.org/wp-content/uploads/2022/04/cropped-cropped-ISB_logo.png
+  name: International Society of Biocuration
+  image_local: img/isb.png
+
+- link: https://www.sib.swiss
+  image: https://upload.wikimedia.org/wikipedia/commons/5/5d/SIB_logo.jpg
+  name: Swiss Institute of Bioinformatics
+  image_local: img/sib.jpg
+
+- link: https://academic.oup.com/gigascience
+  image: https://upload.wikimedia.org/wikipedia/commons/8/8a/The_2012_logo_of_GigaScience_Journal.png
+  name: GigaScience
+  image_local: img/gigascience.png
+
+- link: https://www.scibite.com
+  image: https://www.scibite.com/wp-content/uploads/2020/09/SciBite-Logo-Final-Horizontal.png
+  name: SciBite
+  image_local: img/scibite.png
+
+- link: https://ranchobiosciences.com/
+  image: https://ranchobiosciences.com/wp-content/uploads/2022/10/Rancho-logo-with-NEW-strapline-RGB-scaled.jpg
+  name: Rancho Biosciences
+  image_local: img/rancho.png
+
+- link: https://elixir-europe.org
+  image: https://www.dissco.eu/wp-content/uploads/Elixir-Europe-logo-1.png
+  name: Elixir
+  image_local: img/elixir.png
+
+- link: https://chanzuckerberg.com
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Chan_Zuckerberg_Initiative.svg/1200px-Chan_Zuckerberg_Initiative.svg.png
+  name: Chan Zuckerberg Initiative
+  image_local: img/czi.png
