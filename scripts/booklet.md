@@ -138,6 +138,9 @@ Please find a list of local taxi numbers below:
 - AppTaxi (https://apptaxi.it/en/padua/)
 - Padua Taxi (+39 049 4906001; https://padova-taxi.it/)
 
+Note that Uber and Lyft are not available in Padua. 
+Padua's tourism website has links to public transport info, as well as car sharing service and bycicle sharing/rental. (Bike riding is very common in Padua.) Please visit [Moving around Padua](https://www.turismopadova.it/en/getting-around-padua/) for more details.
+
 \pagebreak
 
 # Sponsors
