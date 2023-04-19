@@ -78,4 +78,4 @@ Padua's tourism website lists [appropriate highways and parking](https://www.tur
 
 ### Moving around Padua
 
-Uber and Lyft are not available in Padua. Padua's tourism website has links to public transport info, as well as taxi, car sharing service and bycicle sharing/rental. (Bike riding is very common in Padua.) Please visit [Moving around Padua](https://www.turismopadova.it/en/getting-around-padua/) for more details.
+Padua's tourism website has links to public transport info, as well as taxi, car sharing service and bycicle sharing/rental. (Bike riding is very common in Padua.) Please visit [Moving around Padua](https://www.turismopadova.it/en/getting-around-padua/) for more details; note that Uber and Lyft are not available in Padua.
