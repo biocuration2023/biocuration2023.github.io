@@ -206,6 +206,38 @@ Additional information on the schedule can be found at https://biocuration2023.g
 
 {% endfor %}
 
+{% if loop.index != 1 %}\pagebreak{% endif %}
+
+{% endfor %}
+
+# Workshops
+
+{% for record in workshops %}
+
+## {{ record.title | safe }}
+
+<table>
+<tr>
+<td>Date</td>
+<td>{{ record.date }} ({{ record.day }})</td>
+</tr>
+<tr>
+<td>Time</td>
+<td>{{ record.start }} - {{ record.end }} ({{ record.length }})</td>
+</tr>
+{% for organizer in record.organizers %}
+<tr>
+<td>Organizer</td>
+<td>
+    <a href="https://orcid.org/{{ organizer.orcid }}">{{ organizer.name }}</a>
+    {%- if organizer.affiliation %}, {{ organizer.affiliation }}{% endif %}
+</td>
+</tr>
+{% endfor %}
+</table>
+
+{{ record.abstract }}
+
 \pagebreak
 
 {% endfor %}
@@ -283,34 +315,3 @@ Additional information on the schedule can be found at https://biocuration2023.g
 
 {% endfor %}
 
-# Workshops
-
-{% for record in workshops %}
-
-## {{ record.title | safe }}
-
-<table>
-<tr>
-<td>Date</td>
-<td>{{ record.date }} ({{ record.day }})</td>
-</tr>
-<tr>
-<td>Time</td>
-<td>{{ record.start }} - {{ record.end }} ({{ record.length }})</td>
-</tr>
-{% for organizer in record.organizers %}
-<tr>
-<td>Organizer</td>
-<td>
-    <a href="https://orcid.org/{{ organizer.orcid }}">{{ organizer.name }}</a>
-    {%- if organizer.affiliation %}, {{ organizer.affiliation }}{% endif %}
-</td>
-</tr>
-{% endfor %}
-</table>
-
-{{ record.abstract }}
-
-\pagebreak
-
-{% endfor %}

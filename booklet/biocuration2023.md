@@ -464,7 +464,6 @@ Additional information on the schedule can be found at https://biocuration2023.g
 </dl>
 
 
-\pagebreak
 
 
 ## Day 2: Monday, April 24th
@@ -490,7 +489,7 @@ Additional information on the schedule can be found at https://biocuration2023.g
 </dl>
 
 
-### Conference Salutation (14.30-14.45)
+### Conference Salutation from Charles Tapley Hoyt (14.30-14.45)
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -575,7 +574,6 @@ Yalan Bi
 
 
 \pagebreak
-
 
 ## Day 3: Tuesday, April 25th
 
@@ -809,7 +807,7 @@ Peter Uetz
 <dd>
 <br/><strong>
 eMIND: Enabling automatic collection of protein variation impacts in Alzheimer’s disease from the literature</strong><br/>
-Samir Gupta
+Cecilia Arighi
 </dd>
 <dt></dt>
 <dt>15.05-15.15</dt>
@@ -858,7 +856,6 @@ Rossana Zaru
 
 
 \pagebreak
-
 
 ## Day 4: Wednesday, April 26th
 
@@ -949,7 +946,7 @@ Arina Puzriakova
 <dd>
 <br/><strong>
 Community SARS-CoV-2 Curation Driven Emergent Experiences - Increased Curation Efficiency and Learned Lessons for the Future</strong><br/>
-Marc Gillespie
+Henning Hermjakob
 </dd>
 <dt></dt>
 <dt>14.10-14.20</dt>
@@ -975,6 +972,194 @@ Jennifer Harrow
     <a href="https://orcid.org/0000-0003-4423-4370">Charles Tapley Hoyt</a>,     <a href="https://orcid.org/0000-0003-4525-7793">Silvio Tosatto</a>    </dd>
 </dl>
 
+
+\pagebreak
+
+# Workshops
+
+
+## 2<sup>nd</sup> Mapping Commons Workshop on Simple Standard for Sharing Ontological Mappings
+
+<table>
+<tr>
+<td>Date</td>
+<td>April 23th (Sunday)</td>
+</tr>
+<tr>
+<td>Time</td>
+<td>2:30PM - 5:30PM (3 Hours)</td>
+</tr>
+<tr>
+<td>Organizer</td>
+<td>
+    <a href="https://orcid.org/0000-0002-7356-1779">Nicolas Matentzoglu</a>, Independent Consultant Semantic Technologies</td>
+</tr>
+</table>
+
+Despite significant advances in standardisation and FAIRification of data, global interoperability remains an elusive goal. The decentralised nature of standardisation causes *semantic spaces* to emerge which are governed by diverse standards, in particular controlled vocabularies and semantic data models. To facilitate interoperability across standards, we need to curate and publish mappings.
+
+The [Simple Standard for Sharing Ontological Mappings (SSSOM)](https://mapping-commons.github.io/sssom/home/) has been proposed as a standard model for sharing FAIR semantic entity mappings. While the core of the standard model has been solidified, certain issues remain; in particular, the representation of complex mappings (mappings that involve more than 2 entities)  and entity-literal mappings. Furthermore, certain use cases remain only partially supported, such as value set mappings and schema crosswalks. In this workshop, we aim to:
+
+1. Develop a common understanding of the problem of non-simple mappings
+ 2. Determine if SSSOM is suitable to cover some or all of these non-simple mapping problems
+ 3. Potentially gather requirements on how SSSOM needs to be extended to cover more of them
+
+This workshop is organised by members of the [Monarch Initiative](https://monarchinitiative.org/), the [SSSOM developer community](https://github.com/mapping-commons/), [FAIR Impact](https://fair-impact.eu/), and [FAIRCORE4EOSC](https://faircore4eosc.eu/). 
+
+\pagebreak
+
+
+## Aligning Open Biological and Biomedical Ontology Foundry ontologies with Wikidata
+
+<table>
+<tr>
+<td>Date</td>
+<td>April 24th (Monday)</td>
+</tr>
+<tr>
+<td>Time</td>
+<td>9:00AM - 12:00PM (3 Hours)</td>
+</tr>
+<tr>
+<td>Organizer</td>
+<td>
+    <a href="https://orcid.org/0000-0001-9773-4008">Andra Waagmeester</a>, Micelio</td>
+</tr>
+</table>
+
+[Wikidata](https://wikidata.org) is the general knowledge graph of Wikimedia and a sister project of Wikipedia. In this workshop, we will explore how to extend the coverage of OBO ontologies in Wikidata. Starting from lessons learned with for example the Disease Ontology and the [Gene Ontology](https://doi.org/10.7554/eLife.52614), which both are covered in Wikidata, the workshop will continue to work towards covering two additional OBO ontologies (ie. [ENVO](https://obofoundry.org/ontology/envo) and [GAZ](https://github.com/EnvironmentOntology/gaz)) in Wikidata.
+
+During the workshop, we will also explore how licensing effects their usage. Ontologies in OBO use different licenses. The question is if this does not lead to [license stacking](https://mozillascience.github.io/open-data-primers/5.3-license-stacking.html) and to what extend this disqualifies certain combinations (due to license stacking).
+
+The intended audience consists of Wikidata and OBO curators. The workshop is aimed ontology curators who want to align their ontologies with Wikidata. Familiarity with identifier mapping, legal frameworks, programming in python and SPARQL querying is not a hard requirement, but would be beneficial. 
+
+\pagebreak
+
+
+## Gaining perspective towards enhancing the intersection of biocuration and machine learning
+
+<table>
+<tr>
+<td>Date</td>
+<td>April 24th (Monday)</td>
+</tr>
+<tr>
+<td>Time</td>
+<td>9:00AM - 11:00AM (2 Hours)</td>
+</tr>
+<tr>
+<td>Organizer</td>
+<td>
+    <a href="https://orcid.org/0000-0001-8910-9851">Lynn Schriml</a>, University of Maryland School of Medicine</td>
+</tr>
+<tr>
+<td>Organizer</td>
+<td>
+    <a href="https://orcid.org/">Susan Bello</a></td>
+</tr>
+<tr>
+<td>Organizer</td>
+<td>
+    <a href="https://orcid.org/">Cynthia Smith</a></td>
+</tr>
+</table>
+
+This workshop is aimed at engaging resource biocurators, genomic resources, machine learning tool developers, members of the Alliance of Genome Resources and the OBO Foundry. In this workshop we will invite members of the Alliance of Genome Resources and the OBO Foundry to discuss:
+
+1. The challenges and approaches used to automate curation activities through machine learning approaches
+ 2. Machine learning (ML) approaches utilized, lessons learned
+ 3. How the biocuration and ML communities can work more productively together.
+
+Genomic resources and ontologies share the desire to figure out how we can implement ML approaches, share these tools and integrate the ML tools we need to augment our expert curation activities. Funding mechanisms increasingly request the automation of ML approaches, thus the impetus is on resource developers is to devise solutions. One approach is to identify tools that address our data driven needs, to identify solutions to challenges we face and to guide future development to address problems that tools do not yet work on. This workshop will facilitate discussions regarding how to enhance ML/AI data readiness from the perspective of ontologies and genomic resources. ML/AI approaches hold the promise of enhancing the capacity of genomic resources to mine, review and assess data for integration. However, the often transitory nature of ML/AI tool development along with the lack of specifications and planning for long term development support challenges the utility of these approaches for production level genomic resources.
+
+Alternatively, many genomic resources must resort to building in-house approaches. In this workshop, we will address the challenges of integrating ML/AI-ready infrastructure and providing ML-ready datasets from the biocurators perspective. We propose for this first workshop, to be held at Biocuration 2023, to be followed by a second-online ISB workshop focused on learning about the ML perspective from ML developers, to further discussion on how we can work more productively together and asking what ML developers need from the biocuration community. This first 2-hour workshop will focus on (1) literature triage and (2) mapping data between resources cross with one hour dedicated to each topic area.
+
+Following the workshop introduction (15 minutes), describing the history of efforts and attempts to bring ML into databases, the need for controls, GOLD standard (highly curated) datasets, and the need for ML projects long term support, will be followed by two-45 minute panel-driven discussions focused on successes, challenges and the pros and cons of alternative approaches. Panelists from the Alliance and the OBO Foundry community will be invited to share their success and challenges. Each (3-5 person) panel will engage workshop participants to share insights on their quality controlling perspective and to discuss their quality control process when reviewing ML generated datasets. One goal of the discussions is to outline the scope of biocuration problems that ML tools currently address and what biocuration tasks need ML development.
+
+The panel discussion will touch on the following related topics:
+ 1. Where are we hoping to apply ML/AI
+ 2. The funding pitfall: how to get ML tools out of the prototype stage and into a functional product
+ 3. What are the language and jargon barriers, moving between groups, applying one tool to another dataset
+ 4. Not all tools work across different organisms and the idiosyncrasies of the literature across species
+ 5. Dependency: for ML/AI – the data absolutely needs to be highly, expertly curated. The necessity of highly curated data to empower ML/AI; pitfalls of lightly curated data
+ 6. Longitudinal aspect of data - for example, matching diseases or phenotypes, on names, synonyms over time and between resources
+ 7. The need for precision and recall metrics for the assessment metrics of ML tools
+ 8. Exploring the establishment of an ISB community ML/AI tool registry/list - where we can share what we use.
+
+The goals of this workshop are to initiate dialog in order to gain a broader understanding of biocuration - ML needs,  to reveal challenges and limitations of ML approaches, to foster re-use of ML tools, and to facilitate a greater understanding of where ML tools are being applied successfully.
+
+Output: We propose to author a whitepaper built from the biocurator comments and workshop discussions. The paper will include a list of ML tools and where the tools shine, highlighting the tools that have been used for literature curation and resource content mapping. 
+
+\pagebreak
+
+
+## Functional impact of glycans and their curation
+
+<table>
+<tr>
+<td>Date</td>
+<td>April 24th (Monday)</td>
+</tr>
+<tr>
+<td>Time</td>
+<td>11:00AM - 1:00PM (2 Hours)</td>
+</tr>
+<tr>
+<td>Organizer</td>
+<td>
+    <a href="https://orcid.org/0000-0001-8823-9945">Raja Mazumder</a>, George Washington University</td>
+</tr>
+</table>
+
+Dynamic changes in protein glycosylation impact human health and disease progression. However, current resources that capture disease and phenotype information such as MIM, Monarch Initiative, UniProt, Genomics England, and others focus primarily on the macromolecules within the central dogma of molecular biology (DNA, RNA, proteins). In order to gain a more complete understanding of human disease, there is a need to capture the functional impact of glycans and glycosylation on biological processes. While the aforementioned resources include glycan-related genes, such as biosynthetic and degradative enzymes, the function and disease annotations are usually associated with the gene product rather than with the relevant glycosylation and glycan structural changes. Expression of glycan-related genes represents only a subset of factors affecting protein glycosylation. The functional impact of a specific glycan structure may depend on the protein to which it is bound, site of attachment, truncation or loss of the entire glycan structure. A catalog of glycosylation combinations, their relationship with other biomolecules, and their functional implications will provide insight into the biological roles of glycans and the impact of genetic and environmental factors on their expression.
+
+The purpose of this workshop is to bring together subject matter experts, tool developers and biocurators from resources that annotate content that is related to the functional impact of glycans. Each resource will do a short presentation on their data of interest, including  types of annotations, what impact glycan function might have on these annotations, and standards and ontologies they are using.
+
+This will be followed by a jamboree/hackathon where we will discuss selected publications to identify commonalities and gaps in our current curation practices, and provide potential solutions. The attendees will help identify areas where curators, data wranglers, and text mining experts can collaborate to address gaps in glycan and glycosylation annotations, leverage each other’s work to improve their respective resources and encourage data sharing amongst resources.
+
+There is a free pre-workshop on Sunday, April 23&lt;sup&gt;rd&lt;/sup&gt; from 9-5pm CEST. Lunch and coffee will be provided. For more information and registration link, please visit [here](https://wiki.glygen.org/BioCuration_Workshop_2023).
+
+Organizers: Raja Mazumder (GlySpace, GlyGen), Mike Tiemeyer (GlySpace, GlyGen), Rene Ranzinger (GlyGen), Maria Martin (UniProt, GlyGen), Kiyoko Aoki-Kinoshita (GlySpace, GlyCosmos, GlyTouCan), Frederique Lisacek (GlySpace, GlyConnect), Cecilia Arighi (PIR, BioCreative, UniProt), Randi Vita (IEDB)
+
+\pagebreak
+
+
+## Careers in Biocuration
+
+<table>
+<tr>
+<td>Date</td>
+<td>April 26th (Wednesday)</td>
+</tr>
+<tr>
+<td>Time</td>
+<td>11:00AM - 12:00PM (1 Hour)</td>
+</tr>
+<tr>
+<td>Organizer</td>
+<td>
+    <a href="https://orcid.org/0000-0001-5208-3432">Nicole Vasilevsky</a>, Critical Path Institute</td>
+</tr>
+<tr>
+<td>Organizer</td>
+<td>
+    <a href="https://orcid.org/0000-0001-8957-7612">Randi Vita</a>, La Jolla Institute for Allergy and Immunology</td>
+</tr>
+<tr>
+<td>Organizer</td>
+<td>
+    <a href="https://orcid.org/0000-0002-4667-9528">Mary Ann Tuli</a>, GigaScience</td>
+</tr>
+</table>
+
+The [International Society for Biocuration (ISB)](https://www.biocuration.org/) was formed to promote the field of biocuration and to provide a professional society to support curators and aid in career growth and development. The path to a career in biocuration is varied, and we play various roles in our professional positions. This workshop aims to address some of the following questions through structured brainstorming sessions:
+
+1. Discussion of how do you get a job as a curator?
+ 2. How do you write your resume/CV?
+ 3. What skill sets can someone learn to enhance their career growth?
+
+As an outcome of this workshop, we will disseminate the key discussion points and takeaways via the ISB website to further the growth of curators in our community.
+Please fill out a pre-conference [survey here](https://docs.google.com/forms/d/e/1FAIpQLSd3tJM-I61v8n_mQJKUzFwdSMsVszdo5ZiwgLzVkAVeK-1E1w/viewform). The survey will be open until March 20th. 
 
 \pagebreak
 
@@ -2354,195 +2539,6 @@ Lastly, in the analysis phase, PhEval produces extensive statistical reports out
 <span>Luc Thomès</span>, <span>Jon Lundstrøm</span>, <span>James Urban</span>, <span>Daniel Bojar</span><br />
 
 Glycans are biomolecules made of linked sugars and play a crucial role in various biological processes including symbiosis, inflammation, and immune signalling. Recently, there has been a rise in availability of large scale glycomics data, requiring both improved curation standards along with modern bioinformatic techniques. This has coincided with an expansion of deep learning libraries and computational power. While many glycan resources exist, there remains a number of untouched data found in individual publications which is challenging to extract programmatically. Even when accessible via an API, this data is still often decentralised, found in differing formats, and are not systematically curated. We here describe a group of four curated glycan bioinformatics resources, covering a number of subfields. These include, glycan biological contexts, milk oligosaccharide biosynthesis, glycan-lectin interactions, and tandem mass spectrometry. Our focus was on simplified access, ongoing maintenance efforts, and potential deep learning applications. Machine learning methods were applied to each novel dataset presented to extract valuable biological insights, indicating high quality data. We envision these resources as an entry point for other researchers to use and contribute to.
-
-\pagebreak
-
-
-# Workshops
-
-
-## 2<sup>nd</sup> Mapping Commons Workshop on Simple Standard for Sharing Ontological Mappings
-
-<table>
-<tr>
-<td>Date</td>
-<td>April 23th (Sunday)</td>
-</tr>
-<tr>
-<td>Time</td>
-<td>2:30PM - 5:30PM (3 Hours)</td>
-</tr>
-<tr>
-<td>Organizer</td>
-<td>
-    <a href="https://orcid.org/0000-0002-7356-1779">Nicolas Matentzoglu</a>, Independent Consultant Semantic Technologies</td>
-</tr>
-</table>
-
-Despite significant advances in standardisation and FAIRification of data, global interoperability remains an elusive goal. The decentralised nature of standardisation causes *semantic spaces* to emerge which are governed by diverse standards, in particular controlled vocabularies and semantic data models. To facilitate interoperability across standards, we need to curate and publish mappings.
-
-The [Simple Standard for Sharing Ontological Mappings (SSSOM)](https://mapping-commons.github.io/sssom/home/) has been proposed as a standard model for sharing FAIR semantic entity mappings. While the core of the standard model has been solidified, certain issues remain; in particular, the representation of complex mappings (mappings that involve more than 2 entities)  and entity-literal mappings. Furthermore, certain use cases remain only partially supported, such as value set mappings and schema crosswalks. In this workshop, we aim to:
-
-1. Develop a common understanding of the problem of non-simple mappings
- 2. Determine if SSSOM is suitable to cover some or all of these non-simple mapping problems
- 3. Potentially gather requirements on how SSSOM needs to be extended to cover more of them
-
-This workshop is organised by members of the [Monarch Initiative](https://monarchinitiative.org/), the [SSSOM developer community](https://github.com/mapping-commons/), [FAIR Impact](https://fair-impact.eu/), and [FAIRCORE4EOSC](https://faircore4eosc.eu/). 
-
-\pagebreak
-
-
-## Aligning Open Biological and Biomedical Ontology Foundry ontologies with Wikidata
-
-<table>
-<tr>
-<td>Date</td>
-<td>April 24th (Monday)</td>
-</tr>
-<tr>
-<td>Time</td>
-<td>9:00AM - 12:00PM (3 Hours)</td>
-</tr>
-<tr>
-<td>Organizer</td>
-<td>
-    <a href="https://orcid.org/0000-0001-9773-4008">Andra Waagmeester</a>, Micelio</td>
-</tr>
-</table>
-
-[Wikidata](https://wikidata.org) is the general knowledge graph of Wikimedia and a sister project of Wikipedia. In this workshop, we will explore how to extend the coverage of OBO ontologies in Wikidata. Starting from lessons learned with for example the Disease Ontology and the [Gene Ontology](https://doi.org/10.7554/eLife.52614), which both are covered in Wikidata, the workshop will continue to work towards covering two additional OBO ontologies (ie. [ENVO](https://obofoundry.org/ontology/envo) and [GAZ](https://github.com/EnvironmentOntology/gaz)) in Wikidata.
-
-During the workshop, we will also explore how licensing effects their usage. Ontologies in OBO use different licenses. The question is if this does not lead to [license stacking](https://mozillascience.github.io/open-data-primers/5.3-license-stacking.html) and to what extend this disqualifies certain combinations (due to license stacking).
-
-The intended audience consists of Wikidata and OBO curators. The workshop is aimed ontology curators who want to align their ontologies with Wikidata. Familiarity with identifier mapping, legal frameworks, programming in python and SPARQL querying is not a hard requirement, but would be beneficial. 
-
-\pagebreak
-
-
-## Gaining perspective towards enhancing the intersection of biocuration and machine learning
-
-<table>
-<tr>
-<td>Date</td>
-<td>April 24th (Monday)</td>
-</tr>
-<tr>
-<td>Time</td>
-<td>9:00AM - 11:00AM (2 Hours)</td>
-</tr>
-<tr>
-<td>Organizer</td>
-<td>
-    <a href="https://orcid.org/0000-0001-8910-9851">Lynn Schriml</a>, University of Maryland School of Medicine</td>
-</tr>
-<tr>
-<td>Organizer</td>
-<td>
-    <a href="https://orcid.org/">Susan Bello</a></td>
-</tr>
-<tr>
-<td>Organizer</td>
-<td>
-    <a href="https://orcid.org/">Cynthia Smith</a></td>
-</tr>
-</table>
-
-This workshop is aimed at engaging resource biocurators, genomic resources, machine learning tool developers, members of the Alliance of Genome Resources and the OBO Foundry. In this workshop we will invite members of the Alliance of Genome Resources and the OBO Foundry to discuss:
-
-1. The challenges and approaches used to automate curation activities through machine learning approaches
- 2. Machine learning (ML) approaches utilized, lessons learned
- 3. How the biocuration and ML communities can work more productively together.
-
-Genomic resources and ontologies share the desire to figure out how we can implement ML approaches, share these tools and integrate the ML tools we need to augment our expert curation activities. Funding mechanisms increasingly request the automation of ML approaches, thus the impetus is on resource developers is to devise solutions. One approach is to identify tools that address our data driven needs, to identify solutions to challenges we face and to guide future development to address problems that tools do not yet work on. This workshop will facilitate discussions regarding how to enhance ML/AI data readiness from the perspective of ontologies and genomic resources. ML/AI approaches hold the promise of enhancing the capacity of genomic resources to mine, review and assess data for integration. However, the often transitory nature of ML/AI tool development along with the lack of specifications and planning for long term development support challenges the utility of these approaches for production level genomic resources.
-
-Alternatively, many genomic resources must resort to building in-house approaches. In this workshop, we will address the challenges of integrating ML/AI-ready infrastructure and providing ML-ready datasets from the biocurators perspective. We propose for this first workshop, to be held at Biocuration 2023, to be followed by a second-online ISB workshop focused on learning about the ML perspective from ML developers, to further discussion on how we can work more productively together and asking what ML developers need from the biocuration community. This first 2-hour workshop will focus on (1) literature triage and (2) mapping data between resources cross with one hour dedicated to each topic area.
-
-Following the workshop introduction (15 minutes), describing the history of efforts and attempts to bring ML into databases, the need for controls, GOLD standard (highly curated) datasets, and the need for ML projects long term support, will be followed by two-45 minute panel-driven discussions focused on successes, challenges and the pros and cons of alternative approaches. Panelists from the Alliance and the OBO Foundry community will be invited to share their success and challenges. Each (3-5 person) panel will engage workshop participants to share insights on their quality controlling perspective and to discuss their quality control process when reviewing ML generated datasets. One goal of the discussions is to outline the scope of biocuration problems that ML tools currently address and what biocuration tasks need ML development.
-
-The panel discussion will touch on the following related topics:
- 1. Where are we hoping to apply ML/AI
- 2. The funding pitfall: how to get ML tools out of the prototype stage and into a functional product
- 3. What are the language and jargon barriers, moving between groups, applying one tool to another dataset
- 4. Not all tools work across different organisms and the idiosyncrasies of the literature across species
- 5. Dependency: for ML/AI – the data absolutely needs to be highly, expertly curated. The necessity of highly curated data to empower ML/AI; pitfalls of lightly curated data
- 6. Longitudinal aspect of data - for example, matching diseases or phenotypes, on names, synonyms over time and between resources
- 7. The need for precision and recall metrics for the assessment metrics of ML tools
- 8. Exploring the establishment of an ISB community ML/AI tool registry/list - where we can share what we use.
-
-The goals of this workshop are to initiate dialog in order to gain a broader understanding of biocuration - ML needs,  to reveal challenges and limitations of ML approaches, to foster re-use of ML tools, and to facilitate a greater understanding of where ML tools are being applied successfully.
-
-Output: We propose to author a whitepaper built from the biocurator comments and workshop discussions. The paper will include a list of ML tools and where the tools shine, highlighting the tools that have been used for literature curation and resource content mapping. 
-
-\pagebreak
-
-
-## Functional impact of glycans and their curation
-
-<table>
-<tr>
-<td>Date</td>
-<td>April 24th (Monday)</td>
-</tr>
-<tr>
-<td>Time</td>
-<td>11:00AM - 1:00PM (2 Hours)</td>
-</tr>
-<tr>
-<td>Organizer</td>
-<td>
-    <a href="https://orcid.org/0000-0001-8823-9945">Raja Mazumder</a>, George Washington University</td>
-</tr>
-</table>
-
-Dynamic changes in protein glycosylation impact human health and disease progression. However, current resources that capture disease and phenotype information such as MIM, Monarch Initiative, UniProt, Genomics England, and others focus primarily on the macromolecules within the central dogma of molecular biology (DNA, RNA, proteins). In order to gain a more complete understanding of human disease, there is a need to capture the functional impact of glycans and glycosylation on biological processes. While the aforementioned resources include glycan-related genes, such as biosynthetic and degradative enzymes, the function and disease annotations are usually associated with the gene product rather than with the relevant glycosylation and glycan structural changes. Expression of glycan-related genes represents only a subset of factors affecting protein glycosylation. The functional impact of a specific glycan structure may depend on the protein to which it is bound, site of attachment, truncation or loss of the entire glycan structure. A catalog of glycosylation combinations, their relationship with other biomolecules, and their functional implications will provide insight into the biological roles of glycans and the impact of genetic and environmental factors on their expression.
-
-The purpose of this workshop is to bring together subject matter experts, tool developers and biocurators from resources that annotate content that is related to the functional impact of glycans. Each resource will do a short presentation on their data of interest, including  types of annotations, what impact glycan function might have on these annotations, and standards and ontologies they are using.
-
-This will be followed by a jamboree/hackathon where we will discuss selected publications to identify commonalities and gaps in our current curation practices, and provide potential solutions. The attendees will help identify areas where curators, data wranglers, and text mining experts can collaborate to address gaps in glycan and glycosylation annotations, leverage each other’s work to improve their respective resources and encourage data sharing amongst resources.
-
-There is a free pre-workshop on Sunday, April 23&lt;sup&gt;rd&lt;/sup&gt; from 9-5pm CEST. Lunch and coffee will be provided. For more information and registration link, please visit [here](https://wiki.glygen.org/BioCuration_Workshop_2023).
-
-Organizers: Raja Mazumder (GlySpace, GlyGen), Mike Tiemeyer (GlySpace, GlyGen), Rene Ranzinger (GlyGen), Maria Martin (UniProt, GlyGen), Kiyoko Aoki-Kinoshita (GlySpace, GlyCosmos, GlyTouCan), Frederique Lisacek (GlySpace, GlyConnect), Cecilia Arighi (PIR, BioCreative, UniProt), Randi Vita (IEDB)
-
-\pagebreak
-
-
-## Careers in Biocuration
-
-<table>
-<tr>
-<td>Date</td>
-<td>April 26th (Wednesday)</td>
-</tr>
-<tr>
-<td>Time</td>
-<td>11:00AM - 12:00PM (1 Hour)</td>
-</tr>
-<tr>
-<td>Organizer</td>
-<td>
-    <a href="https://orcid.org/0000-0001-5208-3432">Nicole Vasilevsky</a>, Critical Path Institute</td>
-</tr>
-<tr>
-<td>Organizer</td>
-<td>
-    <a href="https://orcid.org/0000-0001-8957-7612">Randi Vita</a>, La Jolla Institute for Allergy and Immunology</td>
-</tr>
-<tr>
-<td>Organizer</td>
-<td>
-    <a href="https://orcid.org/0000-0002-4667-9528">Mary Ann Tuli</a>, GigaScience</td>
-</tr>
-</table>
-
-The [International Society for Biocuration (ISB)](https://www.biocuration.org/) was formed to promote the field of biocuration and to provide a professional society to support curators and aid in career growth and development. The path to a career in biocuration is varied, and we play various roles in our professional positions. This workshop aims to address some of the following questions through structured brainstorming sessions:
-
-1. Discussion of how do you get a job as a curator?
- 2. How do you write your resume/CV?
- 3. What skill sets can someone learn to enhance their career growth?
-
-As an outcome of this workshop, we will disseminate the key discussion points and takeaways via the ISB website to further the growth of curators in our community.
-Please fill out a pre-conference [survey here](https://docs.google.com/forms/d/e/1FAIpQLSd3tJM-I61v8n_mQJKUzFwdSMsVszdo5ZiwgLzVkAVeK-1E1w/viewform). The survey will be open until March 20th. 
 
 \pagebreak
 
