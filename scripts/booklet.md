@@ -130,7 +130,7 @@ can be found at [https://biocuration2023.github.io/abstracts](https://biocuratio
 Please
 visit [https://biocuration2023.github.io/social](https://biocuration2023.github.io/social) for more details.
 
-## Taxis
+## Taxis, bycicle sharing/rental etc.
 
 Please find a list of local taxi numbers below:
  
@@ -139,7 +139,11 @@ Please find a list of local taxi numbers below:
 - Padua Taxi (+39 049 4906001; https://padova-taxi.it/)
 
 Note that Uber and Lyft are not available in Padua. 
-Padua's tourism website has links to public transport info, as well as car sharing service and bycicle sharing/rental. (Bike riding is very common in Padua.) Please visit [Moving around Padua](https://www.turismopadova.it/en/getting-around-padua/) for more details.
+
+Bike riding is very common in Padua, and we recommend this bike sharing app:
+[RideMovi](https://www.ridemovi.com/cities/)
+
+Padua's tourism website has links to public transport info, as well as car sharing service and other bycicle sharing/rental options. Please visit [Moving around Padua](https://www.turismopadova.it/en/getting-around-padua/) for more details.
 
 \pagebreak
 
