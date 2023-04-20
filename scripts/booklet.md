@@ -113,6 +113,10 @@ Contact the organizers at any of:
 
 Please wear your name badges at all times to promote networking and to assist staff in identifying you.
 
+## Venue Wifi
+
+The password for the venue's network `Biocuration2023` is `Conference2023!`.
+
 ## Social Media Policy
 
 To encourage the open communication of science and biocuration, we would like to support the use of social media at this

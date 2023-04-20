@@ -351,6 +351,10 @@ Contact the organizers at any of:
 
 Please wear your name badges at all times to promote networking and to assist staff in identifying you.
 
+## Venue Wifi
+
+The password for the venue's network `Biocuration2023` is `Conference2023!`.
+
 ## Social Media Policy
 
 To encourage the open communication of science and biocuration, we would like to support the use of social media at this
@@ -2507,7 +2511,7 @@ Going forwards, we will review GO cellular component annotations to Drosophila e
 
 ## 57. Equity, Diversity, and Inclusion in the International Society for Biocuration
 
-<span>Mary Ann Tuli</span>, <span>Yvonne Bradford</span>, <span>Alice Crowley</span>, <span>Pratibha Gour</span>, <span>Rachael Huntley</span>, <span>Tiago Lubiana</span>, <span>Shirin Saverimuttu</span>, <span>Nicole Vasilevsky</span>, <span>Roxanne Yamashita</span><br />
+<span>Mary Ann Tuli</span>, <span>Yvonne Bradford</span>, <span>Alice Crowley</span>, <span>Pratibha Gour</span>, <span>Rachael Huntley</span>, <span>Tiago Lubiana</span>, <span>Shirin Saverimuttu</span>, <span>Nicole Vasilevsky</span>, <span>Roxanne Yamashita</span>, <span>Monica Munoz-Torres</span><br />
 
 The Equity, Diversity, and Inclusion (EDI) committee was formed in 2019 as an outcome of a workshop held at the 12th International Biocuration conference in Cambridge, UK. This first workshop sparked some lively discussions as well as a great deal of interest within the community. It was widely agreed that the workshop format was preferred over session presentations as it allowed for more debate and for attendees to discuss personal experiences.
 
