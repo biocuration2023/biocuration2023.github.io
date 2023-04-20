@@ -24,12 +24,13 @@ conference) and on Monday (the morning before the conference).
 <dd>{{ session.start }}-{{ session.end }}</dd>
 {% if session.chairs %}
 <dt><strong>Session Chairs</strong></dt>
-{% for chair in session.chairs %}
 <dd>
-    <a href="./organizers#{{ chair.orcid }}">{{ chair.personLabel }}</a>
+{% for chair in session.chairs %}
+    <a href="./organizers#{{ chair.orcid }}">{{ chair.personLabel }}</a>{% if forloop.last == false %}, {% endif %}
     <!--(<a href="https://orcid.org/{{ chair.orcid }}">https://orcid.org/{{ chair.orcid }}</a>)-->
-</dd>
+    
 {% endfor %}
+</dd>
 {% endif %}
 </dl>
 
@@ -58,4 +59,5 @@ conference) and on Monday (the morning before the conference).
 {% endif %}
 
 {% endfor %}
+<hr>
 {% endfor %}

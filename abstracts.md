@@ -4,6 +4,11 @@ title: Abstracts
 permalink: /abstracts
 ---
 
+The abstracts for the Biocuration 2023 conference have been arranged by the Scientific Program Committee
+into invited keynote speakers, long talks, short (lightning) talks, and poster presentations.
+A full <a href="https://github.com/biocuration2023/biocuration2023.github.io/raw/main/booklet/biocuration2023.pdf">
+conference booklet</a> can be downloaded as a PDF.
+
 ## Keynotes
 
 Keynote speakers have been invited and are given about 60 minutes to present, including introductions and questions.

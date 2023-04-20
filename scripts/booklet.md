@@ -130,20 +130,22 @@ can be found at [https://biocuration2023.github.io/abstracts](https://biocuratio
 Please
 visit [https://biocuration2023.github.io/social](https://biocuration2023.github.io/social) for more details.
 
-## Taxis, bycicle sharing/rental etc.
+## Ground Transportation
 
 Please find a list of local taxi numbers below:
- 
+
 - RadioTaxi (+39 049.651333; https://www.taxipadova.it/services/radiotaxi/)
 - AppTaxi (https://apptaxi.it/en/padua/)
 - Padua Taxi (+39 049 4906001; https://padova-taxi.it/)
 
-Note that Uber and Lyft are not available in Padua. 
+Note that Uber and Lyft are not available in Padua.
 
 Bike riding is very common in Padua, and we recommend this bike sharing app:
 [RideMovi](https://www.ridemovi.com/cities/)
 
-Padua's tourism website has links to public transport info, as well as car sharing service and other bycicle sharing/rental options. Please visit [Moving around Padua](https://www.turismopadova.it/en/getting-around-padua/) for more details.
+Padua's tourism website has links to public transport info, as well as car sharing service and other bicycle
+sharing/rental options. Please visit [Moving around Padua](https://www.turismopadova.it/en/getting-around-padua/) for
+more details.
 
 \pagebreak
 
@@ -160,9 +162,11 @@ at https://biocuration2023.github.io/sponsors:
 
 ![](../{{ record.image_local }})
 
-\pagebreak
+{% if loop.index % 2 == 0 %}\pagebreak{% endif %}
 
 {% endfor %}
+
+\pagebreak
 
 # Schedule
 
@@ -174,11 +178,11 @@ Additional information on the schedule can be found at https://biocuration2023.g
 
 {% for session in day.sessions %}
 
-### {{ session.title }}
+### {{ session.title }} ({{ session.start }}-{{ session.end }})
+
+{%- if session.description %}{{ session.description }}{% endif %}
 
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>{{ session.start }}-{{ session.end }}</dd>
 {% if session.chairs %}
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -201,9 +205,10 @@ Additional information on the schedule can be found at https://biocuration2023.g
 </dl>
 
 {% endfor %}
-{% endfor %}
 
 \pagebreak
+
+{% endfor %}
 
 # Keynotes
 
@@ -231,10 +236,10 @@ Additional information on the schedule can be found at https://biocuration2023.g
 
 {% for record in orals %}
 
-### {{loop.index}}. {{ record.title }}
+### {{ record.title }}
 
 {% for author in record.authors %}
-<span>{{ author.label }}</span>{% if not loop.last %}, {% endif%}
+<span{% if loop.first%} style="font-weight:bold"{% endif %}>{{ author.label }}</span>{% if not loop.last %}, {% endif%}
 {% endfor %}
 <br />
 
@@ -248,7 +253,7 @@ Additional information on the schedule can be found at https://biocuration2023.g
 
 {% for record in lightning %}
 
-### {{loop.index}}. {{ record.title }}
+### {{ record.title }}
 
 {% for author in record.authors %}
 <span>{{ author.label }}</span>{% if not loop.last %}, {% endif%}
@@ -278,12 +283,11 @@ Additional information on the schedule can be found at https://biocuration2023.g
 
 {% endfor %}
 
-
 # Workshops
 
 {% for record in workshops %}
 
-## {{ record.title }}
+## {{ record.title | safe }}
 
 <table>
 <tr>

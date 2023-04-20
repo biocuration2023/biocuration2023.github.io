@@ -1,6 +1,37 @@
+- date: April 23rd
+  day: Sunday
+  sessions:
+  - end: '17.30'
+    order: 0
+    room: Sala Piero Tortolina Auditorium
+    start: '14.30'
+    title: 2nd Mapping Commons Workshop on Simple Standard for Sharing Ontological
+      Mappings
 - date: April 24th
   day: Monday
   sessions:
+  - end: '11.00'
+    order: 0.1
+    room: Spazio 35
+    start: '9.00'
+    title: Aligning Open Biological and Biomedical Ontology Foundry Ontologies with
+      Wikidata Workshop
+  - end: '12.00'
+    order: 0.2
+    room: Sala Piero Tortolina Auditorium
+    start: '9.00'
+    title: Gaining Perspective Towards Enhancing the Intersection of Biocuration and
+      Machine Learning Workshop
+  - end: '13.00'
+    order: 0.3
+    room: Spazio 35
+    start: '11.00'
+    title: Functional Impact of Glycans and Their Curation Workshop
+  - end: '14.15'
+    order: 0.35
+    room: Agora
+    start: '13.15'
+    title: Lunch Break and Sponsors Exhibition
   - chairs:
     - employerLabel_: Harvard Medical School
       genderLabel: male
@@ -26,7 +57,7 @@
       personDescription: null
       personLabel: Silvio Tosatto
     end: '14.45'
-    order: 0
+    order: 0.4
     room: Sala Piero Tortolina Auditorium
     start: '14.30'
     title: Conference Salutation
@@ -95,6 +126,11 @@
     room: Sala Piero Tortolina Auditorium
     start: '15.00'
     title: Keynote 1 - Paula Leitman
+  - end: '16.30'
+    order: 1.5
+    room: Agora
+    start: '16.00'
+    title: Coffee Break and Sponsors Exhibition
   - chairs:
     - employerLabel_: University of Geneva
       genderLabel: female
@@ -169,6 +205,11 @@
       title: Multiplexed scRNA-seq Experiments in Biocuration
       type: lightning
     title: Standards 1
+  - end: '20.00'
+    order: 3
+    room: Agora
+    start: '18.30'
+    title: Welcome cocktail
 - date: April 25th
   day: Tuesday
   sessions:
@@ -263,6 +304,11 @@
         not as FAIR as it should be'
       type: lightning
     title: FAIR 1
+  - end: '11.00'
+    order: 4.5
+    room: Agora
+    start: '10.30'
+    title: Coffee Break and Sponsors Exhibition
   - chairs:
     - employerLabel_: SIB
       genderLabel: male
@@ -337,6 +383,11 @@
       title: Making expert curated knowledge graphs FAIR
       type: lightning
     title: FAIR 2
+  - end: '13:30'
+    order: 5.5
+    room: Agora
+    start: '12.30'
+    title: Lunch Break and Sponsors Exhibition
   - chairs:
     - employerLabel_: SIB
       genderLabel: male
@@ -570,7 +621,7 @@
       title: Curating species descriptions for the digital age
       type: lightning
     - id: 9773
-      speaker: Samir Gupta
+      speaker: Cecilia Arighi
       time_end: '15.05'
       time_start: '14.55'
       title: 'eMIND: Enabling automatic collection of protein variation impacts in
@@ -620,6 +671,11 @@
     room: Agora
     start: '17.00'
     title: Poster Session 2 (Odd Numbers)
+  - end: '23.30'
+    order: 12
+    room: Caffè Pedrocchi
+    start: '20.00'
+    title: Evening Networking or Social Dinner
 - date: April 26th
   day: Wednesday
   sessions:
@@ -711,6 +767,11 @@
       title: Wikidata as a tool for biocuration of cell types
       type: lightning
     title: Community 1
+  - end: '11.00'
+    order: 11.5
+    room: Agora
+    start: '10.30'
+    title: Coffee Break and Sponsors Exhibition
   - chairs:
     - employerLabel_: European Bioinformatics Institute
       genderLabel: female
@@ -739,11 +800,17 @@
       twitter: ViralZone
     date: April 26th
     day: Wednesday
+    description: Lead by Nicole Vasilevsky
     end: '12.00'
     order: 12
     room: Sala Piero Tortolina Auditorium
     start: '11.00'
     title: Careers in Biocuration Panel/Workshop
+  - end: '13.00'
+    order: 12.5
+    room: Agora
+    start: '12.00'
+    title: Lunch Break and Sponsors Exhibition
   - chairs:
     - employerLabel_: University of Geneva
       genderLabel: female
@@ -800,7 +867,7 @@
         of clinical gene panels
       type: long
     - id: 796
-      speaker: Marc Gillespie
+      speaker: Henning Hermjakob
       time_end: '14.10'
       time_start: '14.00'
       title: Community SARS-CoV-2 Curation Driven Emergent Experiences - Increased

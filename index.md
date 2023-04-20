@@ -47,6 +47,7 @@ style="width:100%; height:400px;">
 </iframe>
 
 A more detailed schedule can be found [here](schedule).
+The schedule is also in a [Google Calendar](https://calendar.google.com/calendar/embed?src=biocuration2023%40gmail.com&ctz=Europe%2FBerlin).
 
 <p align="center">
 <a href="schedule" 

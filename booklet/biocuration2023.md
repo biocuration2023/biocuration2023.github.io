@@ -351,10 +351,6 @@ Contact the organizers at any of:
 
 Please wear your name badges at all times to promote networking and to assist staff in identifying you.
 
-## Internet Access
-
-TODO mariacristina.aspromonte@unipd.it can you please fill this in
-
 ## Social Media Policy
 
 To encourage the open communication of science and biocuration, we would like to support the use of social media at this
@@ -369,17 +365,25 @@ can be found at [https://biocuration2023.github.io/abstracts](https://biocuratio
 
 ## Social Events
 
-There are several opportunities to explore Padua with your fellow conference attendees. While there are numerous bars,
-pubs, restaurants, and museums all over the city, there are several activities we can recommend. Please
+Please
 visit [https://biocuration2023.github.io/social](https://biocuration2023.github.io/social) for more details.
 
-## Taxis
+## Ground Transportation
 
 Please find a list of local taxi numbers below:
- 
+
 - RadioTaxi (+39 049.651333; https://www.taxipadova.it/services/radiotaxi/)
 - AppTaxi (https://apptaxi.it/en/padua/)
 - Padua Taxi (+39 049 4906001; https://padova-taxi.it/)
+
+Note that Uber and Lyft are not available in Padua.
+
+Bike riding is very common in Padua, and we recommend this bike sharing app:
+[RideMovi](https://www.ridemovi.com/cities/)
+
+Padua's tourism website has links to public transport info, as well as car sharing service and other bicycle
+sharing/rental options. Please visit [Moving around Padua](https://www.turismopadova.it/en/getting-around-padua/) for
+more details.
 
 \pagebreak
 
@@ -395,7 +399,6 @@ at https://biocuration2023.github.io/sponsors:
 
 ![](../img/isb.png)
 
-\pagebreak
 
 
 ## Swiss Institute of Bioinformatics
@@ -406,14 +409,12 @@ at https://biocuration2023.github.io/sponsors:
 
 \pagebreak
 
-
 ## GigaScience
 
 [https://academic.oup.com/gigascience](https://academic.oup.com/gigascience)
 
 ![](../img/gigascience.png)
 
-\pagebreak
 
 
 ## SciBite
@@ -424,14 +425,12 @@ at https://biocuration2023.github.io/sponsors:
 
 \pagebreak
 
-
 ## Rancho Biosciences
 
 [https://ranchobiosciences.com/](https://ranchobiosciences.com/)
 
 ![](../img/rancho.png)
 
-\pagebreak
 
 
 ## Elixir
@@ -442,62 +441,86 @@ at https://biocuration2023.github.io/sponsors:
 
 \pagebreak
 
-
 ## Chan Zuckerberg Initiative
 
 [https://chanzuckerberg.com](https://chanzuckerberg.com)
 
 ![](../img/czi.png)
 
-\pagebreak
 
+
+\pagebreak
 
 # Schedule
 
 Additional information on the schedule can be found at https://biocuration2023.github.io/schedule.
 
 
-## Day 1: Monday, April 24th
+## Day 1: Sunday, April 23rd
 
 
-### Conference Salutation
-
+### 2nd Mapping Commons Workshop on Simple Standard for Sharing Ontological Mappings (14.30-17.30)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>14.30-14.45</dd>
+</dl>
+
+
+\pagebreak
+
+
+## Day 2: Monday, April 24th
+
+
+### Aligning Open Biological and Biomedical Ontology Foundry Ontologies with Wikidata Workshop (9.00-11.00)
+<dl>
+</dl>
+
+
+### Gaining Perspective Towards Enhancing the Intersection of Biocuration and Machine Learning Workshop (9.00-12.00)
+<dl>
+</dl>
+
+
+### Functional Impact of Glycans and Their Curation Workshop (11.00-13.00)
+<dl>
+</dl>
+
+
+### Lunch Break and Sponsors Exhibition (13.15-14.15)
+<dl>
+</dl>
+
+
+### Conference Salutation (14.30-14.45)
+<dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0003-4423-4370">Charles Tapley Hoyt</a>,     <a href="https://orcid.org/0000-0003-4525-7793">Silvio Tosatto</a>    </dd>
 </dl>
 
 
-### ISB Greeting from Ruth Lovering (ISB EC Chair)
-
+### ISB Greeting from Ruth Lovering (ISB EC Chair) (14.45-15.00)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>14.45-15.00</dd>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0003-4423-4370">Charles Tapley Hoyt</a>,     <a href="https://orcid.org/0000-0003-4525-7793">Silvio Tosatto</a>    </dd>
 </dl>
 
 
-### Keynote 1 - Paula Leitman
-
+### Keynote 1 - Paula Leitman (15.00-16.00)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>15.00-16.00</dd>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0003-4423-4370">Charles Tapley Hoyt</a>,     <a href="https://orcid.org/0000-0003-2989-5971">Deepti J Kundu</a>    </dd>
 </dl>
 
 
-### Standards 1
-
+### Coffee Break and Sponsors Exhibition (16.00-16.30)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>16.30-18.00</dd>
+</dl>
+
+
+### Standards 1 (16.30-18.00)
+<dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0002-0948-4537">Frédérique Lisacek</a>,     <a href="https://orcid.org/0000-0003-2989-5971">Deepti J Kundu</a>    </dd>
@@ -546,25 +569,27 @@ Yalan Bi
 </dl>
 
 
-## Day 2: Tuesday, April 25th
-
-
-### Keynote 2 - Marco Roos
-
+### Welcome cocktail (18.30-20.00)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>9.00-10.00</dd>
+</dl>
+
+
+\pagebreak
+
+
+## Day 3: Tuesday, April 25th
+
+
+### Keynote 2 - Marco Roos (9.00-10.00)
+<dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0002-2825-0621">Paola Roncaglia</a>,     <a href="https://orcid.org/0000-0002-3583-7340">Deepak R. Unni</a>    </dd>
 </dl>
 
 
-### FAIR 1
-
+### FAIR 1 (10.00-10.30)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>10.00-10.30</dd>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0002-3583-7340">Deepak R. Unni</a>,     <a href="https://orcid.org/0000-0002-2825-0621">Paola Roncaglia</a>    </dd>
@@ -592,11 +617,13 @@ Christopher Southan
 </dl>
 
 
-### FAIR 2
-
+### Coffee Break and Sponsors Exhibition (10.30-11.00)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>11.00-12.30</dd>
+</dl>
+
+
+### FAIR 2 (11.00-12.30)
+<dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0002-3583-7340">Deepak R. Unni</a>,     <a href="https://orcid.org/0000-0002-2825-0621">Paola Roncaglia</a>    </dd>
@@ -645,11 +672,13 @@ Jerven Bolleman
 </dl>
 
 
-### Applications 1
-
+### Lunch Break and Sponsors Exhibition (12.30-13:30)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>13.30-14.30</dd>
+</dl>
+
+
+### Applications 1 (13.30-14.30)
+<dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0001-8528-090X">Philippe Le Mercier</a>,     <a href="https://orcid.org/0000-0002-9903-4248">Michael Baudis</a>    </dd>
@@ -677,11 +706,8 @@ Elisabeth Coudert
 </dl>
 
 
-### AI and Text Mining 1
-
+### AI and Text Mining 1 (13.30-14.30)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>13.30-14.30</dd>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0003-0338-3070">Jennifer Harrow</a>,     <a href="https://orcid.org/0000-0003-2473-2313">Tiago Lubiana</a>    </dd>
@@ -716,11 +742,8 @@ Anne Niknejad
 </dl>
 
 
-### Applications 2
-
+### Applications 2 (14.45-15.45)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>14.45-15.45</dd>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0002-9903-4248">Michael Baudis</a>,     <a href="https://orcid.org/0000-0001-8528-090X">Philippe Le Mercier</a>    </dd>
@@ -769,11 +792,8 @@ Sandra Orchard
 </dl>
 
 
-### AI and Text Mining 2
-
+### AI and Text Mining 2 (14.45-15.45)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>14.45-15.45</dd>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0003-2473-2313">Tiago Lubiana</a>,     <a href="https://orcid.org/0000-0003-0338-3070">Jennifer Harrow</a>    </dd>
@@ -822,41 +842,37 @@ Rossana Zaru
 </dl>
 
 
-### Poster Session 1 (Even Numbers)
-
+### Poster Session 1 (Even Numbers) (16.00-17.00)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>16.00-17.00</dd>
 </dl>
 
 
-### Poster Session 2 (Odd Numbers)
-
+### Poster Session 2 (Odd Numbers) (17.00-18.00)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>17.00-18.00</dd>
 </dl>
 
 
-## Day 3: Wednesday, April 26th
-
-
-### Keynote 3 - Guy Cochrane
-
+### Evening Networking or Social Dinner (20.00-23.30)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>9.00-10.00</dd>
+</dl>
+
+
+\pagebreak
+
+
+## Day 4: Wednesday, April 26th
+
+
+### Keynote 3 - Guy Cochrane (9.00-10.00)
+<dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0001-5084-9000">Luana Licata</a>,     <a href="https://orcid.org/0000-0003-2989-5971">Deepti J Kundu</a>    </dd>
 </dl>
 
 
-### Community 1
-
+### Community 1 (10.00-10.30)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>10.00-10.30</dd>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0001-5084-9000">Luana Licata</a>,     <a href="https://orcid.org/0000-0002-0948-4537">Frédérique Lisacek</a>    </dd>
@@ -884,22 +900,26 @@ Tiago Lubiana
 </dl>
 
 
-### Careers in Biocuration Panel/Workshop
-
+### Coffee Break and Sponsors Exhibition (10.30-11.00)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>11.00-12.00</dd>
+</dl>
+
+
+### Careers in Biocuration Panel/Workshop (11.00-12.00)Lead by Nicole Vasilevsky
+<dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0003-2989-5971">Deepti J Kundu</a>,     <a href="https://orcid.org/0000-0001-8528-090X">Philippe Le Mercier</a>    </dd>
 </dl>
 
 
-### Community 2
-
+### Lunch Break and Sponsors Exhibition (12.00-13.00)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>13.00-14.30</dd>
+</dl>
+
+
+### Community 2 (13.00-14.30)
+<dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0002-0948-4537">Frédérique Lisacek</a>,     <a href="https://orcid.org/0000-0001-5084-9000">Luana Licata</a>    </dd>
@@ -948,11 +968,8 @@ Jennifer Harrow
 </dl>
 
 
-### Valediction and ISB Time
-
+### Valediction and ISB Time (14.30-15.30)
 <dl>
-<dt><strong>Time</strong></dt>
-<dd>14.30-15.30</dd>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0003-4423-4370">Charles Tapley Hoyt</a>,     <a href="https://orcid.org/0000-0003-4525-7793">Silvio Tosatto</a>    </dd>
@@ -960,6 +977,7 @@ Jennifer Harrow
 
 
 \pagebreak
+
 
 # Keynotes
 
@@ -1057,9 +1075,9 @@ In the talk, I will introduce GBC and issues around the sustainability of biodat
 ## Long Talks
 
 
-### 1. Gene Ontology Causal Activity Models (GO-CAMs) for human biology
+### Gene Ontology Causal Activity Models (GO-CAMs) for human biology
 
-<span>Patrick Masson</span>, <span>Cristina Casals-Casas</span>, <span>Lionel Breuza</span>, <span>Marc Feuermann</span>, <span>Sylvain Poux</span>, <span>Pascale Gaudet</span>, <span>Alan Bridge</span>, <span>Paul D. Thomas</span>, <span>Uniprot Consortium</span><br />
+<span style="font-weight:bold">Patrick Masson</span>, <span>Cristina Casals-Casas</span>, <span>Lionel Breuza</span>, <span>Marc Feuermann</span>, <span>Sylvain Poux</span>, <span>Pascale Gaudet</span>, <span>Alan Bridge</span>, <span>Paul D. Thomas</span>, <span>Uniprot Consortium</span><br />
 
 The Gene Ontology (GO) (http://geneontology.org/) provides a human and machine readable synthesis of knowledge of the molecular functions of gene products and the cellular components and biological processes in which those functions occur. Gene Ontology Causal Activity Models (GO-CAMs) (https://geneontology.cloud/home) assemble genes and their functions into causally linked activity flow models. GO-CAMs provide a human readable description of biological systems and a framework for computational systems biology approaches such as network-based ‘omics integration and analysis and graph-based machine learning.  
 In this presentation, we describe efforts to capture knowledge of human biology using GO-CAMs, including human gene functions, microbiome gene functions, and the regulation and roles of small molecules in human systems. These efforts build on a number of foundational pillars - a large corpus of existing GO annotations for human proteins, a draft human functionome that incorporates annotations for human proteins and orthologs using phylogenetic approaches (see poster from Feuermann et al.), small molecule annotation in UniProt from the Rhea knowledgebase of biochemical reactions (www.rhea-db.org) and the mapping of Rhea and the GO in Rhea2GO, and the creation of draft GO-CAM models of human biology from human Reactome pathway models (www.reactome.org).  Our approach to synthesize this knowledge in GO-CAM and enrich it with emerging knowledge from the literature has created over 250 GO-CAM models for human biology. These and other GO-CAM models from the Gene Ontology Consortium are freely available at http://noctua.geneontology.org/.
@@ -1067,9 +1085,9 @@ In this presentation, we describe efforts to capture knowledge of human biology 
 \pagebreak
 
 
-### 2. Annotation of biologically relevant ligands in UniProtKB using ChEBI
+### Annotation of biologically relevant ligands in UniProtKB using ChEBI
 
-<span>Elisabeth Coudert</span>, <span>Sebastien Gehant</span>, <span>Nicole Redaschi</span>, <span>Alan Bridge</span>, <span>The Uniprot Consortium</span><br />
+<span style="font-weight:bold">Elisabeth Coudert</span>, <span>Sebastien Gehant</span>, <span>Nicole Redaschi</span>, <span>Alan Bridge</span>, <span>The Uniprot Consortium</span><br />
 
 The UniProt Knowledgebase (UniProtKB, at www.uniprot.org) is a reference resource of protein sequences and functional annotation that covers over 200 million protein sequences from all branches of the tree of life. 
 UniProtKB provides a wealth of information on protein sequences and their functions, including descriptions of the nature of biologically relevant ligands (also known as cognate ligands) such as substrates/products of enzymes, cofactors, activators and inhibitors, as well as their binding sites. UniProtKB captures this information through expert literature curation and from experimentally resolved protein structures in the Protein Data Bank (PDB/PDBe).
@@ -1078,9 +1096,9 @@ Here we describe improvements to the representation of cognate ligands in bindin
 \pagebreak
 
 
-### 3. Single Cell Expression Atlas and FlyBase - the Fly Cell Atlas Anatomograms – where data meets art
+### Single Cell Expression Atlas and FlyBase - the Fly Cell Atlas Anatomograms – where data meets art
 
-<span>Nancy George</span>, <span>Irene Papatheodorou</span>, <span>Anja Fullgrabe</span>, <span>Yalan Bi</span>, <span>Pedro Madrigal</span><br />
+<span style="font-weight:bold">Nancy George</span>, <span>Irene Papatheodorou</span>, <span>Anja Fullgrabe</span>, <span>Yalan Bi</span>, <span>Pedro Madrigal</span><br />
 
 The Single Cell Expression Atlas knowledge base analyses curated, high quality gene expression data at the level of single cells. Data are then displayed through dimensionality reduction plots and heatmaps to show how cells cluster based on their expression profiles.  However, in order to truly understand how expression profiles define cell populations and are altered by perturbations, expression profiles need to be linked to cell types and novel subpopulations identified.  Thus, the single cell anatomogram project was born. Its aim is to display cell types realistically within their parent structures alongside cell types provided by the data submitter. Anatomograms are now available representing adult tissues for lung; placenta; kidney; pancreas and liver. 
  
@@ -1095,9 +1113,9 @@ Last, but not least, is the data and cell types inferred from expression profile
 \pagebreak
 
 
-### 4. A 20 year perspective on FAIR and TRUST-worthy Human Disease Knowledge Representation
+### A 20 year perspective on FAIR and TRUST-worthy Human Disease Knowledge Representation
 
-<span>Lynn M Schriml</span>, <span>J. Allen Baron</span>, <span>Dustin Olley</span>, <span>Mike Schor</span>, <span>Lance Nickel</span><br />
+<span style="font-weight:bold">Lynn M Schriml</span>, <span>J. Allen Baron</span>, <span>Dustin Olley</span>, <span>Mike Schor</span>, <span>Lance Nickel</span><br />
 
 Making human disease knowledge FAIR and TRUST-worthy are the hallmarks of the Human Disease Ontology (DO) project. Strengthening the biocuration of human disease related data has driven development of this resource. Coordination of key biomedical data across large-scale biomedical resources strengthens the foundation of knowledge, supports the development of new resources and provides a venue for evolving data models to meet the demands of knowledge generation and discovery.  The Human Disease Ontology began, as most ontology projects do, as a community resource to coordinate data within one or two research groups. Growing over two decades into a highly utilized, international genomic resource. Serving as the nomenclature and classification standard for human diseases, the DO provides a stable, etiology-based structure integrating mechanistic drivers of human disease. In the past two decades the DO has grown from a collection of clinical vocabularies, into an expertly curated resource of over 11,000 common and rare diseases linking disease concepts through more than 35,000 vocabulary cross mappings. 
 The responsibility of becoming a community resource serving hundreds of biomedical, clinical, ontology and software resources involves the development of rigorous quality control protocols, a structured release cycle, while building trust and demonstrating reliability through expert curation of each disease term, definition and disease annotation. Expanding an ontology resource to meet evolving needs and coordinating the ever expanding disease knowledge corpus necessitates periodic reassessment and expansion of the DO’s data model hand-in-hand with the commitment for coordinated knowledge development. Here, we report on the significant changes in content, data modeling, infrastructure development, utilization of ML tools, usage and community outreach for the DO project.
@@ -1105,9 +1123,9 @@ The responsibility of becoming a community resource serving hundreds of biomedic
 \pagebreak
 
 
-### 5. Leveraging crowdsourcing and curation prioritisation for maintenance of clinical gene panels
+### Leveraging crowdsourcing and curation prioritisation for maintenance of clinical gene panels
 
-<span>Arina Puzriakova</span><br />
+<span style="font-weight:bold">Arina Puzriakova</span>, <span>Catherine Snow</span>, <span>Eleanor Williams</span>, <span>Sarah Leigh</span>, <span>Ivone U.S. Leong</span>, <span>Achchuthan Shanmugasundram</span>, <span>Mafalda Gomes</span><br />
 
 Genomics England’s PanelApp (https://panelapp.genomicsengland.co.uk/) is a knowledgebase which stores virtual gene panels relating to human conditions including rare diseases and cancer. It supports England’s NHS Genomic Medicine Service (GMS) by defining focused panels of genes with convincing evidence of disease causation. Such genes are deemed suitable for clinical genome interpretation, in turn enhancing diagnostic ability in a clinical setting.
 Support for gene involvement in a human disorder is derived from a combination of sources including published scientific literature and evidence from experts in the scientific and clinical communities, submitted as PanelApp gene reviews – a powerful integrated feature of the web interface. However, with the large volume of data relating to gene-disease relationships, maximising impact on scientific or clinical decision-making has become increasingly challenging.
@@ -1117,9 +1135,9 @@ High quality panels have been shown to increase diagnostic yield in the NHS GMS,
 \pagebreak
 
 
-### 6. Biocuration in DisProt, the manually curated database for intrinsically disordered proteins
+### Biocuration in DisProt, the manually curated database for intrinsically disordered proteins
 
-<span>Silvio Tosatto</span>, <span>Maria Victoria Nugnes</span>, <span>Federica Quaglia</span>, <span>Luiggi Tenorio Ku</span>, <span>Maria Cristina Aspromonte</span>, <span>Damiano Piovesan</span><br />
+<span style="font-weight:bold">Silvio Tosatto</span>, <span>Maria Victoria Nugnes</span>, <span>Federica Quaglia</span>, <span>Luiggi Tenorio Ku</span>, <span>Maria Cristina Aspromonte</span>, <span>Damiano Piovesan</span><br />
 
 DisProt (https://disprot.org/) is the major repository of manually curated annotations of intrinsically disordered proteins and regions from the literature.
 DisProt relies on both professional and community curators who are provided with a variety of material to support their curation process. These include a curation manual, interactive exercises and training sessions that evolved from virtual training sessions to eLearning courses available in English and Spanish, along with in person training sessions.
@@ -1132,9 +1150,9 @@ A new release of DisProt, pertaining technical and/or scientific content, is ava
 \pagebreak
 
 
-### 7. GigaDB: Utilising ontologies to curate data publications
+### GigaDB: Utilising ontologies to curate data publications
 
-<span>Christopher Hunter</span>, <span>Chris Armit</span>, <span>Mary Ann Tuli</span>, <span>Yannan Fan</span><br />
+<span style="font-weight:bold">Christopher Hunter</span>, <span>Chris Armit</span>, <span>Mary Ann Tuli</span>, <span>Yannan Fan</span><br />
 
 GigaScience journal celebrated its 10th birthday last year, and GigaDB is technically 1 yr older than the journal. In that time we have led the way in Open data sharing and FAIRification of data. We aim to ensure every article published by GigaScience Press is fully reproducible and transparent. In order to do that, it is essential that all data units are openly available along with the manuscript. 
 GigaDB provide a manually curated dataset to accompany each manuscript published in both GigaScience and GigaByte (launched in 2020) journals, we collate the data files required for transparency and reproducibility and ensure data are deposited in appropriate public repositories with links included in both the manuscript and the dataset.
@@ -1144,9 +1162,9 @@ Moving forwards, we hope to enable better integration of our datasets with other
 \pagebreak
 
 
-### 8. Join the International Society for Biocuration Community
+### Join the International Society for Biocuration Community
 
-<span>Ruth Lovering</span>, <span>Rama Balakrishnan</span>, <span>Susan Bello</span>, <span>Parul Gupta</span>, <span>Robin Haw</span>, <span>Tarcisio Mendes de Farias</span>, <span>Sushma Naithani</span>, <span>Federica Quaglia</span>, <span>Raul Rodriguez-Esteban</span>, <span>Mary Ann Tuli</span>, <span>Nicole Vasilevsky</span><br />
+<span style="font-weight:bold">Ruth Lovering</span>, <span>Rama Balakrishnan</span>, <span>Susan Bello</span>, <span>Parul Gupta</span>, <span>Robin Haw</span>, <span>Tarcisio Mendes de Farias</span>, <span>Sushma Naithani</span>, <span>Federica Quaglia</span>, <span>Raul Rodriguez-Esteban</span>, <span>Mary Ann Tuli</span>, <span>Nicole Vasilevsky</span><br />
 
 When the International Society for Biocuration (ISB) was established in 2009, it set out to promote the field of biocuration and provide a forum for information exchange and networking through meetings and workshops. Our members are not only the data curators but also ontologists, data and software developers and are distributed across the globe, representing a wide range of geographical, national, linguistic, and cultural backgrounds. The ISB executive committee is composed of 11 members and is now registered as a non-profit organisation. 
 
@@ -1157,9 +1175,9 @@ We invite the biocuration community to join our efforts by registering with our 
 \pagebreak
 
 
-### 9. Human-pathogen interaction networks: IMEx’s approach on the contextual metadata of the experimental evidence
+### Human-pathogen interaction networks: IMEx’s approach on the contextual metadata of the experimental evidence
 
-<span>Kalpana Panneerselvam</span>, <span>Pablo Porras</span>, <span>Noemi del-Toro</span>, <span>Margaret Duesbury</span>, <span>Livia Perfetto</span>, <span>Luana Licata</span>, <span>Anjali Shrivastava</span>, <span>Eliot Ragueneau</span>, <span>Juan Jose Medina Reyes</span>, <span>Sandra Orchard</span>, <span>Henning Hermjakob</span><br />
+<span style="font-weight:bold">Kalpana Panneerselvam</span>, <span>Pablo Porras</span>, <span>Noemi del-Toro</span>, <span>Margaret Duesbury</span>, <span>Livia Perfetto</span>, <span>Luana Licata</span>, <span>Anjali Shrivastava</span>, <span>Eliot Ragueneau</span>, <span>Juan Jose Medina Reyes</span>, <span>Sandra Orchard</span>, <span>Henning Hermjakob</span><br />
 
 Host-pathogen interaction maps offer the scaffold to understand the biological processes behind the pathogenicity of the microbe and also helps in identifying potential drug targets. Access to the experimental evidence and contextual metadata which influence the interaction outcome are critical for accurate interpretation of molecular mechanisms.
 The IMEx consortium (www.imexconsortium.org) is an international database collaboration that exists to record molecular interaction data from scientific literature and direct depositions and make it freely accessible to the public, using an Open Access, Open-Source model.
@@ -1170,18 +1188,18 @@ The IMEx consortium has been generating contextual molecular networks to reflect
 \pagebreak
 
 
-### 10. The Comprehensive Antibiotic Resistance Database - Curating the Global Resistome
+### The Comprehensive Antibiotic Resistance Database - Curating the Global Resistome
 
-<span>Brian Alcock</span>, <span>Amogelang Raphenya</span>, <span>Arman Edalatmand</span>, <span>Andrew McArthur</span><br />
+<span style="font-weight:bold">Brian Alcock</span>, <span>Amogelang Raphenya</span>, <span>Arman Edalatmand</span>, <span>Andrew McArthur</span><br />
 
 The Comprehensive Antibiotic Resistance Database (CARD; card.mcmaster.ca) is an ontologically-driven knowledgebase and bioinformatics resource on the molecular biology and chemical components of antimicrobial resistance (AMR). This is achieved by integrating the Antibiotic Resistance Ontology (ARO) with the CARD Model Ontology (MO), which is used to organize AMR gene (ARG) sequences, resistance-conferring mutation data and bioinformatic parameters for in silico ARG detection by CARD’s Resistance Gene Identifier (RGI) software. To preserve integrity over time, the ARO is routinely updated by a biocuration team through, for example, the addition of novel AMR genes or gene variants or the revision of existing ontology branches for clarity, accuracy and/or computational efficiency. While manual curation of the literature and sequences is a cornerstone of CARD’s curation philosophy, the volume of AMR scientific literature renders this approach time-consuming and impractical. We therefore developed CARD*Shark, an algorithm and software for computer-assisted AMR literature triage. The current iteration, CARD*Shark 3, identifies and prioritizes literature for review through a machine-learning methodology, which is then reviewed by a CARD biocurator. CARD thereby integrates continuous curation from multiple approaches: computer-assisted literature triage, identification of errors and oversights through public feedback such as our GitHub repository (https://github.com/arpcard/amr_curation), and targeted curation within collaborative projects or other efforts of specific foci. To date, the ARO includes over 6500 terms which combine with 5000 ARG reference sequences and almost 2000 resistance-associated variants sourced from over 3000 publications to produce the current version of CARD. This manually curated data is used as a baseline for in silico prediction of resistomes and ARG prevalence for over 300 pathogens. Here we provide an overview of CARD’s design, curation methodology and overall content scope, and illustrate how a computer-assisted curation approach improves our efficacy and accuracy.
 
 \pagebreak
 
 
-### 11. Promoting the longevity of curated scientific resources through open code, open data, and public infrastructure
+### Promoting the longevity of curated scientific resources through open code, open data, and public infrastructure
 
-<span>Charles Tapley Hoyt</span>, <span>Benjamin M. Gyori</span><br />
+<span style="font-weight:bold">Charles Tapley Hoyt</span>, <span>Benjamin M. Gyori</span><br />
 
 Many model organism databases, pathway databases, ontologies, and other curated resources that support research in the life and natural sciences combine expert-curated data with surrounding software code and services. However, such resources are often maintained internally by members of a single institution and are therefore susceptible to fluctuations in funding, personnel, and institutional priorities. Too often, resources go out of date, are abandoned, or become inaccessible, for example, when a grant runs out or a key person moves on. Therefore, we need better solutions for creating resources that are less susceptible to such external factors and can continue to be used and maintained by the community that they serve.
 
@@ -1192,9 +1210,9 @@ This talk will provide a perspective on how existing resources relate to our mod
 \pagebreak
 
 
-### 12. ACKnowledge: expanding community curation to include fact extraction using artificial intelligence
+### ACKnowledge: expanding community curation to include fact extraction using artificial intelligence
 
-<span>Kimberly Van Auken</span>, <span>Valerio Arnaboldi</span>, <span>Daniela Raciti</span>, <span>Paul Sternberg</span><br />
+<span style="font-weight:bold">Kimberly Van Auken</span>, <span>Valerio Arnaboldi</span>, <span>Daniela Raciti</span>, <span>Paul Sternberg</span><br />
 
 Biological knowledgebases are a critical resource for researchers and accelerate scientific discoveries by providing manually curated, machine-readable data collections. However, the aggregation and manual curation of biological data is a labor-intensive process that relies almost entirely on professional biocurators. Two approaches have been advanced to help with this problem: i) a computational approach that is based on natural language processing (NLP), text mining (TM) and machine learning (ML)); and ii) the engagement of researchers (community curation). However, neither of these approaches alone is sufficient to address the critical need for increased efficiency in the biocuration process. Our solution to these challenges is an NLP-enhanced community curation portal, Author Curation to Knowledgebase (ACKnowledge). The ACKnowledge system, currently implemented for the C. elegans literature, couples statistical methods and text mining algorithms to enhance community curation of research articles. 
 
@@ -1209,9 +1227,9 @@ If the performance of the sentence-level classifiers is satisfactory, we will ap
 \pagebreak
 
 
-### 13. KG-IDG: A FAIR Knowledge Graph for Illuminating the Druggable Genome
+### KG-IDG: A FAIR Knowledge Graph for Illuminating the Druggable Genome
 
-<span>J. Harry Caufield</span>, <span>Justin Reese</span>, <span>Tudor Oprea</span>, <span>Jeremy Yang</span>, <span>Chris Mungall</span><br />
+<span style="font-weight:bold">J. Harry Caufield</span>, <span>Justin Reese</span>, <span>Tudor Oprea</span>, <span>Jeremy Yang</span>, <span>Chris Mungall</span><br />
 
 Knowledge graphs (KGs) are representations of heterogeneous entities and their diverse relationships. Though KGs combine intuitive data models with massive data collections, their application to domain-spanning questions in biomedicine is constrained by the effort required to consistently bridge gaps between a massive array of frequently-updating resources. We sought to develop a KG in the context of the NIH-sponsored Illuminating the Druggable Genome (IDG) project with this challenge in mind. IDG research is focused on improving our understanding of the properties and functions of proteins that are currently unannotated within three commonly drug-targeted protein families: G-protein coupled receptors, ion channels, and protein kinases. Accordingly, we designed KG-IDG to integrate otherwise uncoordinated sources of drug vs. target information, e.g., drug properties and target interactions from the DrugCentral resource; protein target details from the Target Central Resource Database; diseases/phenotypes from MONDO, OMIM, Orphanet, and the HPO; along with several other data sources and ontologies. The KG-IDG graph supports intensive graph-based machine learning methods for inference of novel relationships between drugs, proteins, and diseases.
 
@@ -1220,9 +1238,9 @@ KG-IDG incorporates several concrete design elements to ease its application to 
 \pagebreak
 
 
-### 14. The Knowledge Graph Development Kit
+### The Knowledge Graph Development Kit
 
-<span>David Osumi-Sutherland</span>, <span>Robert Court</span>, <span>Huseyin Kir</span>, <span>Ismail Ugur Bayindir</span>, <span>Clare Pilgrim</span>, <span>Shawn Zheng Kai Tan</span>, <span>Nicolas Matentzoglu</span><br />
+<span style="font-weight:bold">David Osumi-Sutherland</span>, <span>Robert Court</span>, <span>Huseyin Kir</span>, <span>Ismail Ugur Bayindir</span>, <span>Clare Pilgrim</span>, <span>Shawn Zheng Kai Tan</span>, <span>Nicolas Matentzoglu</span><br />
 
 The use of common biomedical ontologies to annotate data improves data findability, integration and reusability. Ontologies do this not only by providing a standard set of terms for annotation, but via the use of ontology structure to group data in biologically meaningful ways.  One way to take advantage of this is via a knowledge graph in which ontologies and ontology semantics provide the glue that links content annotated knowledge and data in well documented and transparently queryable ways, providing an extensible base for building a APIs and applications and a potential input to machine learning.
 
@@ -1237,9 +1255,9 @@ We will present details of the pipelines and examples of their application in 3 
 \pagebreak
 
 
-### 15. Machine Learning for Scalable Biocuration
+### Machine Learning for Scalable Biocuration
 
-<span>Rebecca Foulger</span>, <span>Jane Lomax</span>, <span>Rachael Huntley</span>, <span>Shirin Saverimuttu</span>, <span>Paola Roncaglia</span><br />
+<span style="font-weight:bold">Rebecca Foulger</span>, <span>Jane Lomax</span>, <span>Rachael Huntley</span>, <span>Shirin Saverimuttu</span>, <span>Paola Roncaglia</span><br />
 
 High-quality manual curation - the process of reviewing and annotating data manually - is critical for ensuring the reliability and validity of scientific data. However, manual curation is also time-consuming and expensive so is unlikely to be scalable to the large volume of data the life-sciences generate. 
 
@@ -1253,7 +1271,7 @@ We propose that in the future biocurators time might be well-spent training, val
 ## Lightning Talks
 
 
-### 1. Making expert curated knowledge graphs FAIR
+### Making expert curated knowledge graphs FAIR
 
 <span>Jerven Bolleman</span>, <span>Alan Bridge</span>, <span>Nicole Redaschi</span><br />
 
@@ -1262,7 +1280,7 @@ To address the users&#39; need to combine knowledge from different expert curate
 \pagebreak
 
 
-### 2. BioKC: a collaborative platform for curation and annotation of molecular interactions
+### BioKC: a collaborative platform for curation and annotation of molecular interactions
 
 <span>Carlos Vega</span>, <span>Marek Ostaszewski</span>, <span>Valentin Grouès</span>, <span>Marcio Acencio</span>, <span>Reinhard Schneider</span>, <span>Venkata Satagopam</span><br />
 
@@ -1271,7 +1289,7 @@ Curation of biomedical knowledge into standardised and inter-operable format is 
 \pagebreak
 
 
-### 3. A complete draft human gene functionome from large-scale evolutionary modeling and experimental Gene Ontology annotations
+### A complete draft human gene functionome from large-scale evolutionary modeling and experimental Gene Ontology annotations
 
 <span>Marc Feuermann</span>, <span>Pascale Gaudet</span>, <span>Huaiyu Mi</span>, <span>Anushya Muruganujan</span>, <span>Dustin Ebert</span>, <span>Paul Denis Thomas</span>, <span>The Go Consortium</span><br />
 
@@ -1280,7 +1298,7 @@ Understanding the human functionome – the set of functions performed by the pr
 \pagebreak
 
 
-### 4. Predicting protein metal binding sites with artificial intelligence and machine learning in UniProt
+### Predicting protein metal binding sites with artificial intelligence and machine learning in UniProt
 
 <span>Rossana Zaru</span>, <span>Vishal Joshi</span>, <span>Sandra Orchard</span>, <span>Maria Martin</span><br />
 
@@ -1293,7 +1311,7 @@ Here, we will provide an overview on how metal binding sites are identified and 
 \pagebreak
 
 
-### 5. APICURON: standardizing attribution of biocuration activity to promote engagement
+### APICURON: standardizing attribution of biocuration activity to promote engagement
 
 <span>Adel Bouhraoua</span>, <span>Federica Quaglia</span>, <span>Damiano Piovesan</span>, <span>Silvio Tosatto</span><br />
 
@@ -1304,7 +1322,7 @@ APICURON is already supported by ELIXIR and well connected with the Internationa
 \pagebreak
 
 
-### 6. Wikidata as a tool for biocuration of cell types
+### Wikidata as a tool for biocuration of cell types
 
 <span>Tiago Lubiana</span>, <span>Helder Nakaya</span><br />
 
@@ -1320,9 +1338,9 @@ In this work, we describe a 3-year effort to explore Wikidata as a platform to r
 \pagebreak
 
 
-### 7. eMIND: Enabling automatic collection of protein variation impacts in Alzheimer’s disease from the literature
+### eMIND: Enabling automatic collection of protein variation impacts in Alzheimer’s disease from the literature
 
-<span>Samir Gupta</span>, <span>Xihan Qin</span>, <span>Qinghua Wang</span>, <span>Krithika Umesh</span>, <span>Spandan Pandya</span>, <span>Paulinus Nwabia</span>, <span>Julie Cowart</span>, <span>Hongzhan Huang</span>, <span>Cathy Wu</span>, <span>K Vijay-Shanker</span>, <span>Cecilia Arighi</span><br />
+<span>Cecilia Arighi</span>, <span>Samir Gupta</span>, <span>Xihan Qin</span>, <span>Qinghua Wang</span>, <span>Krithika Umesh</span>, <span>Spandan Pandya</span>, <span>Paulinus Nwabia</span>, <span>Julie Cowart</span>, <span>Hongzhan Huang</span>, <span>Cathy Wu</span>, <span>K Vijay-Shanker</span><br />
 
 Alzheimer’s disease and related dementias (AD/ADRDs) are among the most common forms of dementia, and yet no effective treatments have been developed. To gain insight into the disease mechanism, capturing the connection of genetic variations to their impacts, at the disease and molecular levels, is essential. The scientific literature continues to be a main source for reporting experimental information about the impact of variants. Thus, the development of automatic methods to identify publications and extract the information from the unstructured text would facilitate collecting and organizing information for reuse. We developed eMIND, a deep learning-based text mining system that supports the automatic extraction of annotations of variants and their impacts in AD/ADRDs. In particular, we use this method to capture the impacts of protein-coding variants affecting a selected set of protein properties, such as protein activity/function, structure and post-translational modifications. A major hypothesis we are testing is that the structure and words used in statements that describe the impact of one entity on another entity or event/process are not specific to the two objects under consideration. Thus, a BERT model was fine-tuned using a training dataset with 8,245 positive and 11,496 negative impact relations derived from impact relations involving microRNAs. We conducted a preliminary evaluation on the efficacy of eMIND on a small manually annotated corpus (60 abstracts) consisting of  variant impact relations from AD/ADRDs literature, and obtained a recall of 0.84 and a precision of 0.94. The publications and extracted information by eMIND are integrated into the UniProtKB computationally mapped bibliography to expand annotations on protein entries. eMIND’s text-mined output are presented using controlled vocabularies and ontologies for variant, disease and impact along with the evidence sentences. Evaluation of eMIND on a larger test dataset is ongoing. A sample of annotated abstracts can be accessed at URL: https://research.bioinformatics.udel.edu/itextmine/emind.
 
@@ -1333,7 +1351,7 @@ Acknowledgements: We would like to acknowledge the UniProt Consortium (https://w
 \pagebreak
 
 
-### 8. Assessing the Use of Supplementary Materials to Improve Genomic Variant Discovery
+### Assessing the Use of Supplementary Materials to Improve Genomic Variant Discovery
 
 <span>Emilie Pasche</span>, <span>Anaïs Mottaz</span>, <span>Julien Gobeill</span>, <span>Pierre-André Michel</span>, <span>Déborah Caucheteur</span>, <span>Nona Naderi</span>, <span>Patrick Ruch</span><br />
 
@@ -1342,7 +1360,7 @@ The curation of genomic variants requires collecting evidence in variant knowled
 \pagebreak
 
 
-### 9. wwPDB Biocuration: Supporting Advances in Science and Technology
+### wwPDB Biocuration: Supporting Advances in Science and Technology
 
 <span>Irina Persikova</span>, <span>Jasmine Y. Young</span>, <span>Ezra Peisach</span>, <span>Chenghua Shao</span>, <span>Zukang Feng</span>, <span>John D. Westbrook</span>, <span>Yuhe Liang</span>, <span>Wwpdb Biocuration Team</span>, <span>Stephen K. Burley</span><br />
 
@@ -1355,7 +1373,7 @@ In this presentation we provide an overview of the wwPDB Biocurators efforts in 
 \pagebreak
 
 
-### 10. Improved Insights into the SABIO-RK Database via Visualization
+### Improved Insights into the SABIO-RK Database via Visualization
 
 <span>Ulrike Wittig</span>, <span>Dorotea Dudaš</span>, <span>Maja Rey</span>, <span>Andreas Weidemann</span>, <span>Wolfgang Müller</span><br />
 
@@ -1370,7 +1388,7 @@ The usability and functionality of the visualization was reviewed by users whose
 \pagebreak
 
 
-### 11. Multiplexed scRNA-seq Experiments in Biocuration
+### Multiplexed scRNA-seq Experiments in Biocuration
 
 <span>Yalan Bi</span>, <span>Nancy George</span>, <span>Irene Papatheodorou</span>, <span>Anja Fullgrabe</span>, <span>Silvie Fexova</span>, <span>Natassja Bush</span><br />
 
@@ -1385,7 +1403,7 @@ With the development of these scRNA-seq technologies, the functional genomics te
 \pagebreak
 
 
-### 12. The landscape of microRNA interactions annotation in IMEx: analysis of three rare disorders as case study
+### The landscape of microRNA interactions annotation in IMEx: analysis of three rare disorders as case study
 
 <span>Simona Panni</span>, <span>Kalpana Panneerselvam</span>, <span>Pablo Porras</span>, <span>Margaret Duesbury</span>, <span>Livia Perfetto</span>, <span>Luana Licata</span>, <span>Henning Hermjakob</span>, <span>Sandra Orchard</span><br />
 
@@ -1396,7 +1414,7 @@ This information is crucial to conceive and design optimal microRNA mimics or in
 \pagebreak
 
 
-### 13. FAIR Wizard: Making the FAIRification process accessible
+### FAIR Wizard: Making the FAIRification process accessible
 
 <span>Wei Kheng Teh</span>, <span>Fuqi Xu</span><br />
 
@@ -1409,7 +1427,7 @@ This tool was developed collaboratively by the EMBL-EBI and the FAIRplus consort
 \pagebreak
 
 
-### 14. Phenopackets for curated repository data over Beacon v2 Progenetix database
+### Phenopackets for curated repository data over Beacon v2 Progenetix database
 
 <span>Ziying Yang</span>, <span>Rahel Paloots</span>, <span>Hangjia Zhao</span>, <span>Michael Baudis</span><br />
 
@@ -1424,7 +1442,7 @@ We have selected example usage scenarios involving common data repositories with
 \pagebreak
 
 
-### 15. Resolving code names to structures from the medicinal chemistry literature: not as FAIR as it should be
+### Resolving code names to structures from the medicinal chemistry literature: not as FAIR as it should be
 
 <span>Christopher Southan</span>, <span>Miguel Amaral</span><br />
 
@@ -1433,7 +1451,7 @@ The practice of assigning code names (CNs) as the publicly declared identifiers 
 \pagebreak
 
 
-### 16. The Human Microbiome Drug Metabolism (HMDM) Database
+### The Human Microbiome Drug Metabolism (HMDM) Database
 
 <span>Amogelang Raphenya</span>, <span>Michael Surette</span>, <span>Gerard Wright</span>, <span>Andrew McArthur</span><br />
 
@@ -1448,7 +1466,7 @@ The β-glucuronidase genes are more common in this dataset, suggesting they are 
 \pagebreak
 
 
-### 17. Building a reference dataset of single-cell RNA-Seq data for training Machine-Learning algorithms
+### Building a reference dataset of single-cell RNA-Seq data for training Machine-Learning algorithms
 
 <span>Anne Niknejad</span>, <span>Vincent Gardeux</span>, <span>Fabrice David</span>, <span>David Wissel</span>, <span>Bart Deplancke</span>, <span>Marc Robinson-Rechavi</span>, <span>Mark Robinson</span>, <span>Frederic B. Bastian</span><br />
 
@@ -1463,7 +1481,7 @@ We will present this reference dataset and the lessons learned, to address open 
 \pagebreak
 
 
-### 18. scFAIR: Standardization and stewardship of single-cell metadata
+### scFAIR: Standardization and stewardship of single-cell metadata
 
 <span>Frederic B. Bastian</span>, <span>Vincent Gardeux</span>, <span>Bart Deplancke</span>, <span>Marc Robinson-Rechavi</span><br />
 
@@ -1479,7 +1497,7 @@ At this Biocuration 2023 conference, we would like to make researchers aware of 
 \pagebreak
 
 
-### 19. Unifying Protein Complex Curation across the Diversity of Species
+### Unifying Protein Complex Curation across the Diversity of Species
 
 <span>Sandra Orchard</span>, <span>Birgit Meldal</span>, <span>Helen Attrill</span>, <span>Giulia Antonazzo</span>, <span>Edith Wong</span>, <span>Henning Hermjakob</span><br />
 
@@ -1488,7 +1506,7 @@ Proteins are essential for building cellular structures and as the tools that ma
 \pagebreak
 
 
-### 20. Providing Expanded Contextual Metadata for Biological Samples using Both Geographic and Taxonomic Factors
+### Providing Expanded Contextual Metadata for Biological Samples using Both Geographic and Taxonomic Factors
 
 <span>Peter Woollard</span>, <span>Stephane Pesant</span>, <span>Josephine Burgin</span>, <span>Guy Cochrane</span><br />
 
@@ -1506,7 +1524,7 @@ Affiliation: European Molecular Biology Laboratory, European Bioinformatics Inst
 \pagebreak
 
 
-### 21. ICGC-ARGO Data Submission Workflow - Integration of data validation and submission to accelerate the data curation and improve the data quality
+### ICGC-ARGO Data Submission Workflow - Integration of data validation and submission to accelerate the data curation and improve the data quality
 
 <span>Qian Xiang</span>, <span>Edmund Su</span>, <span>Hardeep Nahal-Bose</span>, <span>Robin Haw</span>, <span>Melanie Courtot</span><br />
 
@@ -1523,7 +1541,7 @@ Here we share our experience of designing and integrating this workflow in the I
 \pagebreak
 
 
-### 22. Towards making sense of glycan-mediated protein-protein interactions
+### Towards making sense of glycan-mediated protein-protein interactions
 
 <span>Catherine Hayes</span>, <span>Masaaki Shiota</span>, <span>Akihiro Fujita</span>, <span>Kiyoko Aoki-Kinoshita</span>, <span>Frédérique Lisacek</span><br />
 
@@ -1536,7 +1554,7 @@ Hayes, C., Daponte, V., Mariethoz, J., &amp; Lisacek, F. (2022). This is GlycoQL
 \pagebreak
 
 
-### 23. Machine-assisted curation of molecular mechanisms using automated knowledge extraction and assembly
+### Machine-assisted curation of molecular mechanisms using automated knowledge extraction and assembly
 
 <span>Benjamin M. Gyori</span>, <span>Charles Tapley Hoyt</span><br />
 
@@ -1553,7 +1571,7 @@ Automatically assembled knowledge extends and enriches curated resources in seve
 \pagebreak
 
 
-### 24. A Framework for Assisting MeSH Vocabulary Development at the National Library of Medicine: Reliably Identifying Literature Containing New Chemical Substances
+### A Framework for Assisting MeSH Vocabulary Development at the National Library of Medicine: Reliably Identifying Literature Containing New Chemical Substances
 
 <span>Rezarta Islamaj</span>, <span>Nicholas Miliaras</span>, <span>Olga Printseva</span>, <span>Zhiyong Lu</span><br />
 
@@ -1566,7 +1584,7 @@ To respond to NLMs curators’ need for a tool to assist with rapid identificati
 \pagebreak
 
 
-### 25. Medical Action Ontology (MAxO) development and tool implementation for the annotation of Rare Disease (RD)
+### Medical Action Ontology (MAxO) development and tool implementation for the annotation of Rare Disease (RD)
 
 <span>Leigh C Carmody</span>, <span>Michael Gargano</span>, <span>Nicole A Vasilevsky</span>, <span>Sabrina Toro</span>, <span>Lauren Chan</span>, <span>Hannah Blau</span>, <span>Xingmin A. Zhang</span>, <span>Monica C Munoz-Torres</span>, <span>Chris Mungall</span>, <span>Nicolas Matentzoglu</span>, <span>Melissa Haendel</span>, <span>Peter Robinson</span><br />
 
@@ -1580,7 +1598,7 @@ The POET website (https://poet.jax.org/) houses MAxO annotations. Once fully est
 \pagebreak
 
 
-### 26. Community SARS-CoV-2 Curation Driven Emergent Experiences - Increased Curation Efficiency and Learned Lessons for the Future
+### Community SARS-CoV-2 Curation Driven Emergent Experiences - Increased Curation Efficiency and Learned Lessons for the Future
 
 <span>Henning Hermjakob</span>, <span>Marc Gillespie</span>, <span>Peter D&#39;Eustachio</span>, <span>Robin Haw</span>, <span>Lisa Matthews</span>, <span>Andrea Senff-Ribeiro</span>, <span>Lincoln Stein</span>, <span>Guanming Wu</span>, <span>Cristoffer Sevilla</span>, <span>Marija Milacic</span>, <span>Veronica Shamovsky</span>, <span>Karen Rothfels</span>, <span>Ralf Stephan</span>, <span>Justin Cook</span><br />
 
@@ -1593,7 +1611,7 @@ This process identified four areas: Use of orthoprojection, literature triage, a
 \pagebreak
 
 
-### 27. Curating species descriptions for the digital age
+### Curating species descriptions for the digital age
 
 <span>Peter Uetz</span><br />
 
@@ -1606,7 +1624,7 @@ The state of species descriptions across databases is summarized and related pro
 \pagebreak
 
 
-### 28. Accessing UK Biobank-derived data through the AZ PheWAS portal, with reassigned phenotypic ICD10 codes
+### Accessing UK Biobank-derived data through the AZ PheWAS portal, with reassigned phenotypic ICD10 codes
 
 <span>Jennifer Harrow</span>, <span>Karyn Mégy</span>, <span>Amanda O&#39;Neil</span>, <span>Keren Carss</span>, <span>Quanli Wang</span>, <span>Gulum Alamgir</span>, <span>Shikta Das</span>, <span>Sebastian Wasilewski</span>, <span>Eleanor Wheeler</span>, <span>Katherine Smith</span>, <span>Slavé Petrovski</span><br />
 
@@ -2340,11 +2358,10 @@ Glycans are biomolecules made of linked sugars and play a crucial role in variou
 \pagebreak
 
 
-
 # Workshops
 
 
-## 2&lt;sup&gt;nd&lt;/sup&gt; Mapping Commons Workshop on Simple Standard for Sharing Ontological Mappings
+## 2<sup>nd</sup> Mapping Commons Workshop on Simple Standard for Sharing Ontological Mappings
 
 <table>
 <tr>

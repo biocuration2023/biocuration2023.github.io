@@ -289,6 +289,8 @@
 
     Acknowledgements: We would like to acknowledge the UniProt Consortium (https://www.uniprot.org/help/uniprot_staff).'
   authors:
+  - label: Cecilia Arighi
+    series_ordinal: 11
   - label: Samir Gupta
     series_ordinal: 1
   - label: Xihan Qin
@@ -309,8 +311,6 @@
     series_ordinal: 9
   - label: K Vijay-Shanker
     series_ordinal: 10
-  - label: Cecilia Arighi
-    series_ordinal: 11
   keywords:
   - Alzheimer’s disease
   - Annotation

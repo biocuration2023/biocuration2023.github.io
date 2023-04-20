@@ -229,6 +229,24 @@
   authors:
   - label: Arina Puzriakova
     series_ordinal: 1
+  - label: Catherine Snow
+    orcid: 0000-0002-1672-3532
+    series_ordinal: 2
+  - label: Eleanor Williams
+    orcid: 0000-0002-0851-7990
+    series_ordinal: 3
+  - label: Sarah Leigh
+    orcid: 0000-0003-3368-7059
+    series_ordinal: 4
+  - label: Ivone U.S. Leong
+    orcid: 0000-0002-0831-3461
+    series_ordinal: 5
+  - label: Achchuthan Shanmugasundram
+    orcid: 0000-0003-2349-6929
+    series_ordinal: 6
+  - label: Mafalda Gomes
+    orcid: 0009-0005-1752-7639
+    series_ordinal: 7
   keywords:
   - Gene-disease associations
   - Crowdsourcing

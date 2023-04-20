@@ -42,8 +42,8 @@ def main():
     # Thanks to the following for figuring out parsing HTML
     # https://tex.stackexchange.com/questions/631243/how-to-render-html-tables-in-markdown-using-pandoc
 
-    click.echo("Writing microsoft word")
-    os.system(f"pandoc -f markdown_mmd+multiline_tables -s --pdf-engine=xelatex --lua-filter=parse-html.lua --from=markdown-markdown_in_html_blocks -o {OUTPUT_DOCX} {OUTPUT_MD}")
+    # click.echo("Writing microsoft word")
+    # os.system(f"pandoc -f markdown_mmd+multiline_tables -s --pdf-engine=xelatex --lua-filter=parse-html.lua --from=markdown-markdown_in_html_blocks -o {OUTPUT_DOCX} {OUTPUT_MD}")
     click.echo("Writing pdf")
     os.system(f"pandoc -f markdown_mmd+multiline_tables -s --pdf-engine=xelatex --lua-filter=parse-html.lua --from=markdown-markdown_in_html_blocks -o {OUTPUT_PDF} {OUTPUT_MD}")
 
