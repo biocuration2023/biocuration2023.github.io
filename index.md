@@ -2,9 +2,7 @@
 layout: home
 ---
 
-<a href="https://registrations.meetandwork.com/Login.asp?IDcommessa=MW23008">
 <img src="img/padua-2.jpg" alt="panoramic photo of Padua" />
-</a>
 
 The **16th Annual International Biocuration Conference** provides a forum for curators, developers, and
 users of clinical and life sciences data, knowledge, and models to discuss their
@@ -15,12 +13,14 @@ and life sciences are encouraged to attend and submit an abstract for
 consideration for an oral or poster presentation. This conference is organized in part with the
 [International Society of Biocuration (ISB)](https://www.biocuration.org).
 
+<!--
 <p align="center">
 <a href="https://registrations.meetandwork.com/Login.asp?IDcommessa=MW23008" 
    style="padding: 1em 2.5em; background-color: #4e29aa; color: white; font-weight: bold; border: 1px #ddd; display: inline-block; text-align: center">
     Register Here
 </a>
 </p>
+-->
 
 Following the virtual installments of the Annual International Biocuration Conference in
 [2021](https://www.biocuration.org/14th-annual-biocuration-conference-virtual/)
@@ -34,6 +34,11 @@ of Monday, April 24<sup>th</sup>.
 
 <img src="img/padua-1.jpg" alt="panoramic photo of Padua" />
 
+Please note that April 25<sup>th</sup>, 2023 is a national holiday in Italy and therefore schools, banks, public
+offices,
+and some shops will be closed. Additionally, public transportation will be running at reduced capacity (i.e., weekend
+schedule).
+
 ## Schedule
 
 <iframe
@@ -42,6 +47,19 @@ style="width:100%; height:400px;">
 </iframe>
 
 A more detailed schedule can be found [here](schedule).
+
+<p align="center">
+<a href="schedule" 
+   style="padding: 1em 2.5em; background-color: #4e29aa; color: white; font-weight: bold; border: 1px #ddd; display: inline-block; text-align: center">
+    Online Schedule
+</a>
+<a href="https://github.com/biocuration2023/biocuration2023.github.io/raw/main/booklet/biocuration2023.pdf" 
+   style="padding: 1em 2.5em; background-color: #4e29aa; color: white; font-weight: bold; border: 1px #ddd; display: inline-block; text-align: center">
+    Conference Booklet
+</a>
+</p>
+
+<!--
 
 ## Registration
 
@@ -68,13 +86,17 @@ Please see [here](submission) for additional information and guidelines on submi
 Workshop proposals can be submitted for consideration through [this form](https://forms.gle/iYUu2RN25TgUMW7x9) until
 December 23<sup>rd</sup>, 2022.
 
+-->
+
 <a name="virtual-issue"></a>
 
-### Biocuration Virtual Issue 2023 in *Database*
+## Biocuration Virtual Issue 2023 in *Database*
 
 Abstracts accepted for poster and oral presentation at the conference may additionally be submitted for consideration as
 part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.com/database). See details
 [here](submission#virtual-issue).
+
+<!--
 
 ## Important Dates
 
@@ -95,10 +117,7 @@ part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.
 | April 24<sup>th</sup>, 2023                                                           | Conference starts                                                                                                                        |
 | April 26<sup>th</sup>, 2023                                                           | Conference ends                                                                                                                          |
 
-Please note that April 25<sup>th</sup>, 2023 is a national holiday in Italy and therefore schools, banks, public
-offices,
-and some shops will be closed. Additionally, public transportation will be running at reduced capacity (i.e., weekend
-schedule).
+-->
 
 ## Keynote Speakers
 
