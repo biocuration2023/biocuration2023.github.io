@@ -191,17 +191,10 @@
       title: ICGC-ARGO Data Submission Workflow - Integration of data validation and
         submission to accelerate the data curation and improve the data quality
       type: lightning
-    - id: 8868
-      speaker: Marcela Tello-Ruiz
-      time_end: '17.50'
-      time_start: '17.40'
-      title: Developing Standards for Biocuration & Interoperability of Genetic Variation
-        Data in Agricultural Research
-      type: lightning
     - id: 5715
       speaker: Yalan Bi
-      time_end: '18.00'
-      time_start: '17.50'
+      time_end: '17.50'
+      time_start: '17.40'
       title: Multiplexed scRNA-seq Experiments in Biocuration
       type: lightning
     title: Standards 1
@@ -561,22 +554,16 @@
       time_start: '15.05'
       title: Improved Insights into the SABIO-RK Database via Visualization
       type: lightning
-    - id: 6403
-      speaker: Amogelang Raphenya
-      time_end: '15.25'
-      time_start: '15.15'
-      title: The Human Microbiome Drug Metabolism (HMDM) Database
-      type: lightning
     - id: 6778
       speaker: Ziying Yang
-      time_end: '15.35'
-      time_start: '15.25'
+      time_end: '15.25'
+      time_start: '15.15'
       title: Phenopackets for curated repository data over Beacon v2 Progenetix database
       type: lightning
     - id: 6299
       speaker: Sandra Orchard
-      time_end: '15.45'
-      time_start: '15.35'
+      time_end: '15.35'
+      time_start: '15.25'
       title: Unifying Protein Complex Curation across the Diversity of Species
       type: lightning
     title: Applications 2
@@ -614,45 +601,39 @@
     room: Spazio 35
     start: '14.45'
     talks:
-    - id: 9553
-      speaker: Peter Uetz
-      time_end: '14.55'
-      time_start: '14.45'
-      title: Curating species descriptions for the digital age
-      type: lightning
     - id: 9773
       speaker: Cecilia Arighi
-      time_end: '15.05'
-      time_start: '14.55'
+      time_end: '14.55'
+      time_start: '14.45'
       title: 'eMIND: Enabling automatic collection of protein variation impacts in
         Alzheimer’s disease from the literature'
       type: lightning
     - id: 9399
       speaker: Benjamin M. Gyori
-      time_end: '15.15'
-      time_start: '15.05'
+      time_end: '15.05'
+      time_start: '14.55'
       title: Machine-assisted curation of molecular mechanisms using automated knowledge
         extraction and assembly
       type: lightning
     - id: 9409
       speaker: Emilie Pasche
-      time_end: '15.25'
-      time_start: '15.15'
+      time_end: '15.15'
+      time_start: '15.05'
       title: Assessing the Use of Supplementary Materials to Improve Genomic Variant
         Discovery
       type: lightning
     - id: 3753
       speaker: Rezarta Islamaj
-      time_end: '15.35'
-      time_start: '15.25'
+      time_end: '15.25'
+      time_start: '15.15'
       title: 'A Framework for Assisting MeSH Vocabulary Development at the National
         Library of Medicine: Reliably Identifying Literature Containing New Chemical
         Substances'
       type: lightning
     - id: 671
       speaker: Rossana Zaru
-      time_end: '15.45'
-      time_start: '15.35'
+      time_end: '15.35'
+      time_start: '15.25'
       title: Predicting protein metal binding sites with artificial intelligence and
         machine learning in UniProt
       type: lightning
