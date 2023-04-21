@@ -725,7 +725,7 @@ Rebecca Foulger
 <dd>
 <br/><strong>
 BioKC: a collaborative platform for curation and annotation of molecular interactions</strong><br/>
-Carlos Vega
+Marek Ostaszweski
 </dd>
 <dt></dt>
 <dt>14.20-14.30</dt>
@@ -1450,7 +1450,7 @@ To address the users&#39; need to combine knowledge from different expert curate
 
 ### BioKC: a collaborative platform for curation and annotation of molecular interactions
 
-<span>Carlos Vega</span>, <span>Marek Ostaszewski</span>, <span>Valentin Grouès</span>, <span>Marcio Acencio</span>, <span>Reinhard Schneider</span>, <span>Venkata Satagopam</span><br />
+<span>Marek Ostaszewski</span>, <span>Carlos Vega</span>, <span>Valentin Grouès</span>, <span>Marcio Acencio</span>, <span>Reinhard Schneider</span>, <span>Venkata Satagopam</span><br />
 
 Curation of biomedical knowledge into standardised and inter-operable format is essential for studying complex biological processes. However, curation of relationships and interactions between biomolecules is a laborious manual process, especially when facing ever increasing growth of domain literature. The demand for systems biology knowledge increases with new findings demonstrating elaborate relationships between multiple molecules, pathways and cells. This calls for novel collaborative tools and platforms allowing to improve the quality and the output of the curation process. In particular, in the current systems biology environment, curation tools lack reviewing features and are not well suited for open, community-based curation workflows. An important concern is the complexity of the curation process and the limitations of the tools supporting it. Here, we present BioKC (Biological Knowledge Curation, https://biokc.pages.uni.lu), a web-based collaborative platform for the curation and annotation of biomedical knowledge following the standard data model from Systems Biology Markup Language (SBML). BioKC allows building multi-molecular interactions from scratch, or based on text mining results and their annotation, supported by an intuitive and lightweight Graphical User Interface. Curated interactions, with their annotations and grounding evidences, called facts, can be versioned, reviewed by other curators and published under a stable identifier. Underlying SBML model ensures interoperability, allowing export of entire collections of such facts for later import into databases, or used as a source material in systems biology diagram construction. We believe BioKC is a useful tool for extracting and standardising biomedical knowledge.
 

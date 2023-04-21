@@ -60,9 +60,9 @@
     systems biology diagram construction. We believe BioKC is a useful tool for extracting
     and standardising biomedical knowledge.
   authors:
-  - label: Carlos Vega
-    series_ordinal: 1
   - label: Marek Ostaszewski
+    series_ordinal: 1
+  - label: Carlos Vega
     series_ordinal: 2
   - label: Valentin Grouès
     series_ordinal: 3
