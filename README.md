@@ -10,3 +10,19 @@ organized with support from the [International Society of Biocuration](https://w
 ```shell
 docker run --rm --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:latest jekyll serve
 ```
+
+## Archive
+
+[![DOI](https://zenodo.org/badge/569336825.svg)](https://zenodo.org/badge/latestdoi/569336825)
+
+This repository is archived on Zenodo.
+
+## Conference Booklet
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7852266.svg)](https://doi.org/10.5281/zenodo.7852266)
+
+The conference booklet is available on Zenodo.
+
+## License
+
+This repository is licensed under the CC0 1.0 license.
