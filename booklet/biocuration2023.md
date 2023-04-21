@@ -559,13 +559,6 @@ Qian Xiang
 <dt>17.40-17.50</dt>
 <dd>
 <br/><strong>
-Developing Standards for Biocuration &amp; Interoperability of Genetic Variation Data in Agricultural Research</strong><br/>
-Marcela Tello-Ruiz
-</dd>
-<dt></dt>
-<dt>17.50-18.00</dt>
-<dd>
-<br/><strong>
 Multiplexed scRNA-seq Experiments in Biocuration</strong><br/>
 Yalan Bi
 </dd>
@@ -774,18 +767,11 @@ Ulrike Wittig
 <dt>15.15-15.25</dt>
 <dd>
 <br/><strong>
-The Human Microbiome Drug Metabolism (HMDM) Database</strong><br/>
-Amogelang Raphenya
-</dd>
-<dt></dt>
-<dt>15.25-15.35</dt>
-<dd>
-<br/><strong>
 Phenopackets for curated repository data over Beacon v2 Progenetix database</strong><br/>
 Ziying Yang
 </dd>
 <dt></dt>
-<dt>15.35-15.45</dt>
+<dt>15.25-15.35</dt>
 <dd>
 <br/><strong>
 Unifying Protein Complex Curation across the Diversity of Species</strong><br/>
@@ -803,39 +789,32 @@ Sandra Orchard
 <dt>14.45-14.55</dt>
 <dd>
 <br/><strong>
-Curating species descriptions for the digital age</strong><br/>
-Peter Uetz
-</dd>
-<dt></dt>
-<dt>14.55-15.05</dt>
-<dd>
-<br/><strong>
 eMIND: Enabling automatic collection of protein variation impacts in Alzheimer’s disease from the literature</strong><br/>
 Cecilia Arighi
 </dd>
 <dt></dt>
-<dt>15.05-15.15</dt>
+<dt>14.55-15.05</dt>
 <dd>
 <br/><strong>
 Machine-assisted curation of molecular mechanisms using automated knowledge extraction and assembly</strong><br/>
 Benjamin M. Gyori
 </dd>
 <dt></dt>
-<dt>15.15-15.25</dt>
+<dt>15.05-15.15</dt>
 <dd>
 <br/><strong>
 Assessing the Use of Supplementary Materials to Improve Genomic Variant Discovery</strong><br/>
 Emilie Pasche
 </dd>
 <dt></dt>
-<dt>15.25-15.35</dt>
+<dt>15.15-15.25</dt>
 <dd>
 <br/><strong>
 A Framework for Assisting MeSH Vocabulary Development at the National Library of Medicine: Reliably Identifying Literature Containing New Chemical Substances</strong><br/>
 Rezarta Islamaj
 </dd>
 <dt></dt>
-<dt>15.35-15.45</dt>
+<dt>15.25-15.35</dt>
 <dd>
 <br/><strong>
 Predicting protein metal binding sites with artificial intelligence and machine learning in UniProt</strong><br/>
@@ -2546,3 +2525,15 @@ Glycans are biomolecules made of linked sugars and play a crucial role in variou
 
 \pagebreak
 
+
+# Colophon
+
+This document was generated with the [Jinja](https://jinja.palletsprojects.com) templating system and the Python
+programming language. Source code and templates can be
+found [here](https://github.com/biocuration2023/biocuration2023.github.io/tree/main/scripts).
+[Pandoc](https://pandoc.org/) was used to convert from markdown to latex and PDF.
+
+This document is automatically uploaded to Zenodo record [7852241](https://doi.org/10.5281/zenodo.7852241) on build
+and can be downloaded here: https://doi.org/10.5281/zenodo.7852241.
+
+This document is available under the CC0 1.0 License.

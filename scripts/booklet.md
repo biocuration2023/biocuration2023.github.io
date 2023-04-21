@@ -319,3 +319,14 @@ Additional information on the schedule can be found at https://biocuration2023.g
 
 {% endfor %}
 
+# Colophon
+
+This document was generated with the [Jinja](https://jinja.palletsprojects.com) templating system and the Python
+programming language. Source code and templates can be
+found [here](https://github.com/biocuration2023/biocuration2023.github.io/tree/main/scripts).
+[Pandoc](https://pandoc.org/) was used to convert from markdown to latex and PDF.
+
+This document is automatically uploaded to Zenodo record [7852241](https://doi.org/10.5281/zenodo.7852241) on build
+and can be downloaded here: https://doi.org/10.5281/zenodo.7852241.
+
+This document is available under the CC0 1.0 License.
