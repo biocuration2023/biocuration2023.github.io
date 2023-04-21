@@ -1001,7 +1001,7 @@ This workshop is organised by members of the [Monarch Initiative](https://monarc
 </tr>
 <tr>
 <td>Time</td>
-<td>9:00AM - 12:00PM (3 Hours)</td>
+<td>9:00AM - 11:00AM (3 Hours)</td>
 </tr>
 <tr>
 <td>Organizer</td>
@@ -1028,7 +1028,7 @@ The intended audience consists of Wikidata and OBO curators. The workshop is aim
 </tr>
 <tr>
 <td>Time</td>
-<td>9:00AM - 11:00AM (2 Hours)</td>
+<td>9:00AM - 12:00PM (2 Hours)</td>
 </tr>
 <tr>
 <td>Organizer</td>
