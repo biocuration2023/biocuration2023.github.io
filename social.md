@@ -31,3 +31,14 @@ The Menù is based on Italian and Venetian traditional food and includes:
 
 The participants to the social dinner will have the opportunity to freely visit the “Museum of the Risorgimento and
 Contemporary Age”, located on the Piano Nobile of the Caffé Pedrocchi and accessible privately that evening.
+
+## Free time in Padua
+
+If you’d like to visit Padova there are many activities you can join:
+
+- [Padua Tourism Office](https://www.turismopadova.it/en/)
+- The conference venue is currently hosting the *Frida Khalo and Diego Rivera- Gelman Collection*. This will be the
+  only stop for this exhibit in Italy, see ticket
+  information [here](https://mondomostre.vivaticket.it/it/tour/frida-kahlo-e-diego-rivera/3339).
+- For any further information and suggestions during your stay in Padova, please refer to the registration desk at the
+  venue where the staff will be glad to assist you with further tips.
