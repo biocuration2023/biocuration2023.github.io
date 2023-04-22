@@ -723,7 +723,7 @@
       twitter: GlycomicsExpasy
     date: April 26th
     day: Wednesday
-    end: '10.30'
+    end: '10.40'
     order: 11
     room: Sala Piero Tortolina Auditorium
     start: '10.00'
@@ -741,17 +741,18 @@
       time_start: '10.10'
       title: Towards making sense of glycan-mediated protein-protein interactions
       type: lightning
-    - id: 8085
-      speaker: Tiago Lubiana
-      time_end: '10.30'
+    - id: 259
+      speaker: Nancy George
+      time_end: '10.40'
       time_start: '10.20'
-      title: Wikidata as a tool for biocuration of cell types
-      type: lightning
+      title: Single Cell Expression Atlas and FlyBase - the Fly Cell Atlas Anatomograms
+        – where data meets art
+      type: long
     title: Community 1
-  - end: '11.00'
+  - end: '11.10'
     order: 11.5
     room: Agora
-    start: '10.30'
+    start: '10.40'
     title: Coffee Break and Sponsors Exhibition
   - chairs:
     - employerLabel_: European Bioinformatics Institute
@@ -782,15 +783,15 @@
     date: April 26th
     day: Wednesday
     description: Lead by Nicole Vasilevsky
-    end: '12.00'
+    end: '12.10'
     order: 12
     room: Sala Piero Tortolina Auditorium
-    start: '11.00'
+    start: '11.10'
     title: Careers in Biocuration Panel/Workshop
-  - end: '13.00'
+  - end: '13.10'
     order: 12.5
     room: Agora
-    start: '12.00'
+    start: '12.10'
     title: Lunch Break and Sponsors Exhibition
   - chairs:
     - employerLabel_: University of Geneva
@@ -824,22 +825,21 @@
     end: '14.30'
     order: 13
     room: Sala Piero Tortolina Auditorium
-    start: '13.00'
+    start: '13.10'
     talks:
     - id: 6726
       speaker: Charles Tapley Hoyt
-      time_end: '13.20'
-      time_start: '13.00'
+      time_end: '13.30'
+      time_start: '13.10'
       title: Promoting the longevity of curated scientific resources through open
         code, open data, and public infrastructure
       type: long
-    - id: 259
-      speaker: Nancy George
+    - id: 8085
+      speaker: Tiago Lubiana
       time_end: '13.40'
-      time_start: '13.20'
-      title: Single Cell Expression Atlas and FlyBase - the Fly Cell Atlas Anatomograms
-        – where data meets art
-      type: long
+      time_start: '13.30'
+      title: Wikidata as a tool for biocuration of cell types
+      type: lightning
     - id: 5319
       speaker: Arina Puzriakova
       time_end: '14.00'

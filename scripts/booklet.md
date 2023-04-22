@@ -184,7 +184,7 @@ Additional information on the schedule can be found at https://biocuration2023.g
 
 ### {{ session.title }} ({{ session.start }}-{{ session.end }})
 
-{%- if session.description %}{{ session.description }}{% endif %}
+{% if session.description %}{{ session.description }}{% endif %}
 
 <dl>
 {% if session.chairs %}

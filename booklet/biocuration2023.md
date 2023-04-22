@@ -464,6 +464,8 @@ Additional information on the schedule can be found at https://biocuration2023.g
 
 
 ### 2nd Mapping Commons Workshop on Simple Standard for Sharing Ontological Mappings (14.30-17.30)
+
+
 <dl>
 </dl>
 
@@ -474,26 +476,36 @@ Additional information on the schedule can be found at https://biocuration2023.g
 
 
 ### Aligning Open Biological and Biomedical Ontology Foundry Ontologies with Wikidata Workshop (9.00-11.00)
+
+
 <dl>
 </dl>
 
 
 ### Gaining Perspective Towards Enhancing the Intersection of Biocuration and Machine Learning Workshop (9.00-12.00)
+
+
 <dl>
 </dl>
 
 
 ### Functional Impact of Glycans and Their Curation Workshop (11.00-13.00)
+
+
 <dl>
 </dl>
 
 
 ### Lunch Break and Sponsors Exhibition (13.15-14.15)
+
+
 <dl>
 </dl>
 
 
 ### Conference Salutation from Charles Tapley Hoyt (14.30-14.45)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -502,6 +514,8 @@ Additional information on the schedule can be found at https://biocuration2023.g
 
 
 ### ISB Greeting from Ruth Lovering (ISB EC Chair) (14.45-15.00)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -510,6 +524,8 @@ Additional information on the schedule can be found at https://biocuration2023.g
 
 
 ### Keynote 1 - Paula Leitman (15.00-16.00)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -518,11 +534,15 @@ Additional information on the schedule can be found at https://biocuration2023.g
 
 
 ### Coffee Break and Sponsors Exhibition (16.00-16.30)
+
+
 <dl>
 </dl>
 
 
 ### Standards 1 (16.30-18.00)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -566,6 +586,8 @@ Yalan Bi
 
 
 ### Welcome cocktail (18.30-20.00)
+
+
 <dl>
 </dl>
 
@@ -576,6 +598,8 @@ Yalan Bi
 
 
 ### Keynote 2 - Marco Roos (9.00-10.00)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -584,6 +608,8 @@ Yalan Bi
 
 
 ### FAIR 1 (10.00-10.30)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -613,11 +639,15 @@ Christopher Southan
 
 
 ### Coffee Break and Sponsors Exhibition (10.30-11.00)
+
+
 <dl>
 </dl>
 
 
 ### FAIR 2 (11.00-12.30)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -668,11 +698,15 @@ Jerven Bolleman
 
 
 ### Lunch Break and Sponsors Exhibition (12.30-13:30)
+
+
 <dl>
 </dl>
 
 
 ### Applications 1 (13.30-14.30)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -702,6 +736,8 @@ Elisabeth Coudert
 
 
 ### AI and Text Mining 1 (13.30-14.30)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -738,6 +774,8 @@ Anne Niknejad
 
 
 ### Applications 2 (14.45-15.45)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -781,6 +819,8 @@ Sandra Orchard
 
 
 ### AI and Text Mining 2 (14.45-15.45)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -824,16 +864,22 @@ Rossana Zaru
 
 
 ### Poster Session 1 (Even Numbers) (16.00-17.00)
+
+
 <dl>
 </dl>
 
 
 ### Poster Session 2 (Odd Numbers) (17.00-18.00)
+
+
 <dl>
 </dl>
 
 
 ### Evening Networking or Social Dinner (20.00-23.30)
+
+
 <dl>
 </dl>
 
@@ -844,6 +890,8 @@ Rossana Zaru
 
 
 ### Keynote 3 - Guy Cochrane (9.00-10.00)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -851,7 +899,9 @@ Rossana Zaru
 </dl>
 
 
-### Community 1 (10.00-10.30)
+### Community 1 (10.00-10.40)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -871,21 +921,25 @@ Towards making sense of glycan-mediated protein-protein interactions</strong><br
 Catherine Hayes
 </dd>
 <dt></dt>
-<dt>10.20-10.30</dt>
+<dt>10.20-10.40</dt>
 <dd>
 <br/><strong>
-Wikidata as a tool for biocuration of cell types</strong><br/>
-Tiago Lubiana
+Single Cell Expression Atlas and FlyBase - the Fly Cell Atlas Anatomograms – where data meets art</strong><br/>
+Nancy George
 </dd>
 </dl>
 
 
-### Coffee Break and Sponsors Exhibition (10.30-11.00)
+### Coffee Break and Sponsors Exhibition (10.40-11.10)
+
+
 <dl>
 </dl>
 
 
-### Careers in Biocuration Panel/Workshop (11.00-12.00)Lead by Nicole Vasilevsky
+### Careers in Biocuration Panel/Workshop (11.10-12.10)
+
+Lead by Nicole Vasilevsky
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
@@ -893,29 +947,33 @@ Tiago Lubiana
 </dl>
 
 
-### Lunch Break and Sponsors Exhibition (12.00-13.00)
+### Lunch Break and Sponsors Exhibition (12.10-13.10)
+
+
 <dl>
 </dl>
 
 
-### Community 2 (13.00-14.30)
+### Community 2 (13.10-14.30)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
     <a href="https://orcid.org/0000-0002-0948-4537">Frédérique Lisacek</a>,     <a href="https://orcid.org/0000-0001-5084-9000">Luana Licata</a>    </dd>
 <dt></dt>
-<dt>13.00-13.20</dt>
+<dt>13.10-13.30</dt>
 <dd>
 <br/><strong>
 Promoting the longevity of curated scientific resources through open code, open data, and public infrastructure</strong><br/>
 Charles Tapley Hoyt
 </dd>
 <dt></dt>
-<dt>13.20-13.40</dt>
+<dt>13.30-13.40</dt>
 <dd>
 <br/><strong>
-Single Cell Expression Atlas and FlyBase - the Fly Cell Atlas Anatomograms – where data meets art</strong><br/>
-Nancy George
+Wikidata as a tool for biocuration of cell types</strong><br/>
+Tiago Lubiana
 </dd>
 <dt></dt>
 <dt>13.40-14.00</dt>
@@ -949,6 +1007,8 @@ Jennifer Harrow
 
 
 ### Valediction and ISB Time (14.30-15.30)
+
+
 <dl>
     <dt><strong>Chairs</strong></dt>
     <dd>
