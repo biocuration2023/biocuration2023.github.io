@@ -32,6 +32,7 @@
   - Functional annotations
   - Data standardization
   - Text mining
+  orcid: 0000-0002-5283-6593
   submitted: 2022-12-07 12:25
   title: Enhanced integration of UniProtKB/Swiss-Prot, ClinVar and PubMed
 - abstract: "Pharmaceutical and Biotechnology companies have multiple information-rich\
@@ -53,6 +54,7 @@
   - Data discovery
   - Semantic enrichment
   - Ontology management
+  orcid: 0000-0001-6718-3559
   submitted: 2022-12-13 08:10
   title: 'SciBite: A bespoke approach to facilitating FAIR practice in the Life Sciences
     Industry'
@@ -80,6 +82,7 @@
   - Cheminformatics
   - Metabolic networks
   - Transporters
+  orcid: 0000-0002-6992-0492
   submitted: 2022-12-13 09:13
   title: Enzyme and transporter annotation in UniProtKB using Rhea and ChEBI
 - abstract: As a genomic resource provider, grappling with getting a handle on how
@@ -107,6 +110,7 @@
   - curation workflow
   - disease ontology
   - genomic resource
+  orcid: 0000-0002-0593-3569
   submitted: 2022-12-14 14:58
   title: 'Assessing Resource Use: A Case Study with the Human Disease Ontology'
 - abstract: 'The Genomic Standards Consortium’s (GSC, www.gensc.org) successful development
@@ -186,6 +190,7 @@
   - biosample curation
   - MIxS
   - environmental checklists
+  orcid: 0000-0001-8910-9851
   submitted: 2022-12-16 20:14
   title: Genomic Standards Consortium tools for genomic data biocuration - 2023 update
 - abstract: Rhea (www.rhea-db.org) is a FAIR resource of expert curated biochemical
@@ -243,6 +248,7 @@
   - Swiss-Prot
   - Rhea
   - ChEBI compounds
+  orcid: 0000-0003-3889-2879
   submitted: 2022-12-19 15:27
   title: Biocuration at Rhea, the reaction knowledgebase
 - abstract: Channels in proteins plays significant role in developing new drugs, because
@@ -268,6 +274,7 @@
   - biologically relevant tunnels
   - pattern
   - machine learning
+  orcid: 0000-0001-7142-3092
   submitted: 2022-12-20 10:01
   title: Protein tunnels database
 - abstract: Rhea (www.rhea-db.org) is an expert curated knowledgebase of biochemical
@@ -305,6 +312,7 @@
   - Machine Learning
   - Biochemical Reactions
   - Literature
+  orcid: 0000-0002-2555-163X
   submitted: 2022-12-20 13:20
   title: Machine learning for extraction of biochemical reactions from the scientific
     literature
@@ -356,6 +364,7 @@
   - Application Profiles
   - YAMA
   - YAMAML
+  orcid: 0000-0001-9845-9714
   submitted: 2022-12-20 13:35
   title: Application profile based RDF generation for FAIR data publishing
 - abstract: SwissBioPics is a freely available library of interactive high-resolution
@@ -412,6 +421,7 @@
   - uniprotkb
   - image
   - svg
+  orcid: 0000-0001-5436-7383
   submitted: 2022-12-20 13:50
   title: SwissBioPics – an interactive library of cell images for the visualization
     of subcellular location data
@@ -453,6 +463,7 @@
   - biomarker
   - glycosylation
   - curation
+  orcid: 0000-0003-2035-8459
   submitted: 2022-12-20 22:12
   title: Glycan biomarker curation for integration with publicly available biomarker
     and glycobiology resources
@@ -504,6 +515,7 @@
   - Haematological cancer
   - Somatic variants
   - Data formats
+  orcid: 0000-0001-8050-402X
   submitted: 2022-12-21 11:01
   title: Curating Somatic Variants in Haematological Cancers in COSMIC
 - abstract: "The emergence of viruses in humans has accelerated, as has the need to\
@@ -549,6 +561,7 @@
   - Virus
   - emerging disease
   - database
+  orcid: 0000-0001-8528-090X
   submitted: 2022-12-21 11:12
   title: 'Addressing the data challenge of emerging viral diseases: COVID and MPOX
     resources in ViralZone'
@@ -628,6 +641,7 @@
   - Knowledge Base Prompt Engineering (KBPE)
   - Knowledge Graph
   - ontology
+  orcid: 0000-0002-8719-7760
   submitted: 2022-12-21 21:06
   title: Rapid Development of Knowledge Bases using Prompt Engineering and GitHub
     CoPilot Abstract ISB 2023
@@ -662,6 +676,7 @@
   - Gene Ontology
   - Data Integration
   - FlyBase
+  orcid: 0000-0003-0086-5621
   submitted: 2022-12-22 00:00
   title: Capturing the experimental research history of signalling pathways in Drosophila
     melanogaster
@@ -726,6 +741,7 @@
   - curation
   - api
   - data integration
+  orcid: 0000-0003-3147-448X
   submitted: 2022-12-28 19:15
   title: 'GlyGen: Computational and Informatics Resources for Glycoscience'
 - abstract: Using model organism phenotype data to improve human disease diagnosis
@@ -770,6 +786,7 @@
   - disease model
   - curation
   - phenotype
+  orcid: 0000-0003-4606-0597
   submitted: 2022-12-29 17:11
   title: Using Disease Focused Curation to Enhance Cross Species Translation of Phenotype
     Data
@@ -836,6 +853,7 @@
   - Glycan binding systems
   - Glycan-protein interactions
   - CarbArrayART
+  orcid: 0000-0002-0839-0643
   submitted: 2022-12-29 17:14
   title: Toward a curated glyco-interactome knowledgebase for the biology community
     using CarbArrayART
@@ -879,6 +897,7 @@
   - single-cell RNA sequencing
   - gene expression
   - cell type
+  orcid: 0000-0002-6095-8718
   submitted: 2022-12-30 13:29
   title: Exploiting single-cell RNA sequencing data on FlyBase
 - abstract: 'Machine learning (ML) for protein sequence analysis relies on well-curated
@@ -953,6 +972,7 @@
   - multi-label learning
   - deep learning
   - protein language model
+  orcid: 0000-0002-6938-0879
   submitted: 2023-01-01 18:21
   title: Biocuration meets Deep Learning
 - abstract: 'AlphaFold DB is an online resource developed by DeepMind in collaboration
@@ -1009,6 +1029,7 @@
   - InterPro
   - Pfam
   - AlphaFold
+  orcid: 0000-0002-0520-0736
   submitted: 2023-01-02 07:43
   title: AlphaFold structure predictions help improve Pfam models and annotations
     - Usage in curation
@@ -1063,6 +1084,7 @@
   - SIFTS
   - Protein Structure
   - PDB
+  orcid: 0000-0002-2065-9051
   submitted: 2023-01-02 21:21
   title: Protein Structures and their cross-referencing in UniProt
 - abstract: "The Saccharomyces Genome Database (SGD, http://www.yeastgenome.org) is\
@@ -1119,6 +1141,7 @@
   - Noctua
   - YeastPathways
   - SGD
+  orcid: 0000-0001-6787-2901
   submitted: 2023-01-03 01:11
   title: 'YeastPathways at the Saccharomyces Genome Database: Transitioning to Noctua'
 - abstract: Over the years, life sciences has changed from descriptive to a data-driven
@@ -1154,6 +1177,7 @@
   - semantic digitization
   - ontology
   - curated database
+  orcid: 0000-0002-0983-6109
   submitted: 2023-01-03 05:17
   title: 'Adding semantics to data digitization: strengths and possibilities'
 - abstract: "The Swiss Personalized Health Network (SPHN) is a national initiative\
@@ -1211,6 +1235,7 @@
   - Personalized Health
   - Semantic Web
   - FAIR
+  orcid: 0000-0002-3583-7340
   submitted: 2023-01-03 09:08
   title: 'Swiss Personalized Health Network: Making health data FAIR in Switzerland'
 - abstract: The UniProt Knowledgebase (UniProtKB) is a leading resource of protein
@@ -1253,6 +1278,7 @@
   - ortholog
   - phenotype
   - disease mechanism
+  orcid: 0000-0002-5753-0235
   submitted: 2023-01-03 10:13
   title: 'From Model Organisms To Human: Increasing Our Understanding Of Molecular
     Disease Mechanisms By Data Curation'
@@ -1301,6 +1327,7 @@
   - information retrieval
   - tools
   - nlp
+  orcid: 0000-0001-9868-6271
   submitted: 2023-01-03 14:59
   title: 'Beyond advanced search: literature search for biocuration'
 - abstract: 'The immune system is a complex system of various cell populations and
@@ -1352,6 +1379,7 @@
   - cell type
   - meta-analysis
   - biomarker discovery
+  orcid: 0000-0002-6345-6879
   submitted: 2023-01-03 15:02
   title: Curation and integration of single-cell RNA-Seq data for meta-analysis
 - abstract: The advent of single-cell profiling has accelerated our understanding
@@ -1379,6 +1407,7 @@
   - standardization
   - cell type
   - data analysis
+  orcid: 0000-0002-6345-6879
   submitted: 2023-01-03 15:20
   title: The Nebion Cell-type Ontology
 - abstract: Single-cell RNA sequencing (scRNA-seq) technologies have dramatically
@@ -1426,6 +1455,7 @@
   - protocols
   - pre-processing
   - processing
+  orcid: 0000-0003-4771-6113
   submitted: 2023-01-03 16:33
   title: Curated information about single-cell RNA-seq protocols
 - abstract: The Immune Epitope Database (IEDB) is a freely available resource funded
@@ -1484,6 +1514,7 @@
   - epitope
   - adaptive
   - disease
+  orcid: 0000-0001-8957-7612
   submitted: 2023-01-03 16:58
   title: Collaborative Annotation of Proteins Relevant to the Adaptive Immune Response
 - abstract: 'Transcriptomics data are of major importance to understand organism biology,
@@ -1546,6 +1577,7 @@
   - Ontology reasoning
   - API
   - User interface
+  orcid: 0000-0002-9415-5104
   submitted: 2023-01-03 17:04
   title: Retrieval of expert curated transcriptomics metadata through a user-friendly
     interface
@@ -1594,6 +1626,7 @@
   - terminology
   - data management
   - curation
+  orcid: 0000-0001-8957-7612
   submitted: 2023-01-03 17:38
   title: Curation and Terminology Strategies of the Immune Epitope Database
 - abstract: "Proteins in UniProt are automatically and manually annotated to keywords.\
@@ -1619,6 +1652,7 @@
   - term mapping
   - gene ontology
   - protein function
+  orcid: 0000-0003-1179-5999
   submitted: 2023-01-03 17:46
   title: Mapping from virulence to interspecies interactions - an anotation review
 - abstract: 'In clinical trials, evaluating the treatment outcome is an essential
@@ -1662,6 +1696,7 @@
   - clinical data curation
   - machine-readable data
   - machine-actionable data
+  orcid: 0000-0003-4614-5064
   submitted: 2023-01-03 17:49
   title: Treatment Response Ontology in GENEVESTIGATOR
 - abstract: "The use of common biomedical ontologies to annotate data within and across\
@@ -1720,6 +1755,7 @@
   - FAIR principles
   - ontology view
   - validation tool
+  orcid: 0000-0002-6523-4866
   submitted: 2023-01-03 18:14
   title: A general strategy for generating expert-guided, simplified views of ontologies
 - abstract: 'The Gene Ontology (GO) is the de facto bioinformatics resource for systematic
@@ -1794,6 +1830,7 @@
   - Noctua
   - Relations Ontology
   - Systems biology
+  orcid: 0000-0002-1706-4196
   submitted: 2023-01-03 20:48
   title: Expanding the Repertoire of Causal Relations for a Richer Description of
     Activity Flow in Gene Ontology Causal Activity Models (GO-CAMs)
@@ -1857,6 +1894,7 @@
   - Proteomics
   - Mass-Spectrometry
   - Curation
+  orcid: 0000-0003-2989-5971
   submitted: 2023-01-03 23:02
   title: Data Curation and management of public proteomics datasets in the PRIDE database
 - abstract: "The International Cancer Genome Consortium Accelerating Research in Genomic\
@@ -1911,6 +1949,7 @@
   - clinical data
   - cancer
   - interoperability
+  orcid: 0000-0002-0774-2862
   submitted: 2023-01-03 23:38
   title: ICGC ARGO Clinical Data Dictionary
 - abstract: Biological membranes are natural barriers of cells. The membranes play
@@ -1954,6 +1993,7 @@
   - prodrug
   - RDF
   - use case
+  orcid: 0000-0001-6611-7883
   submitted: 2023-01-04 08:38
   title: MolMeDB - Molecules on Membranes Database
 - abstract: "Cancer cell lines are important models for studying the disease mechanisms\
@@ -1993,6 +2033,7 @@
   - NLP
   - copy number variants
   - single nucleotide variants
+  orcid: 0000-0003-1239-1689
   submitted: 2023-01-04 20:10
   title: cancercelllines.org - a new curated resource for cancer cell line variants
 - abstract: 'The Biological General Repository for Interaction Datasets (BioGRID:
@@ -2070,6 +2111,7 @@
   - Genetic Interactions
   - Chemical Interactions
   - CRISPR Phenotypes
+  orcid: 0000-0002-6475-3373
   submitted: 2023-02-02 00:13
   title: 'The BioGRID Interaction Database: SARS-CoV-2 Coronavirus Interaction Networks
     and Genome-wide CRISPR Phenotypic Screens'
@@ -2133,6 +2175,7 @@
   - rare disease
   - biomedical ontology
   - data portal
+  orcid: 0000-0001-5208-3432
   submitted: 2023-02-07 01:08
   title: Curation of Rare Disease Data in the Rare Disease Cures Accelerator-Data
     and Analytics Platform
@@ -2175,6 +2218,7 @@
   - gene summaries
   - gene function
   - automated biocuration
+  orcid: 0000-0002-2563-5374
   submitted: 2023-02-07 23:37
   title: A Gene Summary Generation System for Animal Genomes
 - abstract: "A unique opportunity in 2022 was the partnership between GigaScience\
@@ -2220,6 +2264,7 @@
   - Disease
   - Occurrence
   - GigaDB
+  orcid: 0000-0002-9952-8141
   submitted: 2023-02-09 15:23
   title: The Role of GigaDB in the Curation of Vector-Borne Disease Data
 - abstract: The HUGO Gene Nomenclature Committee (HGNC, genenames.org), now acknowledged
@@ -2264,6 +2309,7 @@
   - nomenclature
   - database fields
   - standards
+  orcid: 0000-0003-1818-8243
   submitted: 2023-02-23 17:29
   title: Should data fields in biological resources be labeled more FAIRly?
 - abstract: The Rat Genome Database (RGD, https://rgd.mcw.edu) is the principal resource
@@ -2343,6 +2389,7 @@
   - clinical measurement
   - rat strain
   - ontology
+  orcid: 0000-0002-6443-9376
   submitted: 2023-03-02 18:50
   title: 'PhenoMiner: improved interfaces enhance usability of RGD''s quantitative
     phenotype data repository'
@@ -2423,6 +2470,7 @@
   - Biotherapeutics
   - Drugs
   - Small molecules
+  orcid: 0000-0002-1242-1481
   submitted: 2023-03-09 11:06
   title: 'Biological Curation for ChEMBL: Towards the consistent assignment of targets
     for extracted bioactivity data'
@@ -2477,6 +2525,7 @@
   - biocuration
   - oligogenic
   - standards
+  orcid: 0000-0002-5034-8975
   submitted: 2023-03-10 11:25
   title: 'The importance of good data quality and proper pathogenicity reporting in
     the medical genetics field: the case of oligogenic diseases'
@@ -2526,6 +2575,7 @@
   - RDF
   - ShEx
   - Data curation
+  orcid: 0000-0002-6943-6887
   submitted: 2023-03-13 08:32
   title: To realize more interconnected RDF data
 - abstract: The ‘deluge of data’ brought about by the contemporary post-genomic era
@@ -2569,6 +2619,7 @@
   - tRNA modification
   - biocuration
   - orthology
+  orcid: 0000-0002-5039-2052
   submitted: 2023-03-16 17:28
   title: Updating the Curation Status of tRNA Modification Pathways in the Database
     of Clustered Orthologous Genes
@@ -2612,6 +2663,7 @@
   - functional annotations
   - data aggregation
   - biological context
+  orcid: 0000-0002-7651-672X
   submitted: 2023-03-17 15:12
   title: Protein Data Bank in Europe Knowledge Base (PDBe-KB) - Creating knowledge
     from macromolecular structures and functional annotations
@@ -2655,6 +2707,7 @@
   - ontology
   - chemical entities
   - chemical nomenclature
+  orcid: 0000-0001-8123-5351
   submitted: 2023-03-22 10:46
   title: 'ChEBI: where chemical entities and ontology meet'
 - abstract: "The GlyCosmos Portal [1] has been developed using Semantic Web technologies,\
@@ -2699,6 +2752,7 @@
   - Inferencing
   - Database
   - Glycomics
+  orcid: 0000-0002-6662-8015
   submitted: 2023-03-23 08:06
   title: 'The GlyCosmos Portal: integrated glycan-related omics data and inferencing
     across organisms'
@@ -2711,13 +2765,13 @@
     \ and Trait Ontology (PATO) and Zebrafish Anatomy Ontology (ZFA) to represent\
     \ human, mouse and zebrafish  phenotypes respectively. To effectively translate\
     \ the phenotype data between species, the phenotype terms need to have semantic\
-    \ similarities using similar relationships or definitions. There has been a concerted\
-    \ effort to increase data integration and data harmonization at the Alliance of\
-    \ Genome Resources through development of a standardized data format. \n\nThe\
-    \ Zebrafish Information Network (ZFIN, zfin.org) and Mouse Genome Informatics\
+    \ similarities using similar relationships or definitions. ZFIN and MGI phenotype\
+    \ editors participate in cross-species phenotype reconciliation efforts organized\
+    \ through the Phenotype Ontologies Traversing All The Organisms (POTATO) workshops.\
+    \ \n\nThe Zebrafish Information Network (ZFIN, zfin.org) and Mouse Genome Informatics\
     \ (MGI, informatics.jax.org) are working together on focused phenotype curation\
-    \ of diseases from KidsFirst (kidsfirstdrc.org) data resource to increase curated\
-    \ model organism data for structural birth Defects and pediatric cancer. The limited\
+    \ of diseases from Kids First (kidsfirstdrc.org) data resource to increase curated\
+    \ model organism data for structural birth defects and pediatric cancer. The limited\
     \ amount of pediatric data available increases the importance of using model organism\
     \ data to bridge knowledge gaps in our understanding of these diseases. A broad\
     \ overview of the curation approach is described in the poster presented by Susan\
@@ -2737,7 +2791,7 @@
     \ for identifying zebrafish models of these diseases. These statements were added\
     \ to existing phenotype annotations in ZFIN. These expanded annotations are available\
     \ on ZFIN web pages and download files. We are also collaborating with MGI to\
-    \ make these available in the KidsFirst data portal to allow researchers easier\
+    \ make these available in the Kids First data portal to allow researchers easier\
     \ access to cross-species information on genes and disease models."
   authors:
   - label: Sridhar Ramachandran
@@ -2761,6 +2815,7 @@
   - KidsFirst
   - ZFIN
   - Translational Research
+  orcid: 0000-0002-2246-3722
   submitted: 2023-03-29 01:40
   title: Curating Phenotype and Disease Annotations in ZFIN to Increase Model Organism
     Data Relevant to Structural Birth Defects and Cancer
@@ -2825,6 +2880,7 @@
   - enyzmes
   - GO annotation
   - EC
+  orcid: 0000-0003-2759-266X
   submitted: 2023-03-30 08:50
   title: 'FlyCyc: updating the metabolic network for Drosophila melanogaster'
 - abstract: "The Equity, Diversity, and Inclusion (EDI) committee was formed in 2019\
@@ -2877,6 +2933,7 @@
   - International Society for Biocuration.
   - Equality
   - EDI
+  orcid: 0000-0002-4667-9528
   submitted: 2023-03-30 14:06
   title: Equity, Diversity, and Inclusion in the International Society for Biocuration
 - abstract: 'Diagnosing rare diseases is a difficult problem which requires the integration
@@ -2932,6 +2989,7 @@
   - benchmark
   - ontologies
   - semantic similarity
+  orcid: 0000-0003-3961-0247
   submitted: 2023-03-31 11:53
   title: PhEval - Phenotypic Inference Evaluation Framework for variant and gene prioritisation
     algorithms
@@ -2968,5 +3026,6 @@
   - mass spectrometry
   - data mining
   - deep learning
+  orcid: 0000-0002-3008-7851
   submitted: 2023-03-31 16:07
   title: 'Sugar, Spice, and Everything Nice: Curating glycan and glycan adjacent data'

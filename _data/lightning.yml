@@ -35,6 +35,7 @@
   - Lipids
   - SPARQL
   - Knowledge Graph
+  orcid: 0000-0002-7449-1266
   submitted: 2022-12-09 16:06
   title: Making expert curated knowledge graphs FAIR
 - abstract: Curation of biomedical knowledge into standardised and inter-operable
@@ -78,6 +79,7 @@
   - text mining
   - molecular interactions
   - SBML
+  orcid: 0000-0003-1473-370X
   submitted: 2022-12-16 12:57
   title: 'BioKC: a collaborative platform for curation and annotation of molecular
     interactions'
@@ -121,6 +123,7 @@
   - Gene ontology
   - Biocuration
   - Phylogeny
+  orcid: 0000-0002-4187-2863
   submitted: 2022-12-16 14:41
   title: A complete draft human gene functionome from large-scale evolutionary modeling
     and experimental Gene Ontology annotations
@@ -170,6 +173,7 @@
   - UniProt
   - protein sequence annotation
   - machine learning
+  orcid: 0000-0002-3358-4423
   submitted: 2022-12-20 10:18
   title: Predicting protein metal binding sites with artificial intelligence and machine
     learning in UniProt
@@ -212,6 +216,7 @@
   - Tracking
   - Achievements
   - FAIR
+  orcid: 0000-0001-8210-2390
   submitted: 2022-12-20 14:39
   title: 'APICURON: standardizing attribution of biocuration activity to promote engagement'
 - abstract: "The Human Cell Atlas and the boom of single-cell omics have put cell\
@@ -252,6 +257,7 @@
   - Cell Ontology
   - Wikipedia
   - SPARQL
+  orcid: 0000-0003-2473-2313
   submitted: 2022-12-21 16:54
   title: Wikidata as a tool for biocuration of cell types
 - abstract: 'Alzheimer’s disease and related dementias (AD/ADRDs) are among the most
@@ -317,6 +323,7 @@
   - Deep learning
   - Relation extraction
   - Text mining
+  orcid: 0000-0002-0803-4817
   submitted: 2022-12-23 14:23
   title: 'eMIND: Enabling automatic collection of protein variation impacts in Alzheimer’s
     disease from the literature'
@@ -352,6 +359,7 @@
   - information retrieval
   - genetic variant
   - supplementary material
+  orcid: 0000-0002-9118-5762
   submitted: 2022-12-23 15:34
   title: Assessing the Use of Supplementary Materials to Improve Genomic Variant Discovery
 - abstract: "The Protein Data Bank (PDB) was established in 1971 as the first open-access\
@@ -410,6 +418,7 @@
   - Biocuration
   - Curation tools
   - Data quality
+  orcid: 0000-0001-9544-8390
   submitted: 2022-12-23 20:09
   title: 'wwPDB Biocuration: Supporting Advances in Science and Technology'
 - abstract: "SABIO-RK is a manually curated database for biochemical reactions and\
@@ -448,6 +457,7 @@
   - enzyme kinetics
   - biocuration
   - database
+  orcid: 0000-0003-4724-3926
   submitted: 2022-12-29 09:20
   title: Improved Insights into the SABIO-RK Database via Visualization
 - abstract: 'The ability to investigate the transcriptomes of cells at a single cell
@@ -508,6 +518,7 @@
   - feature barcoding
   - sample multiplexing
   - EBI
+  orcid: 0000-0002-1992-7397
   submitted: 2022-12-29 16:21
   title: Multiplexed scRNA-seq Experiments in Biocuration
 - abstract: 'Mammalian cells express thousands of ncRNA molecules that play a key
@@ -566,6 +577,7 @@
   - RNA interactions
   - interaction database
   - manual curation
+  orcid: 0000-0002-7500-4028
   submitted: 2022-12-31 16:54
   title: 'The landscape of microRNA interactions annotation in IMEx: analysis of three
     rare disorders as case study'
@@ -602,6 +614,7 @@
   - FAIR principles
   - Data Management
   - Data Stewardship
+  orcid: 0000-0002-6583-8504
   submitted: 2023-01-01 13:41
   title: 'FAIR Wizard: Making the FAIRification process accessible'
 - abstract: 'Many data repositories such as NCBI GEO contain a vast amount of annotations
@@ -667,6 +680,7 @@
   - data curation
   - data standards
   - GA4GH
+  orcid: 0000-0002-5625-6692
   submitted: 2023-01-02 17:04
   title: Phenopackets for curated repository data over Beacon v2 Progenetix database
 - abstract: The practice of assigning code names (CNs) as the publicly declared identifiers
@@ -702,6 +716,7 @@
   - Compound code names
   - Medicinal chemistry
   - Resolving chemical names to structures
+  orcid: 0000-0001-9580-0446
   submitted: 2023-01-02 21:45
   title: 'Resolving code names to structures from the medicinal chemistry literature:
     not as FAIR as it should be'
@@ -759,6 +774,7 @@
   - drug-metabolizing enzymes
   - microbiome drug metabolism
   - drug efficacy
+  orcid: 0000-0001-9259-5280
   submitted: 2023-01-03 00:41
   title: The Human Microbiome Drug Metabolism (HMDM) Database
 - abstract: "Single-cell RNA-Seq (scRNA-Seq) data are being massively produced in\
@@ -822,6 +838,7 @@
   - Machine Learning
   - FAIR data
   - Data curation
+  orcid: 0000-0002-9415-5104
   submitted: 2023-01-03 16:53
   title: Building a reference dataset of single-cell RNA-Seq data for training Machine-Learning
     algorithms
@@ -879,6 +896,7 @@
   - Data stewardship
   - FAIR data
   - Community curation
+  orcid: 0000-0002-9415-5104
   submitted: 2023-01-03 16:59
   title: 'scFAIR: Standardization and stewardship of single-cell metadata'
 - abstract: Proteins are essential for building cellular structures and as the tools
@@ -925,6 +943,7 @@
   - Data integration
   - Protein complex
   - Evolution
+  orcid: 000-0002-8878-3972
   submitted: 2023-01-03 17:16
   title: Unifying Protein Complex Curation across the Diversity of Species
 - abstract: "The European Nucleotide Archive (ENA; https://www.ebi.ac.uk/ena) is a\
@@ -977,6 +996,7 @@
   - Enhancing existing metadata
   - EMBL
   - EBI
+  orcid: 0000-0002-7654-6902
   submitted: 2023-01-03 17:49
   title: Providing Expanded Contextual Metadata for Biological Samples using Both
     Geographic and Taxonomic Factors
@@ -1028,6 +1048,7 @@
   - Curation
   - Quality Control
   - Nextflow
+  orcid: 0000-0002-1377-1125
   submitted: 2023-01-03 19:10
   title: ICGC-ARGO Data Submission Workflow - Integration of data validation and submission
     to accelerate the data curation and improve the data quality
@@ -1087,6 +1108,7 @@
   - ontology
   - glycan structure
   - glycoprotein
+  orcid: 0000-0002-3640-3237
   submitted: 2023-01-03 19:29
   title: Towards making sense of glycan-mediated protein-protein interactions
 - abstract: "Curated resources such as protein-protein interaction databases and pathway\
@@ -1143,6 +1165,7 @@
   - knowledge assembly
   - machine-assisted curation
   - pathway databases
+  orcid: 0000-0001-9439-5346
   submitted: 2023-01-03 19:59
   title: Machine-assisted curation of molecular mechanisms using automated knowledge
     extraction and assembly
@@ -1203,6 +1226,7 @@
   - data curation
   - MeSH terminology development
   - natural language processing
+  orcid: 0000-0001-5651-1860
   submitted: 2023-01-03 19:59
   title: 'A Framework for Assisting MeSH Vocabulary Development at the National Library
     of Medicine: Reliably Identifying Literature Containing New Chemical Substances'
@@ -1279,6 +1303,7 @@
   - clinical annotations
   - rare disease
   - tool development
+  orcid: 0000-0001-7941-2961
   submitted: 2023-01-04 01:06
   title: Medical Action Ontology (MAxO) development and tool implementation for the
     annotation of Rare Disease (RD)
@@ -1360,6 +1385,7 @@
   - literature triage
   - curatorial communities
   - community review
+  orcid: 0000-0002-5766-1702
   submitted: 2023-01-04 04:27
   title: Community SARS-CoV-2 Curation Driven Emergent Experiences - Increased Curation
     Efficiency and Learned Lessons for the Future
@@ -1394,6 +1420,7 @@
   - Species descriptions
   - Text-mining
   - Morphology ontology
+  orcid: 0000-0001-6194-4927
   submitted: 2023-01-04 20:45
   title: Curating species descriptions for the digital age
 - abstract: Early-stage incorporation of human genomic data into the assessment of
@@ -1446,6 +1473,7 @@
   - Phenotype-mapping
   - Genomics
   - UKBiobank
+  orcid: 0000-0003-0338-3070
   submitted: 2023-01-05 14:28
   title: Accessing UK Biobank-derived data through the AZ PheWAS portal, with reassigned
     phenotypic ICD10 codes

@@ -42,6 +42,7 @@
   - Human biological systems
   - GO annotation
   - Causal Activity Models
+  orcid: 0000-0001-7646-0052
   submitted: 2022-12-13 13:34
   title: Gene Ontology Causal Activity Models (GO-CAMs) for human biology
 - abstract: "The UniProt Knowledgebase (UniProtKB, at www.uniprot.org) is a reference\
@@ -88,6 +89,7 @@
   - ChEBI
   - 3D-structures
   - Cheminformatics
+  orcid: 0000-0001-8314-404X
   submitted: 2022-12-15 09:17
   title: Annotation of biologically relevant ligands in UniProtKB using ChEBI
 - abstract: "The Single Cell Expression Atlas knowledge base analyses curated, high\
@@ -146,6 +148,7 @@
   - EBI
   - scRNA-seq
   - Fly Cell Atlas
+  orcid: 0000-0003-4183-8865
   submitted: 2022-12-15 10:35
   title: Single Cell Expression Atlas and FlyBase - the Fly Cell Atlas Anatomograms
     – where data meets art
@@ -190,6 +193,7 @@
   - disease biocuration
   - ontology
   - knowledgebase
+  orcid: 0000-0001-8910-9851
   submitted: 2022-12-16 19:50
   title: A 20 year perspective on FAIR and TRUST-worthy Human Disease Knowledge Representation
 - abstract: 'Genomics England’s PanelApp (https://panelapp.genomicsengland.co.uk/)
@@ -252,6 +256,7 @@
   - Crowdsourcing
   - Diagnostic yield
   - Curation prioritisation approaches
+  orcid: 0000-0001-6470-622X
   submitted: 2022-12-19 12:05
   title: Leveraging crowdsourcing and curation prioritisation for maintenance of clinical
     gene panels
@@ -294,6 +299,7 @@
   - ontologies
   - intrinsically disordered proteins
   - DisProt
+  orcid: 0000-0001-8399-7907
   submitted: 2022-12-22 16:15
   title: Biocuration in DisProt, the manually curated database for intrinsically disordered
     proteins
@@ -331,6 +337,7 @@
   - FAIR
   - BioCuration
   - Publishing
+  orcid: 0000-0002-1335-0881
   submitted: 2022-12-30 09:30
   title: 'GigaDB: Utilising ontologies to curate data publications'
 - abstract: "When the International Society for Biocuration (ISB) was established\
@@ -381,6 +388,7 @@
   - ISB
   - Biocuration awards
   - Supporting biocurators
+  orcid: 0000-0002-9791-0064
   submitted: 2023-01-03 09:34
   title: Join the International Society for Biocuration Community
 - abstract: 'Host-pathogen interaction maps offer the scaffold to understand the biological
@@ -452,6 +460,7 @@
   - virus
   - protein-protein interaction
   - binding domains
+  orcid: 0000-0003-2534-198X
   submitted: 2023-01-03 10:18
   title: 'Human-pathogen interaction networks: IMEx’s approach on the contextual metadata
     of the experimental evidence'
@@ -494,6 +503,7 @@
   - antimicrobial resistance
   - database
   - CARD
+  orcid: 0000-0002-5129-4673
   submitted: 2023-01-03 13:01
   title: The Comprehensive Antibiotic Resistance Database - Curating the Global Resistome
 - abstract: 'Many model organism databases, pathway databases, ontologies, and other
@@ -547,6 +557,7 @@
   - sustainability
   - governance
   - reusability
+  orcid: 0000-0003-4423-4370
   submitted: 2023-01-03 16:25
   title: Promoting the longevity of curated scientific resources through open code,
     open data, and public infrastructure
@@ -608,6 +619,7 @@
   - Knowledgebase
   - Machine learning
   - Protein kinase activity
+  orcid: 0000-0002-1706-4196
   submitted: 2023-01-03 20:58
   title: 'ACKnowledge: expanding community curation to include fact extraction using
     artificial intelligence'
@@ -657,6 +669,7 @@
   - FAIR data
   - data integration
   - drug vs target interactions
+  orcid: 0000-0001-5705-7831
   submitted: 2023-01-03 21:27
   title: 'KG-IDG: A FAIR Knowledge Graph for Illuminating the Druggable Genome'
 - abstract: "The use of common biomedical ontologies to annotate data improves data\
@@ -717,6 +730,7 @@
   - Neo4J
   - Atlas
   - Autosuggest
+  orcid: 0000-0002-7073-9172
   submitted: 2023-01-04 22:15
   title: The Knowledge Graph Development Kit
 - abstract: "High-quality manual curation - the process of reviewing and annotating\
@@ -748,5 +762,6 @@
   - manual curation
   - ontology
   - named entity recognition
+  orcid: 0000-0001-8865-4321
   submitted: 2023-01-06 13:02
   title: Machine Learning for Scalable Biocuration
