@@ -150,6 +150,12 @@ part of the Biocuration Virtual Issue 2023 in [*Database*](https://academic.oup.
 {% endfor %}
 </dl>
 
+## Conference Photo
+
+<img src="img/attendees.jpg" alt="A photo of the attendees" />
+
+Photo credit to Sue Bello.
+
 ## Contact Us
 
 - Email: <a href="mailto:biocuration2023@gmail.com">biocuration2023@gmail.com</a>
